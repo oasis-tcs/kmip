@@ -10,6 +10,9 @@
 <h3>Description</h3>
 
 <p>The purpose of this repository is to support development and maintenance of Key Management Interoperability Protocol (KMIP) TC work products, consisting of: (a) Test Cases and (b) Profile Test Cases.</p>
+
+<p>Members of the OASIS KMIP TC are working to define a single, comprehensive protocol for communication between encryption systems and a broad range of new and legacy enterprise applications, including email, databases, and storage devices. By removing redundant, incompatible key management processes, <a href="http://docs.oasis-open.org/kmip/spec/v1.4/">KMIP</a> provides better data security while at the same time reducing expenditures on multiple products.</p>
+
 </div>
 
 <div>
