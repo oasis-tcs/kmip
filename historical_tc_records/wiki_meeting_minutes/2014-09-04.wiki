@@ -1,0 +1,44 @@
+## page was copied from MeetingMinutes/August212014
+## page was copied from MeetingMinutes/August072014
+## page was copied from MeetingMinutes/July312014
+= Meeting Minutes September 04, 2014 =
+ * Meeting commenced 1:00PM US-PDT
+=== Roll call ===
+ * Saikat performed roll call, we have quorum. This will be an official meeting.
+
+=== Agenda ===
+ * Key Shredding proposal (Judy)
+ * Status of KMIP 1.2 (Saikat)
+ * Status of Interoperability (Tony)
+
+
+=== Approve meeting agenda ===
+ * Tim moved, Mark seconded. No objections or abstentions or discussions. Agenda approved
+
+=== Approve previous meeting minutes for August 21st ===
+ * Tim moved, Gerald seconded. No objections or discussions. Minutes approved
+
+=== Key Shredding 1.3 proposal Status (Judy) ===
+ * Judy updated with current status of key shredding proposal
+ * Two outstanding issues: One relates to the Media Sanitization NIST SP800-18, other relates to the inclusion of all terminologies. Media Sanitization process currently cleans up entire disk whereas what we need is to be able to sanitize individual key material. Terminology consolidation can be done fairly easily.
+ * Action Item:   Judy and Tim to work on the query enhancement proposal along with key shredding proposal, client and server both need to be aware of the key shredding capability
+
+=== KMIP 1.2 status (Saikat) ===
+ * Saikat followed up with Chet earlier this week, Chet is planning to complete the Public review process for the 13 documents this week.
+ * Saikat will follow up again on Friday with Chet.
+
+
+=== KMIP 1.3 Interoperability Plug-fest status (Tony) ===
+ * Interoperability will be pushed out to October
+ * No new status to report
+
+
+=== Subhash calls for additional items to discuss ===
+ * No additional items
+
+=== Call for members dialing in after rollcall ===
+ * David Featherstone
+
+  
+=== Motion to Adjourn ===
+ * Tim moved, Chuck seconded. No objections or abstentions or discussions. Adjourned 1:19PM US-PDT.

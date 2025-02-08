@@ -1,0 +1,61 @@
+= Meeting Minutes March 09, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (February 23, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * Interop
+   * Ephemeral Handling
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from February 9, 2023'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the February 9, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S is working on updates to the KMIP 3.0 Spec.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is working on updates to the KMIP 3.0 Profiles/Test Cases.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy is working on updates the KMIP 3.0 usage guide and is waiting for updates coming from specification and test cases.
+
+=== Interop ===
+ * Cryptsoft, IBM, NetApp and P6R have expressed interest in participating. 
+ * September 2023 is being looked at as a target date. 
+ * Co-Chairs - send out update on short form interop notice
+
+== New Business ==
+ * Discussion on Ephemeral Question released by Tim to the TC Document repository - [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/70847/ephemeral-question.pdf|ephemeral-question]]
+   * This suggested change will have the effect of suppressing the return of data 
+   * Update requested to correct Unique identifier in example response as it was inside the response payload.
+   * Tim H to come back with a proposal with Spec update and test cases showing the context.
+ 
+== Next Meeting ==
+ * Suggested that next meeting on 23 March was too soon, yet April 6th was likely to be impacted by Easter.
+ * Next TC Meeting: March 30, 2023
+ * Cancel Meetings on 23-March and 6-April
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:30 US-EST ==

@@ -1,0 +1,76 @@
+= Meeting Minutes March 11, 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (February 25, 2021)
+ * KMIP V3.0
+  * PKCS#11 Profile review
+  * KMIP wiki review
+ * KMIP Summit
+ * KMIP TC Meeting time review
+ * Daylight savings changes
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from February 25, 2021'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the February 25, 2021 meeting approved.
+
+== KMIP 3.0 ==
+=== PKCS#11 Profile Review ===
+ * Tim H walked through the PKCS#11 Profile that he had posted to the OASIS site last week (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=68324)
+ * Profile improves human readability of the PKCS#11 profile for testing.
+ * No questions raised on the profile deltas
+ * Tony C spoke with TCAdmin (Chet E.) regarding the approach that was taken in this Profile to include the yet to be finalized PKCS#11 Profiles 3.1 as a normative reference.  Chet indicated that approach was fine with two caveats:
+  * If the link to the referenced document changes on publication then the KMIP TC may need to issue an errata for this profile document.
+  * There could be issues running conformance testing against an unfinalized reference.
+ * These caveats were considered low risk given progression of PKCS#11 standardization effort and that this profile is an alternative representative.
+
+'''Motion to approve the PKCS#11 deltas in the KMIP 3.0 Profiles document'''
+
+ * Tim C moves, Tim H seconds.  No objections, abstentions, or comments. PKCS#11 Profile updates approved.
+
+=== Wiki Review ===
+ * Only the Locate Predicates proposal remains open on the KMIP 3.0 list (https://wiki.oasis-open.org/kmip/3.0)
+  * Tim H has been working with Anthony B and there are some future considerations that need to be worked through for this proposal. Tim H had no concerns with moving this proposal to KMIP 3.1
+  * No objectives to move Locate Predicates to KMIP 3.1 were raised.
+  * Tony C will make the change on the wiki
+
+ * Next step is for the TC to review all the KMIP 3.0 proposals and identify which require test cases, usage guide content, etc.
+  * TC will conduct this review at our next meeting.
+  * Proposal owners are encouraged review and update the wiki prior to the next meeting.
+
+== KMIP Summit ==
+ * Agenda topics and estimated timeslot should be sent to Tony C and Judy F.
+
+== KMIP TC Meeting Time Review ==
+ * Continuing topic on how to accommodate the TC members in India
+ * Tony C spoke with TC Admin (Chet E) regarding recording TC meetings.  OASIS permits recordings of sessions as long as it is announced that the meeting will be recorded.  Recordings are not a replacement for TC meeting notes.  OASIS also recommends that recordings only be available for a limited time.
+ * Based on this information, Tony C asked if anyone had objections with moving forward with recording the TC and no objections were raised.
+ * Duration for retaining recordings was discussed with the consensus of a month/4 weeks be used
+ * TC Chairs will sent out a notice to the reflector announcing this plan to record future sessions, how long recordings will be available and reminding all TC members to check with their companies to makes sure they are not recording restrictions.
+
+== Daylight Saving Changes ==
+ * US springs forward this weekend (March 14) and Europe in two weeks (March 28).  In some time zones the meeting will now occur an hour earlier.
+ * Tony C will adjust his Zoom meeting invite.
+
+== Next Meeting ==
+ * Next TC Meeting: March 25, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Justin C (Cryptsoft), Ed C (Utimaco)
+
+== Motion to Adjourn ==
+ * Tim H moves, and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:22 US-EST ==

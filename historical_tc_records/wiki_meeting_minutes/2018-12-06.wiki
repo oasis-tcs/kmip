@@ -1,0 +1,74 @@
+= Meeting Minutes 6 December 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (November 29, 2018)
+ * Interop for RSA 2019
+ * OASIS Call for 2019 events
+ * KMIP 2.0
+  * WD06 (Tony C)
+  * Profiles (Tim H)
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action Items Discussion
+ * List comment from Conrado Gouvêa
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Justin C moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from November 29, 2018'''
+
+ * Jerry S moves, Greg S seconds, No objections, abstentions, or comments. Minutes for the November 29, 2018 meeting approved.
+
+== Interop for RSA 2019 ==
+ * One interop participant has had to drop out so presently there are six (6) participants in the booth.  OASIS does believe that the reduced number of participants may have some material impact on the booth.  Jane H has sent another [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201812/msg00007.html|email]] to the reflector soliciting participants. Tony C asks the TC to reach out to other vendors who may not regularly attend the TC to see if they would be willing to participate in the interop event.
+
+ * Tony C posted the updated [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201812/msg00004.html|OASIS KMIP TC Interop Policy]] to the reflector earlier today.  Per last week's discussion, the updates were limited to identifying companies that were participating in this year's interop activity and dates for the interop events.  Tony C asked the TC, particularly those who are participating in the interop event to review the updated policy and proposed interop event schedule and provide feedback on the reflect and/or at next week's meeting.  The TC will revisit the policy updates at next week's meeting and vote on the policy.
+
+ * Tony C also noted that the TC will be arranging a F2F meeting in Bay Area prior to the RSA Conference.  Thales has offered to host us again in their San Jose, CA offices.  We will follow-up  at a future meeting to finalize on the dates (week prior to RSA Conference) that the F2F meeting will be held.
+
+ * Tony C sent proposals out for the [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201812/msg00003.html|booth layout]] to the reflector.  The proposals focused on booth layouts that worked well in the past. Several TC members have provided feedback on the proposals to the reflector.  Tony C asked the TC if there were any additional comments on the booth layout.  No additional comments were provided.
+
+ * Tony C also called the TC's attention to the last page of the booth layout packet which has a banner for the booth.  Tony C noted that he would like to changes to make sure that KMIP is clearly featured since we are the only TC in the booth this year.  Driving OASIS membership is also an objective of the booth.  Tony C asked for folks to review and provide comments to the list or at next week's call regarding the booth's branding.
+
+== OASIS Call for 2019 Events (Tony C) ==
+ * Tony C asked if anyone on the TC had other KMIP relevant events of which the OASIS folks should be aware.  No one raised any events.
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Spec WD06 (Tony C) ===
+ * Tony C and Chuck W are still working on WD7 of the KMIP 2.0 Spec.  Slower going than expected.  Targeting next week to post WD07
+
+=== KMIP v2.0 Profiles & Test Cases  (Tim H) ===
+ * No update since Tim H was not on the call
+
+=== KMIP v2.0 Usage Guide (Judy F) ===
+ * Judy F is still awaiting Usage Guide content for a number of the new KMIP 2.0 profiles.  Tony C made a request that all folks who submitted proposals check the [[https://wiki.oasis-open.org/kmip/2.0|KMIP TC Wiki]] to see if they need to supply UG content to Judy F.
+
+== List comment from Conrado Gouvêa ==
+ * Conrado did provide a [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201812/msg00002.html|response]] to the list overnight.  Neither co-chair has had a chance to review the response and reply to it.  We'll revisit this at next week's call.
+
+== New Business ==
+ * Bruce R noted that OASIS is trying to lockdown budget (within the next two weeks) for next year and asked if the TC would like to have a joint dinner with the PKCS11 during the F2F.  The TC agreed that we should do this joint dinner again.  Tony C will raise this on the PKCS11 TC call next to get that TC's opinion.  Tony C confirmed with Bruce R that this request would be against the ID Trust budget.
+
+== Next Meeting ==
+ * Next Meeting: 13 December 2018
+ * TC also discussed the schedule for TC meetings over the holidays.
+  * TC plans to hold the meeting on 20 December 2018
+  * The meeting on 27 December 2018 will be canceled
+  * The meeting on 3 January 2018 will be kept on the calendar for now but we may revisit canceling this meeting.
+
+== Call for Additional Attendees (Tony C) ==
+ * Indra F (Utimaco)
+
+== Motion to Adjourn ==
+ * Bruce R moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:20 US-EST ==

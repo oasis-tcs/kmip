@@ -1,0 +1,76 @@
+= Meeting Minutes 11 January 2018 =
+== Meeting commenced 2PM US-PST ==
+ * Roll call (Judy F)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (December 14, 2017)
+ * Interop Status
+ * KMIP 2.0
+  * New KMIP 2.0 Specification WD available (Tony C)
+  * Wrapping Operations Proposal (Bob L)
+  * Key Value for Wrapped Objects Query  (Tim H)
+  * Usage Masks Discussion (Nitin J/Tim H)
+  * Review KMIP v2.0 wiki (https://wiki.oasis-open.org/kmip/2.0) (Tony C.)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Justin C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve December 14, 2017 meeting minutes =====
+ * [[MeetingMinutes/14Dec2017|December 14, 2017]]
+ * Tim C moves, Bruce R seconds. No objections, abstentions, or comments. Minutes approved
+
+== Interop Status ==
+ * Per TC resolution in early 2017, we are still planning to run the RSA 2018 interop.
+ * Interop preparation for RSA 2018 is over 2 months behind where we would normally be. Scope will be massaged to fit timeframes and still deliver the value that the KMIP TC and participants expect.
+ * Tony noted that some feedback from members had been provided and incorporated into the TC letter to the OASIS board.
+ * Tony read the letter
+ * John stated his concerns regarding the letter and the KMIP TC Interop process
+ * Chuck responded to John's concerns
+ * John restated his critical points prior to departing the call (pre-arranged meeting) - He apologised for leaving early.
+ * Tim restated and then responded to John's remaining points
+ * Chris H questioned whether the TC resolution is understood as clearly as it stated.
+ * Further discussion followed including input from Matt O & Chuck W (Fornetix), Mark J (P6R), Chris H (HPE), Steve W (MicroFocus), Sue G (Oracle), Judy F (Dell) and Tim H & Tony C (Cryptsoft)
+ * Chris H and Sue G thanked the members contributing to the conversation for the further details provided, that assist members not directly involved in the interop to understand the background
+ * No disagreement that the TC has approved the interop process multiple times in previous years and that the process has always has a set of required prerequisites in order to participate.
+
+===== Motion to approve the letter as drafted by Tony Cox & Judy Furlong, as read out in the KMIP TC meeting by Tony Cox, to be sent by the KMIP TC co-chairs to the OASIS Board indicating a concern with the conflict between the KMIP TC Standing Rules and Interop Process and the OASIS Interop Policy. =====
+ * Chuck W moves, Greg S seconds. No objections, abstentions, or comments. Motion approved
+
+== KMIP 2.0 ==
+=== New KMIP 2.0 Specification WD ===
+ * Deferred
+
+=== Wrapping Operations Proposal ===
+ * Deferred
+
+=== Key Value for Wrapped Objects Query ===
+ * Judy F stated the item was likely closed with the new tests sent out by Tim H
+ * Tim H agrees
+ * Item closed
+
+=== Usage Masks Discussion ===
+ * Deferred
+
+=== Review KMIP v2.0 wiki ===
+ * Deferred
+
+== New Business ==
+ * Tony & Chuck thanks Mark J, Tim H and Anthony B for the errors identified in the KMIP 2.0 spec so far.
+
+=== Next Meeting ===
+ * January 18, 2018
+
+== Call for late arrivals (Judy F) ==
+ * 2 members
+
+===== Motion to Adjourn =====
+ * Tim H moves, Jeff B seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 15:07 US-PST ==

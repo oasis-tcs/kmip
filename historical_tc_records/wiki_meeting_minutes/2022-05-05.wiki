@@ -1,0 +1,38 @@
+= Meeting Minutes May 5 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Judy)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from April 7, 2022'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the April 7, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+ * Tim H continues to work on the test cases. 
+ * Tim H will have updates to usage guide as he works through the test cases.
+ * Tim C has no new updates on the usage guide.
+
+== New Business ==
+ * There are currently no plans for a KMIP orientated presentation at ICMC in September. 
+
+== Next Meeting ==
+
+'''Motion to skip the next meeting and have the next KMIP meeting on June 2''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Motion approved.
+
+ * Next TC Meeting: June 2, 2022
+
+== Call for Additional Attendees (Greg) ==
+ * Deepak
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:10 US-EST ==

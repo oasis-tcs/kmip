@@ -1,0 +1,65 @@
+= Meeting Minutes June 18, 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (June 04, 2020)
+ * KMIP Interop - RSA 2021
+ * KMIP v2.1
+   * SoUs
+ * KMIP v3.0
+   * Status update (wiki review)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Jerry S seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from June 4, 2020'''
+
+ * Tim C moves, Greg G seconds. No objections, abstentions, or comments. Minutes for the June 4, 2020 meeting approved.
+
+== KMIP Interop - RSA 2021 ==
+ * June 30, 2020 is the deadline for participation in the OASIS Booth - KMIP Interop at RSAC 2021
+ * Presently 4 of the 8 slots are filled.  OASIS needs 7 slots filled in order to go foward.
+ * Any TC member company interested in participating should contact either Jane Harnad or Tony C.
+
+== KMIP 2.1 ==
+
+=== SoUs  ===
+ * Two SoUs (Cryptsoft, Utimaco) have been submitted for KMIP 2.1.  
+ * At least one more SoU needed in order to progress the KMIP 2.1 Spec and Profiles on the OASIS standards track.
+ * The TC standing rules require that companies submitting SoUs must have participated in the KMIP TC Interop event.
+
+== KMIP 3.0 ==
+
+=== Status Update ===
+
+ * Tony C conducted a verbal review of the 3.0 proposals on the wiki (https://wiki.oasis-open.org/kmip/3.0).
+ * Tim H had three items due this week which he asked to be pushed out by at least a week.
+ * There are a number of proposals due around June 25th and June 30th.  Tony C asked that anyone with proposals review the due dates and adjust as necessary.  Feel free to update the wiki directly or conctact Tony C or Judy F to make the updates.
+ 
+=== KMIP 3.0 Spec ===
+
+ * Tony C has completed WD2 of the KMIP 3.0 Spec.  The draft is presently with Chuck W who is reviewing the changes.  Tony C or Chuck W will post the WD to the reflector in the next day or so.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: June 25, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Greg S moved and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:09 US-EST ==

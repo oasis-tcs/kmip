@@ -1,0 +1,128 @@
+'''Meeting Minutes Face-to-Face February 9, 2017'''
+
+Meeting commenced 9:00AM PST
+
+Roll call Tony Cox (Tony C)
+Quorum achieved
+
+'''Proposed Agenda'''
+•	KMIP 1.4 Status
+•	XTS Discussion
+•	Fixed-length identifiers
+•	KMIP Clean-up (Major Standard clean-up)
+•	Misc Improvements
+•	CSRs
+•	RSA2018 Interop Booth & Request
+•	Locate
+•	Server Configuration Query
+•	Scalability
+•	Destroy
+•	Standardized common vendor extensions
+•	KMIP & PKCS11 review
+•	Action Item review and Adjourn
+
+__Motion to approve Agenda__
+•	Tim H Moves, Tim C Seconds, No objections, No abstentions, Agenda approved
+
+__Motion to approve January 26th Meeting Minutes__
+•	Bruce R Moves, Gerry S Seconds, No objections, No abstentions, Minutes approved
+
+'''XTS Discussion'''
+•	Presented by Judy F & Tim H
+__Motion that Tim H & Judy F Prepare an AES XTS profile to include in the profiles 1.4 document with associated usage guide changes.__
+•	Mark S Moves, Judy F Seconds, No objections, No abstentions, Motion approved
+
+'''Fixed Length Identifiers'''
+•	Presented by Anthony Berglas
+o	Discussion of mandatory vs suggested use of SHA256 - discussion around collisions when migrating keys between systems.
+o	John - We should not need to mandate a method - implementers need to be free to use their existing implementations - it should be a "Should"
+o	Tim - Given the interop issues we've found in every area in the spec where things have been left flexible - we should absolutely be mandating this and given the impact of a clash - there is no good reason not to lock this down.
+__Motion that proposed specification changes to go into KMIP 2.0__
+•	Tim H Moves, Gerry S Seconds, No objections, No abstentions, Motion approved
+•	Action Item: Tony C to amend v2.0 specification text.
+
+'''KMIP Clean-up'''
+•	Presented by Bruce Rich
+o	Question by John L – Deprecation of items, for example Templates, is there a process for replacing these. Should we be replacing things if there is not an alternative?
+o	Tim H – There have been no replacement proposals for these items over the past 3-6 years and if no one is willing to bring forward a proposal that challenges the real value of what has been clearly marked as deprecated with a recommendation to not use for a long time.
+o	Judy – Question re updates to the usage guide for these items that have no migration path – Tim H, Judy F & Bruce R discussed – point that needs to be considered. There is already various notes on these in the usage guide but more wouldn’t hurt.
+o	Questions re Firewall-friendly TTLV – Mandatory – many organisations have mandatory HTTPS aware firewalls in place and therefore HTTPS encapsulation should be mandatory; TLS1.0 TLS1.3 recommended, customers are lagging, standard is still 6 to 12 months away at a minimum. – John L, Jim S, Bruce R, Tim H, Steve W, Tony C
+o	Action Item: TLS Tim H to apply suggested changes to profiles document and circulate for review
+o	Action Item: Tim H to draft a profile for client provisioning and circulate for review.
+__Motion: Proposed specification changes to go into KMIP 2.0__
+•	Tim H Moves, Mark J Seconds, No objections, No abstentions, Motion approved
+
+'''Misc Improvements'''
+•	Presented by Tim Hudson
+o	Custom attributes: Remove unnecessary sub-structures restriction of custom attributes S3.39 and the Custom Attribute tag itself.
+o	Key wrapping attributes: Add additional enumeration to the link type enumeration representing the wrapping key relationship. (Wrapping Key and Wrapped Key)
+o	Client log message: Concern raised around attack vectors for servers ability to manage requests from clients – may be malicious – Judy F would like to see the usage guide changes for this especially the boundaries around this – General proposal on client addition to server logs required for this item.
+o	Spooky Attributes: Action: Tony C. to modify section, change to SHALL NOT except where specifically noted otherwise
+o	Batch Order Option: Action Item - Tony C to amend default from "False" to "True" in sections 6.12 text, and 7.2 table text.
+o	Base Server Profile: Motion: To Add Create, Register, Export, Import options to base server profile. Mark J Moves, Tim C Seconds, no objections, no abstentions, Motion approved. Action Item: Tim to draft updated Base Server Profile
+o	Opaque Object Type: Motion: To make opaque type and attribute of opaque object. Tim H Moves, Mark J Seconds, no objections, no abstentions, Motion approved. Action Item:  Tony C to amend specification text.
+o	Unauthenticated Operations: Motion: Mandate authentication for Query and Discover versions operations. John L Moves, Tim H Seconds, no objections, no abstentions, Motion approved. Action - Tony C to amend specification text.
+o	Date Time: Motion: Add New Date Time type with 1 microsecond, signed values. Jim S Moves, Tim H Seconds, no objections, no abstentions, Motion approved. Action - Tony C to amend v2.0 specification text.
+o	Mechanisms: We are missing some algorithms noted in PKCS#11 that are in use.  Action Item: Mark J to collect list of algorithms – please forward along with references.
+o	Tidy Tags: Motion: Rename Template Attribute to Attributes. Tim H Moves, Tim C Seconds, no objections, no abstentions, Motion approved. Action - Tony C to amend specification text.
+•	Multiple actions and motions noted above.
+
+'''Certificate Signing Requests'''
+•	Presented by Gerry Stueve
+•	Described Certify Extension options
+__Motion: insert CSR as a managed object, and make it useable via the certify operation. __
+•	Tim H Moves,  Jim S Seconds, no objections, no abstentions, Motion approved
+•	Action: Gerry to Produce a specification update proposal
+
+'''RSA2018 Interop Booth & Request'''
+•	Presented by Tony Cox
+•	Discussion on the difference between Interop Showcase and Interop Demonstration.
+__Motion: That KMIP TC request OASIS to provide a booth for an Interoperability demonstration at RSA Conference 2018<<BR>>Motion: That KMIP TC nominate Tony Cox as interop lead for the RSA2018 Interop __
+•	Tim H Moves, Mark J Seconds, No objections, No abstentions, Motion approved
+•	Comment: John L that the scope of the Interoperability demonstration be discussed as early as possible.
+
+'''Locate'''
+•	Presented by Gary Gardner
+•	Order not specified. Recommends most-recent-first (descending Creation Date)
+•	Behaviour on destroyed objects not specified. Recommends making this explicit.
+__Motion: That result order from Locate to be order by descending Creation Date;__
+•	Tim H Moves, Gerry S Seconds, No objections, No abstentions, Motion approved
+•	Action Item: Tony C to amend v2.0 specification text to amend Locate result order return.
+__Motion: Add destroyed Storage to the StorageStatusMask and change Locate operation to not return Destroyed objects.__
+•	Gerry S Moves, Tim C Seconds, No objections, No abstentions, Motion approved
+•	Action Item: Tony C to amend v2.0 specification text to add destroyed Storage to the StorageStatusMask and change Locate operation to not return Destroyed objects.
+
+'''Server Configuration Query'''
+•	Presented by Tim Chevalier
+•	For example details about the server, clustered, rollover, failover, etc
+•	Action Item: Tim C, Jeff B & Tim H to research and bring forward a proposal.
+
+'''Scalability Improvements'''
+•	Presented by Anthony Berglas
+__Motion: To remove Attribute Index and add AttributePreviousValue in version 2.0 of the specification.__
+•	Mark J Moves, Gerry S Seconds, No objections, No abstentions, Motion approved
+•	Action: Anthony to further research.
+•	Action Item: Tony C to amend v2.0 specification text to remove Attribute Index and add AttributePreviousValue
+
+'''Destroy'''
+•	Presented by Tim Hudson
+__Motion: Destroy operation shall remove the key material, leaving the metadata (all attributes) in place in version 2.0 of the specification.__
+•	Jim S Moves, John L Seconds, No objections, No abstentions, Motion approved
+•	Action: Tim H document proposed specification changes.
+
+'''Standardized common vendor extensions'''
+•	Presented by Bruce Rich
+__Motion: Augment server information fields to add Server information fields Presented at Face to Face slides to 2.0 specification__
+•	Mark J Moves, Tim C Seconds, No objections, No abstentions
+•	Action: Bruce Rich to provide server extension example at a future TC meeting.
+
+'''KMIP & PKCS11 review'''
+•	Presented by Tim Hudson
+__Motion: To add 4 new attributes/tags to reference PKCS#11 with the individual enumerations handled by the PKCS#11 Technical committee.__
+•	Mark J Moves, Tim C Seconds, No objections, No abstentions, Motion approved
+•	Action: Tim H to draw up a technical draft and share this with both committees.
+
+'''Adjourn'''
+__Motion to Adjourn__
+•	Tim H Moved, Tim C Seconds, No objections, No abstentions, Motion approved
+•	Meeting adjourned at 3:58 PM

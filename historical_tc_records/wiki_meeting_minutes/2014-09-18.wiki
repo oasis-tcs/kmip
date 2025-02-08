@@ -1,0 +1,54 @@
+= Meeting Minutes September 18, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Bob Lockhart (Bob L.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * One Time Pad Proposal (Jerry Stueve)
+ * KMIP 1.3 Status (Bob L., Judy F.)
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) moves to approve the agenda
+ * Kiran Thota (Kiran) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+ 
+== One Time Pad (OTP) Proposal (Jerry Stueve) ==
+ * [[Link Name:https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/54130/KMIP-One%20Time%20Pad.pdf]]
+ * Can you get the OTP value? - John L.
+ * In our particular case no - a Get would be denied but other options are valid so should not be precluded. - Jerry
+ * Are there life cycle considerations - Mark Joseph (Mark J.)
+ * Perhaps a profile to resolve issue of interoperability given the required flexibility - Judy F.
+ * Does the OTP Apply to streaming? - John L.
+ * It could be - streaming or non-streaming - either works - that isn't an OTP-specific question - Tim H.
+ * Isn't the algorithm just XOR? John L.
+ * It might be or it might not be - there isn't a fixed requirement that this has to be an XOR - the particular algorithm can vary. - Jerry S.
+ * That makes sense to not call it XOR then (various)
+ * A profile showing one usage perhaps where it is XOR so interoperability for one context could be tested between vendors would be useful. We need something to test. - Mark J.
+ * Subhash polls for three companies to support
+  * Companies willing to support
+   1. Cryptsoft (Tim H.)
+   1. P6R (Mark J.)
+   1. Thales (Bob L.)
+   1. Semper Fortis (Jerry S.)
+ * General TC acceptance - add the enumeration to KMIP 1.3
+ * Jerry & Tim separately to create a proposed interoperability profile showing one usage even if that usage isn't a direct match for Jerry's context so testing can be done.
+ 
+== KMIP 1.3 Status (Bob L., Judy F.) ==
+ * Bob L. to upload TR31 Key Types specification update at first opportunity
+ * Bob L. to create proposal for PKCS#12 key format type as previously discussed or it won't make it into version 1.3
+ * Judy has uploaded changes for key shredding terminology which needs updated in specification
+ * No separate vote required - will pick this up in the vote once the specification changes from all the proposals have been folded in by Kiran and Tony
+
+ == Call for late arrivals - Subhash/Bob L. ==
+ * No new attendees
+ 
+== Motion to Adjourned ==
+ * Tim H. moves to adjourn
+ * Steve Edwards seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:45PM GMT =

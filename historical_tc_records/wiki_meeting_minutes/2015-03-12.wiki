@@ -1,0 +1,79 @@
+= Meeting Minutes March 12, 2015 =
+== Meeting commenced 9:01PM GMT ==
+ * Roll call by Tony Cox
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Motion to approve Agenda
+ *  Motion to approve March 5th, 2015 Meeting Minutes
+ * Review KMIP v1.2 COS status 
+ * Review KMIP v1.3 documents status updates
+  * Spec (Tony)
+  * Profiles (Tim H/BobL)
+  * Test Cases (Tim H/Mark J)
+  * Usage Guide (Judy F)
+ * Face to face logistics
+ * Face to face planning
+ * RSA Interop update
+ * New business
+ * Motion to adjourn
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Joe Brand seconds 
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve March 5, 2015 meeting minutes ===
+ * Tim C Moves
+ * Tim H Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== KMIP v1.2 CoS Status ==
+ * No comments up to this point
+ 
+== KMIP 1.3 Status ==
+ * Specification status unchanged
+ * Profiles - see Tim's presentation; much discussion on the approaches
+ * Test Cases status unchanged
+ * Usage Guide - Judy working through it - no new comments - processing current ones
+
+=== Motion to accept recommended approach for profiles for KMIP 1.3 ===
+ * Bob L Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== Face to Face (F2F) Logistics ==
+ * Tony will put up a straw poll so we have numbers for Richard 
+ * Tony Propose we run the two days as two separate meetings; no objections - will move forward with that plan.
+
+== Face to Face (F2F) Planning ==
+ * Looking at the items at [[1.4]]
+ * Walked through each item - wiki updated in-place to note each F2F presentation commitment and suggested time slot - some topics may be combined
+ * Two items allocated to Saikat not discussed - Tony will check status with Saikat and update wiki
+ * Decision made to drop those items from the agenda with no Owner (we have a full agenda)
+
+== RSA Interop ==
+ * Tony had 2nd meeting today - formal interop will happen week of 23 March - progressing to have results before the f2f
+
+== New Business ==
+ * No new business
+ 
+== Call for late arrivals ==
+ * Jim & Joshua
+
+== Motion to Adjourned ==
+ * Tim H Moves
+ * Bruce R seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+==== Meeting Adjourned at 9:42PM GMT ====

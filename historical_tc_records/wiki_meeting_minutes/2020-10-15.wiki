@@ -1,0 +1,57 @@
+= Meeting Minutes October 15, 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (October 1, 2020)
+ * KMIP v2.1
+   * Status
+ * KMIP v3.0
+   * Status update (wiki review)
+ * NIST authentication requirements review
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Greg C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from October 1, 2020'''
+
+ * Greg C moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the October 1, 2020 meeting approved.
+
+== KMIP 2.1 ==
+
+ * KMIP 2.1 Spec and Profile continues its 60-day Candidate OASIS Specification public review with about a week and a half remaining.  The review period ends on October 26, 2020.
+ * No additional comments received beyond the one comment from TCAdmin regarding broken links in the KMIP Spec.
+
+== KMIP 3.0 ==
+
+ * Tony C has updated the wiki (https://wiki.oasis-open.org/kmip/3.0) to mark completed proposals.
+ * Tony C also adjusted the due dates of all outstanding 3.0 proposals to next week (October 22, 2020).  Proposal owners may adjust these dates on the wiki if they are unable to have the proposal ready for next week.
+ * Next step for all proposals (completed and in-progress) is to determine whether a profile and/or test cases should be created for the new KMIP functionality covered in each proposal and whether Usage Guide content should be provided.  Proposal owners may update the wiki to indicate the need for profiles, test cases and/or usage guide content.
+
+=== NIST Authentication Requirements Review ===
+
+ * Bruce R has review the recently released NIST Authentication requirements work that was raised at a previously call.  Bruce R felt that the work was still at a high level and not as far along as we need it to be in order to adopt it into KMIP 3.0.  
+ * TC agreed to continue to monitor this work and to revisit leveraging it within a subsequent KMIP release. 
+
+== New Business ==
+ * N/A
+
+== Next Meeting ==
+ * Next TC Meeting: October 22, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Chris H (HPE), Alka A. (IBM),  Ed C (Utimaco)
+
+== Motion to Adjourn ==
+ * Tim H moves, and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:12 US-EST ==

@@ -1,0 +1,54 @@
+= Meeting Minutes January 22, 2014 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Saikat Saha
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Approve January 15 Meeting Minutes
+ * KMIP v1.2 SoU motion
+ * KMIP 1.3 Status
+ * New business
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve January 15, 2014 meeting minutes ===
+ * Tim Chevalier Moves
+ * Tim Hudson Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== Motion to Approve Thales Statement of Use ==
+ * Motion to accept the Statement of Use for the OASIS Key Management Interoperability Protocol Specification v1.2 approved on January 15, 2014 provided by Thales e-Security per the following submission: Thales e-Security - https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/54913/SOU-Thales_e-Security_2015-01-16_Final.pdf
+ * Tim Hudson moves
+ * Kiran Kumar Thota seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== KMIP 1.3 Status (Tim Hudson & Judy Furlong) ==
+ * Mark Joseph uploaded draft Test Cases 1.3 updated document
+  1. [[Initial version of KMIP 1.3 test cases|https://www.oasis-open.org/committees/document.php?document_id=54955&wg_abbrev=kmip]]
+ * Profile document updates still being addressed
+ * Tim H. still owes Judy updates for 1.3 Usage Guide
+
+== New Business ==
+ * No new business
+ 
+== Call for late arrivals - Saikat Saha ==
+ * Two additional attendees
+
+== Motion to Adjourned ==
+ * Tim Hudson Moves
+ * Judy Furlong seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:12PM GMT =

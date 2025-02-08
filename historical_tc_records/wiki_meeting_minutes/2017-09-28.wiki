@@ -1,0 +1,47 @@
+= Meeting Minutes 28 September, 2017 =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (August 03, 2017)
+ * KMIP 1.4 update (Tony C.) 
+ * KMIP 2.0 update (Tony C.)
+ * Key Value for Wrapped Objects Query
+ * Next Meeting
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Jeff B seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve September 14, 2017 meeting minutes =====
+ * [[MeetingMinutes/14Sept2017|September 14, 2017]]
+ * Gerry S moves, Greg S seconds. No objections, abstentions, or comments. Minutes approved
+
+
+== KMIP 1.4 Update - Tony C ==
+ * Tony C reported updates to TC home page to reflect current status of of Usaage Guide and Test Cases as published Committee Notes.
+
+== KMIP 2.0 Update - Tony C ==
+ * Tony C Spec & Profiles remain out for public review 
+
+== Key Value for Wrapped Objects Query ==
+ * Tony C to forward email to Mark J & Tim H for review
+ * Mark J & Tim H to provide response to the TC for review.
+
+=== New Item ===
+ * N/A
+
+=== Next Meeting ===
+ * October 12, 2017
+
+== Call for late arrivals (Tony C) ==
+ * 0 members
+
+===== Motion to Adjourn =====
+ * Tim C moves, Joe B seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+== Meeting Adjourned at 2:12 US-PST ==

@@ -1,0 +1,74 @@
+= Meeting Minutes June 2, 2016 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes
+ * Administrator Attributes (Gerald Stueve)
+ * Profiles Update (Tim Hudson)
+ * Summer Face to Face (Tony Cox)
+ * KMIP 1.3 update (Tony Cox)
+ * KMIP 1.4 update (Tony Cox)
+ * PCI DSS 3.2 Specification Update (Kevin Driver)
+ * OASIS Board Election Notification (Tony Cox)
+ * Call for Additional Agenda Items
+ * Call for Additional Attendees
+ * Adjourn Meeting
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve May 12, 2016 meeting minutes ==
+ * Bruce Rich Moves
+ * Greg Scott Seconds
+ * No objections
+ * No abstentions
+ * Motion approved/not approved
+ 
+== Administrator Attributes (Gerald Stueve) ==
+ * Looking for input via TC email
+ 
+== Profiles Status (Tim Hudson) ==
+ * No update
+ 
+== Summer Face to Face (Tony Cox) ==
+ * September time frame
+ * SDC 19 to 22 September (West Coast)
+ * Looking for volunteer to host
+ * Statements of Use for 1.4 might be an objective output
+
+== KMIP 1.3 update (Tony Cox) ==
+ * Documents still out for public review due to close June 15th
+
+== KMIP 1.4 update (Tony Cox) ==
+ * Looking to wrap it up sooner than later
+ * Looking for 1.4 full reveiw during next weeks meeting
+ * A lot of questions about 2.0
+
+== PCI DSS 3.2 Specification Update (Kevin Driver) ==
+ * Everyone should review PCI DSS 3.2 for discussion on next call
+
+== OASIS Board Election Notification (Tony Cox) ==
+ * Vote open now for company primary voting members 
+ 
+== Callf for Additional Agenda Items ==
+ * None
+
+== Call for late arrivals - Tony C ==
+ * No new attendees
+ 
+== Motion to Adjourned ==
+ * Tim Chevalier Moves
+ * Bob Lockhart seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:19PM GMT =

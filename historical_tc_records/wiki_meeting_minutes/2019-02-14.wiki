@@ -1,0 +1,74 @@
+= Meeting Minutes 14 February 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (February 7, 2018 )
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Spec, Profiles & Test Cases (Tony C)
+  * Usage Guide (Judy F)
+ * List discussion from Alexis Abell
+ * Face to face TC meeting in Feb 2019 (Bay Area, CA)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from February 7, 2019'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Minutes for the February 7, 2019 meeting approved.
+
+== Interop for RSA 2019 ==
+ * Interop testing is complete.  Got good coverage across the new test cases
+ * Tony C is finalizing the results and hopes to have this completed and distributed to the participants for their review this week.
+ * The results will need to be presented to the TC and approved prior to the RSA Conference.  This may occur as soon as next week's TC meeting or at the F2F meeting the following week.
+
+== KMIP 2.0 ==
+=== Spec, Profiles & Test Cases (Tony C/Tim H) ===
+* Short discussion on whether the committee specifications (KMIP 2.0 spec and profile) and committee note (KMIP 2.0 test cases) have been published.  Judy F noted she will check the site and include the links in these notes.
+
+[Post Meeting:  Judy F checked the OASIS documentation site and cannot find any of the KMIP 2.0 documents.  Tony C and Judy F will follow-up with TC Admin regarding publication status and location.]
+
+=== KMIP v2.0 Usage Guide (Judy F) ===
+ * There are 17 proposals that still required UG text listed on the Wiki (https://wiki.oasis-open.org/kmip/2.0).
+ * No UG text submissions have been provided this week.
+ * Tony C noted that time will be sent at the F2F obtaining UG content.
+
+== List discussion from Alexis Abell (aka Opaque Objects Have State) ==
+ * Tony C and Tim H will address their actions (listed below) for this topic after the Interop activities conclude.
+  * Tony C will issue a KMIP 2.0 Spec delta which reflect the changes necessary to note that Opaque objects had State.  This same delta can form the basis of the KMIP 1.4 Errata if the TC decides to move forward with one.
+  * Tim H will develop KMIP 2.0 and KMIP 1.4 test cases that will be able to verify the statue of Opaque objects are properly set and transitioned.
+  * Tony C will work with Tim H to do a KMIP 2.0 Test Case document delta to reflect the new test cases.
+
+== Face to Face TC Meeting in Feb 2019 ==
+ * Straw poll for in-person/remote attendance for the F2F is open until February 22, 2019 (https://www.oasis-open.org/apps/org/workgroup/kmip/ballot.php?id=3303).  Ballot results to date have 16 people attending day one of the F2F and 14 people attending day two of the F2F.  Other people are planning to attend one or both days of the F2F remotely.  TC members who have not yet voted are encouraged to do so as soon as possible.
+ * Tony C will be providing the attendee information to Thales.
+ * Tony C also requested that any attendee with dietary restrictions please let me know so that information can also be provided to Thales for planning.
+ * Accommodations for remote attendees will also be made.
+
+ * The ballot (https://www.oasis-open.org/apps/org/workgroup/kmip/ballot.php?id=3296) for the joint KMIP/PKCS#11 TC dinner on Thursday February 27, 2019 closed today with 14 people indicating that that they are planning to attend.
+
+ * Tony C and Judy F are working on putting together the agenda for the F2F and will ensure that it is distributed prior to the meetings so those participating remotely will know when to dial-in.
+ * Tony C made the last call for any TC wishing to submit a F2F agenda topic.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: 21 February 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Joe B (Semper Fortis)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:09 US-EST ==

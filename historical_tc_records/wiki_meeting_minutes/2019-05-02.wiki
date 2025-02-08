@@ -1,0 +1,52 @@
+= Meeting Minutes 02 May 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (April 25, 2019)
+ * KMIP 2.0 Spec, Usage Guide, Profile, Test Case Documents
+ * KMIP 2.1
+ * KMIP v1.4 errata
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from April 25, 2019'''
+
+ * Tim H moves, Jerry S seconds, No objections, abstentions, or comments. Minutes for the April 25, 2019 meeting approved.
+
+== KMIP 2.0 Spec and Profiles ==
+ * TC Admin has published the KMIP 2.0 Spec and KMIP 2.0 Profiles documents for Public Review.
+ * Hopefully everyone received notification that the documents are out for public review that ends 25 May
+ * OASIS has posted publicly on the Website that KMIP 2.0 Spec and Profiles are available for public review.
+
+== KMIP 2.0 Test Cases and Usage Guide ==
+ * Committee Note Draft for Test Cases and Usage Guide
+ * Both documents should be available as Committee Note Drafts.
+
+== KMIP 2.1 ==
+ * Requests have gone out for KMIP 2.1
+ * TC Admin has a lot of work on their hands for KAVI, plus requests for KMIP and PKCS11
+
+== KMIP v1.4 Errata (Tony C) ==
+ * Tony has submitted the Errata, updates were minimal and are focused on Opaque Objects as discussed within TC. Changes made in 2.0 and noted in Errata for 1.4
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: 9 May 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * 1 member noted
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.

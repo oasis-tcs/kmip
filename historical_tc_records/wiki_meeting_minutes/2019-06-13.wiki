@@ -1,0 +1,55 @@
+= Meeting Minutes 13 June 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (May 30, 2019)
+ * KMIP 2.0
+  * Spec & Profiles Status (Tony C)
+ * KMIP v1.4 Errata (Tony C)
+ * KMIP 2.1
+  * Review proposals noted in wiki
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Bruce R moves, Jerry S seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from May 30, 2019'''
+
+ * Tim C moves, Jerry S seconds, No objections, abstentions, or comments. Minutes for the May 30, 2019 meeting approved.
+
+== KMIP 2.0 (Tony C) ==
+ * Ballot to move the KMIP 2.0 Specification and Profiles document to Committee Specifications was opened and has successfully closed with 17 of the 17 eligible voting members approving these documents as Committee Specifications.
+ * TC Admin is working to get these documents formally published which will allow them to be referenced in Statements of Use (SoUs)
+
+== KMIP 1.4 Errata (Tony C) ==
+ * The Errata is still in TCAdmin's queue.  They expect to get to this early next week.
+ * Tony C still needs to prepare and send the TC response to Alexis Abel.
+
+== KMIP 2.1 (Tony C) ==
+ * TC reviewed the proposal list for KMIP 2.1 on the OASIS KMIP TC Wiki (https://wiki.oasis-open.org/kmip/2.1) which was compiled during the February 2019 F2F to remind folks what proposals they had signed up to produce.
+ * Tony C is planning to put out a version of the Spec in the KMIP 2.1 template by next week.  This Spec version can be used by the proposal leads to create Spec deltas.
+ * Tony C ask for each proposal lead to provide a date for when they can provide the proposal to the TC for review by next week.  Proposal leads can modify the wiki with the due dates, provide the dates to either Tony C or Judy F to add to the wiki, or can provide the dates at the next meeting.
+
+== New Business ==
+ * There are a few outstanding emails on the reflector that need to be addressed.
+  * Tony C is working on a response to the email from John Major and John indicated he was fine with getting this by next week.
+  * Chuck W and Tony C will prepare a response to the email asking about why TTLV encodings are no longer included in the Test Cases and review this response with the TC at next week's call
+
+== Next Meeting ==
+ * Next TC Meeting:  20 June 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry S (Fornetix) , Kyle W (KeyNexus)
+
+== Motion to Adjourn ==
+ * Tim C moves, Jeff B seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:14 US-EST ==

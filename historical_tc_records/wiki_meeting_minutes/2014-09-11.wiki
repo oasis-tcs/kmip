@@ -1,0 +1,48 @@
+## page was copied from MeetingMinutes/September042014
+## page was copied from MeetingMinutes/August212014
+## page was copied from MeetingMinutes/August072014
+## page was copied from MeetingMinutes/July312014
+= Meeting Minutes September 11, 2014 =
+ * Meeting commenced 1:00PM US-PDT
+=== Roll call ===
+ * Saikat performed roll call, we have quorum. This will be an official meeting.
+
+=== Agenda ===
+ * Key Shredding proposal (Judy)
+ * Status of KMIP 1.2 (Saikat)
+ * Status of Interoperability (Tony)
+
+
+=== Approve meeting agenda ===
+ * Tim moved, Mark seconded. No objections or abstentions or discussions. Agenda approved
+
+=== Approve previous meeting minutes for September 4th ===
+ * Tim moved, Chuck seconded. No objections or discussions. Minutes approved
+
+=== Key Shredding 1.3 proposal Status (Judy) ===
+ * Judy sent out the proposal with terminology changes 
+ * Open question: Enumeration of examples of how a server is handing shredding, which algorithms are used
+ * Action Item:   Tim will send out examples of enumeration before next week's call after discussing further with Judy
+
+=== KMIP 1.2 status (Saikat) ===
+ * Chet has sent out the 15-day public review for all 13 documents for KMIP 1.2 on Monday, 9/8.
+ * We will wait for public review comments in next 15 days
+
+
+=== KMIP 1.3 Interoperability Plug-fest status (Tony) ===
+ * Plugfest will start on October 6th.
+ * 3 vendors have confirmed and 3 may be
+ * Results will be published fairly shortly after completion 
+
+
+=== Subhash calls for additional items to discuss ===
+ * Chuck brought up inclusion of one time pad as enumeration for supported algorithm, start something simple and then grow 
+ * John L. said he had proposed something previously, it was not approved by TC members
+ * Tim pointed out that John's previous proposals were all part of the RNG object
+ * Mark: Would like to see test cases, just adding in the enumeration will not suffice - need some test cases
+ * Bruce: I in KMIP stands for interoperability, Take interoperability aspect into consideration even for simple steps like including one-time pad in algorithm enumeration
+ * A/I: Chuck to write a proposal along with test cases and send it to TC reflector; discussion next week.
+
+  
+=== Motion to Adjourn ===
+ * Tim moved, Chuck seconded. No objections or abstentions or discussions. Adjourned 1:18PM US-PDT.

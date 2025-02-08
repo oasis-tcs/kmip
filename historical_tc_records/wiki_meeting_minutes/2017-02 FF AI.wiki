@@ -1,0 +1,6 @@
+= February 2017 Face to Face Meeting Action Items =
+Action Items as agreed and minuted at the KMIP TC Face to Face meeting held on February 9 & 10, 2017
+
+== Items moved to KMIP version-specific Wiki pages ==
+ * [[https://wiki.oasis-open.org/kmip/1.4|KMIP V1.4 Wiki]]
+ * [[https://wiki.oasis-open.org/kmip/2.0|KMIP V2.0 Wiki]]

@@ -1,0 +1,69 @@
+= Meeting Minutes May 20, 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (May 6, 2021)
+ * KMIP V3.0
+  * KMIP wiki review (required profiles and test cases)
+ * Interop Test
+ * New Business
+  * Markup Text
+  * TCG update
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from May 6, 2021'''
+
+ * Tim H moves, Greg S seconds. No objections, abstentions, or comments. Minutes for the May 6, 2021 meeting approved.
+
+== KMIP 3.0 ==
+=== Wiki Review ===
+ * Working our way through the content for the Profiles, Test Cases and Usage Guide content as noted for the KMIP 3.0 proposal on the wiki (https://wiki.oasis-open.org/kmip/3.0)
+ * Tony C asked the authors of the Profiles, Test Cases and Usage Guide if they had received any content from proposal authors.  Both Judy F (Usage Guide) and Tim H (Profiles/Test Cases) stated that they had not received content.
+ * Tony C encouraged the proposal authors to provide the assigned content
+
+== Interop Test ==
+ * Tony C as started to reach out to TC members who have traditionally participated in Interop events to begin to compile the list of participants in the Interop Test planned for September 2021.
+ * Tim C asked if there were any costs associated with participating in this Interop Test.  Tony C noted that there are no external costs/fees.  Only the internal costs (e.g. engineering resources, etc.) associated with an TC member participating in the event.
+ * Mark J stated that P6R will participate in the Interop Test.  Tony C will add them to the participants list.
+ * Other TC members interested in participating in the Interop Test should contact Tony C.
+
+== New Business ==
+=== Markdown ===
+ * Tony C noted that use of Markdown is being raised in other OASIS TCs.  Markdown would be used as a replacement for the current MS Word formatted documents.
+ * TC members briefly discussed their experiences using Markdown and its benefits
+  * Markdown would make documentation more amenable to machine readability
+  * Links to several Markdown resources were provided
+   * Mastering Markdown: https://guides.github.com/features/mastering-markdown/
+   * Markdown Cheatsheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+ * Tony C recommended that TC members familiarize themselves with Markdown and we can include considering changing to Markdown for KMIP 3.1 and later as a topic on the agenda for the KMIP Summit planned for later this year.
+
+=== TCG Update ===
+ * Judy F passed on an update from her colleague Chandra N on the TCG Storage WG.
+  * The TCG Storage WG group have completed a ballot on the key format for key injection for (NVMe) KPIO (key per I/O).  The group voted to support the KMIP defined key format as the one to prioritize.  The TCG defined key format will be deprioritized for now.
+  * Once they WG has more clarity on the KMIP key types etc. they (via Chandra N) will be engaging with the KMIP OASIS TC regarding a new profile etc.
+
+ * Tim C raised that the update going on with ISO 27040 Information Technology - Security Techniques - Storage Security is also raising some other KMIP updates/profile needs.  More details will be provided at a future TC meeting.
+
+== Next Meeting ==
+ * Next TC Meeting: June 3, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:17 US-EST ==
+
+===== Meeting Recording - to be removed ~30 days after the meeting =====
+https://us02web.zoom.us/rec/share/8qlAxojyTV8drjUS9jfRFpvONqQ_EDGfAREXDE9MzNkHr81ZAfiSW7XfaW-kLjuh.u-xC93iJOGWGuaUk Passcode: d!5A8uu1 

@@ -1,0 +1,70 @@
+= Meeting Minutes May 12, 2016 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call (Tony)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Approve Agenda
+ * Approve minutes (28th April 2016)
+ * Administrator attributes update (Gerald S.)
+ * Tape Library Profile update (Tim H.)
+ * Plugfest update (Tony)
+ * KMIP 1.3 status update (Tony)
+ * PCI-DSS v3.2 (Kevin)
+ * New business
+ * Adjourn
+ 
+=== Motion to approve April 28, 2016 meeting minutes ===
+ * [[MeetingMinutes/April282016 | April 28, 2016]]
+ * Bruce R Moves
+ * Gerry S Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+=== Motion to approve Agenda ===
+ * Tim H Moves
+ * Krishna Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Administrator attributes update (Gerald S.) ==
+ * Still working on usage guide material.
+ * Deferred until next week
+ 
+== Tape Library Profile update (Tim H.) ==
+ * Deferred - no update
+
+== Plugfest update (Tony) ==
+ * Still working with SDC/DSSS organizers to work out a plugfest/face to face meeting in September
+
+== KMIP 1.3 Status (Tony) ==
+ * Spec & Usage guide have had their public review completed
+ * Test Cases and Profiles are with TC admin to go out early next week for public review.
+ * Tony working on v1.4 topics for review
+ * Steve W asked about 1.3 profile & test cases within the SNIA-SSIF test program.
+ * Tony indicated that the 1.3 content will need to be at OS level prior to release but Tony will check and report back.
+ * Steve asked about 1.0 and 1.1 test cases being retired.
+ * Tony indicated that short of deprecation and removal of items, the v1.0 and v1.1 will likely remain available, Tony to check.
+
+== PCI-DSS v3.2 (Kevin) ==
+ * Kevin asked if there was any interest in meeting the multi-factor authentication requirements of PCI-DSS v3.2
+ * Discussion to be held next week once folks have had a chance to organise their thoughts
+ * Kevin to post relevant links to the list
+ 
+=== Action Items ===
+ * None noted
+
+== Call for late arrivals (Tony) ==
+ * None
+ 
+=== Motion to Adjourn ===
+ * Tim Moves
+ * Gerry seconds
+ * No abstentions
+ * No  objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:19PM GMT =

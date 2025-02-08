@@ -1,0 +1,54 @@
+= Meeting Minutes 2 March, 2017 - Draft =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (February 23, 2017)
+ * Face to Face AI Review - https://wiki.oasis-open.org/kmip/MeetingMinutes/F2F-AIs-Feb2017
+ * KMIP 1.4 update (Tony C.) 
+ * Update from authors 
+ * KMIP 2.0 update (Tony C.) 
+ * RSA2018 Interop signup 
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+==== Motion to approve Agenda ====
+ * Tim H moves, Chuck seconds, No objections, abstentions, or comments. Agenda approved
+
+==== Motion to approve February 23, 2017 meeting minutes ====
+https://wiki.oasis-open.org/kmip/MeetingMinutes/Feb232017
+ * Tim H moves, Jerry seconds. No objections, abstentions, or comments. Minutes approved
+ 
+== Face to Face AI Review (Tony C.) ==
+ * action items posted to https://wiki.oasis-open.org/kmip/MeetingMinutes/F2F-AIs-Feb2017
+ * they are organized by the presentations made at the F2F
+
+=== KMIP 1.4 update (Tony C.) ===
+ * Tony C would like to get the 1.4 docs wrapped 
+
+==== Update from Authors ====
+ * Tim H will have updates to the profiles and test cases will have an update for next week
+ * Judy is waiting for people to provide their updates to the usage guide
+
+=== KMIP 2.0 update (Tony C.) ===
+ * no major updates, waiting for 1.4 to get wrapped up before starting major work
+ * action items to stay in the wiki
+
+== RSA 2018 Interop signup (Tony C.) ==
+ * invitation from Jane has been sent out
+
+== Additional Items ==
+ * Tony C to add additional column to the F2F AI wiki for due date
+
+== Call for late arrivals (Tony C) ==
+ * Bob Thales, Steve HPE, Radhika Oracle
+
+ 
+== Motion to Adjourn ==
+ * Tim H moves, Chuck seconds. No objections, abstentions, or comments. Meeting adjourned
+
+ 
+= Meeting Adjourned at 14:15 US-PST =

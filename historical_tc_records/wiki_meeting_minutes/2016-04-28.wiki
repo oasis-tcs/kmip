@@ -1,0 +1,77 @@
+= Meeting Minutes April 28, 2016 =
+== Meeting commenced 20:00 GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Approve Agenda
+ * Approve Minutes (14th April 2016)
+ * SP800-57 update (Chuck W) 
+ * Administrator attributes update (Gerald S.) 
+ * Sensitive Attributes update (Chuck W.)
+ * Tape Library Profile update (Tim H.)
+ * Plugfest update (Tony)
+ * KMIP 1.3 Status (Tony)
+ * New business
+ * Adjourn
+
+=== Motion to approve Agenda ===
+ * Tim H Moves
+ * Chuck Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve April 14 Meeting Minutes ==
+ * Tim H Moves
+ * Chuck Seconds
+ * No Objections
+ * No Abstentions
+ * Minutes Approved
+
+==  SP800-57 update (Chuck W) ==
+ * Not completed. Presentation Next Week.
+
+== Administrator attributes update (Gerald S.) ==
+ * Expects Usage Guide update for Judy next week.
+
+== Sensitive Attributes update (Chuck W.) ==
+ * Posted updated spreadsheet. Excellent feedback from Mark.
+ * Q1 from Mark - secret and top-level secret noted - why two - this is multi-level security approach- considering labels as variations on attributes.
+ * Mark - MLS doesn't let you have two labels. Happy to take discussion off line. 
+ * Greg - note extra labels.
+ * Messaging format - not server side processing - so the labels are allowing.
+ * Chuck - this is a marking exercise - not a control exercise.
+ * Mark - still have never seen two labels of Secret and Top Secret - other contexts make sense - just this one is something he has never seen.
+ * Tim - perhaps USA-only and Five Eyes as an example would address Mark's concern.
+ * Tony - thanks Chuck and Mark - probably taking this off line and with examples and prose that makes everyone happy
+ * Chuck - update in 2 or 4 weeks
+
+== Tape Library Profile update (Tim H.) ==
+ * Contacted co-editors. No update as yet. 
+ * Tony - will put on agenda for 2 or 4 weeks out after discussing offline.
+
+== Plugfest update (Tony) ==
+ * SNIA DSSS in September is interested.
+ * Anyone who has further thoughts please let Tony know.
+
+== KMIP 1.3 Status (Tony Cox) ==
+ * Chet has everything he needs. Progressing.
+ * Tony notes that he will be updating the KMIP 1.4 wiki with content.
+ * Tony also notes we are getting questions from industry about when KMIP 2.0 will be out. Interesting to note.
+
+== New Business ==
+ * None
+
+== Call for new attendees ==
+ * None
+ 
+== Motion to Adjourned ==
+ * Chuck Moves
+ * Tim H Seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 20:21 GMT =

@@ -1,0 +1,415 @@
+= KMIP TC meeting 16^th^ April 2015 – Face to face Day One =
+
+== Agenda ==
+·         '''Motion:'''
+
+o   To approve agenda.
+
+o   Tim.H moved
+
+o   Chuck.W Seconded
+
+o   No objections, abstentions or comments
+
+== Previous Minutes ==
+
+·         '''Motion:'''
+
+o   To approve minutes of meetings of March 26^th^ 2015 and April 2^nd ^2015 .
+
+o   Tim.C moves
+
+o   Tim.H seconds
+
+o   No objections, abstentions or comments
+
+·         '''Action Item'''
+
+o   Justin.C will take minutes – send to Bob.L for upload to the wiki once completed.
+
+== '''Presentation''' – KMIP-NIST-SecurityAttributeSecurity - Chuck.W ==
+
+·         https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/55442/KMIP-NIST-SecurityAttributeSecurity_2015.pdf
+
+·         Thoughts on NIST SP800-130, 800-152
+
+o   Focus on discussing options to designate and secure security attributes
+
+o   Conflict between profile and framework; scope is more than a pure crypto, wrap-unwrap – involves more than that.
+
+o   Non-Repudiation is the big issue
+
+o   Protection, integrity, non-repudiation, auditability
+
+o   a lot of what is in PKCS#12
+
+o   Chuck.W: Question - Is everything actually practical in a real-life scenario?; Chuck.W is concerned about protocol bloat and wants to avoid this happening
+
+o   Gerald suggested a sub-protocol or almost a profile
+
+o   NIST-SP800-130 is very broad. Perhaps too broad as a target?
+
+o   NIST-SP800-152 quite specific and intended for Federal requirements
+
+o   John.L stated that FIPS140 not accepted by foreign governments, Tim.H disagreed, Tony.C stated that he had direct experience to the contrary of John.L’s statement. Discussion. [Tim.H apologised for the manner in which he expressed his disagreement]
+
+o   Chuck.W stated that NIST-SP800-152 could be a good starting point and that he does not see anything that would red flag for other non-USA government
+
+o   Bruce.R states that we looking at narrow aspect of protecting attributes
+
+§  Chuck.W said we need to differentiate between extracting protocol aspects from NIST-SP800-152 or NIST-SP800-130…but that the implementation for client server processing is another issue
+
+·         Where to start on Security Attributes – Example 1
+
+o   Talking about ‘Z’ attribute
+
+o   ‘Z’ type attributes would be a custom security attribute
+
+§  Z-X for server
+
+§  Z-Y for Client
+
+§  Z for general
+
+·         So…some attributes would be more secure than others
+
+·         Joe.B came online to present
+
+·         Joe.B showed an example of what this could look like:
+
+§  Security Attributes
+
+§  Attribute Wrap
+
+§  Creator
+
+§  Authorised Users
+
+§  Classification
+
+§  Distribution Protection
+
+§  Storage protection
+
+o   Chuck.W said attribute is addressable …like an object… and this is a problem that needs to be fixed
+
+o   Tim.H said this is an example of what NIST-SP800-130 is trying to do
+
+o   Tim.H said ‘non-repudiation’ critical to make sure no man-in-the-middle
+
+o   Bruce.R asked if the Server needed to be more aware or if this was Client centric i.e. the information comes from Client. If Server has to do it, it becomes harder…So is it a Server only problem, or Client only problem. If split between Server and Client…then obviously need to be very clear in terms of the allocation
+
+o   Chuck.W spoke about marking. Once it is marked…then it becomes controlled
+
+o   Chuck.W said that there are differences in handling some things globally, but others locally. Marking and Distribution / Controls interactions. Authenticate globally, authorise locally.
+
+o   Chuck.W said we don’t need to define the taxonomy…we just need to support it when it is done…..Defining the taxonomy not a KMIP problem…we just need to decide how we are going to support it
+
+·         Slide – Security Attribute – Security example approach 2
+
+o   Bruce.R raised question that these suggestions could stir up well-settled and defined KMIP terms…i.e. Chuck.W’s suggestions could cause lots of ripples
+
+o   Tim.H said “Z” lead into the SecurityAttributeSecurity is part of the object description – i.e. there is an attribute name that has “Z” and the structure is the value.
+
+o   Chuck.W – if we are ruffling still waters in KMIP…perhaps his suggestions will need to go into 2.0?
+
+o   Questions asked around ‘declassifying’ of the security designation
+
+§  Tim.H asked if there were Use Cases that covered this
+
+§  John.L asked if any commercial applications out of military or commercial.
+
+§  Chuck.W suggested health care an example. John.L suggested that re-keying not practical…just access to the key changes…i.e. the key remain constant
+
+§  John.L gave example of budget document example. Tim.H and Mark.J said that the classification does change.
+
+§  Tim.H said new and separate identifiers created for each release – so the contents may be the same but the controls are actually on technically different items.
+
+§  John.L asking for an ability to support change of controls and multiple controls on the one item.
+
+§  Chuck.W tri-graph people, location, group part of determining process
+
+·         Slide – KMIP 1.x and NIST. What is next
+
+o   Health care Use case, Legal Use case, NATO use case….all for ‘security type applications’.
+
+o   Bruce.R said this will probably need to be version 2.x We need to revisit the get and wrap operations (among others) to incorporate these sorts of elements
+
+o   Mark.J offered to help to flesh it out. Chuck.W asked Bruce.R to help as well (as he is more on the sceptical side)
+
+o   Bruce.R said….tailor NIST-SP800-152 to our usage…because this would be a good start. Seemed to be general agreement on this – that NIST-SP800-152 is the better target to focus on.
+
+·         Here is the overall summary of the Security Attributes discussion:
+
+o   Considering Security Attributes as “Handling” instructions for attributes and managed objects that are considered sensitive.
+
+o   NIST SP800-152 Draft 3 (Profile for Federal Cryptographic Key Management System) provides a logical starting point –with the understanding that guidelines are a starting point and could be open to additions and subtractions based on internationalization of the TC’s approach.
+
+o   Need to be careful not to overload the specification.
+
+o   Need to consider the implication of when Managed Objects and Attributes are marked, what are the implications for <create><get><rekey><get attributes><register><set attributes><delete attributes><modify attribute> etc.
+
+=== ·         ''Action Items'': ===
+
+o   Bruce.R, Mark.J, and Chuck.W are going to look at what the internals of the security attribute structure is. With that structure defined, they will start defining use cases, such as the ones John.L mentioned, and profiles for Security Attributes. During the definition of a Security Attribute need to link up with NIST and brief them on the proposed structure and use cases and gain buy-in from NIST on the approach.
+
+== '''Presentation''' - Protocol Optimizations – Anthony.B ==
+
+·         [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/55461/Protocol%20Optimizations-final.pdf|https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/55461/Protocol%20Optimizations-final.pdf]]
+
+·         Slide – Agenda
+
+·         Slide –Multi-Object Batch
+
+o   Anthony.B
+
+§  Idea to extend beyond ID Placeholder
+
+§  Introduce Multi-batch item…for one request multiple object return
+
+§  Chuck.W asked if some value in tracking how many responses you want and how many you are up to…i.e. am I half way through a 1M batch process. Help to know so you can do multi-thread etc. so knowing how many to do will help the efficiency of latency reduction and also tracking of how many through
+
+§  Bruce.R asked if this is synchronous only or asynchronous too?
+
+o   Anthony.B spoke on recursive multi-object batch
+
+§  ‘Walk the key links’; ‘Walk the rekey links” etc. i.e. track down the tree
+
+·         Slide – GetAttribute Loops
+
+·         Slide – Streaming Optimisations
+
+o   Fact we have to process the whole request before being able to put the size in the header…i.e. Buffer this before being able to send. Problem for small devices that cannot buffer before sending.
+
+·         Slide- Streaming Solution
+
+o   Mark.J said…keep TTLV structure but attach a sentinel value at the end of a TTLV value…..i.e. unknown length at the start but them looks for the some value at the end to define
+
+o   Bruce.R asked if server obligated to accept this request….concern about this kind of DDoS attack
+
+o   Chuck.W asked at what point do you limit the return of large data return?
+
+o   Server response on the max chunk that will be accepted on query
+
+o   Tim.H said add maximum chunk size for streaming into the existing Query Capabilities
+
+o   John.L said that he has been doing this for some time…in the field and robust.
+
+o   Richard.F asked if concept is related to multi-cast….answer was no.
+
+=== o   ''Action item'': ===
+
+§  John.L to send details of the Quintessense Labs streaming data approach to the list – just the streaming part.
+
+§  Mark.J and Anthony.B to consider interactions between streaming and large crypto operations
+
+·         Slide –Streaming solution Other
+
+o   PKCS#7 and/or ASN.1
+
+·         Slide – Clean Up Headers
+
+o   BatchCount at the moment incompatible with streaming
+
+·         Slide – Tags Vs Template Attributes
+
+o   Tim.H suggested change to AttributeList
+
+o   Jim.S and Mark.J said that XML protocol it’s an issue with long names...because it can cause massive increases in data size
+
+o   Tim.H asked if Jim.S wanted to propose a condensed XML format as another format
+
+o   Suggestion that use canonical encoding for standard but use full strings for custom attributes
+
+o   Question raised about mappings but how that would translate across multiple servers
+
+§  Bruce.R the idea of template attribute not being renamed to attributelist. Bruce.R said adding one in is OK for 1.x but a rename needs to be a 2.0
+
+·         Slide - Interleaved Request/Response
+
+o   Anthony.B suggested AsynchronousCorrelationValue in poll option
+
+o   John.L – said that not always true that the connection needs to be maintained
+
+o   Server policies will dictate how this is use
+
+o   Need extra query on the server for correlation values
+
+o   Profiles are used for the clients to define specific behaviour. This is not included in a query
+
+o   This will result in the client driving the server behaviour
+
+o   Discussion on where within the request a ClientProfile value should go - covered request header and batch item. General consensus is in the request header along with the protocol version.
+
+o   Add new Return server to client object
+
+§  Return - real asynchronous handling. P6R like the concept. Quintessense sees value. Should it be separate operation or expansion of Notify? Consensus of the TC is that it should be a separate operation.
+
+o   Random Data
+
+§  John.L asked if this is a process to try and protect against SSL or TLS? Question…should we be trying to do this?
+
+§  Tim.H said that predictable headers leads to easy attacks. We should change this because it avoids a lot of susceptible. Tim.H said to try and avoid specific attacks related to the payload in the context of man-in-the middle attacks.
+
+§  Anthony.B suggested a new discussion on new protocols
+
+o   Multi-protocol batch
+
+§  Chuck.W supported – believed this is very important
+
+o   Streaming
+
+§  TC considers this a very important aspect to consider
+
+§  John.L to send details of the Quintessense Labs streaming data approach to the list.
+
+o   Header Clean-up
+
+§  Bruce.R ok and supports looking at this, as does John.L
+
+o   Tags Vs Template Attributes
+
+§  Bruce.R ok and supports looking at this, as does John.L
+
+o   Interleaved Request/Response
+
+§  Chuck.W supported.
+
+o   Random Data
+
+§  No support
+
+== ·         '''Presentation '''– Key Wrapping - Mark.J ==
+
+·         https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/55464/WrapUnwrap.pptx
+
+·         Slide – Current Situation
+
+·         Slide – Proposed Wrapping Approach
+
+o   Add two new operations: Wrap and Unwrap
+
+·         Slide – Wrap Operation
+
+·         Slide – Unwrap Operation
+
+o   Do we have a Rewrap operation
+
+o   Steve.W likes the idea of introducing PKCS11 concepts
+
+·         Behaviour is flexible so sits with implementation, not policy
+
+·         Summary position
+
+o   Lots of suggestions and interest
+
+·         ''Action Point'': Steve.W to give banking use case to Mark.J
+
+·         ''Action Point'': Consensus to look at wrap and unwrap in more detail
+
+·         ''Action Point'': Mark.J to revisit presentation incorporating more items including attaching attributes to new items created as a result of an unwrap
+
+
+
+== ·         '''Presentation''' – Attestation - Tim.H ==
+
+·         [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/55467/Attestation%20Example.pdf|https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/55467/Attestation%20Example.pdf]]
+
+·         Slide – Overview
+
+·         Slide – Review
+
+o   Tim.H asked if this slide how everyone remembered previous discussion and whether this was accurate.
+
+o   Does we have server to client where attestation can be useful
+
+§  Limited response, Tim.H withdraws his opinion that this could have limited use
+
+o   Chuck.W – Is this flashback to Radius?
+
+·         Slide – New Authenticators
+
+o   FIDO UAF and U2F etc.
+
+o   Does this fit within attestation
+
+·         Slide – Attestation
+
+·         Slide – Conclusion
+
+o   Have a non-TPM based attestation
+
+o   Fits within mechanism
+
+o   Will document test cases
+
+o   Chuck.W – Side note if he can arrange meeting with some guys heavily involved in biometrics
+
+o   Tim.H – focus shifting to U2F rather than UAF
+
+o   Tony.C – Attestation allows us to link into hardware and also biometric for dual-factor
+
+o   Tim.H – could be used for dual-factor for example to require dual-factor for extreme actions e.g. destroy key
+
+o   Judy.F – asked use cases or usage guides should be used to capture this information/suggestion
+
+·         Summary: TC happy to progress with attestation
+
+·         ''Action''' '''Item:'' Tim.H and Mark.J will work on and document test cases
+
+·         '''Presentation''' – ACLs (Who can to do what, to whom and when?) – Anthony.B
+
+·         https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/55468/ACLs-final.pdf
+
+·         Slide – Collections
+
+·         Slide – Users
+
+o   Do we need managed object of ‘User’
+
+o   Remove existing user concepts
+
+o   Bruce.R – at a high level, but any lower its gets messy and difficult and does not agree with concept of ‘user’
+
+o   Chuck.W…”a service consumer” as a managed object (as a useful descriptor)
+
+o   Bruce.R said if we agree on the object, then we need to define attributes etc. So is this a 2.x discussion
+
+o   Bruce.R “any kind of entity that may be exploiting these services” as a name for the ‘user’ concept
+
+o   There was a long and detailed discussion around what this object should be named
+
+o   John.L uses “ClientIdentifier” and the ‘Client’ may contain a group of items that represent the client and credentials
+
+o   Mark.J likes ‘principle’ and or ‘subject’
+
+o   Tim.H likes initiator:
+ “in·i·ti·a·tor
+ iˈniSHēˌādər/
+ noun
+ a person or thing that initiates someone or something.
+ a substance that starts a chain reaction.
+ an explosive or device used to detonate a larger one.”
+
+=== ·         '''Motion''' to call ‘the thing’ the “Initiator” ===
+
+o   Concept it identifies is “Initiator is the combination of the client level credential and zero or more credentials contained within the authentication structure.”
+
+o   Discussion around the different combinations of credential handling – are they combined / do they replace / varying approaches amongst vendors. Specification is silent on the topic so all are correct.
+
+o   Moved by Jim.S
+
+o   Seconded by Chuck.W
+
+o   No objections, abstentions or comments
+
+·         ''Action Item''''':''' Anthony.B to update slides to change the name to ‘Initiator’
+
+== Adjournment ==
+·         '''Motion''' to adjourn 15:36 Pacific Time
+
+o   Chuck.W moved
+
+o   Tim.H seconded
+
+o   No objections, abstentions or comments

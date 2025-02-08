@@ -1,0 +1,57 @@
+= Meeting Minutes February 23, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (February 9, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * "Hash then Sign" Update
+ * Interop
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Tony C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from February 9, 2023'''
+
+ * Judy moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the February 9, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S is working on updates to the KMIP 3.0 Spec.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is working on updates to the KMIP 3.0 Profiles/Test Cases.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy is working on updates the KMIP 3.0 usage guide and is waiting for updates coming from specification and test cases.
+
+== New Business ==
+=== Hash then Sign  ===
+ * Greg S forwarded Judy's email with the ‘Hash then Sign’ discussions to the PKCS#11 TC.
+ 
+=== Interop ===
+ * Greg S sent an email to the TC looking for organizations interested in an Interop for KMIP 3.0.
+ * P6R, Cryptsoft, and NetApp have expressed interest in participating. 
+ * September 2023 is being looked at as a target date. 
+
+== Next Meeting ==
+ * Next TC Meeting: March 9, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim C moves and Tony C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:12 US-EST ==

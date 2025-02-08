@@ -1,0 +1,46 @@
+= Meeting Minutes December 10 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from November 19, 2020'''
+
+ * Tim H moves, Justin seconds. No objections, abstentions, or comments. Minutes for the November 19, 2020 meeting are approved.
+
+== KMIP 2.1 ==
+=== Status update ===
+ * KMIP 2.1 is still out for the call for consent which closes Monday 11:59 pm UTC. So far there is 100% approval from the votes so far.
+
+== Next KMIP vF2F Meeting update ==
+ * Tony C asked for alternatives to calling it a virtual face to face and proposed summit. There were no objections or comments so we will go with summit for now.
+ * Tony C and Judy are working on a ballot for the next meeting to decide the schedule and details (when, how often we meet and for how long).
+ 
+== KMIP Interop 2021 ==
+ * There were no comments or suggestions regarding Interop or Plugfest alternatives for next year. It will be brought up again at a further meeting.
+ 
+== Holiday Schedule ==
+ * There were no comments or objections to the following schedule
+  * Meet next week, December 17 as scheduled.
+  * No meetings December 24 and 31.
+  * Resume meetings January 7 2021.
+ * Judy will send out the new meeting invites and Tony C will update the Zoom invitation for 2021.
+
+== New Business ==
+ * None
+ 
+== Next Meeting ==
+ * Next TC Meeting: January 7, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Ed
+
+== Motion to Adjourn ==
+ * Tim C moves and Tim H seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:10 US-EST ==

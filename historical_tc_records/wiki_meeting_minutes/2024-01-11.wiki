@@ -1,0 +1,54 @@
+= Meeting Minutes January 11, 2024 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (December 14, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from December 14, 2023'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the December 14, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H working on test cases for the PQC identifiers.
+
+=== KMIP 3.0 Specification ===
+ * Tim H is working on proposals for suggested changes to the spec that came from the Interop. 
+ * Greg is waiting for the updates coming from the proposals to incorporate into the Spec.
+ * Judy F noted that Lightweight crypto identifiers should also be added to the Spec.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy F is waiting for the updates to the Spec, Profiles, and Test Cases and for additional Usage Guide content
+
+== New Business ==
+ * Judy F noted that the Hash then Sign Analysis that was developed under the NCCoE Migration to PQC project and which was mentioned in several KMIP TC meetings last year is now publicly available.   
+   * The analysis was not released as a separate white paper but instead as Appendix C of NIST SP 1800-38C: Quantum-Resistant Cryptography Technology Interoperability and Performance Report which is one of two NCCoE Migration to PQC project documents out for public review.   
+   * Judy F will forward details of the public review to the reflector.
+
+== Next Meeting ==
+ * Meeting on January 25, 2024 will be canceled due to the conflict with the Australia Day holiday.
+ * Next TC Meeting: February 8, 2024
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:09 US-EST ==

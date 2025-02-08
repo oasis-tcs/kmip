@@ -1,0 +1,64 @@
+= Meeting Minutes 3 October 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Sep 19, 2019)
+ * KMIP 2.0 (Status)
+ * KMIP 2.1
+  * Name Domain Definition (Tony C)
+  * Review wiki
+ * KMIP Interop 2020
+  * Interop Process (Tony C)
+ * New Business
+  * Response to Conrado Gouvêa
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from September 19, 2019'''
+
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Minutes for the September 19, 2019 meeting approved.
+
+== KMIP 2.0 Status (Tony C) ==
+ * 60 day public review of the KMIP 2.0 Spec and Profiles as Candidate OASIS Standards has commenced.  It will end on 15 October 2019.
+  . See https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201908/msg00008.html
+ * No comments have been received so far.
+
+== KMIP 2.1 ==
+=== Name Domain Definition (Tony C) ===
+ * Tony posted a spec delta showing the Name Domain Definition changes to the reflector earlier today. (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201910/msg00002.html)
+ * TC had a brief discussion on the wording of the first few sentences of the proposal.  A deeper review of the proposal will be done during the next TC call.
+
+=== Review wiki ===
+ * KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1)
+ * Decided to wrap up KMIP 2.1 content prior to commencing the RSA 2020 Interop event
+ * Tim H made updates to the wiki to reflect updated status, etc.
+  * Jerry S agreed that the IoT Profile should be deferred to post KMIP 2.1
+ * Tony C asked the TC to bring forward any additional 2.1 proposals in the next few weeks.
+
+== KMIP Interop 2020 ==
+ * There are still a few openings for the OASIS booth.  If anyone is interested please contact Tony C or Jane H.
+ * Deadline for closing on Interop participation is next Friday, October 11, 2019
+
+== New Business ==
+ * Response to Conrado Gouvêa
+  * Tony C still needs to draft the follow-up response to Conrado Gouvêa
+
+== Next Meeting ==
+ * Next TC Meeting:  10 October 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry S (Fornetix)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:16 US-EST ==

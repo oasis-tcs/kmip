@@ -1,0 +1,60 @@
+= KMIP Meeting Minutes November 12 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Sue seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from November 5, 2020'''
+
+ * Tim H moves, Greg seconds. No objections, abstentions, or comments. Minutes for the November 5, 2020 meeting approved.
+
+== KMIP 2.1 ==
+=== Status ===
+ * A ballot has been created for approving the Spec and closes next Monday around mid-day UTC. There are still eligible members that have not voted so please vote when you can.
+
+== KMIP 3.0 ==
+=== Status update (wiki review) ===
+ * There are no new updates to the wiki (https://wiki.oasis-open.org/kmip/3.0).
+
+=== Deactivate operation ===
+ * Tony C has been working on what it would take to add the Deactivate operation. 
+ * Currently the work is based on the Revoke operation as there are similarities in the structures.
+ * There were conversations about usage limits, state transition, protect stop, and the usage guide.
+ * There were no objections to continuing the work.
+ * Tony C will put together a spec delta and usage guide material to bring back to the TC.
+ 
+== Next KMIP (Virtual?) F2F Meeting ==
+ * A straw poll is out for potential meeting times. Meetings would be 5 hours, with 2 30 minute breaks, spread over 2-3 days depending how the agenda turns out.
+ * There were other options presented
+   * 2 hour meetings around same time as current weekly meeting for 4-5 weeks. Rinkesh raised a comment that this time doesn't work for India.
+   * presentations in different slots with decisions in group meeting
+   * presentations are recorded with a live Q&A session
+ * Tony will put these into a presentation for the next meeting.
+ 
+== KMIP Interop 2021 ==
+ * Tony C is working to get time with Jane to discuss the statements from last week's meeting.
+ * RSA announced that they are going fully virtual for 2021.
+
+'''Motion that with this event going virtual, if there is an expo attached it would be virtual and the TC is not interested in that type of format for an Interop event.'''
+
+ * Tim H moves, Greg seconds. No objections, abstentions, or comments. Motion approved.
+
+== New Business ==
+ * Tony will put the webinar for KMIP 2.1 on a future agenda.
+ 
+== Next Meeting ==
+ * Next TC Meeting: November 19, 2020
+ * Thanksgiving will be discussed at the next meeting.
+
+== Call for Additional Attendees (Tony C) ==
+ * Ed, Chris, Steve, Rinkesh
+
+== Motion to Adjourn ==
+ * Tim H moves and Judy seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:43 US-EST ==

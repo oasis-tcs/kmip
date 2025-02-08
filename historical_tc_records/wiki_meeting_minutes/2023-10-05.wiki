@@ -1,0 +1,60 @@
+= Meeting Minutes October 5, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (September 21, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Usage Guide
+ * Interop
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from September 21, 2023'''
+
+ * Tim C moves, Judy seconds. No objections, abstentions, or comments. Minutes for the September 21, 2023 meeting are approved.
+
+== KMIP 3.0 Status Updates ==
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is working on the next set of updates coming from feedback on Certify and ChaCha20. The plan is to propose the updates to the Interop participants for inclusion in the Interop.
+
+=== KMIP 3.0 Specification ===
+ * Greg is waiting for the PQC updates for inclusion into the Spec.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy F is still waiting for additional new 3.0 content to incorporate into the Usage Guide.
+
+== Interop ==
+ * The Interop participants have discussed moving the start dates for testing, results collation, and results graphs back a week. 
+ * Tim H sent an email, (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/202310/msg00004.html), detailing the changes to the start dates.
+
+'''Motion to accept the new Interop start dates for testing, results collation, and results graphs per Tim H's email to the list'''
+
+ * Tim H moves, Mark J seconds. No objections, abstentions, or comments. Motion passed.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: October 19, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:15 US-EST ==

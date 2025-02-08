@@ -1,0 +1,85 @@
+## page was copied from MeetingMinutes/February052015
+= Meeting Minutes February 12, 2015 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Tony Cox
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Motion to approve Agenda
+ * Motion to approve February 5, 2015 Meeting Minutes
+ * Review KMIP v1.2 COS status (Tony C)
+ * Review KMIP v1.3 documents status updates
+  * Spec (Kiran/Tony)
+  * Profiles (Tim H/BobL)
+  * Usage Guide (Judy)
+  * Use Cases (Chuck)
+  * Test Cases (Tim H/Mark J)
+ * Review KMIP 1.4 Status
+ * New business
+ * Motion to adjourn
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves, Joe Brand seconds, no objections, no abstentions, agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve February 05, 2014 meeting minutes ===
+ * Tim C moves, Tim H seconds, no objections, no abstentions, motion approved
+ 
+== KMIP 1.2 COS Status (Tony Cox) ==
+ * Chet is working on these - tickets are open in Jira
+ 
+== KMIP 1.3 Status (Tim Hudson) ==
+=== Specification ===
+ * Tim provided an update on the new additions in the KMIP 1.3 specification document in Previous meeting - no further comments or questions have been raised on the list.
+ * Any further comments or questions? <none heard>
+ * Tony suggested a motion to take the current draft to Committee Specification Draft
+ * Joe Brand moves, Tim C seconds, no objections, no abstentions, no comments, motion passed.
+ * KMIP Specification v1.3 is now committee specification draft
+=== Profiles (Tim H) ===
+ * Tim H - no progress yet - expecting some from others and the test cases
+ * 1.3 test cases and a few others
+ * tentative profiles list - AI - TimH to send to the list
+ * next week for list 19-Feb, following for drafts 26-Feb
+=== Usage Guide (Judy F) ===
+ * Following though on updates from Kiran 
+ * Tim provided outstanding usage guide text
+ * target 26-Feb 
+=== Use Cases (Chuck/Tim C) ===
+ * scrubbing process on 1.2 use cases - un-unicorn salesman them - many use cases non-KMIP specific
+ * taking hatchet
+ * apply updates after that
+ * eta for 5th or 12th March
+=== Test Cases (Tim H/Mark J) ===
+ * structure change
+ * will upload next version before 19-Feb
+=== Other ===
+ * Kiran - any changes on 1.3 pending?
+ * In good shape. Changes from Mark pending. Will fold back into text. Looking for review comments.
+ * Tony -thanked Kiran for his work.
+ * Kiran announced list is his last KMIP TC call. Thanks for contributions. Lots of progress.
+ * Tony - sorry to see you go. Thanks again.
+ * Tony is now sole editor - can carry across the line. Or a new co-editor.
+ * Any volunteers? (crickets)
+
+== Review KMIP 1.4 Status ==
+ * reviewed items from wiki
+ * need proposals and presentations
+ * comments next week
+ * big push at face to face
+ * Saikat: we need to address the error handling part in KMIP spec
+ * Tony: level of detail
+ * Bruce: tension between meaningful diagnostics and helping attacker - etc. need to maintain balance; legit use; break in
+ * TimH: will we walk through next week
+ * Tony: yes
+
+== New Business ==
+ * None
+ 
+== Call for late arrivals - Tony Cox ==
+ * Dave F, Saikat S
+
+== Motion to Adjourned ==
+ * Tim Hudson moves, Tim C seconds, no objections, no abstentions, motion approved
+ 
+= Meeting Adjourned at 9:27PM GMT =

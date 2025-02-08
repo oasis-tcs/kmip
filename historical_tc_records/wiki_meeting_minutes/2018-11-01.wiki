@@ -1,0 +1,74 @@
+= Meeting Minutes 1 November 2018 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (October 25, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Result Reason Code -- Spec Edit Update (Tony C)
+  * Client Reprovisioning - Revisit Proposal (Chuck W & John L)
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action Items Discussion
+ * List comment from Conrado Gouvêa
+ * New Business
+  * HKDF Derivation Method
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Jerry S seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from October 25, 2018'''
+
+ * Tim H moves, Jerry S seconds, No objections, abstentions, or comments. Minutes for the October 25, 2018 meeting approved.
+
+== RSA 2019 Interop ==
+ * Two interop spots are still open in the booth for RSA 2019. Jane H sent an email to the KMIP reflect to solicit participation.  Please respond to Jane's email or contact Jane or Tony directly if you are interested in participating in the OASIS booth.
+
+== KMIP 2.0 ==
+=== Result Reason Code -- Spec Edit Update (Tony C) ===
+ * Tony C posted [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64184|WD5 of the KMIP 2.0 Spec]] right before the meeting which incorporates the streamlining of the Result Reason Code proposal that was discussed at last week's meeting.
+ * Tim H thinks the approach that has been taken is good, but he needs more time to review the changes and ensure there aren't missing codes.
+ * Will defer a TC vote on these changes to next week's meeting to give the TC time to review WD5.
+
+=== Client Reprovisioning - Revisit Proposal (Chuck W) ===
+ * Chuck W walked the TC through the [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64181|updated KMIP 2.0 Spec changes for Client Reprovisioning]].
+ * Three modes (server does it all, client creates the CSR, client presents a certificate) are supported
+ * Chuck W modeled the updates to the spec after initial Provisioning  This includes allowing servers to support out-of-bands/pre-authorization for reprovisioning.
+ * Chuck also discuss the nuances of handling reprovisioning using a certificate.  Leave it to the server to decide how to handle the case when the presented certificate is expired.  But should reject any reprovisioning when the presented certificate is revoked.
+ * Tim H made several comments on the proposal.
+  * He recommended that the password should be handled just like its down in Provisioning
+  * He also noted that in provisioning we provide a unique identifier for the managed object that client will use to pick up the new credential.  Batch can be used to keep the reprovisioning operation and the get operation used to retrieve the credential.
+ * Chuck W will ammend the proposal based on the feedback and the TC will revisit the proposal next week.
+
+=== KMIP v2.0 Content Items Review ===
+ * Tony C noted that [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64184|WD5 of the KMIP 2.0 Spec]] that he posted only included the Result Reason Code proposal and does not include the Protection Storage Mask and PKCS#11 Encapsulation proposals that were voted on at last week's meeting.  He has started WD6 to include these two proposal and any refinement to the Result Reason Code changes.
+ * Tim H is working on the KMIP 2.0 Profiles document and associated test cases (100s).  He expect that text portion of the KMIP 2.0 Profiles to be completed in time for next week's meeting.
+
+== List comment from Conrado Gouvêa ==
+ * Co-Chairs sent email to Conrado requesting additional information.  Awaiting a response from Conrado.
+
+== New Business ==
+=== HKDF Derivation Method ===
+ * Tony C noted that he was asked if HKDF Derivation method could be added as a supported derivation method.
+ * Tony C asked the TC if anyone is concerned about adding this to KMIP 2.0.
+ * Tim H noted that he knows this derivation method is used and sees no reason not to include it in KMIP 2.0.
+ * Tony C will put together a spec delta to add the HKDF Derivation method for review at next week's meeting.  Tim H and Chuck W offered to review the proposal for Tony C.
+
+== Next Meeting ==
+ * Next Meeting: 8 November 2018
+
+== Call for Additional Attendees (Tony C) ==
+ * Alan B (Thales), Jason T (CryptSoft)
+
+== Motion to Adjourn ==
+ * Tim H moves, Jerry S seconds, No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:28 US-EST ==

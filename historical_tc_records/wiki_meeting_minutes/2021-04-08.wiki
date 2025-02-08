@@ -1,0 +1,65 @@
+= Meeting Minutes April 8, 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (March 11, 2021)
+ * KMIP V3.0
+  * KMIP wiki review (required profiles and test cases)
+ * KMIP Summit
+ * Interop Test
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Greg S seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from March 11, 2021'''
+
+ * Tim H moves, Greg S seconds. No objections, abstentions, or comments. Minutes for the March 11, 2021 meeting approved.
+
+== KMIP 3.0 ==
+=== Wiki Review ===
+ * TC reviewed the KMIP 3.0 list of proposals (https://wiki.oasis-open.org/kmip/3.0) to determine which needed Profiles, Test Cases and Usage Guide content.
+ * Tony C will update the wiki to reflect the discussion and will post a note to the KMIP list when the updates are complete.  Please review to ensure changes are as expected.
+
+== KMIP Summit ==
+ * We need about three week of run time to organize the Summit. So we ae past the window to schedule a Summit for late April 2021.
+ * TC discussed when would be a good time to hold the Summit.
+  * Tim H noted that there is a few months of work left to wrap up KMIP 3.0
+  * We also need to avoid summer vacation in northern hemisphere.
+  * Conclusion was to work towards a Summit in late September 2021 (Note: This may need to move later to not conflict with Interop (see subsequent discussion)
+ * Please send agenda topics and estimated timeslot to Tony C and Judy F
+
+== Interop Test ==
+ * There have been queries around doing an Interop Test this year.  The focus would be interop testing of KMIP 3.0
+ * TC discussed timeframe for Interop event and also arrived at September as the best option.
+  * Will target the second week of September for the event
+  * We will delay the KMIP Summit to prevent these two events overlapping.  We would also like to do a readout of the Interop at the Summit.
+ * Tony C reviewed the Interop related motions that the TC had made earlier
+  * TC made motion to run an Interop event in 2021.  The initial assumption was in association with the RSA Conference but with that virtual the TC agreed to no pursue that.
+  * Motion for Tony C to continue as Interop lead
+  * Motion to use the Interop Marker in the next interop
+ * Tony C asked if the TC had any concerns with these three previous motions.  No concerns were raised.
+ * Tony C noted that adjustments will need to made to the existing Interop process to incorporate these motions and to remove a demonstration of the interop at the RSA Conference.
+  * Tony C will make the updates to the Interop process and draft a timeline for the Interop and bring them to the TC for review
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: April 22, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry S (Fornetix)
+
+== Motion to Adjourn ==
+ * Tim C moves, and Jerry S seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:26 US-EST ==

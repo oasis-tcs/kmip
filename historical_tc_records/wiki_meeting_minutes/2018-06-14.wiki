@@ -1,0 +1,74 @@
+## page was copied from MeetingMinutes/7Jun2018
+## page was copied from MeetingMinutes/31May2018
+## page was copied from MeetingMinutes/17May2018
+## page was copied from MeetingMinutes/3May2018
+= Meeting Minutes 14 June 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (June 7, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * PGP Key Removal
+  * Cryptographic Usage Mask (Export Removal)
+  * Full Async
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action Items Discussion
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Jerry S seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from June 7, 2018 =====
+ * Tim C moves, Jerry S seconds, No objections, abstentions, or comments. minutes for the June 7, 2018 meeting approved
+
+== RSA 2019 Interop ==
+ * Official sign-up period has closed
+ * Tony C is waiting to hear from Jane H regarding how many slots were reserved.
+
+== KMIP 2.0 ==
+=== Removal of PGP Keys ===
+ * John L reviewed the [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63205|Removing PGP Keys]] in KMIP 2.0 proposal.
+ * The proposal included deltas for the KMIP Specification and Usage Guide
+ * During the discussion it was also noted that the test cases for PGP Keys will need to be removed from the Test Case document as well.
+ * John L also proposed adding a new section to the Usage Guide to cover migration of PGP Keys (used in 1.x) and to an Opaque object (in 2.0)
+ * Tony C asked if we needed a test case to cover migration of PGP Keys to Opaque objects.  Some discussion but no concensus as to whether a migration test case should be developed.  Judy F asked whether there are other changes in KMIP 2.0 that warrant migration test cases.
+ * Tony C also provided an update on the action he gave to the TC last week to see if any of their respective customers use PGP Keys.  Tony did find some customers that use PGP Keys and he has asked them to post any concerns/objections to removing them as managed objects in KMIP 2.0 to the KMIP reflector.
+ * Chuck said he also knows of customers that use PGP Key with KMIP, but these customers do not use the PGP Key managed object
+ * Mark J suggested that a profile to show how to use Opaque object to manage PGP keys could be added in KMIP 2.0.
+ * Given the complexity of the issue, Tony C suggested that the TC spend more time considering which is the correct approach and revisit this topic in a future KMIP TC meeting.
+
+=== Cryptographic Usage Mask (Export Removal) ===
+ * Mark J discussed his very simple (but elegant) [[http://www.oasis-open.org/apps/org/workgroup/kmip/download.php/63230/EditChangesToRemoveEditUsageMask.pdf|Export Removal proposal]]
+ * No objections or concerns with the proposed changes to the Spec were raised by the TC
+ * Tony C and Chuck W will include this in the next revision of the KMIP 2.0 Spec
+
+=== Full Async ===
+ * Jerry S walked though the [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/63216/kmip-spec-v2.0-wd03-Async.pdf|proposed KMIP Spec changes]] to support Full Async
+ * Jerry noted that the Usage Guide will need new content to describe how to do a query in the full async case
+ * Tim H raised a concern that the proosed Spec changes did not fully reflect the F2F discussion where the server behavior must reflect the setting of async or sync that the client provided.  Need to turn this into an enumeration (not just a boolean) since we need to support all async, all sync or a mix.  Enumeration would be all and partial with extensions explaining what partial means in particular context.
+ * Tim H and Mark J will work with Jerry S to enhance the proposal per this discussion and resubmit it.
+
+=== KMIP 2.0 Proposal Review ===
+ * Tony C noted that he was working on the Cryptographic Usage Mask proposal which is due tomorrow
+ * Tony C also noted that there are a number of proposals due at end of the June and asked folks to remember to check the [[https://wiki.oasis-open.org/kmip/2.0|2.0 list on the Wiki]] for due dates for proposal for which they are the owner.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next meeting: 21 June 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * None
+
+===== Motion to Adjourn =====
+ * Tim C mvoes and Tim H seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:38 US-EST ==

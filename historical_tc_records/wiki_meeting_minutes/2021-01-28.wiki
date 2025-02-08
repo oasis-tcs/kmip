@@ -1,0 +1,40 @@
+= Meeting Minutes January 28 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Greg moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from January 14, 2021'''
+
+ * Tim C moves, Greg seconds. No objections, abstentions, or comments. Minutes for the January 14, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== Ephemeral return payload ===
+ * Comment was received about the return payload for ephemeral transactions and was responded to by Tim H. 
+ * Tony C created a spec delta that removes the word "data" from the ephemeral request batch item in section
+ * There was no other questions or comments.
+ * Tony C and Tim H will work on a formal spec delta.
+ 
+== KMIP Summit ==
+ * Current target date is early April.
+ * No topic lists have been received at this time. Tony C requested that topics be sent in.
+  
+== New Business ==
+ * None
+ 
+== Next Meeting ==
+ * Meetings are moved to fortnightly given the current cadence. 
+ * Next TC Meeting: February 11, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Bruce, Ed
+
+== Motion to Adjourn ==
+ * Tim C moves and Bruce seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:13 US-EST ==

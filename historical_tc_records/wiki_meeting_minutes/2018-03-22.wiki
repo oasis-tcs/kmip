@@ -1,0 +1,74 @@
+## page was copied from MeetingMinutes/15Mar2018
+## page was copied from MeetingMinutes/1Mar2018
+## page was copied from MeetingMinutes/22Feb2018
+## page was copied from MeetingMinutes/15Feb2018
+## page was copied from MeetingMinutes/8Feb2018
+= Meeting Minutes 22 March 2018 =
+== Meeting commenced 17:02 PM US-EST ==
+ * Roll call (Tony C)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (March 15, 2018)
+ * Interop Status (Tony C)
+ * Interop Booth & Presentations (Tony C)
+ * KMIP 2.0
+  * KMIP 2.0 Specification WD03 Discussion (Tony C)
+ * KMIP TC F2F Meeting (April 2018)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve March 15, 2018 meeting minutes =====
+ * Tim H moves, Matt O seconds, No objections, abstentions, or comments. Minutes approved
+
+== Interop Status ==
+ * Formal interop testing has been on-going this week.  Some participants have already completed testing
+ * To be confirmed, but it looks like all participants have met minimum criteria for participating in the booth at the RSA Conference
+ * Testing has also shown good coverage on new KMIP 2.0 capabilities
+
+== Interop Booth & Presentations ==
+==== Booth (RSA 2018) ====
+ * Have final booth layout and its not quite what the TC voted on.  Have been told there is no ability to change the booth layout at this point.
+ * TC requested that the TC co-chairs inform OASIS that the TC is unhappy that the booth layout was changed from their recorded wishes without consulting the TC and that we would like to ensure that paying members are able to get what they ask for in future events.
+ * It was also suggested that the TC do an after event review and record and share all concerns and complements with OASIS staff.  This will be a good F2F agenda topic.
+
+==== Booth (RSA 2019) ====
+ * Jane Harnad sent an email today soliciting participation in an OASIS booth for the RSA 2019 Conference.
+ * There were multiple concerns with this message
+  * It was premature -- OASIS TCs need to vote on whether they plan to have an interop event at RSA 2019 and what the nature of this event will be.  The timeline in the message is not allowing for sufficient time for the various TCs to vote.  KMIP TC normally makes this decision after the RSA Conference has concluded.
+  * The referened Interoperability policy has not been approved by the OASIS board
+  * Participants in multiple TCs have received the exact same email from OASIS -- this should not have been a 'mass' email and should have been better tailored for each TC.
+
+==== Presentations (RSA 2018) ====
+ * Tony C is still working on the presentations and hope to have copies out to the TC in the next few days.
+ * Tony C made one final request for content contributions
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Specification ===
+ * Tony C asked if there were anything to discuss on the most recent WD3 --- no one raised any issues
+
+== KMIP TC F2F Meeting (12-13 April 2018) ==
+ * Tony C and Alan B are working on logistics for allowing the KMIP TC members to access the Thales facility
+ * If anyone is planning to attend the F2F in person and did not participate in the straw poll, please send email to Judy F and Tony C so that you can be added to the in-person attendee list.
+ * Some agenda suggestions have been forwared to the co-chairs and Tony C encouraged folks to send on their agenda ideas, especially for items to be included in KMIP 2.0 since we plan to close on that version's content at the F2F
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * No meeting next week (March 29, 2018) since it is Good Friday
+ * Next meeting April 5, 2018
+
+== Call for late arrivals (Tony C.) ==
+ * Two Members
+
+===== Motion to Adjourn =====
+ * Tim H moves, Greg S seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:24 US-EST ==

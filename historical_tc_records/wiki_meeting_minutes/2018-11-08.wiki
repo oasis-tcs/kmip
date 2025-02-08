@@ -1,0 +1,90 @@
+= Meeting Minutes 8 November 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (November 01, 2018 )
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Result Reason Code -- Spec Edit Update (Tony C)
+  * Client Reprovisioning - Revisit Proposal (Chuck W & John L)
+  * WD06 inc HKDF (Tony C)
+  * Profiles & Profiles vs Spec (precedence) (Tim H & Mark J)
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action Items Discussion
+ * List comment from Conrado Gouvêa
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Chuck W moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from November 1, 2018'''
+
+ * Tim H noted there is a is a typo (frm) in the minutes that needed to be correct.  Judy F will fix the typo in the online copy of the minutes
+
+ * Tim H moves, Chuck W seconds, No objections, abstentions, or comments. Minutes for the November 1, 2018 meeting approved.
+
+== RSA 2019 Interop ==
+ * One interop spot is still open in the booth for RSA 2019. OASIS is closing on the booth mid-next week, so this is the last chance if you are interested in participating in the OASIS booth.  Please contact Jane or Tony for information.
+
+== KMIP 2.0 ==
+=== Result Reason Code -- Spec Edit Update (Tony C) ===
+ * Mark J found one error in the Result Reason Code changes in the KMIP 2.0 Spec WD5 which he posted to the reflector.  Tony C will correct the issue in the next Spec WD.
+
+'''Motion to accept the changes to the KMIP 2.0 Spec reflecting the streamline incorporation of the Result Reason Code proposal'''
+
+ * Mark J moves, Tim H seconds, No objections, abstentions, or comments.  Motion approved.
+
+=== Client Reprovisioning - Revisit Proposal (Chuck W) ===
+ * Chuck posted an [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64181|Update to the Client Reprovisioning proposal]]which simplifies the changes by leveraging the Batch operation as discussed in last week's meeting.
+ * Tim H noted two issues with the current proposal
+  * Response payload is the Unique Identifier
+  * Username and password credential in the request payload should be the ones in the request header
+ * Both of these changes are more editorial in nature so Chuck W will post another update to the proposal to correct these issues and Tony C will roll the changes into the next WD of the KMIP 2.0 Spec.
+
+'''Motion to accept the changes to the KMIP 2.0 Spec as outlined in the Client Reprovisioning proposal and amended with the changes noted above'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.  Motion approved.
+
+=== KMIP 2.0 Spec WD06 inc HKDF (Tony C) ===
+ * Tony C uploaded [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64209|WD06 of the KMIP 2.0 Spec]] to the OASIS site
+ * This WD includes the HKDF changes discussed at last week's meeting.  Mark J requested time to review the HKDF changes before we vote to include these.
+ * Tony C will start working on WD07 incorporating the remaining approved proposals and will strive to post this to the OASIS site early next week to give the TC time to review prior to next week's meeting.
+
+=== KMIP v2.0 Profiles (Tim H) ===
+ * Tim H noted that the edits to the Profiles document is progressing  but given the number of test cases it is a slow process.  He presently doesn't have a timeframe as to when he will finish, but does realize that the Interop is coming up soon and this will need to be completed.
+
+=== KMIP Precedence & Protect Stop Date (Tim H, Mark J) ===
+ * Mark J posted an discrepancy between what the KMIP Spec says about Protect Stop Date (applies only to symmetric keys) and the KMIP Profiles document which has a mandatory test case which applies Protect Stop Date to an asymmetric key pair.  The question is which takes precedence (profiles or spec)
+ * Tim H noted that conformance clauses such as define precedence.  Profiles could overwrite the Specification, normally they narrow the interpretation
+ * Tim H further noted, that this specific issues with Protect Stop that is actually an error in the Spec and recommended that it should be fixed KMIP 2.0 so that it is not limited to just symmetric keys, but to anything that can execute an encrypt/decrypt.  Tim H suggest we check the NIST document where protect applies to both integrity and confidentiality) for the full list.
+ * Chuck W will post the information from the NIST documents to the reflector and Tony C will incorporate the changes into the next WD of the KMIP 2.0 Spec.
+
+=== KMIP v2.0 Content Items Review ===
+ * We have bottomed out the actions
+
+== List comment from Conrado Gouvêa ==
+ * Co-Chairs sent email to Conrado requesting additional information.  Still awaiting a response from Conrado.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next Meeting: 15 November 2018
+ * Meeting on 22 November 2018 will be cancelled due to the US Thanksgiving Holiday
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim seconds, No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:24 US-EST ==

@@ -1,0 +1,72 @@
+= Meeting Minutes November 05, 2015 =
+== Meeting commenced 21:00 GMT ==
+ * Roll called by Saikat Saha (Saikat)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda 
+ * Approve minutes 
+ * KMIP 1.3 Status 
+ * KMIP 1.4 Status 
+ * NIST800-57 Comments (Chuck White) 
+ * New business 
+
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) Moves
+ * Tim Chevalier (Tim C.) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve October 29, 2015 meeting minutes ==
+ * Tim C.  Moves
+ * Tim H. Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+ 
+== KMIP 1.3 Status (Saikat) ==
+ * Reformat of the Cabinet Profiles 1.3 document (Tim H.)
+ * Will add comments review to next meeting (Saikat)
+ * Specification is in process and should be done by next week (Tony Cox)
+ * Begin closing off 1.3 after completion of two documents
+ 
+== KMIP 1.4 Status (Saikat) ==
+ * Anthony Berglas working on changes he will present next week
+ 
+== NIST SP800-57 Comments (Saikat) ==
+ * Section 4.21 Active key to Destroyed state verbiage clarification (David Featherstone)
+  * Last sentence in section 4.21 needs to be updated or removed in next version
+ * NIST published SP800-152 (Tony C.)
+  * Check on status of NIST authentication mechanisms (Bob L. & Tim H.)
+  * Push back on Suspended to ensure that only last change to Suspended status be included in key meta-data (Bob L.)
+  * NIST SP800-152 interaction with NIST Tony C. to lead with Bob L. assistance
+ 
+=== Motion to remove Active to Destroyed sentence in section 4.21 ===
+ * Tim H. moves to remove the last sentence from section 4.21 Destroy
+ * Bob L. seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== Interop Status (Tony C.) ==
+ * Joint PKCS11/KMIP call invitations sent out from OASIS for next week
+ 
+== Action Items ==
+ * All to provide feedback on uploaded revised 1.3 Profiles document
+ * Anthony Berglas upload proposal for next weeks meeting for KMIP 1.4
+ * Tony C. to remove sentence in specification on Activate to Destroy transition
+ * Tony C. and Bob L. to work with NIST on SP800-152 clarifications on key manager requirements
+
+== Call for late arrivals - Saikat ==
+ * One additional attendee
+ 
+== Motion to Adjourned ==
+ * Tim H. Moves
+ * Tim C. seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 21:23 GMT =

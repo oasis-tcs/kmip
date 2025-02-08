@@ -1,0 +1,279 @@
+= KMIP TC meeting 17th April 2015  Face to Face Day 2 =
+
+== Agenda ==
+·         '''Motion''' to approve today’s agenda
+
+o   Gerald.S moves
+
+o   Tim.H seconds
+
+o   No objections, abstentions or comments
+
+== Minutes ==
+·         '''Motion''' to accept minutes from yesterday
+
+o   Gerald.S  moves
+
+o   Anthony.B seconds
+
+o   No objections, abstentions or comments
+
+== ·         '''Presentation''' – Tim.H – Error Handling ==
+
+o   Tim.H should be give the reason code and everywhere it applies. Will this simplify?
+
+o   Gerald.S  asked if re-ordering table would help?
+
+o   Tim.H said he is highlighting the issue and asking for anyone to step forward to look at this.
+
+o   We have a standard set of error codes…but they are not being consistently applied?
+
+o   Tony.C asked if we should add rather than deprecate.
+
+o   Bruce.R said we have drifted a lot from 1.0 onwards
+
+o   Anthony.C asked if we should have reason codes at all, just have good string messages
+
+o   Bruce.R, Tim.H agreed that string messages are not good
+
+o   Chuck.W suggested that it would be good for a TC veteran and a TC newcomer will work together to clean this up, thereby ensuring that both sides of the views on the codes are covered.
+
+o   Chuck.W suggested maybe this will be OK for 2.0
+
+o   Tim.H said we can have both new and old codes in 1.4 i.e. can be done now
+
+o   Tony.C proposed error handling profile to do ‘negative testing’
+
+o   Chuck.W asked if we are looking at Clarity or Conformity issues. Tim.H stated that the issue as raised by Saikat.S is clarity.
+
+o   Tim.H clarified this is focus on the fact that misconfigured implementations do not get clarity from the error codes.
+
+=== ·         ''Action Point'' ===
+
+o   Richard.F believes error codes very important, and offered to be the newcomer to work with a veteran to work on proposals. Bruce.R offered to work with Richard.F on this. Bruce.R and Richard.F will provide an ETA on this work by our next meeting in two week’s time.
+
+== ·         '''Presentation''' – PKCS#12 Key Format Type Proposal – Bob Lockhart ==
+
+o   Tim.H is this just a key format change not an object?
+
+o   Tim.H need test cases etc. for this.
+
+o   John.L asked if key format is correct way to do this
+
+o   Anthony.B said there is a simple way (that can later be expanded) or a complicated way (that can take too long). Bob.L believed that the simple can always be expanded and is the way to avoid problems PGP had with taking the complicated way first.
+
+o   Export PKCS12 operation
+
+§  Tim.H asking if we should have new link type? Or walk the existing links.
+
+§  Bob.L said we need to support both use cases
+
+§  John.L expressed preference for new link types, Bruce.R was either way.
+
+§  Bob.L said the more we scale out, the more important a new link type is NB
+
+§  John.L said if link type is specified…use it. If no link type specified…then follow the algorithm that is present. If no links at all, then we would get a failure. Consensus on this in the room.
+
+o   Agreement: If no link type specified…then follow the algorithm that is present. If no links at all, then we would get a failure. Consensus on this in the room.
+
+=== ·         ''Action Point'' ===
+
+o   Chuck.W and Gerald.S  to document additional use case Private Key with multiple certificates for P12 exports
+
+o   Chuck.W and Gerald.S  and Steve to document additional use case for P12 import
+
+== ·         Interop update: ==
+
+o   Tony reported on interop. Still collating results. Hopes to have those approved by participants before start of the show.
+
+o   The five participants in the room agreed that we are good to go for interop at the RSA show.
+
+== ·         '''Presentation''' – Non-TLS Transports – Mark.J, Anthony.B ==
+
+o   Bob.L says that pre-shared keys and moving them around can be difficult
+
+o   Bob.L likes nesting solution
+
+o   John.L asked if pre-shared keys for each server-client relationship. Answer was yes.
+
+o   Tim.H said that even though we don’t have a specific problem to solve with this, the question is should we do this now to prevent future attacks.
+
+o   Bob.L asked if we can do key-distribution as a profile. Seemed to be general consensus.
+
+o   Slide – Server to Client
+
+§  Tim.H said that we have already defined a query that will return the information for the two connection option
+
+§  Richard.F liked the one connection option. Good for cloud etc. Chuck.W agreed.
+
+§  General consensus that two-connection not the preferred option.
+
+o   Slide – WebSockets
+
+o   Slide – Compressions
+
+§  Tim.H does not like Gzip as an option. Better to keep things leaner within the protocol rather than layer compression on top to solve the protocol verbosity.
+
+o   Slide – Summary
+
+§  Message level encryption is of interest
+
+§  Bi-directional is of interest; Uni-directional is what is currently done.
+
+·         Richard.F pointed out there may be issues in his context if two connections are required. Their normal usage is always a single connection which implies that if they wanted to do server to client then bi-directional is actually required
+
+·         Compression – no great interest
+
+== ·         '''Presentation '''– Update of TR-31 enumerations – Bob.L ==
+
+o   Bob.L looking for the three missing enumerations from TR-31 to be included into the specification
+
+o   Motion made to add the three missing enumerations from TR-31 to be included into the specification:
+
+§  Tim.H moved
+
+§  Bruce.R seconded
+
+§  No objections, abstentions or comments
+
+== ·         '''Presentation''' – Cloud/Groups – Tim.H/Saikat.S ==
+
+o   Deferred to next meeting
+
+== ·         '''Presentation''' – Managed Object Import/Export – Anthony.B ==
+
+o   Slide – Use Cases
+
+§  Tim.H said we are missing a use case of one vendor being removed…being replaced by another vendor i.e. vendor transition
+
+o   Slide – Technical Challenges
+
+o   Slide – Basic Pull OK
+
+§  John.L questioned whether we are assuming that we have rights to do the actions proposed here. The answer is yes, this is the assumption. This issue is dealt with in ACL.
+
+o   Slide – Basic Push – Almost OK
+
+o   Slide – Unique Object ID
+
+§  Tim.H said, we can use the UUID and then look-up the object
+
+§  Bruce.R was concerned that database schemas could conflict and this could cause issues
+
+§  Bob.L made the point that he has a very strong opinion that URI should is  desirable
+
+o   Slide – Read Only Attributes
+
+§  Bruce.R said, state attribute calculated from other attributes that have already been set
+
+§  Bob.L said that you only want originating server to maintain sate, then you will have lots of problems if it goes away.
+
+§  BruceR said in new export /import state does not come across so state not relevant. TimH disagrees.
+
+§  Tim.H principal is that the answer before the server upgrade and after the server is upgraded (replaced) is the same, and that the state is used just as check.
+
+§  Tim.H said we shouldn’t use just one import operation, we still need to have keep the existing operations
+
+o   Slide – Summary – Part 1
+
+§  Yes these areas are of interest and will work on this  (Judy.F, Bob.L, Bruce.R, Tim.H, Chuck.W)
+
+§  Who will work on this (Chuck.W, Gerald.S , Bruce.R)
+
+o   Slide – Server Managed Object
+
+o   Slide – Unique Names
+
+§  Steve.W said that from his perspective is that the client not the server ensures unique name (by appending serial numbers etc.)
+
+§  Tim.H said that most names are not unique because they are ‘easy human readable’ names. Tape may have fixed this problem e.g. By appending the unique number of the tape. Bob.L agreed that this is a problem. i.e. that the name field in KMIP should be unique and be able to identify where it comes from.
+
+§  Richard.F likes the URI concept
+
+§  Debate over whether the server name/id is contained in the URI
+
+§  Tim.H said that the field should be Client created unique identifier…but currently used for human nickname
+
+§  QUESTION: What problems are we looking to resolve in specific use cases;
+
+·         Need to define these rather than argue why specific potential solutions do not work for the corner cases.
+
+·         This is a key federation problem
+
+o   Slide – Objects can bounce around networks
+
+o   Slide – Conflicts and Integrity
+
+§  How do we resolve conflicts
+
+§  How do we maintain integrity
+
+o   Slide – Attribute
+
+o   Slide – Attribute History
+
+o   Slide – Multi-Instant Attributes
+
+§  This can be a big issue in distributed environments
+
+§  Proposed solution is to remove the index…get rid of attribute index
+
+§  Do we need multi-value…Yes because it is being used in the wild
+
+o   Slide – Multi-Instant Attributes
+
+§  Proposed solution is to remove the index…get rid of attribute index
+
+§  Tim.H said only instances where the attribute index is used: modify and delete attribute
+
+o   Slide – SetAttribute Operator
+
+§  History on set attribute could be handy to use to track
+
+§  Bob.L said could be used, but each attribute requires different dates that can be taken from the history i.e. create date; moved date
+
+§  Bob.L said conflict resolution can be a big issue for this topic i.e. first date or last date…different instances require different dates
+
+o   Slide - Links – Referential Integrity
+
+o   Slide – Back Links
+
+o   Slide – Links Continued
+
+o   Slide – Deleted
+
+§  Judy.F stated that setting to Null is different to delete(malformed issue vs attack)
+
+o   Slide – Increment Operation
+
+o   Slide- Re-key, Re-certify
+
+§  Tim.H mentioned additional usage guide material on the dangers of doing name based lookups for decryption keys
+
+o   Slide – Change Re-Key, Re-certify
+
+o   Slide – Federate Permission Model
+
+o   Conclusion: We will discuss the viewpoints on these slides in two meetings time i.e. first meeting in May 2015.
+
+== ·         '''Other business''' ==
+
+o   n/a
+
+== Minutes ==
+·         '''Motion''' to approve minutes
+
+o   Bruce.R moved
+
+o   Chuck.W seconded
+
+o   No objections, abstentions or comments
+
+== Adjournment ==
+·         Motion to adjourn 15:13 Pacific Time
+
+o   TimH moved
+
+o   ChuckW seconded
+
+o   No objections, abstentions or comments

@@ -1,0 +1,53 @@
+= Meeting Minutes November 17 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (October 20, 2022)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Schedule for End of Year Meetings
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from October 20, 2022'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the October 20, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S has made some progress on the next working draft of KMIP 3.0 Specification document.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H has made some progress on the KMIP 3.0 Profiles/Test Cases.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy has made some progress on WD2 of the KMIP 3.0 Usage Guide.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: December 1, 2022
+
+== Schedule for End of Year Meetings ==
+ * December 29 meeting is cancelled.
+
+== Call for Additional Attendees (Greg) ==
+ * Jerry Stueve
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:12 US-EST ==

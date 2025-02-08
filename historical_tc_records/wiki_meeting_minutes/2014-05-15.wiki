@@ -1,0 +1,49 @@
+= Meeting Minutes May 15, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Subhash Sankuratripati (Subhash)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Secure Nist Attributes - Chuck White (Chuck W.)
+ * Follow up on Locate Enhancements - Tim Hudson (Tim H.)
+ 
+=== Motion to approve Agenda ===
+ * Tim H. Moves
+ * Chuck W. Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+ 
+== Secure Nist Attributes - Chuck W. ==
+ * [[https://www.oasis-open.org/committees/document.php?document_id=53026&wg_abbrev=kmip|Protecting Security Attributes]]
+ * Security Attributes that need protection using custom attributes as guidance
+ * Wrap & Unwrap during get or query or upon use by KMS system? Saikat Saha (Saikat)
+ * They want to know that attributes are protected at rest and in transit and viewing versus client only access is based on user implementation
+ * Attributes that are not to be viewed on server should either be wrapped with key object by device generating or wrapping the key (application implementation issue) - Bob L.
+ * Primarily focused at keys in transit an to a smaller extent in storage
+ * We can define a mechanism that allows wrapping in a specific way for attributes that require security at rest or in transit as part of the specification, everything else is profile work - Bob L.
+
+== Locate Enhancements - Tim H. ==
+ * Discussion ongoing on mailing list with potential simple to implement change
+ * Offset proposal posted by Mike Yoder [Locate Offset Proposal:
+ * Options for non-reordering of data - John Lieseboer (John L.)
+ * Simple addition of offset to move it forward
+ * Plan for ballot to move it forward next week
+ 
+== Next weeks proposed agenda ==
+ * Review of comments from open review - Tony Cox (Tony C.)
+ * Time permitting follow up on Deprecation - Bob L. / Tim H.
+
+=== Action Item ===
+ * Tony C. to notify a couple of days in advance if ready or cancel meeting
+
+== Call for late arrivals - Subhash ==
+ * No new attendees
+ 
+== Motion to Adjourned ==
+ * Tim Moves
+ * Chuck seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+= Meeting Adjourned at 8:34PM GMT =

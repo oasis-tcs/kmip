@@ -1,0 +1,127 @@
+## page was copied from MeetingMinutes/4Oct2018
+= Meeting Minutes 11 October 2018 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (October 4, 2018 )
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Profiles (TimH)
+  * Cryptographic Usage Mask (Tony C & Chuck W)
+
+  * Full Async - Spec Delta (Gerry S)
+  * Result Reason Code - Spec Delta (Anthony B.)
+
+  * Flow Control - Spec Delta (Gerry S)
+  * Client Reprovisioning - Revisit Proposal (Chuck W & John L)
+
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action Items Discussion
+
+ * List comment from Conrado Gouvêa
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Greg S moves, Tim C seconds, No      objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from October 4, 2018'''
+
+ * Tim H moves, Jerry S seconds, No      objections, abstentions, or comments.       Minutes for the October 4, 2018 meeting approved.
+
+== RSA 2019 Interop ==
+ * One interop spot is still open in the booth for RSA 2019.      Please contact Jane, Dee or Tony if you are interested in participating in      the OASIS booth.
+
+== KMIP 2.0 ==
+=== Profiles (Tim H) ===
+ * Tim H posted the first working draft of the [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64061|KMIP 2.0 Profiles]] document along with a summary of the changes since KMIP 1.4.
+
+ * Tim H provided an overview of the Profiles document to the TC.
+ * Tim H noted that the structural changes in KMIP 2.0 Spec have made writing the Profiles easier.
+ * Tim H suggested folks look at section 3.1 where the Base Authentication Suite is covered.  This includes the detailed TLS 1.3 changes and the associated cipher suites.  For servers, TLS 1.3 shall be support and TLS 1.2 may be supported.   For clients, TLS 1.3 may be supported and TLS 1.2 must be supported.
+  * Sue G noted it may be more difficult for things that require firmware updates (e.g. tape drives) to move quickly to TLS 1.3.
+  * Tim agreed and noted that is why he went with the softer requirements on the KMIP clients.
+
+ * PQC Profile will be renamed in next working draft to Quantum Safe Profile.  It will add a few new algorithms and some of the algorithm changes will need to be incorporated into the KMIP 2.0 Spec.
+ * The TC is encouraged to review the Profile document and provide feedback to Tim H via the reflector.  We will revisit the Profile at the next TC meeting.
+
+=== Cryptographic Usage Mask (Tony C) ===
+ * Tony C posted the KMIP 2.0 Spec Updates for [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64067|Cryptographic Usage Mask]]
+
+ * Tony C noted that he reviewed the F2F and TC meeting minutes where Cryptographic Usage Mask was discussed and made edits to the Spec with the focus on removing unused usages and clarifying the remaining usages.
+ * Tim C noted that secret data objects like passwords are not covered.  Some TC discussion ensued.  TC decided to add additional usages for Password and another ‘catch all’ called Unrestricted/Other
+ * TC will revisit this proposal at next week’s meeting to give folks time to review and provide other comments.
+
+=== Full Async (Jerry S) ===
+ * Jerry S uploaded the KMIP 2.0 Spec Updates for [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/64064/kmip-spec-v2.0-wd03-draft-asynch-changes.pdf|Full Async]]
+
+ * Jerry S took the TC through the changes to the Spec.  With this revision, Jerry S went with a vocabulary change which did a much better job of clarifies the changes that were discussed at the F2F.
+ * Tim H agreed that the proposal it is much clearer than the previous revision.
+
+'''Motion to include the changes to the KMIP 2.0 Spec as noted in the Full Async proposal'''
+
+ * Greg S moves, Jerry S seconds, No      objections, abstentions, or comments.  Changes will be included in the next KMIP      2.0 Spec working draft.
+
+=== Flow Control (Jerry S) ===
+ * Jerry S posted KMIP 2.0 Spec change for [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/64066/kmip-spec-v2.0-wd03%20-%20draft%20flow%20control.pdf|Flow Control]]
+
+ * Jerry S also went with a vocabulary change in describing what the end points are doing to clarify the flow control concepts.
+ * Tim H and Tony C both commented on the simplicity and clarity of the changes
+ * Tim H noted that it will make the Notify and Push profiles easier to write and to test.
+
+'''Motion to include the changes to the KMIP 2.0 Spec as noted in the Flow Control proposal'''
+
+ * Tim H moves, Tim C seconds, No      objections, abstentions, or comments.  Changes will be included in the next KMIP      2.0 Spec working draft.
+
+=== Result Reason Code - Spec Delta (Tim H channeling Anthony B) ===
+ * Anthony B posted the KMIP 2.0 Spec updates for the [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/64060/kmip-spec-v2.0-wd03-AdditionalResultReasons.pdf|Error Result Reason]] codes
+
+ * Anthony B leveraged interop test data to develop the new error result reasons.  The result reasons are more informative and are tailored for the action and context in which they are generated.
+ * The changes should make it easier for folks to implement KMIP and to debug interop results.
+ * Tim H noted, that he felt none of the new reason codes leaked sensitive information to a potential attacker.
+ * Tony C expressed his thanks to Anthony B for his effort on this proposal and noted that improving error codes has been a long term desire of the TC.
+ * Jerry S commented on the extensiveness of the changes.
+ * Tim H noted that the changes impact the Test Cases and Profiles and existing KMIP implementations.
+ * The TC is encouraged to review the changes and provide the feedback to Anthony B via the reflector
+ * The TC will revisit and vote on the proposal at next week’s meeting.
+
+=== Client Reprovisioning - Revisit Proposal (Chuck W & John L) ===
+ * Deferred since Chuck W and John L were not in attendance
+
+=== KMIP 2.0 Proposal Review/KMIP 2.0 Schedule ===
+ * Tim H updated wiki to reflect the proposals reviewed and voted on today.
+ * In reviewing the wiki, there are two outstanding proposal:
+  * Protection Storage Security proposal from Bruce R
+  * Client Reprovisioning Proposal from Chuck W and John L
+
+ * Tony C has replotted the schedule based on TC Admin process and presently it appears that publication of KMIP 2.0 Spec would be in April 2019
+ * Tony C noted that he would like to have KMIP 2.0 locked down for the RSA 2019 Interop
+  * This would require that Tony C and Chuck W would need to get the next Spec revision out to TC review within the next two weeks.
+  * In addition, the TC will need to close on all new proposals for KMIP 2.0 inclusion at next week’s meeting.
+
+ * Judy F noted that we’ll need to inform the three folks with outstanding proposal of this plan since none are on the call today.
+  * TC Chairs will reach out to the three proposal authors to check on the status of the proposals and their plan for attendance at next week’s meeting
+
+== List comment from Conrado Gouvêa ==
+ * Co-Chairs still need to request more information from Conrado      (Use Case, Operations used, etc.)
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next Meeting: 11 October 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves, Greg S and Tim C both      second. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:51 US-EST ==

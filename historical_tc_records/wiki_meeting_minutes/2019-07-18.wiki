@@ -1,0 +1,77 @@
+= Meeting Minutes 18 July 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (July 11, 2019)
+ * KMIP 2.0
+  * SoU Review
+ * KMIP v1.4 Errata (Tony C)
+ * KMIP 2.1
+  * Review proposals
+  * Review wiki
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from July 11, 2019'''
+
+ * Tim C moves, Chuck W seconds. No objections, abstentions, or comments. Minutes for the July 11, 2019 meeting approved.
+
+== KMIP 2.0 (Tony C) ==
+ * CryptSoft (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65609), P6R (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65613) and Semper Fortis (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65652) have all posted KMIP 2.0 SoUs to the OASIS site.  So the TC now has the minimum three SoUs from companies that participated in the RSA 2019 Interop event to progress the KMIP 2.0 Specification and Profiles documents along the OASIS Standards track.
+
+'''Motion for the TC to approve the KMIP 2.0 SoUs submitted by CryptSoft, P6R and Semper Fortis.'''
+
+ * Greg S moves, Chuck W seconds. No objections, abstentions, or comments. KMIP SoUs submitted by CryptSoft, P6R and Semper Fortis are approved.
+
+ * The next step is for the TC to make a motion to request that TC Admin to setup a special majority vote for progressing the KMIP 2.0 Specification and Profiles documents to an OASIS Standard vote.
+
+'''Motion to approve the KMIP TC Co-Chairs requesting that TC Administration hold a Special Majority Vote to approve submitting KMIP Specification v2.0 (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65550/kmip-spec-v2.0-cs01.html) and KMIP Profiles v2.0 (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65551/kmip-profiles-v2.0-cs01.html) Committee Specifications as Candidate OASIS Standards.'''
+
+ * Chuck W moves, Tim C seconds. No objections, abstentions, or comments. Motion approved.
+
+== KMIP 1.4 Errata (Tony C) ==
+ * The TC co-chairs sent the required email to the reflector to indicate that no comments were received on the KMIP 1.4 Errata document during the public review.
+ * The TC now has to vote to approve the KMIP 1.4 Errata.
+
+'''Motion that the TC approve KMIP Specification v1.4 Errata 1 contained in https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65530/kmip-spec-v1.4-errata01-csprd01.html as an Approved Errata and make it available with the KMIP Specification 1.4 OASIS Standard.'''
+
+ * Jerry S moves, Mark J seconds. No objections, abstentions, or comments. Motion approved.
+
+== KMIP 2.1 ==
+ * TC revisited the four proposal that Bruce R presented at last week's TC meeting.
+  * Rights for Object Groups (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65607/latest/kmip-spec-v2.0-wd09-QueryDefaultsObjectTypes.pdf)
+  * Query Defaults (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65607/latest/kmip-spec-v2.0-wd09-QueryDefaultsObjectTypes.pdf)
+  * Query Defaults - Object Groups (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65606/latest/kmip-spec-v2.0-wd09-QueryDefaultsObjectGroups.pdf)
+  * Set Defaults (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65608/latest/kmip-spec-v2.0-wd09-SetDefaults.pdf)
+ * No additional comments on the proposals were raised so the TC agreed to move to accept these proposals.
+
+'''Motion to approve the Rights for Object Groups, Query Defaults, Query Defaults-Object Groups and Set Defaults changes and include these changes in the KMIP 2.1 Specification.'''
+
+ * Tim H moves, Jerry S seconds.  No objections, abstentions, or comments. Object Groups, Query Defaults, Query Defaults-Object Groups and Set Defaults updates approved.
+
+ * TC reviewed the KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1) to review and adjust the due dates for the proposals for KMIP 2.1.
+
+== New Business ==
+ * Tony C is still working on the response to John Major's email.
+ * Chuck W is still working on the response to the email asking about why TTLV encodings are no longer included in the Test Cases.
+
+== Next Meeting ==
+ * Next TC Meeting:  18 July 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry S (Fornetix), Sue G (Oracle), John M (QuintessenceLabs), Chris H (HPE)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:18 US-EST ==

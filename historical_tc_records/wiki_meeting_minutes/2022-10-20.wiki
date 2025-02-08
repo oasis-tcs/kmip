@@ -1,0 +1,59 @@
+= Meeting Minutes October 20, 2022 =
+== Meeting commenced 17:09 PM US-EST ==
+ * Roll Call (Greg Scott)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (October 6, 2022)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide 
+ * Cryptographic Usage Mask Questions posted to KMIP-Comments
+ * New Business
+ * Next Meeting
+   * Schedule for End of Year Meetings
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from October 6, 2022'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the October 6, 2022 meeting approved.
+
+== KMIP 3.0 Status Updates ==
+=== KMIP 3.0 Specification ===
+ * Greg S continues to work on the next working draft of KMIP 3.0 Specification document.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H has made no progress on the KMIP 3.0 Profiles/Test Cases in the last two weeks
+
+=== KMIP 3.0 Usage Guide ===
+ * Bruce R reviewed the references in the KMIP 3.0 Usage Guide WD1 and provided a summary of the references that were obsolete and needed to be updated. (See https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/202210/msg00004.html) 
+ * Judy F has started on WD2 of the Usage Guide updating the references.  Once this is complete, she will work on removing or marking outdated content (e.g., 3DES) from the UG.
+
+== Cryptographic Usage Mask Questions posted to KMIP-Comments ==
+ * The TC reviewed and discussed the question on Cryptographic Usage Mask that Alex Abell from Oracle sent to the KMIP-Comment distribution list.  (See https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/202210/msg00006.html)
+ * The KMIP Spec is actual silent with respect to the question that Alex/Alexis raised, but the TC agreed that we should consider providing more clarity on Cryptographic Usage Mask in KMIP 3.0
+ * Tim H will create a proposal that will be reviewed in a future TC meeting.
+ * The TC chairs will take care of responding to Alex/Alexis --- Thanking her raising the question, noting that the KMIP Spec is presently silent on the topic raised and that the KMIP TC is discussing if we need to change the Spec going forward.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * The TC agreed to cancel the meeting in two weeks (November 3, 2022) and reconvene on November 17, 2022.
+ * At the next meeting we will continue discussion on the TC meeting schedule over the upcoming holiday season.
+
+== Call for Additional Attendees ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:28 US-EST ==

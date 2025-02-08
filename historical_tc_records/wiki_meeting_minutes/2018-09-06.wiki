@@ -1,0 +1,72 @@
+= Meeting Minutes 6 September 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (August 23, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Cryptographic Usage Mask Spec Delta - Chuck W & Tony C
+  * Delegated Login - Tim H
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action items discussion
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from August 23, 2018 =====
+ * Tim H moves, Jerry S seconds, No objections, abstentions, or comments. minutes for the August 23, 2018 meeting approved.
+
+== RSA 2019 Interop ==
+ * OASIS folks are trying to fill the last one or two slots since some of the initial booth applicants didn't meet the conference organizer requirements.  If any company is interested in participating in the Interop Booth for RSA 2019 please contact Tony C and Jane H.
+ * Tony C also noted that he pinged the OASIS Board to ask them to please revisit the Interop topic and make a decision on the Interop rules.  The KMIP TC had provisional permission to use its standing rules for RSA 2018 pending the OASIS board decision.  Ideally an OASIS board decision would be needed this fall so this will not have to be repeat this process for RSA 2019.
+
+== KMIP 2.0 ==
+=== Cryptographic Usage Mask Spec Delta (Tony C) ===
+ * Tony C and Chuck W are going through the NIST specifications provided by Joe B and updating the KMIP Spec where feasible.  Final revisions will be shared with the TC in a future meeting.
+
+=== Delegated Login (Tim H) ===
+ * See [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63399|Delegated Login]] proposal
+ * Tim H walked the TC through the spec changes for this proposal.
+ * Tony C asked if an enumeration was need for the write operation.  Tim H answered that no write enumeration was required since there isn't a need to have different types of writes instead the proposal introduces a write structure which has three optional fields which get populated based on which write option is used.  New write options over time could expand this structure.
+
+===== Motion to approve the Delegated Login proposal and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Tim C moves and Tim H seconds, No objections, abstentions, or comments. Adjust Attribute updates approved.
+
+=== KMIP 2.0 Proposal Review ===
+ * See [[https://wiki.oasis-open.org/kmip/2.0|proposal status]]
+
+ * Tony C reviewed the KMIP 2.0 proposal status to see which proposals still needed to be reviewed or which needed to be revisited.  These will be scheduled on the agenda of the next few TC meetings.
+
+==== PGP Key Removal ====
+ * Tony C did raise that the PGP Key Removal Proposal needed to be revisited and it was decided to cover it in today's meeting.  In the F2F in April the TC entertained the suggestion to remove the PGP Key object from KMIP 2.0 under the assumption that no one used it.  Since that time customers of several vendors have come forward to note that they do use this object.  Given this situation it seems wise to reverse course and keep the PGP Key object in the KMIP 2.0 Spec.  A better solution can be revisited in a future KMIP revision.
+
+===== Motion to retain the PGP Key object in the KMIP 2.0 Spec =====
+ * Tim H moves and Jerry S seconds, No objections, abstentions, or comments.  PGP Key Object will not be removed in KMIP 2.0.
+
+ * Bruce R raised the point that PGP Key is a managed cryptographic objects and some of the other KMIP 2.0 proposas were written assuming that the PGP Key object was removed.  Tony C noted that he and Chuck W will consider this as they incorporate the other KMIP 2.0 proposals and inlcude PGP Key object references where appropriate.  This would be considered an editorial type change.
+
+== New Business ==
+=== TLS 1.3 ===
+ * Tim H noted that TLS 1.3 has now been issued by the IETF as an official RFC (See [[https://tools.ietf.org/html/rfc8446|RFC 8446]])
+ * The TC needs to consider whether to just allow the use of TLS 1.3 in KMIP 2.0 but to actual require its use.  The decision is tied as to when the KMIP 2.0 Spec will be published (Tony C noted this would would most likely be in Q119).
+ * Tim H also noted that the TC also needs to revisit the ciphersuites which are specificed in KMIP since there are different mandatory ciphersuites in TLS 1.3.  This change affects the Auhentication and Base Profiles.
+ * Tony C suggested that we put TLS 1.3 as an agenda topics of an upcoming meeting.  Tim H will prepare the Spec/Profile changes the result from TLS 1.3 support and present them to the TC.
+ * OpenSSL with TLS 1.3 support is scheduled for release next Tuesday, September 11, 2018
+
+== Next Meeting ==
+ * Next Meeting:  13 September 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * Thad R (Unbound), Indra F (MicroFocus)
+
+===== Motion to Adjourn =====
+ * Tim C move, Tim H seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:27 US-EST ==

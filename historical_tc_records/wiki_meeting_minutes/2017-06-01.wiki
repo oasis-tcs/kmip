@@ -1,0 +1,97 @@
+= Meeting Minutes 1 June, 2017 =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.), Quorum achieved
+ * Members present:
+  * Bereza, Andre - KRYPTUS
+  * Berglas, Anthony - Cryptsoft Pty Ltd.
+  * Corlett, Justin - Cryptsoft Pty Ltd.
+  * Cox, Tony - Cryptsoft Pty Ltd.
+  * Fitzgerald, Indra - Hewlett Packard Enterprise (HPE)
+  * Furlong, Judith - Dell
+  * Gardner, Gary - Fornetix
+  * Gleeson, Susan - Oracle
+  * Hillier, Christopher - Hewlett Packard Enterprise (HPE)
+  * Hudson, Tim - Cryptsoft Pty Ltd.
+  * Jain, Nitin - SafeNet, Inc.
+  * Joseph, Mark - P6R, Inc
+  * Kriese, Kathy - Symantec Corp.
+  * Lee, Sun-ho - Hancom Secure, Inc.
+  * Lockhart, Hal - Oracle
+  * Lockhart, Robert - Thales e-Security
+  * Mooney, Kevin - Fornetix
+  * Rich, Bruce - Cryptsoft Pty Ltd.
+  * Saha, Saikat - Oracle
+  * Scott, Greg - Cryptsoft Pty Ltd.
+  * Siravara, Radhika - Oracle
+  * Stueve, Gerald - Fornetix
+  * Thatcher, Jason - Cryptsoft Pty Ltd.
+  * White, Charles - Fornetix
+  * Wierenga, Steve - Hewlett Packard Enterprise (HPE)
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (May 11, 2017)
+ * KMIP 1.4 update (Tony C.) 
+  * Specification - PR Comments
+  * Specification - Next steps
+  * Profiles - Next steps
+  * Test Cases - Next steps
+  * Usage Guide - Next steps
+ * ICMC17 PQC presentation recap
+ * Next Meeting
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+== Motion to approve Agenda ==
+ * Tim moves, Gerry seconds, No objections, abstentions, or comments. Agenda approved
+
+== Motion to approve May 11, 2017 meeting minutes ==
+ * [[MeetingMinutes/May112017|May 11, 2017]]
+ * Tim H moves, Mark J seconds. No objections, abstentions, or comments. Minutes approved
+
+== KMIP 1.4 Update - Tony C ==
+=== KMIP 1.4 Spec - PR Comments (Tony C.) ===
+ * Tony walked through the comments and the proposed resolution.
+===== Motion to accept the proposed resolutions to comments raised in relation to KMIP Specification v1.4 CSPRD01 during the Public Review period. =====
+ * Tim Moves, Mark seconds.No objections, abstentions, or comments. Motion approved 
+
+=== KMIP 1.4 Spec- Next steps ===
+ * Noted that changes as a reult of PR are non-material changes (mainly editorial) and that some Normative references were also missing and should be added.
+ * With changes accepted as final - new version will be KMIP Specification v1.4 CSD02 revision 2 (kmip-spec-v1.4-csd02-r01.docx)
+===== Motion to approve KMIP Specification v1.4 CSD02 revision 2 =====
+ * Motion to approve the Co-Chairs requesting that TC Administration hold a Special Majority Vote to approve KMIP Specification v1.4 CSD02 revision 2 (kmip-spec-v1.4-csd02-r02.docx) contained in https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60900/kmip-spec-v1.4-csd02-r02.docx as a Committee Specification. I further move that the TC affirm that changes have been made since the last public review, that the changes made are documented in https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60898/KMIP-Specv1.4-CSD-PR-Comments-TC%20Response.pdf and that the TC judges these changes to be Non-Material in accordance with the definition in the OASIS TC Process.
+ * Tim H Moves, Mark J  seconds, No objections, abstentions, or comments. Motion approved
+
+=== KMIP 1.4 Profiles - Next steps ===
+ * No comments received during PR period.
+===== Motion to approve KMIP Specification v1.4 CSD02 revision 2 =====
+ * Motion to approve the Co-Chairs requesting that TC Administration hold a Special Majority Ballot to approve KMIP Profiles v1.4 CSPRD01 (kmip-profiles-v1.4-csprd01.docx) contained in http://docs.oasis-open.org/kmip/profiles/v1.4/csprd01/kmip-profiles-v1.4-csprd01.docx as a Committee Specification.
+ * Tim H Moves, Mark J seconds, No objections, abstentions, or comments. Motion approved.
+
+=== KMIP 1.4 Test Cases - Next steps ===
+ * Agreed to hold off promoting to CN until the Spec and Profiles have progressed to COS
+
+=== KMIP 1.4 Usage Guide - Next steps ===
+ * Agreed to hold off promoting to CN until the Spec and Profiles have progressed to COS
+
+
+=== ICMC17 PQC presentation recap ===
+ * The 5th International Cryptographic Module Conference was held in Washington DC on May 16-19.
+ * Tony, Tim, Chuck, Gerry and a range of other folks attended. Was a good event with many specific references to key management
+ * Tony presented a session with Prof Dr Tanja Lange from Eindhoven University of Technology which was well received. 
+ * Tony to publish presentation to the TC.
+
+== New Item ==
+ * Nitin J has uploaded a proposal regarding patterns - Requested members to review prior to a scheduled discussion next week.
+
+== Next Meeting ==
+ * June 8, 2017
+
+== Call for late arrivals (Tony C) ==
+ *  None
+
+== Motion to Adjourn ==
+ * Tim moves, Gerry seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+===== Meeting Adjourned at 2:39 US-PST =====

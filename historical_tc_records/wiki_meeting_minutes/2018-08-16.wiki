@@ -1,0 +1,98 @@
+= Meeting Minutes 16 August 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (August 2, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Cryptographic Usage Mask Spec Delta - Chuck W & Tony C
+  * Add Attribute - Anthony B
+  * Adjust Attribute - Anthony B
+  * Set Attribute - Anthony B
+  * Multiple ID Placeholders  - Tim H
+
+ * KMIP v2.0 Content Items Review
+ * KMIP v2.0 Action Items Discussion
+ * New Business
+  * OASIS Open Standards Cup Announcement
+
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim H moved, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from August 2, 2018 =====
+ * Jerry S moves, Greg S seconds, No objections, abstentions, or comments. minutes for the August 2, 2018 meeting approved.
+
+== RSA 2019 Interop ==
+ * No updates on the booth or the booth participant review
+
+== KMIP 2.0 ==
+=== Cryptographic Usage Mask (Chuck W) ===
+ * Chuck W presented spec delta for [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63668|Cryptographic Usage Mask]] to the TC
+
+ * The update focus was to include usages that the server can act upon and provide normative descriptions for each of the usages. Masks that for which a description cannot be provided will be removed.
+ * Bruce asked what was the purpose 'Reserved' item in the first table -- does it reflect a removed usage?  Yes. in this case it was the 'Export' usage which has been removed.  In the enumerations it will be marked as Reserved.  The 'Reserved' reference in the first table will be removed.
+ * Tim H noted that Mark J proposal, which was reviewed a few weeks ago, also changed the Cryptogrphic Usage Mask.  Tony C noted that the editors will rationalize the two proposals as they make the next Spec revision.
+ * Judy F noted there may be some information in the Usage Guide that will help identify which usages were related to the financial/payment usage.  Chuck W/Tony C will take a look and update the definitions.
+ * Tim H had an ephiphany and made a suggestion that to split cryptographic usage mask into a client cryptographic usage mask and a server cryptographic usage mask.  The TC discussed the suggestion.  Chuck felt that the usage belonged with the key but he did understand Tim's point about client and server having different authorization around a type of key. Bruce noted that the TC would also need to look at the NIST key attributes and determine whether they apply to client, server or both.  Tim update his suggestion to have three attributes (the existing Cryptographic Usage Mask which applied to both client and server, then add a Client-only Cryptographic Usage Mask and a Server-only Cryptogrpahic Usage Mask).
+ * Tony C asked the TC if we should take on these additional changes in KMIP 2.0.  Tim H suggested that the TC mull over this change for the week and we make the decision about including it in KMIP 2.0 at next week's call.
+ * Joe B will send the list of relevant NIST specifications that the Spec editors and TC members should review prior to next week's meeting.
+ * Chuck W /Tony C will review the NIST documents and incorporate any relevant poitns into the defintions of the Cryptographic Usages
+
+=== Add Attribute (Anthony B) ===
+ * See [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63675|Add Current Attribute problem]]
+ * Anthony B presented the problem with the existing Add Attribute operation -- The operation incorrectly spoke about adding the 'current' versus a 'new' attribute and this proposal provided options for fixing this mistake.  The TC prefered Option 2.
+
+===== Motion to approve Option 2 within the proposal and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Mark J moves and Tim H seconds, No objections, abstentions, or comments. Option 2 Add Attribute updates approved.
+
+=== Set Attribute (Anthony B) ===
+ * See [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63676|Set Attribute]] proposal
+
+ * Anthony reviewed the changes to the KMIP Spec.
+ * No concerns were raised by the TC
+
+===== Motion to approve the Set Attribute proposed changes and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Mark J moves and Tim H seconds, No objections, abstentions, or comments. Set Attribute updates approved.
+
+=== Adjust Attribute (Anthony B) ===
+ * See [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63677|Adjust Attributes - tweaked]] proposal
+
+ * Anthony reviewed the proposed changes to the KMIP Spec changes
+ * Tim H noted several issues with the proposal, a mistake in the text wording and the need to address out of bounds (use a numeric range)
+ * Bruce asked what the unit of incrementation would be for date/time
+ * Bruce also questioned what would happens when you negate a date/time?
+ * Mark asked that all data types be listed for Negate
+ * It was also noted that there is no error reason that maps to Invalid Data Type.  This error reason may be usefully elsewhere in the spec.  Anthony wanted to think about whehter we need a full error code update or to just add this new error reason.
+ * Anthony will make the changes and reissue the proposal to be reviewed at a subsequent meeting.
+
+=== Multiple ID Placeholders (Tim H) ===
+ * Given the remaining time in the meeting, the TC decided to defer Tim H's proposal to the next meeting.
+
+=== KMIP 2.0 Proposal Review ===
+ * See [[https://wiki.oasis-open.org/kmip/2.0|proposal status]]
+
+ * Tony C has been updating the status of the proposal on the wiki and noted that we are getting close to the end of the list.
+
+== New Business ==
+ * OASIS TAB has awarded the OASIS Standard Cup '''Outstanding Approved Standard''' award to KMIP 1.4
+
+ * Tony and Judy have provided edits to and a quote for the Press Release announcing this award
+ * OASIS is targeting the press release for August 20, 2018.
+
+== Next Meeting ==
+ * Next Meeting:  23 August 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * None
+
+===== Motion to Adjourn =====
+ * Tim H move, Mark J seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:53 US-EST ==

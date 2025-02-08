@@ -1,0 +1,55 @@
+= Meeting Minutes February 11 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Justin moves, Greg seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from January 28, 2021'''
+
+ * Jerry moves, Greg seconds. No objections, abstentions, or comments. Minutes for the January 28, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== Ephemeral return payload ===
+ * Tony C owes Tim H a draft of the amendment presented in the last meeting. He will have it for the next meeting
+ * Proposals PKCS#11 and Locate Predicates have been moved to Feb 25.
+ * CBOR has been pushed to KMIP 3.1 due to developments in that space.
+ 
+== KMIP Summit ==
+ * There has been no changes since the last meeting.
+ * Aiming for mid to late April Summit which means mid-March for submission deadline.
+  
+== OASIS policy changes ==
+ * OASIS made changes to the TC and OASIS committee operations processes that have an impact on the TC.
+ * Every four years the charter must be reviewed.
+  * The charter needs to be reviewed to see if it is still relevant and any changes need to be made.
+  * Changes to the charter cannot changes the IPR and RF on RAND rules.
+  * Choices are to a motion to continue with the current charter or decide that a discussion is needed.
+  * A review of the charter must show in the minutes every four years to satisfy the new rules. A motion can always be brought up at any time outside that window to revise the charter.  
+
+'''Motion to state that the TC continue its work under the current charter.'''
+
+ Tim H moves, Greg seconds. No objections, abstentions, or comments. Motion approved.
+
+ * Every two years the appointment of the chairs must be reviewed.
+  * This must be done by a nomination of candidates by email with the nomination period being seven days.
+  * If there are one or two nominations then it is handled by a motion. If there are more than two nominations it needs to go to ballot.
+  * Tony C and Judy are both willing to continue as co-chairs and will send out their nomination email.
+   
+== New Business ==
+ * None
+ 
+== Next Meeting ==
+ * Next TC Meeting: February 25, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Jessie, Jerry
+
+== Motion to Adjourn ==
+ * Tim H moves and Greg seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:16 US-EST ==

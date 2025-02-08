@@ -1,0 +1,79 @@
+= Meeting Minutes February 26, 2015 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Tony Cox
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Approve February 19th Meeting Minutes
+ * KMIP v1.2 CoS Status
+ * KMIP 1.3 Document Status updates
+  * Specification (Tony Cox)
+  * Profiles (Tim Hudson/Bob Lockhart)
+  * Test Cases (Tim Hudson/Mark Joseph)
+  * Use Cases (Chuck White)
+  * Usage Guide (Judy Furlong)
+ * Review KMIP 1.4 Items
+ * Face to Face Topics
+ * RSA Interop update
+ * New Business
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve February 19, 2015 meeting minutes ===
+ * Tim H Moves
+ * Joe Brandt Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== KMIP v1.2 CoS Status ==
+ * No comments up to this point
+ 
+== KMIP 1.3 Status ==
+ * Specification on second draft 
+ * Status unchanged for Profiles
+ * Test Cases are complete with no feedback to date and ready to move to Committee Draft
+ * Chuck still working on Use Cases updates
+ * Judy posted first draft of Usage Guide with updates based on 2nd draft of specification
+  * Working on another rev with some additional required changes
+
+== Review KMIP 1.4 Items ==
+ * Tony walked through proposed items on last weeks call and posted to Wiki page
+ * Look at non-TLS transports
+ * Protocol optimizations for improved throughput
+ * Export/Import of managed objects (precursor to S2S)
+ * Export/Import of multiple objects using PKCS12 blobs
+ * Introduce ACLs for KMIP
+ * Mark Joseph definitely interested in all
+ * Judy Furlong and Bob Lockhart interested in Export/Import
+ * David Featherstone interested in Performance Enhancements
+ * Tony to add interested parties
+ * Additional persons interested may add themselves on the Wiki page accordingly
+ 
+== Face to Face (F2F) Topics ==
+ * Looking for proposals for the 1.4 items at F2F (April 16 & 17)
+ * Bob Lockhart to additionally have PKCS12 Object proposal completed by F2F
+
+== RSA Interop ==
+ * Tony getting participants contacted for meetings starting next weeks
+ 
+== New Business ==
+ * No new business
+ 
+== Call for late arrivals - Tony Cox ==
+ * Two late arrivals
+
+== Motion to Adjourned ==
+ * Tim H. Moves
+ * Chuck White seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:25PM GMT =

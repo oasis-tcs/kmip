@@ -1,0 +1,54 @@
+= Meeting Minutes January 12, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (December 15, 2022)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * "Hash then Sign" Update
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Tim H & Tony C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from December 15, 2022'''
+
+ * Tim H moves, Judy F seconds. No objections, abstentions, or comments. Minutes for the December 15, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S working with changes to Profiles/Test cases. Minor updates being made to a working draft for broken links & other minor changes.  
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is continuing to make progress on the KMIP 3.0 Profiles/Test Cases.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy advises that some changes are in the works but not yet sufficient progress and updates from test cases/specification are pending.
+
+== New Business ==
+
+=== Hash then Sign  ===
+ * Judy F described the status of the NCCoE PQC Migration project analysis document and expects work to be at a point in early Feb for this to be shared with the TC
+ * Tim C asked if LMS & XMSS signatures are covered - Judy F noted that they were not covered in the analysis document but are covered in NIST SP 800-208 Recommendation for Stateful Hash-Based Signature Schemes.  Since these algorithms are already standardized, they can be added now.  Judy F recommended a separate proposal from the four post-quantum algorithms.
+ * Tim H advises that XMSS is defined as a cryptographic identifier in KMIP 2.0 - we need a proposal and a test case to include this now. 
+
+== Next Meeting ==
+ * Next TC Meeting: February 09, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * Gerry S
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:18 US-EST ==

@@ -1,0 +1,63 @@
+= Meeting Minutes May 18, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (May 4, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Judy seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from May 4, 2023'''
+
+ * Tim C moves, Greg seconds. No objections, abstentions, or comments. Minutes for the May 4, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S has updates to the KMIP 3.0 Spec that are ready for Tim H to review.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is taking the two motions from the last TC meeting and working them into the test cases.
+ 
+=== KMIP 3.0 Usage Guide ===
+ * Judy has added what she has received to date to the KMIP 3.0 Usage Guide and is waiting for any new updates that come out of the two motions.
+
+== Interop ==
+ * September 2023 remains the target date.
+ * Scope of interop is 3.0 to vet the 3.0 Spec and Profiles and support SOUs for 3.0.
+ * Tim H and Greg S are working on the draft Interop rules.
+
+== New Business ==
+=== Bruce Rich ===
+ * Bruce said that his last day with IBM will be June 2 and hasn't yet decided if he will be an OASIS individual member or not and said thanks to everyone on the TC.
+
+'''Motion to thank Bruce Rich for all his contributions to the KMIP TC'''
+
+ * Judy moves, Tim C seconds. No objections, abstentions, or comments. Motion approved.
+
+=== ICMC ===
+ * Tony's proposal for the KMIP presentation at for ICMC has been accepted.
+
+== Next Meeting ==
+ * June 1 TC Meeting has been cancelled.
+ * Next TC Meeting: June 15, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim C moves and Tony C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:13 US-EST ==

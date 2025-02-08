@@ -1,0 +1,62 @@
+= Meeting Minutes July 15 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Greg seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from June 24, 2021'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the June 24, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== Status + changes ===
+ * Tony C posted working draft 12 of the spec with the following updates:
+  * Corrected Certificate Attributes
+  * Added missing Link Attributes inc. tags
+   * Certificate Request Link
+   * Joined Split Key Link
+   * Split Key Base Link
+  * Corrected Object Class references 
+ 
+ * Tony C proposed keeping KMIP 3.0 open to allow for additional items to be added. There were no objections to the proposal.
+ 
+ * Tim C will present updates to the register command at next meeting. Tony C will add it to the agenda.
+
+=== KMIP wiki review ===
+ * Tim H and Tim C are still working on KMIP 3.0 Test Cases and Profiles documents.
+ * Judy F confirmed that she is still waiting on Usage Guide materials associated with the KMIP 3.0 proposals as noted on the wiki (https://wiki.oasis-open.org/kmip/3.0).
+
+== Interop Test ==
+ * Interop is scheduled for September.
+ * There are four parties interested in participating.
+ * Please let Tony C know if you plan to participate in the Interop.
+
+== New Business ==
+=== Counters ===
+ * Tony C reviewed his presentation on counters.
+ * Bruce asked how this would interact with usage limits. Tony C's intent was for them to not interact with each other.
+ * Bruce asked if the server was to react to what its counting in any way other than counting it. Tony C didn't want to include server responses to the count at this time.
+ * It was decided to take additional time to look into it further.
+
+=== Password Credential ===
+ * Bruce proposed that an iteration counter needs to be added to the hashed password credential structure.
+ * Bruce and Tony C will work on a spec delta for review.
+
+== Next Meeting ==
+ * Next TC Meeting: July 29, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:27 US-EST ==
+
+''' Recording available: https://us02web.zoom.us/rec/share/WAKr3grHxq0igqpcmpUriRjLv--RifVHJSaBsI7787s9HgWpT-62Ml74HFn25aEm.Q1RAJ28xVYxlfCVU?startTime=1626382613000 '''
+ * Note: Recordings will be expunged ~30 days after the meeting

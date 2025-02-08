@@ -1,0 +1,45 @@
+= Meeting Minutes January 14 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Greg moves, Jerry seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from December 17, 2020'''
+
+ * Tim C moves, Greg seconds. No objections, abstentions, or comments. Minutes for the December 17, 2020 meeting are approved.
+
+== KMIP 2.1 ==
+=== Status update ===
+ * KMIP 2.1 was published just before the end of the year.
+ * Tony C and Judy are working on the introduction webinar.
+ 
+== KMIP 3.0 ==
+=== WD09 ===
+ * WD09 contains the spec delta for deactivate proposal, minor cleanups, and cleanup of identifier clashes introduced by spec deltas in WD07 and WD08.
+ * There are a couple of outstanding proposals that are scheduled to be discussed on next week's call. 
+ 
+== KMIP TC Summit 2021 Planning ==
+ * Tony C and Judy are working on the details for the summit, including the date and times based on the results of the format poll.
+ * Date was originally discussed to be late February but it may be pushed out to end of the quarter or early next quarter.
+ 
+== KMIP Interop 2021 ==
+ * There were no comments about having either a Plugfest or Interop or when it would be.
+
+== New Business ==
+ * None
+ 
+== Next Meeting ==
+ * Next TC Meeting: January 21, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Chuck, Chandra
+
+== Motion to Adjourn ==
+ * Tim C moves and Greg seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:10 US-EST ==

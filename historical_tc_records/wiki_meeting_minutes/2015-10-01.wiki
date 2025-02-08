@@ -1,0 +1,78 @@
+= Meeting Minutes October 1, 2015 =
+== Meeting commenced 8:01PM GMT ==
+ * Roll call Tony
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Approve Agenda
+ * Approve minutes
+ * KMIP 1.3 Status
+ * KMIP 1.4 Status
+ * RSA2016 Interop
+ * NIST800-57 Update (http://csrc.nist.gov/publications/drafts/800-57/sp800-57p1r4_draft.pdf)
+ * Revoke and ASI discussion emails from DavidF
+ * New business
+ * Adjourn
+
+=== Motion to approve Agenda ===
+ * Tim H Moves
+ * Jerry S Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve September 17th meeting minutes ===
+ * https://wiki.oasis-open.org/kmip/MeetingMinutes/Sep172015
+ * Tim H Moves
+ * David F Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== KMIP 1.3 status ==
+ * Tim H - profiles - progressing but nothing to share with the TC as yet
+
+== KMIP 1.4 status ==
+ * No updates. Chuck not on call so no update on his items.
+
+== RSA2016 Interop ==
+ * Tony C - update - both KMIP and PKCS#11; interop calls from OASIS will start this month.
+ * Note that the interop rules have been updated by OASIS - see https://www.oasis-open.org/policies-guidelines/interop
+
+== Nist Update ==
+ * Chuck not on call. Item deferred to next call.
+
+== Revoke operation ==
+ * See David F's email - proposing we change wording to make it clear that the compromise occurrence date is optional.
+ * Tim H - this date is required for noting when revocation occurred - there isn't a separate date for when revoke occurred. 
+ * Judy F - from CRLs - should be noted that you note dates at suspend etc - so this is meant to be include
+ * David F - separately should we make it clear that CA compromise also covers key compromise - not exactly clear in the specification. 
+ * Tony C - should we discuss this further. David - yes. Judy - good topic. KMIP 1.4 topic? Yes.
+ * AI - David to produce material - Tim and Judy will review.
+
+== Application Specific Information ==
+ * See David F's other email - proposing we change wording to make it clear that the compromise occurrence date is optional.
+ * Usage Guide - empty string verse not present - is this indicated there or not. 
+ * Tim - would prefer to just see the REQUIRED changed to NO rather than YES and not explicitly note empty string as usable.
+ * AI David to check usage guide to see whether or not there is something there in the UG that indicates empty string should be used to discuss on next call.
+ * Anthony B - is there any confusion on NULL / Empty in the specification. Tim - don't think so - but worth checking.
+
+== Other items ==
+ * Tony - brief update on SDC and DSSS 
+ * Some folks at the summit were not aware of just how widely deployed KMIP already is - lots of comments on that.
+ * SSIF increased interest in terms of KMIP after that call
+ * Tim - there is a video link to the session and the SNIA/OASIS presentation will be uploaded to the KMIP document area.
+ * AI - Tony will send out details.
+
+== Call for late arrivals - Tony C. ==
+ * Hai-May joined the call 
+ 
+== Motion to Adjourned ==
+ * Tim H Moves
+ * Jerry seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:29PM GMT =

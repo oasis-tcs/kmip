@@ -1,0 +1,86 @@
+= Meeting Minutes 29 August 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Aug 22, 2019)
+ * KMIP 2.0 (Status)
+ * KMIP 2.1
+  * Usage Guide Text (Anthony 'B)
+  * Query Asynch proposal (Bruce R)
+  * Process Asynch proposal (Bruce R)
+  * Name Domain Definition (Tony C)
+  * Review wiki
+ * KMIP Interop 2020
+ * Interop Process (Tony C)
+ * New Business
+  * Response to comment (Chuck W)
+  * Response to Conrado Gouvêa
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Jeff B seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from August 22, 2019'''
+
+ * Jeff B moves, Greg S seconds. No objections, abstentions, or comments. Minutes for the August 22, 2019 meeting approved.
+
+== KMIP 2.0 Status (Tony C) ==
+ * 60 day public review of the KMIP 2.0 Spec and Profiles as Candidate OASIS Standards has commenced.  It will end on 15 October 2019.
+  . See https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201908/msg00008.html
+ * No comments have been received so far.
+
+== KMIP 2.1 ==
+=== Distributed Key Managements Systems (Anthony B) ===
+ * Anthony B provided an overview of the UG text he has sent to the reflector last week.
+ * Mark J commented on the reflector that he thought the text did not go far enough and guidance for how the clients should handle the situation.  TC agreed that more detailed discussion on whether and how KMIP could be changed to allow the client handles the situation is a good discussion topic for the next F2F.
+ * For KMIP 2.1 the focus is on supplying Usage Guide Text.  The TC had a very lengthy discussion on terminology, content and title of this new UG section.
+  * Judy F and Chuck W weighed in on different server architectures (high availability, disaster recovery, federation) and the different approaches taken to share information within a server with a distributed architecture.
+  * Tim H captured the essence of the point of the new UG section is that the guarantees of the KMIP protocol are not always satisfied because of the range of server architectures, network latency and other limitations.
+ * Jeff B volunteered to work with Anthony B on the next revision of the text.  Focus will be on getting agreement on the content/message of the new UG section and then figuring out the appropriate title of the section later.
+
+=== Query Asynch proposal (Bruce R) ===
+ * Bruce R reviewed the Query Asynch proposal he posted to the OASIS site with the TC.  See https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65832
+ * John M asked if the updates were in the container format introduced in KMIP 2.0 and Bruce R noted they were.
+
+'''Motion to approve the Query Asynch changes and include these changes in the KMIP 2.1 Specification.'''
+
+ * Chuck W moves, Tim H seconds.  No objections, abstentions, or comments. Query Asynch updates approved.
+
+=== Process Asynch proposal (Bruce R) ===
+ * Bruce took through TC through the Process Asynchronous Request proposal he posted to the OASIS site.  See https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65833
+ * Jerry S asked about the response to the next poll.  Bruce R noted that the process would just change the response to the next poll to not be pending.  It could be an error response.
+ * Tim H noted that its essentially turned the original request into a synchronous response.
+
+'''Motion to approve the Process Asynch changes and include these changes in the KMIP 2.1 Specification.'''
+
+ * Jerry S moves, Tim H seconds.  No objections, abstentions, or comments. Process Asynch updates approved.
+
+ * Tony C noted that UG text for both the Query Asynch and Process Asynch proposals is needed.  Bruce R agreed, but did indicate that the timeframe in which he would provide this UG text is as uncertain as the landfall point of Hurricane Dorian.
+
+== KMIP Interop 2020 ==
+ * Tony C posted the KMIP Interop Process that will be followed for the Interop RSA 2020 event.  See https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65831
+ * Tony C asked all, especially those who plan to participate in the Interop event, to review the document and the schedule contained in the document. This will discussed at next week's meeting.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting:  5 September 2019
+ * Tony C noted that the agenda topics that the TC did not get to this week will be put on next week's agenda.
+
+== Call for Additional Attendees (Tony C) ==
+ * Sue G (Oracle)
+ * Tim C (NetApp)
+ * Thunder W (Observer)
+
+== Motion to Adjourn ==
+ * Greg S moves, Tim H second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 18:00 US-EST ==

@@ -1,0 +1,62 @@
+= Meeting Minutes September 7, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (August 24, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Usage Guide
+ * Interop
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from August 24, 2023'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the August 24, 2023 meeting are approved.
+
+== KMIP 3.0 Status Updates ==
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H posted WD4 of the KMIP 3.0 Profiles document (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=71322), supporting profile test cases (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=71324) and the KMIP 3.0 test cases (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=71325) to the reflector.
+ * The KMIP 3.0 Test Case document is pending
+ * Assumption is that these documents will be the baseline for the upcoming Interop and cover the new v3.0 content that we want to test in the Interop
+
+=== KMIP 3.0 Specification ===
+
+ * Greg S posted WD15 of the KMIP 3.0 Specification (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=71321) to the reflector.  
+ * This version of the Spec aligns with the updated Profiles and Test Cases that were also published this week.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy F is still waiting for additional new 3.0 content to incorporate into the Usage Guide
+
+== Interop ==
+ * Tim H is happy to run the Interop off the documents that were posted this week.
+ * Tim H has also reached out again to the potential Interop participants but has not received any responses.
+ * Hopefully by the next TC meeting there will be feedback on these documents and confirmation that they are sufficient for running the upcoming Interop.   
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: September 21, 2023
+ * This is the week the week of the ICMC Conference but given the upcoming Interop the TC decided to keep the meeting as scheduled.
+
+== Call for Additional Attendees (Greg) ==
+ * Bruce R (Cryptsoft)
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:11 US-EST ==

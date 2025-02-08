@@ -1,0 +1,85 @@
+= Meeting Minutes 07 July, 2015 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (June 23rd)
+ * KMIP 1.3 update (Tony Cox)
+  * Profile Comments
+  * Next steps
+ * KMIP 1.4 update (Tony Cox)
+  * Comment/Description attributes (Gerald S)
+  * PCI DSS v3.2 impact
+ * Summer/Spring Face to Face (Tony Cox)
+ * Summer/Spring PlugFest (Tony Cox)
+ * Summer Schedule for TC weekly call
+ * Call for Additional Attendees
+ * Adjourn Meeting
+ 
+=== Motion to approve Agenda ===
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved
+
+== Motion to approve June 23, 2016 meeting minutes ==
+ * Tim H moves, Gerry S seconds. No objections, abstentions, or comments. [[MeetingMinutes/June232016|Minutes]] approved
+ 
+== KMIP 1.3 ==
+ 
+=== Profile Comments (Tony C) ===
+ * Tim has uploaded the response to the comments related to the profiles
+ * Call for motions to proceed with the 4 (four) KMIP v1.3 documents
+ * The TC needs to make a motion to request TC Admnin to raise a Special Majority Ballot for the KMIP v1.3 documents to move to either Committee Specification or Committee Note with non-material changes noted.
+
+==== Motion to accept response to comments as non-material proposed by Tim H ====
+ * Bruce R moves, Gerry S seconds. No objections, abstentions, or comments. TC unanimously accepts the response to the OASIS TAB comments on the KMIP v1.3 Profiles and test cases documents:
+ * https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/58398/kmip-profiles-comment-disposition-draft1.pdf
+
+==== Motion to proceed with two (2) KMIP v1.3 documents with non-material changes ====
+
+Motion to approve the Chair requesting that TC Administration hold a Special Majority Vote to approve the two documents noted below as a Committee Specification and Committee Note (per below). This motion further states that the TC affirms that changes have been made since the last public review, that the changes made are documented in the URLs noted below, and that the TC judges these changes to be Non-Material in accordance with the definition in the OASIS TC Process (http://www.oasis-open.org/policies-guidelines/tc-process#dNonmaterialChange).
+ * KMIP Profiles v1.3 - '''Committee Specification''' - "kmip-profiles-v1.3-csprd01-comment-update.doc" contained in [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/58472/kmip-profiles-v1.3-csprd01-comment-update.doc]]
+ * KMIP Test Cases v1.3 - '''Committee Note''' - "KMIP-Test-Cases-v1.3-CNPRD01-comment-update.doc" contained in [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=58493]]
+Tim moves, Hal seconds. No objections, abstentions or comments. Motion Carried.
+
+==== Motion to proceed with two (2) KMIP v1.3 documents with no changes (under construction) ====
+Motion to approve the Chair requesting that TC Administration hold a Special Majority Vote to approve the two (2) documents noted below as a Committee Specification and Committee Note (per below). 
+ * KMIP Specification v1.3 - '''Committee Specification''' - kmip-spec-v1.3-csprd01 - [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57545/kmip-spec-v1.3-csprd01.html]]
+ * KMIP v1.3 Usage Guide - '''Committee Note''' - kmip-ug-v1.3-cnprd01 - [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57547/kmip-ug-v1.3-cnprd01.html]]
+Further motion to approve the Chair requesting that TC Administration update the following Designated Cross-References during publication of the Committee Specification:
+ * [KMIP-Prof] - Key Management Interoperability Protocol Profiles Version 1.2. Edited by Tim Hudson and Robert Lockhart. Latest version: http://docs.oasis-open.org/kmip/profiles/v1.3/kmip-profiles-v1.3.doc Expected approval August 2016.
+Tim moves, Hal seconds. No objections, abstentions or comments. Motion Carried.
+
+
+=== Next Steps (Tony C) ===
+ * Tony and Tim (editors) to process the changes as discussed and upload
+ * Tony will raise the request with TC Admin per the motion to proceed with the documents
+
+== KMIP 1.4 ==
+ 
+=== Comment/Description (Gerry S) ===
+ * No update - Defer until next meeting
+
+== PCI DSS v3.2 impact ==
+ * No update - All members to consider any impact and provide content for 1.4 or 2.0
+ * To be removed from the agenda until relevant content is brought forward.
+
+== Summer/Spring Face to Face (Tony Cox) ==
+ * No volunteers yet - Tony to keep working
+
+== Summer/Spring Plugfest (Tony Cox) ==
+ * No update - Defer until next meeting
+ 
+==  Summer Schedule for TC weekly call ==
+ * No clear decision on summer schedule - will review based on content brought forward at next meeting.
+ * Arguments exist based on kmip 1.3 approval process (no action) and questions being raised in relation to KMIP v1.4 availability
+ * Review at next call (14th July)
+
+== Call for late arrivals (Tony C) ==
+ * 1 (one) attendees noted
+ 
+== Motion to Adjourn ==
+* Tim H moves, Chris H seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+= Meeting Adjourned at 8:18PM GMT =

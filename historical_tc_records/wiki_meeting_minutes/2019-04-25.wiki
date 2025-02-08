@@ -1,0 +1,80 @@
+= Meeting Minutes 25 April 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (April 11, 2019)
+ * KMIP Webinar - 15 April 2019 (Tony C/Judy F)
+ * KMIP 2.0
+  * Test Cases Status (Tim H)
+  * Usage Guide Status (Judy F)
+ * KMIP 2.1
+  * Nomination/Election of Document (Spec, Profiles, Test Cases, Usage Guide) Editors (Tony C)
+ * KMIP v1.4 Errata (Tony C)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from April 11, 2019'''
+
+ * Gerry S moves, Chuck W seconds, No objections, abstentions, or comments. Minutes for the April 11, 2019 meeting approved.
+
+== KMIP Webinar (Tony C/Judy F) ==
+ * Tony C and Judy F presented a KMIP Webinar on 15 April 2018 for OASIS.
+ * The webinar was recorded and now posted on YouTube: https://youtu.be/Hrhj-dju1HU
+ * Please feel free to distribute this link for educational purposes on KMIP and KMIP 2.0 changes.
+
+== KMIP 2.0 ==
+ * Tony C noted that TC Admin is preparing the KMIP 2.0 Spec and KMIP 2.0 Profiles documents for Public Review. Tony C hopes that these reviews will commence next week.
+ * Brief discussion on whether the KMIP 2.0 Test Cases and KMIP 2.0 Usage Guide documents were ready to progress to Committee Note Drafts.  The editors of these documents and the TC members agreed that the documents were ready to progress to the next stage.
+
+'''Motion for the TC to approve KMIP Test Cases V2.0 WD02 (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65125) and all associated artifacts (kmip-testcases-v2.0-wd07.zip: https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65000) packaged together as a Committee Note Draft and designate the .doc version of the test cases as authoritative.'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Motion approved
+
+'''Motion for the TC to approve KMIP Usage Guide V2.0 WD04 (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65167) and all associated artifacts packaged together as a Committee Note Draft and designate the .doc version of the usage guide as authoritative.'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Motion approved
+
+== KMIP 2.1 ==
+ * TC Admin will get us KMIP 2.1 starter documents, but the TC needs to vote on editors for these documents in order for the TC Chair to complete the starter document request forms.
+
+ * The TC discussed nominations for editors.  The existing KMIP 2.0 editors on the call agreed to continue in these roles and several additional TC members offered their services for KMIP 2.1.  The following TC members were nominated and accepted the editor roles for the KMIP 2.1 documents.
+  * KMIP 2.1 Specification:  Tony C & Chuck W
+
+  * KMIP 2.1 Profiles:  Tim H & Tim C
+
+  * KMIP 2.1 Test Cases:  Tim H & Tim C
+   . Note:  Mark J who was a KMIP 2.0 co-editor of the Test Cases was not on call.  The TC will check to see if he wishes to continue as co-editor and can      nominate him at a future meeting.
+
+  * KMIP 2.1 Usage Guides  Judy F & Jeff B
+
+'''Motion to elect the nominated TC members noted above as the co-editors of the KMIP 2.1 documents'''
+
+ * Tony C moves and Tim C seconds, No objections, abstentions, or comments. Motion approved
+
+== KMIP v1.4 Errata (Tony C) ==
+ * Tony C has discussed the Errata with TC Admin and he has some homework to do on this which he has started.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: 2 May 2019
+ * Judy F noted that she would be unable to take minutes at next week's meeting.  Chuck W offered to take the minutes instead.
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:17 US-EST ==

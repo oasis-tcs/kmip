@@ -1,0 +1,81 @@
+## page was copied from MeetingMinutes/December042014
+= Meeting Minutes December 04, 2014 =
+
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Tony Cox
+ * Quorum achieved
+
+== Motion to approve November 20, 2014 meeting minutes ==
+ * [[MeetingMinutes/November202014|20 November 2014]]
+ * Tim Hudson Moves
+ * Bruce Rich Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== OASIS Update on RSA Interop ==
+ * Jane Hanard updated that RSA interop booth 20X20 like last year
+ * There are still spots available, one for sure and two can be squeezed in
+ * Need to finalize before end of this month (December 2014)
+
+== Proposed agenda ==
+ * RSA 2015 interop event update
+ * KMIP 1.2 status
+ * KMIP 1.3 status
+ * TC Standing rules
+ * Face to Face Hosting for April 2015
+ * KMIP 1.4 planning
+ 
+== Motion to approve Agenda ==
+ * Tim Hudson Moves
+ * Chuck White Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+ 
+== KMIP 1.2 Status (Tony Cox) ==
+ * Statement of Use available from two companies, Cryptsoft and P6R. One more SOU required to make a formal request to OASIS TC admin
+ * Rich Freeman: Symantec is planning on submitting a SOU, need a link in minutes in this regard, Tony to provide the details in this weeks minutes:
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/54564/KMIP-SOU-Cryptsoft-14-Nov-2014.pdf|Cryptsoft]]
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/54579/KMIP-SOU-P6R-17-NOV-2014.pdf|P6R]]
+ * Chet has already provided all relevant links required
+ * Plan is to have the last SOU before next week's call so that we can make a motion to request TC admin for a majority ballot to move 1.2 documents as OASIS Standards
+ 
+== KMIP 1.3 Update (Tony Cox) ==
+ * No new update
+ * Tony to work with Kiran on the changes in specification document
+ * Tim: Update the test case and profile document before next weeks call
+ * Judy: Update Usage guide based on interoperability feedback before Christmas holiday
+ 
+== TC Standing Rule for Interop (Tony Cox) ==
+ * Tony proposes three standing rules based on previous interop experience:
+  * The KMIP TC is to be represented at an interoperability event by KMIP TC voting member organisations.
+  * At an Interoperability Event, interoperability between implementations needs to be proven to the satisfaction of the participants, well ahead of any demonstration commencing.
+  * In order for the KMIP TC to accept a Statement of Use, the submitting member needs to have participated in a plugfest or interop test for that version of the specification - applies for KMIP v1.3 onward.
+
+== KMIP TC face to face meeting ==
+ * Saikat: Oracle conference center is available on 16th April but unavailable on the 17th.
+ * Rich Freeman: Symantec is available to host both days, need headcount
+ * Based on ballot: Majority people prefer 16th and 17th April, there will be quite a few folks on webex dialing in.
+ * We will host face to face on April 16th and 17th at Symantec office in MountainView, CA
+
+== KMIP 1.4 Candidate List ==
+ * Mark - Query stuff, Query existing groups
+ * Tim - Let us review the 1.3 list, few things moved from that list to 1.4 
+ * Saikat: Error Handling, heard repeated complaints
+ * David Featherstone - Template revival, Tim: template is deprecated, hence cannot be revived in 1.4, need to wait until 2.0
+ * Chuck: Security attributes 
+ 
+== Call for late arrivals - Tony ==
+ * Mark Joseph - P6R
+ * Krishna Yellepeddi - IBM
+ 
+== Motion to Adjourn ==
+ * Tim Hudson move
+ * Tim Chevalier seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:30PM GMT =

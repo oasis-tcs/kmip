@@ -1,0 +1,53 @@
+= Meeting Minutes June 15, 2023 =
+== Meeting commenced 17:02 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (May 18, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tony C moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from May 18, 2023'''
+
+ * Tim C moves, Greg S seconds. No objections, abstentions, or comments. Minutes for the May 18, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S is waiting on the updates to the Profiles and Test Cases to finalize the KMIP 3.0 Spec.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is making good progress on the Profiles and Test Cases.
+ 
+=== KMIP 3.0 Usage Guide ===
+ * Judy is waiting for updates that come out of the changes to the Spec, Profiles, and Test Cases.
+
+== Interop ==
+ * September 2023 remains the target date.
+ * Tim H and Greg S are working on the draft Interop rules.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: June 29, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:08 US-EST ==

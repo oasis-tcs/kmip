@@ -1,0 +1,61 @@
+= Meeting Minutes 9 March, 2017 - Draft =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (March 2, 2017)
+ * KMIP 1.4 update (Tony C.)
+  * Update from authors
+  * AI Update - [[1.4]]
+ * KMIP 2.0 update (Tony C.)
+  * Update from authors
+  * AI Update - [[2.0]]
+ * RSA2018 Interop signup
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+===== *Motion to approve Agenda* =====
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+===== *Motion to approve March 2, 2017 meeting minutes* =====
+ * [[MeetingMinutes/Mar02017|March 2, 2017]]
+ * Tim H moves, Gary S seconds. No objections, abstentions, or comments. Minutes approved
+
+=== KMIP 1.4 update (Tony C.) ===
+ * Motion to progress KMIP Specification v1.4 WD
+
+===== *Motion for the TC to approve KMIP Specification v1.4 Working Draft 02, Revision 3 posted at https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60223/kmip-spec-v1.4-wd02-r3.docx as a Committee Specification Draft and designate request TC admin to commence public review* =====
+ * https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60223/kmip-spec-v1.4-wd02-r3.docx
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Motion approved
+ * Tim H noted that this was 2 motions rolled in one.
+ * Tony C noted that combining these two motions was explicitly permitted per TC Admin.
+
+==== Update from Authors ====
+ * Tim H will have updates to the profiles and test cases will have an update for next week
+ * Judy is waiting for people to provide their updates to the usage guide
+
+==== Reviewed KMIP v1.4 AIs ====
+ * Reviewed AIs at [[1.4]]
+ * Tony C: Noted that JIRA AIs would be reviewed at next meeting with a view to starting fresh for v2.0
+
+=== KMIP 2.0 update (Tony C.) ===
+==== Reviewed KMIP v2.0 AIs ====
+ * Deferred review of 2.0s AIs at [[2.0]] until next week.
+
+==== Update from Authors ====
+ * All authors waiting until 1.4 docs get to CSD/CND before commencing
+
+== RSA 2018 Interop signup (Tony C.) ==
+ * Invitation from Jane has been sent out - removing from agenda for now
+
+== Additional Items ==
+== Call for late arrivals (Tony C) ==
+ * one noted
+
+===== *Motion to Adjourn* =====
+ * Greg S moves, Tim H seconds. No objections, abstentions, or comments. Meeting adjourned
+
+= Meeting Adjourned at 14:17 US-PST =

@@ -1,0 +1,54 @@
+= Meeting Minutes 17 August, 2017 =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (August 03, 2017)
+ * KMIP 1.4 update (Tony C.) 
+  * Usage Guide
+  * Test Cases
+ * Next Meeting
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve August 03, 2017 meeting minutes =====
+ * [[MeetingMinutes/03Aug2017|August 03, 2017]]
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes approved
+
+
+== KMIP 1.4 Update - Tony C ==
+=== Usage Guide ===
+ * Request to publish as Committee Note has been raised. TC Admin need the approved minutes from August 03 (with the motions contained) to proceed. We should see publication of the 
+
+document in the coming weeeks.
+
+=== Test Cases ===
+ * Request to publish as Committee Note has been raised. TC Admin need the approved minutes from August 03 (with the motions contained) to proceed. We should see publication of the 
+
+document in the coming weeeks.
+
+== KMIP 2.0 ==
+ * Tony C - Still draftin content
+ * Tony C - Seeing questions come in for added functionality in 2.0 - have requested to have those sent in as proposals. Requested members to bring forth any requirements and/or use 
+
+cases they have for KMIP 2.0.  
+
+=== New Item ===
+ * N/A
+
+=== Next Meeting ===
+ * August 31, 2017
+
+== Call for late arrivals (Tony C) ==
+ * 1 members
+
+===== Motion to Adjourn =====
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+== Meeting Adjourned at 2:09 US-PST ==

@@ -1,0 +1,51 @@
+= Meeting Minutes November 16, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (November 2, 2023)
+ * Interop Summary
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from November 2, 2023'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the November 2, 2023 meeting are approved.
+
+== Interop Summary ==
+ * Tim H gave an update on the Interop. The Interop testing is essentially completed. There are a very small number of tests (.4 % of the tests), that are currently being reviewed and discussed by the Interop participants. 
+ * There has been good cooperation between the vendors. 
+ * There has been a larger amount of retesting and corrections compared to previous Interops due to the major changes in 3.0. 
+ * The failure rate for the tests is about 2.5 %, which is lower than previous Interops.
+ * Tim C said that the Interop has gone pretty well.
+ * There were no other comments about the Interop.
+ * Next steps
+  * Get a formal agreement on the results from the participants.
+  * Review the pre-agreed upon result graphs with the participants.
+  * Create a report of the results for the TC and review it with the TC.
+  * Review changes to specification and test cases with the participants and send them to the TC.
+ * The next TC meeting is being targeted to review the results with the TC.
+
+== New Business ==
+ * The TC was approached by IEF to discuss a KMIP profile. Greg S has been talking to IEF and TC Admin about any issues with an external standards body being involved in a profile discussion with an OASIS TC. 
+ * Greg S sent the email from IEF about the profile to Judy and Tim H to review and we have a number of questions that we will need to discuss with the IEF group.
+
+== Next Meeting ==
+ * Next TC Meeting: November 30, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:13 US-EST ==

@@ -1,0 +1,82 @@
+= Meeting Minutes November 20, 2014 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Saikat Saha
+ * Quorum achieved
+
+== Proposed agenda ==
+ * KMIP 1.2 Update
+ * Interop Update (Tony Cox)
+ * Use Case Editor discussion
+ * Face to Face Hosting for April 2015 Pre/Post RSA Conference
+ 
+=== Motion to approve Agenda ===
+ * Chuck White Moves
+ * Tim Hudson Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Motion to approve November 13, 2014 meeting minutes ==
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== KMIP 1.2 Status (Saikat Saha) ==
+ * Links worked on by Chet Ensign
+ * Cryptsoft and P6R have provided Statements of Use
+ * SoU's should be uploaded to document repository
+ * Bob L. to include location for SoU's in Minutes
+ 
+== KMIP 1.3 Interop Update and RSA 2015 Interop (Tony Cox) ==
+ * KMIP 1.3 testing completed and documentation being finalized (Tony confirm I got this right please...)
+ * Next years interop has had initial call organized by Jane & Dee from OASIS
+ * Still space available in booth space with currently 10 vendors planning on participating
+ * Any questions should be sent to Jane or Dee at OASIS or optionally Tony Cox (Interop Lead) at Cryptsoft
+ * Interop Test tentative for March, further information forthcoming
+ 
+== Use Case Editor Discussion (Saikat Saha) ==
+ * Chuck White currently sole editor
+ * Tim Chevalier of SafeNet volunteers as co-editor
+
+=== Motion to approve Tim Chevalier as co-editor of OASIS KMIP Use Case document ===
+ * Tim Hudson Moves
+ * Joe Brand seconds
+ * No objection
+ * No abstentions
+ * Motion passes
+ 
+== April Face to Face meeting hosting (Saikat) ==
+ * Symantec may be able to host but needs attendance information and dates
+ * Create a straw poll for attendance and dates
+ 
+=== Motion to create straw poll for F2F before RSA Conference ===
+ * Option for before RSA if attending in person (April 16/17)
+ * Option for after RSA if attending in person (April 27/28)
+ * Option to attend via WebEx
+ * Tim Hudson Moves
+ * Judy Furlong seconds
+ * No objections
+ * No abstentions
+ * Motion Passes
+ 
+== Additional Items ==
+=== Motion to Cancel meetings for December 25, 2014 and January 1, 2015 ===
+ * Tim Hudson moves
+ * Mark Joseph seconds
+ * No objections
+ * No abstentions
+ * Motion passes
+
+== Call for late arrivals - Saikat ==
+ * No new attendees
+ 
+== Motion to Adjourned ==
+ * Bob Lockhart Moves
+ * Tim Hudson seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:32PM GMT =

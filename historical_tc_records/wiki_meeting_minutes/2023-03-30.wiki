@@ -1,0 +1,61 @@
+= Meeting Minutes March 30, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (March 9, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * Interop
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from March 9, 2023'''
+
+ * Judy moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the March 9, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S is working on updates to the KMIP 3.0 Spec.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H found a bug with ID Placeholder in that the list of operations that set ID Placeholder is incorrect. 
+ * There are no test cases that meaningfully test the handling of ID Placeholder.
+ * Tim H is going to do a writeup on the options to address the bug with ID Placeholder.
+ 
+=== KMIP 3.0 Usage Guide ===
+ * Judy has updated the KMIP 3.0 Usage Guide with the content she received.
+
+== Interop ==
+ * September 2023 is being looked at as a target date. 
+ * Co-Chairs will send out an update to the TC.
+ * Tim H is working on the draft Interop rules and will send it out for comment when it is done.
+
+== New Business ==
+=== Ephemeral Handling  ===
+ * Tim H is working on test cases for Ephemeral Handling.
+ * Tim H posted an update to his ephemeral question to list the discussed options and correct the output response examples. 
+ * Tim H is going to do a write up with the corresponding spec and test case changes showing the two options for handling the Unique Identifier in the Response Payload.
+ * Tim H is going to do a write up with the corresponding spec and test case changes showing the change to Ephemeral from a boolean to an enumeration. 
+
+== Next Meeting ==
+ * Next TC Meeting: April 20, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:28 US-EST ==

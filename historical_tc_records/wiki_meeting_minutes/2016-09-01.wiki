@@ -1,0 +1,73 @@
+= Meeting Minutes 1 September, 2016 - Draft =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (August 11th)
+ * KMIP 1.3 update (Tony Cox)
+  * Specification and Profiles
+ * KMIP 1.4 content review (Tony Cox)
+  * Request / Response Correlation - Anthony B
+  * AEAD support in Encrypt/Decrypt for GCM and CCM usage - Bruce R
+  * RSA PSS and RSA OAEP missing items - Bruce R
+ * GitHub Repository
+ * Call for Additional Attendees
+ * Adjourn Meeting
+ 
+==== Motion to approve Agenda ====
+ * Tim H moves, Gerry S seconds, No objections, abstentions, or comments. Agenda approved
+
+==== Motion to approve August 11th, 2016 meeting minute ====
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. [[MeetingMinutes/August112016|August 11th Minutes]] approved
+ 
+== KMIP 1.3 ==
+=== Specification and Profiles ===
+ * TC Admin are processing the documents now, they should be posted in the next few days.
+
+== KMIP 1.4 ==
+ * Tony still working on collated work item list and hopes to have it available next week
+ * Tony has notes of some additional items from some TC members - he has asked for proposals ASAP
+
+=== Request / Response Correlation - Anthony B ===
+ * Anthony walked through [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=58816|spec change proposal]]
+ * Comments in support from Tim and Mark.
+
+==== Motion to add Request/Response Correlation to the KMIP 1.4 specification ====
+ * Mark J moves. Greg seconds. No objects or abstentions. Motion passes.
+
+=== RSA PSS and RSA OAEP missing items - Bruce R ===
+ * Bruce walked through [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=58811|spec change proposal]] and [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=58812|test cases]]
+ * During implementation noted that some things were missing that are optional parameters which were missing.
+ * Test case using normal defaults doesn't work in Java - needs to specify the salt length - this indicates we need to add more parameters into cryptographic parameters.
+ * Even number are for verification. 2,4,6 are using different hash sizes. 8 is showing where the inside hash is different - so this is a good test that parameters are being checked. 10 shows 8 (different hashes) but also uses a non-null pSource.
+ * Tim notes that we will need to update the PSS example in the profile for KMIP 1.4 - on his list of changes.
+ * Pick this up next week after folks who have had a change to review. Gerry S would prefer next week on this one.
+
+=== AEAD support in Encrypt/Decrypt for GCM and CCM usage - Bruce R ===
+ * Bruce's proposal from approx three weeks back [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=58703|spec updates for GCM]]
+ * Need mechanism on the encrypt side to provide the additional data on tag length and a way to get the value out, with the corresponding decrypt needs to be able to pass in the optional additional data in the byte stream coming in.
+
+==== Motion to add AEAD/GCM changes to the KMIP 1.4 specification ====
+ * Mark J moves. Tim C seconds. No objects or abstentions. Motion passes.
+
+=== Other KMIP 1.4 notes ===
+ * Tony to get 1.4 documentation up to date for identifiers
+ * Tim reminded that PKCS11 TC needs some identifiers
+ * Tony noted that Tim will need to communicate the assigned block to the P11 TC once the 1.4 spec is updated
+
+== GitHub Repository ==
+ * Request has been submitted. Tony will update once there is a result from TC Admin.
+ 
+== Other topics (TOny C) ==
+ * None
+
+== Call for late arrivals (Tony C) ==
+ * Two members noted.
+ 
+== Motion to Adjourn ==
+ * Tim H moves, Chuck seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+= Meeting Adjourned at 8:28PM GMT =

@@ -1,0 +1,97 @@
+= Meeting Minutes 20 December 2018 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (December 13, 2018)
+ * Interop for RSA 2019
+
+ * OASIS call for 2019 events
+ * KMIP 2.0
+  * WD08 (Tony C)
+  * Profiles & Test Cases (Tim H)
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action Items Discussion
+ * List comment from Conrado Gouvêa
+ * New Business
+  * Distribution of Interop Process to OASIS Board Subcommittee
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Jerry S moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from December 13, 2018'''
+
+ * Greg S moves, Chuck W seconds, No objections, abstentions, or comments. Minutes for the December 13, 2018 meeting approved.
+
+== Interop for RSA 2019 ==
+=== Booth Layout/Signage ===
+ * Sample booth layout and branding/signage has been out for review for several weeks.  Tony C asked TC if there were any additional comments.  None were raised.
+ * Tony C recommended that the final decisions on both left to the six Interop participants.  No one raised objections to this approach.  So these two topics will move to the separate Interop meetings that will start in the new year.
+
+=== Interop Process ===
+ * Tony C posted an update to the Interop Process document (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64461).  This update reflects the Interop schedule that was discussed at last week's meeting and now referenced the profiles/test cases that Tim H had posted.  There are 148 individual test cases that will be covered during the Interop event.  This excludes the (7) optional test cases.  The TC agreed with the approach to leave out the optional test cases.
+ * John M asked the baseline profile now including server to client test cases, which don't seem to be well documented.  Tim H noted that this change reflects the Flow Control (Set Input Role) updated which allow the direction of communications to be set.  More details on Flow Control can be found in the proposal and spec changes -- see the KMIP Wiki for more information.
+
+'''Motion to approve the Interop Process document to be used for the RSA 2019 Interop event and all testing done in preparation for this event'''
+
+ * Tim H moves, Mark J seconds, No objections, abstentions, or comments. Interop Process has been approved for use.
+
+== OASIS Call for 2019 Events (Tony C) ==
+ * Tony C asked if anyone on the TC had other KMIP relevant events of which the OASIS folks should be aware.  Chuck W recommended the BSides events in Baltimore/DC area.  These are attended by many in the government that have to use KMIP and often focus on applications of cryptography and key management to which KMIP is a perfect topic to cover.  Tony C asked Chuck W to send email to the reflector with the details & dates of the BSides events.
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Spec WD08 (Tony C) ===
+ * Tony C posted by WD07 (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64462) and WD08 (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64473) of the KMIP 2.0 Spec this week.
+ * Tony C asked if anyone had comments on WD08.  John M asked why some of the error numbers had changed from KMIP 1.4.  Tony C noted this was an interesting side effect of doing the Result Reason Code.  Tony C noted he didn't intend to reassign the error numbers in WD07 and has corrected this in WD08.
+
+'''Motion for the TC to approve KMIP Specification V2.0 WD08 (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/64473/kmip-spec-v2.0-wd08.docx) and all associated artifacts packaged together as a Committee Specification Draft and designate the .doc version of the specification as authoritative.'''
+
+ * Mark J moves, Bruce R seconds, No objections, abstentions, or comments. Motion approved.
+
+=== KMIP v2.0 Profiles & Test Cases  (Tim H) ===
+ * Tim H has posted WD03 of the Profiles document (https://www.oasis-open.org/committees/document.php?document_id=64455&wg_abbrev=kmip), WD01 of the Test Case document (https://www.oasis-open.org/committees/document.php?document_id=64455&wg_abbrev=kmip) and the associated zip file of the test cases associated with both documents. Note that the WD numbers between the word version of the documents (WD03 &WD01) and the zip files (WD05) are presently out of sync.
+ * Tim H noted that he did some restructuring of the Profiles document, some profiles have additional test cases that have been discussed during the year.  He does expect that the test cases will be refined during the Interop testing.
+ * Tony C asked if anyone had comments on the Profiles and Test Case documents.  None were raised.
+
+'''Motion for the TC to approve KMIP Profiles V2.0 WD03 (https://www.oasis-open.org/committees/document.php?document_id=64455&wg_abbrev=kmip) and all associated artifacts (https://www.oasis-open.org/committees/document.php?document_id=64453&wg_abbrev=kmip) packaged together as a Committee Specification Draft and designate the .doc version of the specification as authoritative.'''
+
+ * Chuck W moves, Mark J seconds, No objections, abstentions, or comments. Motion approved.
+
+'''Motion for the TC approve KMIP v2.0 Test Cases WD01 <https://www.oasis-open.org/committees/document.php?document_id=64456&wg_abbrev=kmip> and all associated artifacts <https://www.oasis-open.org/committees/document.php?document_id=64454&wg_abbrev=kmip> packaged together as a Committee Note Draft and designate  the .doc version of the note as authoritative.'''
+
+ * Mark J moves, Jerry S seconds, No objections, abstentions, or comments. Motion approved.
+
+=== KMIP v2.0 Usage Guide (Judy F) ===
+ * Judy F is still awaiting Usage Guide content -- Please see KMIP TC Wiki for outstanding UG actions.
+
+== List comment from Conrado Gouvêa ==
+ * Deferring since no response to Tim H's response has been received.
+
+== New Business ==
+=== Distribution of Interop Process to OASIS Board Subcommittee ===
+ * Bruce R noted that the Process OASIS Board Subcommittee has taken on the task to update the OASIS Interop Policy.  The subcommittee would like to see example interop policies and Bruce R asked to share the KMIP TC Interop Process with the subcommittee.
+ * Tim H suggested making a general motion to make any (this year and previous years) of the KMIP TC Interop documents available to the Board for reference
+ * Tony C agreed it was a good idea since this year and last the Interop has been run an abbreviated version due to compressed schedules and the Board should see some of the Interop Process documents used in years when there was more time scheduled.
+
+'''Motion to make all approved KMIP TC Interop Process documents from this year and previous years'''
+
+ * Chuck W moves, Tim H seconds, No objections, abstentions, or comments. Motion approved.
+
+== Next Meeting ==
+ * Next TC Meeting: 10 January 2019
+ * Separate Interop Meetings will be scheduled starting in the new year.  Interop participants will receive details.
+
+== Call for Additional Attendees (Tony C) ==
+ * Two [Jason T (Cryptsoft), Alan B (Thales)]
+
+== Motion to Adjourn ==
+ * Tim H moves, Jerry S seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:35 US-EST ==

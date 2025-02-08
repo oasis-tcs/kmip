@@ -1,0 +1,67 @@
+= Meeting Minutes 8 August 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (July 25, 2019)
+ * KMIP 2.0 (Status)
+ * KMIP v1.4 Errata (Status)
+ * KMIP 2.1
+  * Review wiki
+ * New Business
+  * Response to comment (Chuck W)
+  * Response to Conrado Gouvêa
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Chuck W seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from July 25, 2019'''
+
+ * Tim H moves, Jerry S seconds. No objections, abstentions, or comments. Minutes for the July 25, 2019 meeting approved.
+
+== KMIP 2.0 Status (Tony C) ==
+ * Ballot for submitted the KMIP 2.0 Spec and Profiles as Candidates OASIS Standards was opened on August 2, 2019 and will close on August 9, 2019 (https://www.oasis-open.org/apps/org/workgroup/kmip/ballot.php?id=3421)
+
+ * 17 of the eligible 19 TC members have voted on the ballot.  All votes so far are in the affirmative.  Chuck W apologized for not voting yet and will do so shortly.
+
+== KMIP v1.4 Errata Status (Tony C) ==
+ * The KMIP 1.4 Errata document is still in TC Admins' backlog pending publication.
+
+== KMIP 2.1 ==
+=== KMIP 2.1 Spec (Tony C) ===
+ * Tony C published the first working draft of the KMIP 2.1 Specification to the OASIS site last week (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65696)
+
+ * Tony C is now in the process of rolling in the changes from the approved KMIP 2.1 proposals into the next WD of the KMIP 2.1 Spec.
+
+=== KMIP 2.1 Profiles (Tim H) ===
+ * No updates to the profiles since the first WD publication a few weeks ago.  The KMIP 2.1 proposals have all been Spec deltas to date.
+
+=== KMIP 2.1 Proposal List (Tony C) ===
+ * TC reviewed the KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1).  A set of proposals are due mid-August.  Tony C plans to have his ready for next week's call
+
+== New Business ==
+ * Chuck W forwarded a draft response on why TTLV encodings are no longer included in the Test Cases to Tony C for review and distribution to the reflector.
+
+ * Tony C still needs to craft the subsequent response to Conrado Gouvêa (Kryptus) latest query on KMIP 1.4 related to the MAC/sign key wrapping option.
+
+ * Interop for RSA 2020 Status
+  * Tony C is working on the timeline and process documents for the Interop and expects to have these distribute in another week or so.
+  * There are still spots left to participate in the OASIS booth please contact Jane H and Tony C if you are interested.
+
+== Next Meeting ==
+ * Next TC Meeting:  15 August 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Tim C (NetApp), Indra F (Utimaco), John M (Quintessence Labs)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:13 US-EST ==

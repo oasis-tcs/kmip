@@ -1,0 +1,70 @@
+= Meeting Minutes 27 Apr, 2017 =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (March 30, 2017)
+ * KMIP 1.4 update (Tony C.) 
+  * Specification - PR Comments
+  * Profiles - Tim H
+  * Test Cases - Tim H
+  * Usage Guide - Judy F
+  * AI Update - [[1.4]]
+ * KMIP 2.0 update (Tony C.) 
+  * AI Update - [[2.0]]
+ * 2017 Plugfest
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve March 30, 2017 meeting minutes =====
+ * [[MeetingMinutes/Mar302017|March 30, 2017]]
+ * Tim H moves, Jerry seconds. No objections, abstentions, or comments. Minutes approved
+
+=== KMIP 1.4 Spec - PR Comments (Tony C.) ===
+ * PR has closed
+ * some comments have been informally sent to Tony C
+ * largely editorial, should have no substantive impact
+
+=== KMIP 1.4 Profiles update (Tim H.) ===
+ * no comments received so far
+
+=== KMIP 1.4 Test Cases update (Tim H.) ===
+ * no comments received so far
+
+=== KMIP 1.4 Usage Guide update (Judy F.) ===
+ * no comments received so far 
+
+=== Reviewed KMIP v1.4 AIs ====
+ * None
+
+=== KMIP 2.0 update (Tony C.) ===
+ * Tony has started to push the specification along the process
+ * editors had no comments
+ * Judy brought up the starter documents and concerns about the cross-references
+ * Tony C is going to verify the process for the documents with Paul & Chet
+
+==== Reviewed KMIP v2.0 AIs ====
+ * Deferred until after PR has completed
+
+=== 2017 Plugfest (Tony C.) ===
+ * straw poll has completed, 5 organizations are interested
+ * will be part of SNIA, open to both members and non-members of the committee
+ * more details as they are available
+
+== Additional Items ==
+ * KMIP 1.3 Specification and Profiles has been nominated for the OASIS 2017 Open Standards Cup
+
+== Call for late arrivals (Tony C) ==
+ * Radhika - Oracle
+
+
+===== Motion to Adjourn =====
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+== Meeting Adjourned at 2:15 US-PST ==

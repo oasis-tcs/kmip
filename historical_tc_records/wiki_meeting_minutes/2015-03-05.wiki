@@ -1,0 +1,68 @@
+= Meeting Minutes March 5, 2015 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Saikat Saha
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Approve February 26th Meeting Minutes
+ * KMIP v1.2 CoS Status
+ * KMIP 1.3 Document Status updates
+  * Specification (Tony Cox)
+  * Profiles (Tim Hudson/Bob Lockhart)
+  * Test Cases (Tim Hudson/Mark Joseph)
+  * Use Cases (Chuck White)
+  * Usage Guide (Judy Furlong)
+ * Review KMIP 1.4 Items
+ * Face to Face Topics
+ * RSA Interop update
+ * New Business
+ * Motion to adjourn
+ 
+=== Motion to approve Agenda ===
+ * Tim Chevalier Moves
+ * Tim Hudson seconds 
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve February 26, 2015 meeting minutes ===
+ * Tim H Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== KMIP v1.2 CoS Status ==
+ * No comments up to this point
+ 
+== KMIP 1.3 Status ==
+ * Specification on second draft 
+ * Status unchanged for Profiles
+ * Moved to Committee Draft
+ * Usage Guide - No status change
+
+== Review KMIP 1.4 Items ==
+ * Anthony provided an overview of items for discussion for 1.4/face to face
+ * Additional persons interested may add themselves on the Wiki page accordingly
+ 
+== Face to Face (F2F) Topics ==
+ * Looking for proposals for the 1.4 items at F2F (April 16 & 17)
+
+== RSA Interop ==
+ * Tony have 1st meeting today - progressing to have results before the face 2 face
+
+== New Business ==
+ * No new business
+ 
+== Call for late arrivals - Saikat S ==
+ * Two late arrivals
+
+== Motion to Adjourned ==
+ * Tim H Moves
+ * Ste E seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+==== Meeting Adjourned at 9:17PM GMT ====

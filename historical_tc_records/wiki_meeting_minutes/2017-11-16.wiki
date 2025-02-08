@@ -1,0 +1,74 @@
+= Meeting Minutes 16 November, 2017 - Draft =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (November 09, 2017)
+ * Take KMIP v1.4 to ISO 
+ * KMIP 1.4 update (Tony C.) 
+ * KMIP 2.0 update (Tony C.)
+  * Review KMIP v2.0 wiki (https://wiki.oasis-open.org/kmip/2.0)
+  * Profile Name Update
+ * Key Value for Wrapped Objects Query
+ * Destroy Operation Query
+ * Usage Masks Discussion
+ * Next Meeting
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+===== Motion to approve Agenda =====
+ * Justin C moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve October 12, 2017 meeting minutes =====
+ * [[MeetingMinutes/09Nov2017|November 9, 2017]]
+ * Greg S moves, Sue G seconds. No objections, abstentions, or comments. Minutes approved
+
+
+== Take KMIP v1.4 to ISO ==
+ *  Deferred
+
+== KMIP 1.4 Update - Tony C ==
+ * Tony stated that OASIS wide org vote is still underway - emails have been sent out to Org Reps for TC members. Positive votes are being lodged 
+
+already
+
+== KMIP 2.0 Update - Tony C ==
+=== Review KMIP v2.0 wiki ===
+ * Tony C reviewed items at [[https://wiki.oasis-open.org/kmip/2.0]]
+ * Agreed that members with proposals outstanding shoudl provide an updated ETA with a view to have all proposals available by December 15, 2017
+ * Tony finalising editorial aspects of the spec drafting and should have draft uploaded by next meeting
+
+=== Profile Name Update ===
+ * Tim H presented proposal
+ * TC to review proposal with a view to finalising at next meeting
+
+== Key Value for Wrapped Objects Query ==
+ * Tim to provide reviewed response
+
+== Destroy Operation Query ==
+ * Tim provided a rsponse on the usage of the destroy operation
+ * This item is being clarified in the kMIP 2.0 specification
+ * Tim stated that test cases will appear in KMIP 2.0 to chow how this is handled
+
+== Usage Masks Discussion ==
+ * Nitin posed a question regarding export usage
+ * Tim H indicated that Export has nothing to do with Get as it was not defined to impact the Get operation
+ * Nitin to make a proposal and provide to Tim and Mark for review prior to presenting to the TC
+ * Tim to propose spec wording at next meeting
+
+=== New Item ===
+ * None
+
+=== Next Meeting ===
+ * November 30, 2017
+
+== Call for late arrivals (Tony C) ==
+ * 2 members
+
+===== Motion to Adjourn =====
+ * Greg S moves, Bruce R seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+== Meeting Adjourned at 2:38 US-PST ==

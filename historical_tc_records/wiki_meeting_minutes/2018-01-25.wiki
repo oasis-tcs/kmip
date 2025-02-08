@@ -1,0 +1,75 @@
+## page was copied from MeetingMinutes/18Jan2018
+## page was copied from MeetingMinutes/11Jan2018
+= Meeting Minutes 25 January 2018 - Draft =
+== Meeting commenced 2:00 PM US-PST ==
+ * Roll call (Tony C)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (January 18, 2018)
+ * Interop Status
+ * KMIP 2.0
+  * New KMIP 2.0 Specification WD available (Tony C)
+  * Wrapping Operations Proposal (Bob L)
+  * Usage Mask Discussion (Nitin J/Tim H)
+  * Review KMIP v2.0 wiki (https://wiki.oasis-open.org/kmip/2.0) (Tony C.)
+ * KMIP TC F2FMeeting (April 2018)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve January 18, 2018 meeting minutes =====
+ * [[https://wiki.oasis-open.org/kmip/MeetingMinutes/18Jan2018|January 18, 2018]]
+ * Bruce moves, Greg seconds. No objections, abstentions, or comments. Minutes approved
+
+== Interop Status ==
+ * OASIS has secured two prime booths at the RSA Conference (Booths 1601 and 1701)
+ * Jane Harnad is working on the booth layout and more information on the proposed layout and confernece logistics will be distributed next week.
+ * Subsequently Tony C will organize the Interop call for organizations that will be participating in the Interop at the RSA Conference
+ * Tony C thanked Jeff B for putting together a draft Interop schedule.  Scope of interop still needs to be defined.
+ * Tony C noted that there has been no response from the OASIS board to the letter that the TC sent to them regarding the OASIS Interop processes
+
+== KMIP 2.0 ==
+=== New KMIP 2.0 Specification WD ===
+ * Tony is working on WD3 of the KMIP Spec. which incorporates feedback on WD drafts.  Tony has also been reviewing all the TC minutes since the last F2F to ensure he has incorporated all motioned changes into the Spec.  Tony expects to publish WD3 next week.
+
+=== Wrapping Operations Proposal ===
+ * Deferred
+
+=== Usage Masks Discussion ===
+ * Tim H indicated he had no update so the discussin is deferred.
+
+=== Review KMIP v2.0 wiki ===
+ * Tony C reminded folks (Tony C, Tim H, Judy F, Anthony B, Mark J, Gerry S, Sun-ho L, Gary G, Nitan J, and Jeff B to review their actions on the [[KMIP 2.0|KMIP v2.0]] wiki
+ * Matt O indicated the he would also like time to review the list.
+ * We plan to walk through the action list as next week's meeting.  Please contact Tony C/Judy F if you have updates on your action(s) or if you wish a topic to be added to the agenda.
+
+=== KMIP TC F2F Meeting (April 2018) ===
+ * Tony C noted that the TC has traditionally held a F2F meeting in the week prior to the RSA Conference (which runs from 16 - 20 April 2018) and asked the TC is we should do so this year.
+ * Tim H. advocated for holding the F2F.  No one voiced an objection to holding a F2F.
+
+===== Motion to hold a two day F2F prior to the RSA Conference on Thursday 12 April and Friday 13 April 2018 =====
+ * Tim H moves, Jeff B seconds, No objections, abstentions, or comments. Motion approved
+
+ * Next step is find a venue for where the F2F can be held.  Tony C made a request to the TC for a company with facilities in the the San Francisco/Bay Area (for 20-30 people) who would be willing to host the F2F meeting.
+ * Companies that would be willing to host the meeting should contact the co-chairs (Tony C/Judy F) and/or post to the KMIP mailing list.
+
+== New Business ==
+ * None
+
+=== Next Meeting ===
+ * February 1, 2018
+
+== Call for late arrivals (Tony C.) ==
+ * 1 Member (Mahesh Paradkar (IBM) who is new member (Welcome Mahesh!))
+
+===== Motion to Adjourn =====
+ * Chuck W moves Tim H seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 15:19 US-PST ==

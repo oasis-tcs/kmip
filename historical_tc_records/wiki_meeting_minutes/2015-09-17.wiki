@@ -1,0 +1,73 @@
+## page was copied from MeetingMinutes/July232015
+= Meeting Minutes September 17, 2015 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Saikat
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Approve Agenda
+ * Approve minutes
+ * KMIP 1.3 Status
+ * NIST update
+ * Interop Participation 
+ * New business
+ * Adjourn
+ 
+=== Motion to approve Agenda ===
+ * Tim H Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve August 20th meeting minutes ===
+ * Tim H Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== KMIP 1.3 status Profiles by Tim Hudson ==
+ * We have committee specification draft 12-Feb, Usage Guide April, Test case mid-Feb, still waiting on base profile document
+ * Tim H - working with OASIS admin on the XML approach for test cases - external files, reference. Running behind schedule but single doc and external references should make review a lot easier.
+ * Tim C - use case doc with Chuck W. Behind schedule. No expected date as yet.
+ * Judy - usage guide - co-editor marked as TBD - Indra F has agreed to be co-editor for KMIP 1.3 usage guide
+ * No pending updates for usage guide. 
+ * Summary: Spec, Usage Guide, Test Cases
+ * David F: application specific information and revoke emails sent to list - add to next call as an agenda item (next week)
+ * Bob L/Tim H: DSSS summit clash for call next week - can we handle that
+ * Motion to cancel next weeks call. Move Tim, Second Bob. Next call is October 1st.
+
+
+== Nist Update ==
+ * Tim: quick summary - update for Suspend state - should include in KMIP 1.4? BobL - yes.
+ * Saikat: does this impact the key management documents? Tim - unclear - perhaps ask Chuck. Saikat will ask Chuck.
+ * Discuss this in next calls agenda after everyone has had a chance to review.
+
+== Other items ==
+ * Welcome back to Indra F.
+ * Bruce R leave of absence for three weeks starting the week of September 23rd noted.
+
+== OASIS Formal Process for RSA Interop ==
+ * Need to have formal OASIS TC participate in RSA 2016 and appoint an Interop Lead.
+ * Motion to participate in RSA 2016 interop
+ * Tim H moves
+ * Bruce R seconds
+ * No objections. No Abstentions.
+ * Motion to have Tony Cox be Interop Lead in RSA 2016 interop
+ * Bob L moves
+ * Steve E seconds
+ * No objections. No Abstentions.
+
+== Call for late arrivals - Tony C. ==
+ * Mike Philips - Dell 
+ 
+== Motion to Adjourned ==
+ * Tim H Moves
+ * Bob L seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:22PM GMT =

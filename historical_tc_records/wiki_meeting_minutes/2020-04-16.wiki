@@ -1,0 +1,75 @@
+= Meeting Minutes April 16 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+ * There were no objections to resuming meetings at the normally scheduled time.
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+ * Tony C is still reviewing minutes from the F2F. 
+ * There were no other comments on the minutes or motion for them to be approved.
+ * Plan is for them to be accepted at next week's meeting.
+ 
+== KMIP Interop 2020 debrief ==
+ * RSA was quieter given what has been going on, moderately successful, good attendance at the booth, couple of logistics items to work on for next year, reasonable amount of interoperability at the booth.
+ 
+== KMIP Interop 2021 planning ==
+ * Jane has put out the request for 2021 participants. There are spots still open. Her deadline is currently the end of April 2020.
+ * Booth for 20201 will be closer to the entrance of the south hall and to the right.
+ * Expectation based on previous Interops is to be testing 3.0 capabilities.
+ 
+== KMIP 2.1 ==
+=== Status - Spec & Profiles ===
+  
+ * There were comments from the public reviews of the documents.
+ * There were no comments on the status of the documents.
+ * There were no comments on the motion comments.
+  
+'''Motion to approve the Chair requesting that TC Administration hold a Special Majority Vote to approve Key Management Interoperability Protocol Specification Version 2.1 Public Review Draft 01 contained in http://docs.oasis-open.org/kmip/kmip-spec/v2.1/csprd01/ as a Committee Specification, and to approve the Chair requesting that TC Administration update the following Designated Cross-References during publication of the Committee Specification:
+- Current reference to be updated: Key Management Interoperability Protocol Profiles Version 2.1 Public Review Draft 01 contained in http://docs.oasis-open.org/kmip/kmip-profiles/v2.1/csprd01/ - Expected publication date May 2020'''
+	
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Motion approved
+
+'''Motion to approve the Chair requesting that TC Administration hold a Special Majority Vote to approve Key Management Interoperability Protocol Profiles Version 2.1 Public Review Draft 01 contained in http://docs.oasis-open.org/kmip/kmip-profiles/v2.1/csprd01/ as a Committee Specification, and to approve the Chair requesting that TC Administration update the following Designated Cross-References during publication of the Committee Specification:
+- Current reference to be updated: Key Management Interoperability Protocol Specification Version 2.1 Public Review Draft 01 contained in http://docs.oasis-open.org/kmip/kmip-spec/v2.1/csprd01/ - Expected publication date May 2020'''
+ 
+ * Tim H, Chuck seconds.  No objections, abstentions, or comments. Motion approved
+
+ * Calls for Statements of Use will be coming soon. Email Tony C if there are questions or concerns.
+	
+=== Test Cases & Usage Guide ===
+
+ * Test Cases and Usage Guide are in the draft stage. still in draft stage
+ * Tim H does not see any further changes to the Test Cases.
+ * Judy has not received any comments on the Usage Guide.
+ * Tony C will prepare the motions to move them forward.
+
+== KMIP 3.0 ==
+=== Status update ===
+ * It was an unanimous consensus at the F2F that the next version would be 3.0 given the scope of changes suggested.
+ * Template documents for the four documents have been received.
+
+== OASIS proposed document template changes ==
+ * Tony C is still working through the suggested changes.
+ * Judy and Chuck have scanned it but not in detail.
+ * Bruce - Google Docs version was a contribution, includes Google version of macros that automates filling in boilerplate info, there will be a Word version that follows but it depends on someone volunteering to do the work.
+ * Comments and feedback will be called for at the next meeting.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: April 23, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Ed, Brett
+
+== Motion to Adjourn ==
+ * Tim H moves and Chuck seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:22 US-EST ==

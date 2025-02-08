@@ -1,0 +1,72 @@
+= Meeting Minutes 29 June, 2017 =
+== Meeting commenced 9PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (June 15, 2017)
+ * KMIP 1.4 update (Tony C.) 
+  * SOUs
+  * Specification - Next steps
+  * Profiles - Next steps
+ * New Items
+ * Next Meeting
+  * Summer Meeting Schedule
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+=== Motion to approve Agenda ===
+ * Tim H. moves, Gerald S. seconds, No objections, abstentions, or comments
+ * Agenda approved
+
+== Motion to approve June 15, 2017 meeting minutes ==
+ * [[MeetingMinutes/15Jun2017|June 15, 2017]]
+ * Gerald S. moves, Bruce R. seconds. No objections, abstentions, or comments.
+ * Minutes approved
+
+
+== KMIP 1.4 Update - Tony C ==
+=== KMIP 1.4 SOUs - Next steps ===
+ * KMIP TC needs to formally accept the SOUs.
+
+==== Motion to accept SOUs for KMIP v1.4 ====
+ * Motion to accept the Statements of Use for KMIP Spcification v1.4 and KMIP Profiles v1.4 as approved on 18 June 2017 provided by: 
+  * Cryptsoft - https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60994/KMIP-SOU-Cryptsoft-18-Jun-2017.pdf.
+  * P6R - https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/61007/KMIP-SOU-P6R-18-June-2017-R2.pdf 
+  * HPE - https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/61016/HPE-SOU-19-June-2017.pdf
+ * Bob L. moves, Bruce R. seconds, No objections, abstentions, or comments.
+ * Motion approved
+
+=== KMIP 1.4 Spec- Next steps ===
+==== Motion to approve KMIP v1.4 Specification as COS and Public Review ====
+ * Motion to approve the Co-Chairs requesting that TC Administration hold a Special Majority Vote to approve submitting KMIP Specification v1.4 Committee Specification at [[http://docs.oasis-open.org/kmip/spec/v1.4/cs01/kmip-spec-v1.4-cs01.docx|KMIP Specification v1.4 CS]] as a Candidate OASIS Standard and direct the Chairs to take any necessary steps to carry out that submission pursuant to the OASIS TC Process 3.4.1, with a public review not exceeding the process requirements (presently 60 days).
+ * Tim H. moves, Joe B. seconds, No objections, abstentions, or comments.
+ * Motion approved
+
+=== KMIP 1.4 Profiles - Next steps ===
+==== Motion to approve KMIP v1.4 Profiles as COS and Public Review ====
+ * Motion to approve the Co-Chairs requesting that TC Administration hold a Special Majority Vote to approve submitting KMIP Profiles v1.4 Committee Specification at [[http://docs.oasis-open.org/kmip/profiles/v1.4/cs01/kmip-profiles-v1.4-cs01.docx|KMIP Profiles v1.4 CS]] as a Candidate OASIS Standard and direct the Chairs to take any necessary steps to carry out that submission pursuant to the OASIS TC Process 3.4.1, with a public review not exceeding the process requirements (presently 60 days).
+ * Tim H. moves, Gerald S. seconds, No objections, abstentions, or comments.
+ * Motion approved
+
+== New Items ==
+ * Congratulations to Tony Cox who was named as an OASIS Distinguished Contributor for 2017!
+
+== Next Meeting ==
+ * July 6, 2017 at 9:00PM GMT
+ 
+=== Summer Meeting Schedule ===
+ * Suggested that after July 13, 2017 meeting schedule meetings every two weeks
+ * Revisit the schedule in early September
+ * Vote on July 13, 2017 to enact the appropriate schedule change
+
+== Call for late arrivals (Tony C) ==
+ * 2 members joined after roll call
+
+== Motion to Adjourn ==
+ * Tim H. moves, Greg S. seconds. No objections, abstentions, or comments.
+ * Meeting adjourned
+ 
+= Meeting Adjourned at 9:23 GMT =

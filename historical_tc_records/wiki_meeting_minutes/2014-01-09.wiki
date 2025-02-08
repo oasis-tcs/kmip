@@ -1,0 +1,73 @@
+= January 09, 2014 Meeting Minutes =
+
+== Role Call ==
+Taken by Subhash Sankuratripati (Subhash)
+Quorum Achieved
+
+== Proposed Agenda ==
+ 1. Approve Previous Minutes
+ 1. Face to face venue
+ 1. Update on the result of recent RNG Ballot
+ 1. Approve the KMIP 1.2 working drafts as Committee Specification Drafts
+ 1. Saikat and Kiran present KMIP Cloud Use Case proposal
+
+=== Motion to accept agenda ===
+ * Tim H. Moves to accept agenda - approved
+ * Kiran T. seconds the motion
+ * No objections - No Discussion
+ * Motion Passes
+
+== 1. Approve Previous Meeting Minutes ==
+=== December 12, 2013 Minutes ===
+ * Tim H. Moves to approve minutes from December 12, 2013 meeting
+ * Tony C. Seconds the motion
+ * No objections - No Discussion
+ * Motion Passes
+
+== 2. Face to face venue ==
+ * Saikat updated that Saikat has the necessary approval to host KMIP face to face at Oracle HQ in Redwood shores
+ * Subhash seeks if anyone would object or prefer the NetApp Sunnyvale location over Redwood Shores in Peninsula
+ * Hearing no objection, venue for February KMIP face to face is finalized at Oracle HQ, Redwood Shores.  
+
+== 3. Update on the result of recent RNG Ballot ==
+ * Subhash updated committee with the results from the RNG going forward strategy ballot
+ * Based on the results from the voting, move forward with updated proposals in line with ballot but nothing further on the RNG object
+
+== 4. Approve the KMIP 1.2 working drafts as Committee Specification Drafts ==
+ * Subhash requested a motion to 
+   1. Approve the current KMIP 1.2 committee working drafts as Committee specification draft, 
+   2. Provide the editors the approval to change doc names to C(D|N)S and modify any cross references
+   3. Authorize the co-chairs to request that all the documents be submitted for a 30 day public review
+   4. Designate the WORD version of each document as the authoritative version.
+
+ * Tim has already updated KMIP Additional Message Encodings Version 1.0
+ * Tim moves the motion for above, Bruce seconds, hearing no objections, no discussions, Motion passes
+
+
+== 5. Saikat and Kiran present KMIP Cloud Use Case ==
+  
+ *  Bruce scale - expands and shrinks need to be two separate bullets
+ *  Bruce: Geopolitical/Geographical limit, not necessarily a cloud specific issue
+ *  Tony: Client capability in regard to supporting a HSM to protect keys
+ *  Judy, Bruce: Diagram is overloaded, we should pick all the four diagrams from the use case document for various scenarios
+ *  Bruce: Client capabilities, what is the overall scope?
+ *  Subhash: Grouping seems more like access control
+
+
+
+
+== 8. Agenda for next meeting ==
+
+ * Tim H. to present FIPS Query proposal.
+ * Joe to present NIST key life cycle management
+ * Bruce mentions that Stan is the primary owner of Client Registration, Stan is yet to be a member in the rechartered committee, we need to make a decision fairly quickly considering this is very important 
+ * Judy volunteered to co-lead. Tim updated the wiki details to match.
+
+
+== Motion to Adjourn ==
+
+ * Tim H. moves to Close Meeting
+ * Bruce R. seconds the motion
+ * No objections - No Discussion
+ * Motion Passes
+ * Meeting adjourned

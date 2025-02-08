@@ -1,0 +1,88 @@
+## page was copied from MeetingMinutes/March242016
+## page was copied from MeetingMinutes/March252016
+= Meeting Minutes March 31, 2016 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call 
+ * Approve Agenda 
+ * Approve minutes (24th March) 
+ * PKCS#12 import - create proposal and test cases (Bruce R.)  
+ * Link Handling - Bring forward a proposal (Tim H. & Mark J.) 
+ * SP800-57 update - create a proposal for enumerations and attributes (Chuck W) 
+ * PKCS#11 alignment - create proposal to add attributes - Sensitive and Extractable (Bob L.) 
+ * Administrator attributes - create a proposal for the attributes that can be added/modified/deleted by a key administrator or user (Gerald S.) 
+ * Multiple CA handling - expand upon query more and revisit for (Bruce R.) 
+ * Sensitive Attributes - Distribute a spreadsheet that contains attribute examples (Chuck W.) 
+ * Tape Library Profile - Create an Erratta addendum to clarify use of fewer query commands but not more query (Tim H.) 
+ * Plugfest - Approach SNIA to see about participation as part of event (Tony) 
+ * KMIP 1.3 status
+ * New business 
+ * Adjourn
+ 
+== Motion to approve Agenda ==
+ * Tim H. Moves
+ * Gerry (Gerald S.) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve minutes for 24th March ==
+ * Tim C Moves
+ * Tim H Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved 
+
+== PKCS#12 Import (Bruce R.) ==
+ * Bruce will proceed with the test case and specification amendments for PKCS#12 registration and get
+ * This is amendment to test case not profile test case
+ * Bruce will present in next week's TC call
+
+== Link Handling - Bring forward a proposal (Tim H. & Mark J.) ==
+ * Defer to next meeting
+
+== SP800-57 update - create a proposal for enumerations and attributes (Chuck W) ==
+ * Defer to next to next meeting, two weeks out - Chuck
+
+== PKCS#11 alignment - create proposal to add attributes - Sensitive and Extractable (Bob L.) ==
+ * Defer to next meeting - Bob not on call.
+
+== Administrator attributes - create a proposal for the attributes that can be added/modified/deleted by a key administrator or user (Gerald S.) ==
+ * Defer to next meeting - Gerry
+
+== Multiple CA handling - expand upon query more and revisit for (Bruce R.) ==
+ * Defer to next to next meeting, two weeks out - Bruce
+
+== Sensitive Attributes - Distribute a spreadsheet that contains attribute examples (Chuck W.) ==
+ * Chuck has already sent out during face to face meeting
+ * TC members are encouraged to review and provide feedback in next weeks call
+
+== Tape Library Profile - Create an Errata addendum to clarify use of fewer query commands but not more query (Tim H.)  ==
+ * Tim has reached out to co-editors of profile and will provide an update in next weeks call
+
+== Plugfest - Approach SNIA to see about participation as part of event (Tony) ==
+ * Tony has had multiple requests including requests from outside of KMIP TC 
+ * Tony proposes June timeframe face to face in the Bay Area
+ * Any participating company can volunteer to host
+
+==  KMIP 1.3 status  ==
+ * Tony has posted all the minutes and updated minutes are posted at the request of TC admin
+ * TC admin now has everything needed to send the KMIP 1.3 test case and profile documents for public review
+
+== New business ==
+ * None
+
+== Call for late arrivals ==
+ * None
+
+==  Motion to Adjourn == 
+ * Gerry Moves
+ * Tim H. seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+== Meeting Adjourned at 9:20PM GMT ==

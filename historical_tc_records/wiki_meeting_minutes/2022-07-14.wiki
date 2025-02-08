@@ -1,0 +1,52 @@
+= Meeting Minutes July 14, 2022 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Judy F)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (June 30, 2022)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from June 30, 2022'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the [[https://wiki.oasis-open.org/kmip/MeetingMinutes/30Jun2022|June 30, 2022]] Meeting Minutes approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S, Received some comments from the TC, will be processing before the next meeting.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H updated the wiki entry - marking closed items
+ * Tim H Hoping to get a cross-check between Profiles and Test cases completed by next meeting to get a sense of how that is progressing.
+ * Tim H also planning an update to Profiles document
+
+=== KMIP 3.0 Usage Guide ===
+ * Tim H sent out 2 sets of usage guide text for [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/202207/msg00001.html|splitkey and pkcs 11]]
+ * Judy F Updated working copy, possibly put out an update before next meeting
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: July 28, 2022
+
+== Call for Additional Attendees ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H and Tim C seconds. No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:09 US-EST ==

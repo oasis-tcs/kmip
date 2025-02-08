@@ -1,0 +1,65 @@
+= Meeting Minutes October 06 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (September 8, 2022)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * Liaison Statement from ITU-T SG17
+ * RSAC 2023 Call for Papers
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from September 8, 2022'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the September 8, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S. has made limited progress on the next working draft of KMIP 3.0 Specification document.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H said he made no progress on the KMIP 3.0 Profiles/Test Cases in the last two weeks.
+
+=== KMIP 3.0 Usage Guide ===
+ * Bruce brought up Triple-DES Key Encoding as an example of a section that contains outdated content and which should be considered for depreciation or removal.
+ * Content like 3DES which is deprecated/removed would remain in the KMIP Spec for backward compatibility.
+ * The usage guide has a depreciation section but it is intended to be used to identify functionality deprecated in the KMIP Spec and is not intended to record content being deprecated or removed from the UG. Older versions of the usage guide are available to see how it was used in the past.
+
+ * Open Items
+  * Review UG for outdated content which can be removed or marked appropriately.
+  * Capture any KMIP 3.0 functionality deprecated in v3.0 in the UG Deprecation section.
+  * Review documentation for dated references.
+
+== Liaison Statement from ITU-T SG17 ==
+ * Judy will reply to TC Admin with that we reviewed the liaison request it and it is not related to our TC.
+
+== RSAC 2023 Call for Papers ==
+ * Jane sent out a reminder calling for topic proposals for RSA.
+ * Currently there are no plans for an Interop event at RSA.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: October 20, 2022
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:32 US-EST ==

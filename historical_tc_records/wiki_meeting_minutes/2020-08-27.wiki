@@ -1,0 +1,65 @@
+= Meeting Minutes August 27, 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (August 20, 2020)
+ * KMIP v2.1
+   * Status
+ * KMIP v3.0
+   * Obliterate Spec Deltas (Anthony B ) 
+   * Status update (wiki review)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+ 
+
+'''Motion to approve Agenda'''
+
+ * Jerry S moves, Bruce R seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from August 20, 2020'''
+
+ * Greg S moves, Chuck W second. No objections, abstentions, or comments. Minutes for the August 20, 2020 meeting approved.
+
+== KMIP 2.1 ==
+
+ * Tony spoke with TCAdmin and the KMIP 2.1 Spec & Profile should be published in a few days, which will kick off the six week Candidate OASIS review period which would conclude around late October.
+
+== KMIP 3.0 ==
+
+=== Obliterate Spec Deltas ===
+
+ * Anthony B walked the TC though the spec deltas for the new Obliterate Operation.  See (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=67650)
+
+ * Chuck asked if the operation should return the UUID of what was Obliterated (mimicking what the Destroy operation does)
+   * Anthony B didn't include this since the client sending the request had the UUID to make the request
+   * Bruce C thought the proposal as it stands (no UUID returned) was the reasonable approach because the object associated with the UUID is gone and some implementations may choose to reuse a UUID so the reference object would be different.
+   * After discussion TC decided to leave the proposal as it was written (no UUID returned)
+
+'''Motion to approve the Obliterate Operation Spec deltas in the KMIP 3.0 Specification.'''
+
+ * Bruce R moves, Tim C seconds.  No objections, abstentions, or comments. Obliterate Operation updates approved.
+
+=== Status Update ===
+
+ * Discussed and adjusted the due dates of the outstanding 3.0 proposals on the wiki (https://wiki.oasis-open.org/kmip/3.0) 
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: September 3, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Tim C (NetApp)
+
+== Motion to Adjourn ==
+ * Tim H moves and Chuck W seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:20 US-EST ==

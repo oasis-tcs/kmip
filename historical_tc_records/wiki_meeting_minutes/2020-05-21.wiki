@@ -1,0 +1,58 @@
+= Meeting Minutes May 21 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from May 14, 2020'''
+
+ * Tim H moves, Tim C moves. No objections, abstentions, or comments. Minutes for the May 14, 2020 meeting approved.
+
+== KMIP Interop - RSA 2021 ==
+ * RSA has moved the conference date from February to May.
+ * There are still a couple of spots available. 
+ * Tony is checking with Jane on if the booth signup deadline has changed from the end of next week.
+ 
+== KMIP 2.1 ==
+=== Status - Spec & Profiles ===
+ * The Spec and Profile has been published as committee specs.
+ 
+=== SoUs ===
+ * SoUs can now be published.
+ * 3 SoUs are needed are required before the Spec and Profile can be moved to candidate OASIS spec.
+ * Cryptsoft SoU has been posted.
+ * Interop testers from last fall can submit a SoU.
+ 
+=== Status - Test Cases & Usage Guide ===
+ * Test Cases and Usage Guide have been published as committee notes. No further actions are needed.
+ 
+== KMIP 3.0 ==
+=== Status update ===
+ * Straw poll for name of Obliterate operation is up and closes May 28th. Votes can be changed up to when the poll closes.
+ 
+=== Name Representations (Bruce R) ===
+ * Bruce reviewed the proposed spec delta for Name Representation.
+ * There were no questions about the proposal.
+
+'''Motion to accept the spec delta as proposed by Bruce for Name Representation for inclusion in version 3.0 of the Spec'''
+
+ * Chuck moves, Judy seconds.  No objections, abstentions, or comments. Motion approved.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: May 28, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Chuck moves and Tim H seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:21 US-EST ==

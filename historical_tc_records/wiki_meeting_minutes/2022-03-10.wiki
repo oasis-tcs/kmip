@@ -1,0 +1,43 @@
+= Meeting Minutes March 10, 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Judy F)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (February 24, 2022)
+ * KMIP 3.0 Status
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from February 24, 2022'''
+
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Minutes for the February 24, 2022 meeting approved.
+
+== KMIP 3.0 Status ==
+===  KMIP 3.0 Test Cases and Profile ===
+ * Tim H incorporating feedback on the 3.0 working drafts of the Test Cases from Mark J
+ * Tim H working with this co-author to update the test cases to align with the 3.0 Spec changes.  He hopes to publish a new working draft in time for the next TC meeting.
+===  KMIP 3.0 Wiki ===
+ *KMIP 3.0 wiki (https://wiki.oasis-open.org/kmip/3.0) has been updated to replace proposal owners who are no longer participating in the TC
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: March 24, 2022
+
+== Call for Additional Attendees ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H and Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:07 US-EST ==

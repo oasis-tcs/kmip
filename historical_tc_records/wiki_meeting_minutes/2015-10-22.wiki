@@ -1,0 +1,114 @@
+## page was copied from MeetingMinutes/October152015
+## page was copied from MeetingMinutes/October012015
+= Meeting Minutes October 15, 2015 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony
+ * Quorum achieved
+
+== Proposed agenda ==
+
+* Roll call
+* Approve Agenda
+* Approve minutes
+* KMIP 1.3 Status
+* KMIP 1.4 Status
+* NIST800-57 Update (Chuck W)
+* KMIP Query Extension information (David F)
+* Proposed update to the description of the Revoke operation (Judy F)
+* ASI change scheduling - KMIP v1.3 or v1.4 change?
+* RSA2016 Interop Update (Tony C)
+* New business
+* Adjourn
+
+
+=== Motion to approve Agenda ===
+ * Bruce Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+=== Motion to approve October 15th meeting minutes ===
+ * https://wiki.oasis-open.org/kmip/MeetingMinutes/October152015
+ * Tim H Moves
+ * Dave F. Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== KMIP 1.3 status ==
+ * Tim H - profiles - Still working on profiles document formatting, plan to send the updates before next week's call and then work on the rest
+
+
+== KMIP 1.4 status ==
+ * No updates
+
+
+== NIST 800-57 Update ==
+ * Chuck - Performed a study at a relatively high level on what matches with KMIP specification and what does not
+ * Chuck - Destroyed Compromised state has been eliminated and suspended state has been added. Any idea why KMIP included Destroyed Compromised
+ * Saikat - KMIP implemented Destroyed Compromised because previous version of NIST 800-57 had Destroyed Compromised. No rationale specified in updated NIST 800-57 of removing this state
+ * Chuck - Pre-active state - no change, Active - state transition has serious impact on KMIP server implementation
+ * Chuck - De-activated - Not much impact
+ * Chuck - Destroying an active key does not make much sense
+ * Chuck - Key management state model does not match up with the key state and transition model
+ * Bruce - Human vs. computer making decision may have effect on the new state transition model
+ * Hal - Destroying key while keeping key meta data for historical reasons, for audit purposes make perfect sense
+ * Tim - KMIP specification mentions may/should but does not say recommend to keep Metadata
+ * Tony - is this something that we need to amend in KMIP specification
+ * Tim - We always go forward in terms of transition, we do not go back but new state model allows to go back in the transition model
+ * Saikat - Propose that we come up with a concrete set of observations/findings and submit to NIST as KMIP TC instead of individual review comments. This will carry more weight
+ * Action Item: Chuck to compile review comments and submit on behalf of KMIP TC. Tony will reach out to Chet for official process.
+
+
+== David F. on Query Update ==
+ * uploaded doc one line change to description of Query operation clarifies rather than changes to avoid the possibility of interpreting that two lists should come back
+ * TimH - simple enough to add - and as it doesn't change it could / should go into KMIP 1.3
+ * Tony - motion to add this to KMIP 1.3
+ * TimH moves, JudyF seconds.
+ * No objections. Motion passes
+
+
+ 
+
+== Revoke operation ==
+  * JudyF on Revoke operation
+  * DaveF+TimH discussion which Judy participated in.
+  * first item add CA compromise - straight forward
+  * second issue is Compromise Occurrence Date - should this be shall or
+should. earlier in spec is noted as should a bit like the context of suspend - when you know when something
+occurred separate from when you are reporting it. if you have the
+information on the date then it should be in place - but if it isn't
+know then recommendation is to set to initial date or leave it blank.
+ * Option 1 - make it clearer
+ * Bruce's update also makes sense
+ * Bruce - likes option 1 with minor english update.
+ * Tony - motion to apply option 1 to KMIP 1.3
+ * TimH moves, Krishna seconds
+ * No objections. Motion passes.
+
+== RSA2016 Interop ==
+ * Tony C - update Full set of participants
+ * First call Nov 4th - will be joint call between KMIP and PKCS#11
+ * Assuming we will at least include KMIP 1.3, could also include KMIP 1.4
+ * Judy - is interop open to others
+ * Tony - believes only RSA partipants - will check
+ * Tim - rules haven't changed - it is up to the participants
+ * Judy - would like to do a plugfest or interop
+ * Tim - Cryptsoft willing to do one in November if there is interest
+ * Tony - anyone interested in a plugfest should let Tony know or send to
+the list
+
+
+== Call for late arrivals - Tony C. ==
+ * Krishna Y. joined the call
+
+
+== Motion to Adjourned ==
+ * Tim H. Moves
+ * Jerry seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+
+= Meeting Adjourned at 8:40 PM GMT =

@@ -1,0 +1,49 @@
+= Meeting Minutes February 18, 2016 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Approve Agenda
+ * F2F discussion
+ * Tape Library Profile discusison (SSIF)
+ * New business
+ * Adjourn
+ 
+=== Motion to approve Agenda ===
+ * Justin Corlett (Justin C.) Moves
+ * Gerald Stueve Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== F2F discussion (Responsible Person) ==
+ * Tony C. putting agenda together
+ * TR31 review to finalize if not already done Bob Lockhart (Bob L.) to verify and present
+ * Adding Tape Library Profile for SSIF to F2F discussion (Tony C.)
+ * Add segment for Indra Fitzgerald (Indra F.) to present.  Will provide details to Tony C. 
+ * Tim Hudson (Tim H.) to lead general profiles discussion
+ 
+== Tape Library Profile discussion (Tony C.) ==
+ * Need to discuss potential updates at F2F on issues mentioned by SSIF via email
+
+== Additional Business ==
+ * KMIP Interop Results to be published by Tony C.
+ * Saikat Saha (Saikat S.)cancelled weekly call during RSA conference
+ * Bob L. suggested remove current weekly February 25th and add the full day meetings to the calendar instead
+
+== Action Items ==
+ * Tony C. to update January 14th meeting minutes with package information
+ * Bob L. to review TR31 and provide update as needed for F2F
+ * Indra F. to email Tony C. with presentation information for F2F
+ * Tony C. to provide dial in for remote participants in F2F
+
+== Motion to Adjourned ==
+ * Justin C. Moves
+ * Tim Chevalier seconds
+ * No objections
+ * No abstentions
+ * Motion Approved/not approved
+ 
+= Meeting Adjourned at 9:20PM GMT =

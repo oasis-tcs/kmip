@@ -1,0 +1,74 @@
+= Meeting Minutes December 11, 2014 =
+
+ * Meeting called to order at 4:00 p.m. EST by Tony Cox
+
+== Roll call (Tony Cox) ==
+  * Quorum achieved
+
+== Motion to approve December 4, 2014 meeting minutes ==
+ * [[MeetingMinutes/December042014|4 December 2014]]
+ * Tim Hudson Moves
+ * Gerald Stueve Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== Proposed agenda ==
+ * KMIP 1.2 Statements of Use (SoUs)
+ * KMIP 1.3 Status
+ * TC Standing Rules
+ * KMIP 1.4 planning
+ 
+== Motion to approve Agenda ==
+ * Tim Chevalier Moves
+ * Mark Joseph Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+ 
+== KMIP 1.2 SoUs (Tony Cox) ==
+ * Statement of Use available from two companies, Cryptsoft and P6R. One more SOU required to make a formal request to OASIS TC admin
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/54564/KMIP-SOU-Cryptsoft-14-Nov-2014.pdf|Cryptsoft]]
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/54579/KMIP-SOU-P6R-17-NOV-2014.pdf|P6R]]
+ * Tony asks if other vendors planned to submit a SoUs – no vendor stepped forward at the meeting.
+ * Tim H. noted that he was aware of several other vendors (who might not be on the call) that were working on SoUs that should be submitted by next week.
+ * Tony indicated that he will put the wording together for the special majority ballot to progress KMIP 1.2 forward in the OASIS standard process for next week’s meeting (Dec 18th) assuming that the third SoU will be submitted by then.
+
+== KMIP 1.3 Status (Tony Cox) ==
+ * Tony/Kiran plan to work on the Spec for the next meeting (Dec 18th)
+ * Tim H running behind schedule on the Test Cases and UG text updates, but hope to have something before year-end.
+ * Judy provided UG update late week – plans to have and update at next meeting (Dec 18th)
+ * Tony will speak with other document editors regarding the status of their documents.
+ 
+== TC Standing Rules (Tony Cox) ==
+ * Three standing rules documented in the [[MeetingMinutes/December042014|4 December 2014]] meeting minutes
+ * David Featherstone asked about how proving interop prior to participating in interop works – Tony explained that the Interop activity is one such as the one at the RSA Conference where there is a round of testing held prior to the event to ensure a level of interop prior to the formal event.
+ * The SNIA KMIP testing in an independent activity from OASIS events (to which these standing rules apply).
+
+== Motion to accept the three standing rules (for Interop) ==
+ * Mark Joseph Moves
+ * Chuck White Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+ * Tony will speak with OASIS TC Admin to determine where to publish these standing rules.
+
+== KMIP 1.4 Planning (Tony Cox) ==
+ * Tony has not had a chance to pull in the list deferred from KMIP 1.3, but will do that for next week’s meeting
+ * Folks with other suggestions for KMIP 1.4 should send them to Tony.
+ * Bob Lockhart asked that P12 (PKCS#12) object types be added to the KMIP 1.4 list.
+
+== Call for additional discussion topics (Tony Cox) ==
+ 
+== Call for late arrivals (Tony Cox) ==
+ * Bob Lockhart - Thales
+ 
+== Motion to Adjourn ==
+ * Chuck White move
+ * Tim Hudson seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 4:25 PM EST =

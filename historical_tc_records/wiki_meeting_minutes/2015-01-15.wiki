@@ -1,0 +1,59 @@
+## page was copied from MeetingMinutes/January082015
+= Meeting Minutes January 15, 2015 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Tony Cox
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Review KMIP v1.2 COS Ballot Status
+ * KMIP v1.2 SoU Motion
+ * New Business
+
+=== Motion to approve Agenda ===
+ * Chuck White Moves
+ * Tim Hudson Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve January 8, 2015 meeting minutes ===
+ * Tim Hudson Moves
+ * Tim Chevalier seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== KMIP 1.2 COS Ballot Status (Tony Cox) ==
+ * The eight ballots for the COS documents have closed with all ballots passing successfully.  Chet is holding off on announcing the public review of these COS documents until the TC resolves the status of the three profiles that did not have sufficient SoUs supporting them.
+ * During the last week HP and Fornetix have submitted Statements of Use (SoU). (See TC motion to access these SoUs below.) These additional SoUs now provide the required SoUs (3 or more) necessary to progress the following two profiles to COSs.
+  * [[http://docs.oasis-open.org/kmip/kmip-cs-profile/v1.0/kmip-cs-profile-v1.0.html|KMIP Cryptographic Services Profile version 1.0]] (Cryptsoft, P6R, HP, Fornetix)
+  * [[http://docs.oasis-open.org/kmip/kmip-opaque-obj-profile/v1.0/kmip-opaque-obj-profile-v1.0.html|KMIP Opaque Object Store Profile version 1.0]] (Cryptsoft, P6R, HP, Fornetix)
+ * Tony Cox will update the tickets for these two profiles so that special majority ballots will be created.
+ * This leaves one profile outstanding:
+  * [[http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/kmip-suite-b-profile-v1.0.html|KMIP Suite B Profile version 1.0]] (Cryptsoft, Fornetix)
+ * This profile has two supporting SoUs (as noted above).  Only one additonal SoU is required to progress this profile to a COS.  Bob L. indicated at the last meeting that Thales was planning to submit a SoU and that it would cover the Suite B Profile among others.  The TC will revisit the status of this Profiles based on any additional SoU submissions at next week's call.
+
+== KMIP 1.2 Statements of Use (SOU) Motion ==
+ * Tim Hudson moves to accept the Statements of Use for the OASIS Key Management Interoperability Protocol Specification v1.2 approved on January 15, 2014 provided by Fornetix and HP per the following submissions:
+  * Fornetix - https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201501/msg00008.html
+  * HP - https://lists.oasis-open.org/archives/kmip-comment/201501/msg00000.html
+ * Kiran Thota seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== New Business ==
+ * No new business
+
+== Call for late arrivals - Tony Cox ==
+ * Three additional attendees
+
+== Motion to Adjourned ==
+ * Chuck White Moves
+ * Tim Hudson seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+
+= Meeting Adjourned at 9:10 PM GMT =

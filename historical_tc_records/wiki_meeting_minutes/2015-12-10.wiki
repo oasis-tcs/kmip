@@ -1,0 +1,101 @@
+## page was copied from MeetingMinutes/December032015
+= Meeting Minutes December 10, 2015 =
+== Meeting commenced 21:00 GMT ==
+ * Roll called by Tony Cox (Tony)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda 
+ * Approve minutes 
+ * KMIP 1.3 Review
+ * KMIP 1.4 Review
+ * Face to Face Meeting
+ * RSA2016 Interop Update (Tony C.)
+
+=== Motion to approve Agenda ===
+ * Tim Chevalier (Tim C.) Moves
+ * Tim Hudson (Tim H.) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve December 3rd, 2015 meeting minutes ==
+ * Tim Hudson (Tim H.) Moves
+ * Tim Chevalier (Tim C.) Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+ 
+== KMIP 1.3 Review ==
+ * KMIP Specification 1.3 working draft status
+ * Status unchanged, still working through the profiles document, nothing additional to report at this time (Tim H.)
+ * Tony still working thru the TC admin process
+ 
+== KMIP 1.4 Status (Tony C.) ==
+ * Get Wrapped Key Proposal Review (Anthony B.)
+  * Anthony B. walked thru the posted slides regarding Get Wrapped Key proposal 
+  * Motion to get "Get wrapped key proposal in KMIP 1.4 specification document"
+  * Mark moves the motion
+  * Bruce seconds
+  * No objections
+  * No abstentions
+  * Motion is approved to add Get Wrapped Key proposal in KMIP 1.4 specification document 
+
+== Profile 1.3 and TLS version (Indra F.) ==
+ * KMIP profiles document 1.3 and previous versions section 3.1.1 mentions TLS 1.0
+ * NISTT 800-152 and PCI-DSS 3.1 disallows TLS 1.0 post June 2016
+ * KMIP TC and documentation needs to be updated to reflect this
+ * Tim H.: SNIA requires TLS 1.2, we should update the documents as Must Have TLS 1.2, May Have TLS 1.1 and Should not TLS 1.0
+ * Gerry: Align with NIST and we are good
+ * Tim: Provide additional guidance in the Usage guide
+ * Steve Weirenga: KMIP Wiki lists known KMIP implementations, so will there be any effort to notify them about this change proactively?
+ * Bruce: This is a marketing effort, respective product managers should be pro-active to update information on this page
+ * Saikat: Originally, driver for adding this list on the KMIP TC web page was to demonstrate KMIP is widely deployed across the industry. We should not make any effort to shorten the list which will go against the original driver
+ * Tim H.: Perhaps we should add protocol version each product supports and each product's KMIP protocol version
+ * Tony: We should consider at some point in the future to deprecate TLS 1.0 as well
+
+
+== NIST 800-131 (Bruce) ==
+ * Make SkipJack and 2 Key 3DES optional in the KMIP 1.3 profiles document
+
+
+
+== NIST 800-152 (Bob) ==
+ * Defer to next week's call since Bob is not on the call 
+
+== Face to Face Meeting 2016 (Tony C.) ==
+ * Saikat or Tony did not get a chance for the straw Poll for the two dates between Feb 24/25 and Feb 25/26
+ * Since PKCS#11 TC has already finalized on February 26th, we are left with the only option of Feb 24/25. Hence, no need for straw poll
+ * Make a motion to host the face to face on February 24/25
+ * Tim H. moves
+ * Bruce seconds
+ * Indra: Waiting for an official confirmation
+ * Steve W. An an alternative, will see if HPE has an ideal room available on Feb 24/25 for the face to face meeting
+
+== RSA2016 Interop Update (Tony C.) ==
+ * OASIS (Jane) Waiting final comments on booth layout that has been sent out to the participants
+ * Booth will be in the South Hall, new graphics look very impresiive
+ * OASIS email sent out today to all the participants
+ 
+== Next meeting ==
+ * Cancel 24th Dec and 31st December meetings
+ * Next meeting after 17th December will be on January 7th
+ * Tim H moves
+ * Dave seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== Call for late arrivals (Tony C.) ==
+ * Two additional attendees
+ * Steve He and Matthias
+ 
+== Motion to Adjourn ==
+ * Tim C. Moves
+ * Tim H. seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 21:40 GMT =

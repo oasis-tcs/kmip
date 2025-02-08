@@ -1,0 +1,89 @@
+## page was copied from MeetingMinutes/8Feb2018
+= Meeting Minutes 15 February 2018 - Draft =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll call (Tony C) -- Note: being done manually since Kavi is down
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (February 8, 2018)
+ * Interop Status (Tony C)
+ * Interop Process (Tony C)
+ * Interop Booth
+ * KMIP 2.0
+  * KMIP 2.0 Specification WD03 Discussion (Tony C)
+  * Wrapping Operations Proposal (Tim,. Mark)
+  * Usage Masks Discussion (Nitin J/Tim H)
+ * KMIP TC F2F Meeting (April 2018)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve February 8, 2018 meeting minutes =====
+ * Jerry moves, Tim H seconds, No objections, abstentions, or comments. Minutes approved
+
+== Interop Status ==
+ * Folks are moving full steam ahead on the Interop at RSA Conference.  Invite to first Interop meeting next Monday, February 19, 2018 5PM EST has been distributed to the Interop participants.
+
+== Interop Process ==
+ * On Wednesday, Tony posted an updated to the [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62512|Abreviated Interop Process]].    Changed are marked with change bars and focus on clearly stating the procedural rules.
+ * There are a few editorial changes and one of the procedural rules which was missing words (Tony read out the correction to the TC) needs to be fixed.  Tony will post the update once Kavi is back up and running.
+ * Tony called for additional comments/changes from the TC on the Interop process  -- none were raised.
+
+===== Motion to accept the posted KMIP TC Interop process with the noted changes to cover this year's Interop at RSA Conference =====
+ * Mark J moves, Kevin seconds, No objections, abstentions, or comments. Interop process is approved.
+
+ * Tim H posted KMIP 1.4 [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62525|Test Cases]] and [[javascript:void(0);/*1518738136115*/|Profiles]] as long as updated KMIP 2.0 [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62523|Test Cases]] and [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62524|Profiles]] which correspond to the Interop Process
+
+== Interop Booth Layout & Presentation ==
+ * Tony C posted two [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62529|booth layout options]]to the OASIS site.  Given that the booth is larger there is now an option to have a presentation space.
+ * Tony C also walked the TC through a [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62530|short presentation]] on what type of presentations be given in the presentation space.
+ * TC embarked on a lengthy discussion on what the primary objectives of the booth, how traffic should flow through the booth, how to draw folks into the booth (giveaways) and the focus of the presentations to be given in the presentation space.  Much of the discussion revolved around how best to highlight what is unique and valuable about the KMIP TC and its inteorp process including the live interoperability demonstrations and the clearly documented profiles and associated test cases used in interop process which allow vendors to demonstrate compliance to the standard
+ * Conclusion was to flip the booth design around so that the interop pod face the main traffic aisle and the presentation area entrance/OASIS stand is to the back.  This would make booth unique in layout and will send a distinct message about the focus on Interop/coorperation.
+
+===== Motion to record a TC preference that the booth be a horsehoe shape with presentation area and orientation 180 degree opposite of current proposals =====
+
+ * Tim H moves, Mark seconds to motion to add another option to layout
+
+ * TC agreed that a presentation area should be included in the booth and that any content presented will be reviewed/approved by the TC.  TC members had many ideas about the content that could be used for the presentations.  Some differing opinions on the type of presentations that could be done.  Tony C will go off and put together some sample presentations/idea and bring them to a future meeting to review.
+
+
+
+===== Motion to record a TC preference to have presentations in the booth and that all presentations will be reviewed by the TC =====
+ * Tim H moves, Mark seconds to motion to add another option to layout
+
+
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Specification ===
+ * Tony C has posted [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62527|WD3]] to the OASIS Site
+ * Tony provided the TC with a summary of the updates made.  Folks can review the change history as well as a [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62528|change bar version]] for details
+ * Tony also appologized to Chuck for not leaving time to complete the normal QA process but wanted to get this revision posted to kick off the Interop effort.
+
+=== Wrapping Operations Proposal ===
+ * Deferred
+
+=== Usage Masks Discussion ===
+ * Deferred.
+
+=== KMIP TC F2F Meeting (April 2018) ===
+ * F2F has been scheduled for April 12-13 2018
+ * Thales has offered to host the F2F at their facility in San Jose, CA.  The TC thanks Alan B and Thales for their gracious hospitality
+
+== New Business ==
+ * None
+
+=== Next Meeting ===
+ * February 22, 2018
+
+== Call for late arrivals (Tony C.) ==
+ * 2 Members
+
+===== Motion to Adjourn =====
+ * Chuck W moves Tim H seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:59 US-EST ==

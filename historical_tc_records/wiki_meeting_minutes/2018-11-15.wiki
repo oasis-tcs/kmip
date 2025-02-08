@@ -1,0 +1,70 @@
+= Meeting Minutes 15 November 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (November 8, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * WD06 (Tony C)
+  * Profiles (Tim H)
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action Items Discussion
+ * List comment from Conrado Gouvêa
+ * New Business
+  * OASIS call for 2019 events
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from November 8, 2018'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Minutes for the November 8, 2018 meeting approved.
+
+== RSA 2019 Interop ==
+ * Given the current progress with getting the KMIP 2.0 Spec and Profiles finalized, Tony C estimated that the Interop testing to prepare for the 2019 RSA Conference event start in mid-January.  This will mean a compressed testing schedule.
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Spec WD06 (Tony C) ===
+ * Tony C working on WD7.  He is resolving conflicts in enumerations, etc. resulting from the merging of the many KMIP 2.0 proposals into the Spec.
+ * Tony C noted he has partially incorporated the Client Reprovisioning proposal, but needs to add the last set of updates from the proposal that Chuck W posted last week.
+ * Tony C asked the TC if anyone had additional comments on WD6.  No additional comments were provided.
+ * Tony C plans to have WD7 posted in time for the meeting in the next two weeks
+
+=== KMIP v2.0 Profiles (Tim H) ===
+ * Tim H noted that the Profiles document has same status as last week.  There is the continued need to flesh out the large number of test cases.  This has been challenging due to time constraints more than anything.
+
+=== KMIP v2.0 Content Items Review ===
+ * Tony C noted that closing on the KMIP 2.0 release is dependent upon Tony C getting out WD7 of the KMIP 2.0 Spec and Tim H getting a complete WD of the Profiles and associated Test Cases out.
+ * They both hope to make progress over the next two weeks.
+
+== List comment from Conrado Gouvêa ==
+ * Co-Chairs sent email to Conrado requesting additional information.  Still awaiting a response from Conrado.  Tony C will send a follow-up note to Conrado
+
+== New Business ==
+=== OASIS Call for 2019 Events (Tony C) ===
+ * Jane H contacted the co-chairs regarding the 2019 event plans of the KMIP TC (Beyond the Interop at the RSA 2019 Conference)
+ * Tony C will let Jane H know of the TC plans to hold a F2F meeting prior to the 2019 RSA Conference
+ * Tim H suggested that given we are release KMIP 2.0, the TC should present webinars on the changes in this release.  Judy F agreed.
+ * Judy F noted that the Jane's email also asked if there were any conferences where KMIP will be or should be highlighted.  The TC discussed this briefly.     * There are several proposals submitted to the 2019 RSA Conference which are awaiting on their acceptance.
+  * Chuck W suggested that the BSides conferences which are regional and inexpensive, but have the type of audiences that the TC wants to talk with would be a good target.
+  * Tony C suggested that the TC review company and industry conferences and we'll revisit this topic at a future TC meeting.
+
+== Next Meeting ==
+ * Next Meeting: 29 November 2018
+ * Meeting on 22 November 2018 has been cancelled due to the US Thanksgiving Holiday
+
+== Call for Additional Attendees (Tony C) ==
+ * Indra F (Utimaco), Alan B (Thales)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:14 US-EST ==

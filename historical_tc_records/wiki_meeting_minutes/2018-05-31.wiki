@@ -1,0 +1,50 @@
+## page was copied from MeetingMinutes/17May2018
+## page was copied from MeetingMinutes/3May2018
+= Meeting Minutes 31 May 2018 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (May 17, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * KMIP 2.0 Action items discussion
+
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from May 17, 2018 =====
+ * Tim H moves, Jim S seconds, No objections, abstentions, or comments. minutes for the May 17, 2018 meeting approved
+
+== RSA 2019 Interop ==
+ * Sign-up for event is now open and several applications have been received and are being processed.
+ * There are still slots open so if you are interested please get forms into Jane Hanard as soon as possible.
+ * Any questions can be sent to Jane H and/or Tony C
+
+== KMIP 2.0 ==
+=== KMIP 2.0 ===
+ * At the previous meeting owners of the proposals on the [[https://wiki.oasis-open.org/kmip/2.0|2.0 list on the Wiki]] were asked to provide a date by which they could provided the requested KMIP documentation changes.  A number of owners had edited the wiki in the past two weeks providing the requested dates.
+ * During meeting we reviewed the outstanding items and owners present at the meeting provided dates and the table was updated live during the call.
+ * Tony C will follow-up with the few owners that were not present at the meeting to get the dates from them.
+ * Judy F asked if the Lattice Crypto proposal should stay in the KMIP 2.0 list or move to vNext.  Bruce R asked if he could have time to think about that change.  Tony C recommended adding this as a topic at next week's call.  Judy F indicated that she and Andrew are planning to to provide the examples requested during the F2F but she did wonder if adding only lattice key support into KMIP 2.0 would be sufficient since there are other types of post quantum cryptographic algorithm types.  The TC can discuss this further next week.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next meeting: 7 June 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * Andre B. (Kryptus)
+
+===== Motion to Adjourn =====
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:14 US-EST ==

@@ -1,0 +1,56 @@
+## page was copied from MeetingMinutes/31May2018
+## page was copied from MeetingMinutes/17May2018
+## page was copied from MeetingMinutes/3May2018
+= Meeting Minutes 7 June 2018 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (May 31, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * KMIP 2.0 Action items discussion
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from May 31, 2018 =====
+ * Tim H moves, Gerry S seconds, No objections, abstentions, or comments. minutes for the May 31, 2018 meeting approved
+
+== RSA 2019 Interop ==
+ * There are still slots open so if you are interested please get in touch with Jane Hanard as soon as possible, the deadline is June 13, 2018.
+ * Any questions can be sent to Jane H and/or Tony C
+
+== KMIP 2.0 ==
+=== Removal of PGP Keys ===
+ * John L submitted the proposal for [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63205|Removing PGP Keys]] in KMIP 2.0 to the OASIS site.   Since folks have not had a chance to review we will put review of this proposal on next's week's agenda.
+ * Since the F2F, where the proposal to remove the PGP Keys was made, Tony C has received notice that some folks are still using PGP Keys.
+ * Tony C asked the TC to please check with your respective customers to see if any are using PGP Keys.
+ * If there are folks still using PGP Keys we will have to carefully consider removal of this key type in KMIP 2.0.  The TC will pick up this discussion at next week's call
+
+=== Dates for Remaining KMIP 2.0 proposals ===
+There are three dates outstanding for the proposals on the [[https://wiki.oasis-open.org/kmip/2.0|2.0 list on the Wiki]]
+
+ * Mark J provided a date of June 14th for the ''Cryptographic Usage Mask'' updates
+ * John L provided a date of July 31st for the ''Client Reprovisioning'' proposal that he is working on with Chuck W.
+ * For the ''Lattice Support/PQC'' changes, Judy F had proposed at last week's call to move this to the KMIP vNext list (instead of 2.0) because while she and Andrew B still planned to provide the requested examples the work is being done under the SAFECrypto EU project where the project schedule may not align with the KMIP 2.0 schedule.  Bruce R had ask to think about moving this out from KMIP 2.0 at last week's meeting.  Today Bruce R noted he didn't have time to look at the proposal in more detail.  He agrees this is a bit of work and was fine with moving it to vNext.  If the examples, etc. come together sooner than expected we can always revisit including this in KMIP 2.0.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next meeting: 14 June 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * Anthony B (Cryptsoft)
+
+===== Motion to Adjourn =====
+ * Tim H moves, Greg S seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:12 US-EST ==

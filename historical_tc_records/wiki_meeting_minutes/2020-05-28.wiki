@@ -1,0 +1,47 @@
+= Meeting Minutes May 28 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from May 21, 2020'''
+
+ * Tim H moves, Greg moves. No objections, abstentions, or comments. Minutes for the May 21, 2020 meeting approved.
+
+== KMIP Interop - RSA 2021 ==
+ * There are still spots available. Contact Tony or Jane Harnad for more information.
+ 
+== KMIP 2.1 ==
+ 
+=== SoUs ===
+ * Two more SoUs are needed to move forward.
+ * Per standing rule, participation in the Interop is required to be able to provide a SoU.
+ * Contact Tony with questions.
+ 
+== KMIP 3.0 ==
+=== Status update (wiki review) ===
+ * Link to the current working draft has been added to the top of the page.
+ * Presentation for Link Representation has been moved to the next meeting.
+
+=== Obliterate naming ===
+ * Straw poll has closed and Obliterate won.
+ * There were no comments or questions.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: June 04, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:10 US-EST ==

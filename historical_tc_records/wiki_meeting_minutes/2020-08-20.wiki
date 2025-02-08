@@ -1,0 +1,39 @@
+= Meeting Minutes August 20 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Greg seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from August 6, 2020'''
+
+ * Jerry moves, Tim H seconds. No objections, abstentions, or comments. Minutes for the August 6, 2020 meeting approved.
+
+== KMIP 2.1 ==
+=== Status ===
+ * TC admin needed two small editorial fixes to the SoUs for Cryptsoft and Utimaco before continuing. Crypsoft and Utimaco posted their updates back on Aug 11 and Aug 13. 
+ * Docs are in TC Admin's publication queue.
+ 
+== KMIP 3.0 ==
+
+=== Status update (wiki review) ===
+ * All currently accepted proposals have been rolled in.
+ * Refer to the wiki for the latest schedule for the topics.
+ 
+== New Business ==
+ * Anthony solicited feedback on naming conventions for operation names in the predicate proposal. Jerry and Greg suggested using the two character abbreviation for names of the operations. 
+ 
+== Next Meeting ==
+ * Next TC Meeting: August 27, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Chris, Nadia
+
+== Motion to Adjourn ==
+ * Tim C moves and Chuck seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:16 US-EST ==

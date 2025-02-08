@@ -1,0 +1,78 @@
+= Meeting Minutes 11 April 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Based on information in OASIS system, we did not achieve quorum, but the majority of the regular meeting attendees (aka voting members) were present on the call (a few dialed in late).
+ * Therefore, the TC decided to declare this a Quorum meeting.
+ * Co-chairs will update the OASIS system to correct the roster for TC members who should have voting rights.
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (March 28, 2019)
+ * KMIP 2.0
+  * Review Spec Status (Tony C)
+  * Review Profiles & Test Cases Status (Tim H)
+  * Usage Guide Status (Judy F)
+ * List comment - Alex Abell
+ * KMIP v1.4 Errata (Tony C)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from March 28, 2019'''
+
+ * Tim H moves, Greg S seconds, No objections, abstentions, or comments. Minutes for the March 28, 2019 meeting approved.
+
+== KMIP 2.0 ==
+=== Review Spec Status (Tony C) ===
+ * Tony C posted an updated Committee Draft of the KMIP 2.0 Spec to the OASIS Site (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65108/latest/kmip-spec-v2.0-wd09.docx)
+ * In this revision Tony C has incorporated all the comments from the F2F and those he has received via the reflector/email and added the list of participants.
+
+=== Review Profiles & Test Cases Status (Tim H) ===
+ * Tim H posted a new version of the Profiles document (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65124/latest/kmip-profiles-v2.0-wd06.docx) and the Test Cases document (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65125/latest/kmip-testcases-v2.0-wd02.docx) which incorporates the list of participants.
+
+=== Review Usage Guide (Judy F) ===
+ * Judy F posted WD02 of the UG to the OASIS site (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65063/latest/kmip-ug-v2.0-wd02clean.docx).  This update incorporates comments from her review and the F2F, reorganized the UG to align it with the KMIP 2.0 Spec and incorporates the new UG text developed during the F2F meeting
+ * Judy F thanked Tim H for reviewing this latest WD and posted some additional changes to the reflector today.
+ * Judy F will incorporate Tim H's comments and the list of particihttps://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65124/latest/kmip-profiles-v2.0-wd06.docx) pants and post a new WG by the next TC meeting.
+
+'''Motion for the TC to approve KMIP Specification V2.0 WD09 (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65108) and all associated artifacts packaged together as a Committee Specification Draft and designate the .doc version of the specification as authoritative.  Further, move that the TC approve this Committee Specification Draft for 30 days public review. '''
+
+ * Tim H moves, Chuck W seconds, No objections, abstentions, or comments. Motion approved
+
+'''Motion for the TC to approve KMIP Profiles V2.0 WD06 (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65124) and all associated artifacts (kmip-profiles-v2.0-wd07.zip:  https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/64999) packaged together as a Committee Specification Draft and designate the .doc version of the specification as authoritative.  Further, move that the TC approve this Committee Specification Draft for 30 days public review. '''
+
+ * Tim H moves, Chuck W seconds, No objections, abstentions, or comments. Motion approved
+
+== List comment - Alex Abell ==
+ * Changes to address the comment have been made in KMIP 2.0.  Now Tony C and Tim H need to go back and do the errata for KMIP 1.4.
+ * Tony C will send a message on the reflector to Alex Abell to notify him of how the comments were being addressed.
+
+== KMIP v1.4 Errata (Tony C) ==
+ * No update
+
+== New Business ==
+ * Tim H asked if we have received the starter documents for KMIP 2.1 from TC Admin.  Tony C will verify that he actually put in the request to TC Admin and/or send TC Admin a reminder that the TC needs these templates.
+
+ * Greg S sent a request to the reflect for a leave of absence 18-26 April 2019 to the reflector.
+
+''' Motion to approve the leave of absence for Greg S'''
+
+ * No objections, abstentions, or comments. Leave of absence granted
+
+== Next Meeting ==
+ * Next meeting falls on Good Friday which is a holiday in Australia, so TC agreed to cancel next week's meeting.
+ * Next TC Meeting: 25 April 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:22 US-EST ==

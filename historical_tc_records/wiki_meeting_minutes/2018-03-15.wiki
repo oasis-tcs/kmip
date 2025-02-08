@@ -1,0 +1,98 @@
+## page was copied from MeetingMinutes/1Mar2018
+## page was copied from MeetingMinutes/22Feb2018
+## page was copied from MeetingMinutes/15Feb2018
+## page was copied from MeetingMinutes/8Feb2018
+= Meeting Minutes 15 March 2018 =
+== Meeting commenced 17:02 PM US-EST ==
+ * Roll call (Tony C)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (March 1, 2018)
+ * Interop Status (Tony C)
+ * Interop Booth & Presentations (Tony C)
+ * KMIP 2.0
+  * KMIP 2.0 Specification WD03 Discussion (Tony C)
+  * Wrapping Operations Proposal (Tim, Mark)
+  * Usage Masks Discussion (Nitin J/Tim H)
+ * KMIP 1.4 Errata
+ * KMIP TC F2F Meeting (April 2018)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Tim C. seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve March 1, 2018 meeting minutes =====
+ * Justin C moves, Gerry S seconds, No objections, abstentions, or comments. Minutes approved
+
+== Interop Status ==
+ * This week connnectivity testing has been successfully completed by all participants
+ * Formal interop testing will commence next week (March 19-23, 2018)
+
+== Interop Booth & Presentations ==
+==== Booth ====
+ * OASIS decided to go with ten participants (ten pods) since there were issues filling the open slots this close to the conference.
+
+==== Presentation Logistics ====
+ * Tony C informed the TC that OASIS staff had voiced some concern around the booth presentation.  They felt that the proposed presentation roster that Tony C had published was very dense and they felt that having presentations on-going in the booth may be noisy and distracting to those trying to have conversations at the pod.  They were also concerned that there was not enough gaps between presentations to get the audiences in and out of the area and for setting up the AV and that 25 minute sessions might be long to keep the audience's attention.  Their suggestion was to reduce the length of each presentation and the number of presentations (say one starting on each hour).  OASIS staff declided the OASIS specific presentation slot.  They also requested to come to the next TC meeting to discuss all of these concerns.
+ * The TC had a lenghly discussion about each of the concerns that the OASIS staff raised along with their request to come and brief the TC.  Main points from this discussion were:
+  * The TC felt that the OASIS concerns were well understood and we did not require them to come to the next TC meeting to discuss
+  * The TC wanted to go ahead with the presentations for the TCs and Vendors as planned, since that was the whole reason why the TC asked for the presentation area to be in the booth
+  * The TC did agree about the concerns with getting the audience out of the presentation area post a presentation and that 25 minute sessions might be too long for audience attention.
+  * The TC also agreed that the presentation sessions should have an upper limit (say no longer than 15-20 minutes but presenters are not obligated to go the full time.  Questions could be take at the presentation or ask folks to follow-up at the pods
+  * If we find that that presenations are not working well we can always get together as a TC and make a decision about changing the approach for the balance of the conference.
+  * Tony will redo the roster going with 15-20 minute sessions starting on the hour/half-hour
+
+==== Presentations ====
+ * Tony C reported that he did no have a chance to work on the presentations.
+ * Tony C repeated his request for volunteers to help pull the the decks together and/or to contribute content.
+ * Still awaiting the updated presentation template reflecting the new OASIS logo/color scheme.
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Specification ===
+ * Tony C asked if there were anything to discuss on the most recent WD3 --- no one raised any issues
+
+=== Wrapping Operations Proposal ===
+ * Deferred until the F2F
+
+=== Usage Masks Discussion ===
+ * Deferred until the F2F
+
+== KMIP 1.4 Errata ==
+ * Revisting discussion held at previous (March 1, 2018) meeting where Tim H made a proposal to include a revision of the KMIP 1.4 Specification in the new format that has been used for the KMIP 2.0 Specification as part of the KMIP 1.4 Errata (which will also include updated KMIP 1.4 Test Cases and Profiles documents to reflect interop testing feedback)
+ * Tony asked if there was anyone who wished to provide feedback or discuss futher -- no one responded
+
+===== Motion to reformat the KMIP 1.4 Specification in the new KMIP 2.0 format and publish this as part of the KMIP 1.4 errata which will also include updates to the KMIP 1.4 Test Cases and Profiles =====
+ * Mark J. moves, Tim H seconds,  No objections, abstentions, or comments. Motion approved
+
+ * Tony as co-editor of the Specification indicated that this specification revision would not realistically happen to post the RSA Conference putting it into the May/June 2018 timeframe.  No one in the TC raised concerns with this timeframe.
+
+== KMIP TC F2F Meeting (April 2018) ==
+ * F2F has been scheduled for April 12-13 2018 and is being held at the Thales facility in San Jose, CA
+  * Meeting invites have been sent out -- Presently full days on both Thursday and Friday but we will likely break early on Friday.
+ * Matt O raised a question about whether folks, like himself, that were unable to attend the F2F in person were in jeapardy of losing their voting rights since they could potential miss two consecutive meetings.  Tony explained that the TC has the option to run the F2F either as a single meeting over two days or two separate meetings.  The TC has normally taken the latter approach but we offer the option for folks to dial-in remotely and we are flexible for timezone to consider participation as being present for roll call and participation in at least one session of a days meeting by the remote participants.  Based on that flexibility Matt O concerns were alleviated
+ * Tony made a call to the TC members to provide agenda topics/proposal for the F2F and to send these to Tony and Judy who will start building the agenda
+ * Bruce asked about the status of the dinner with the PKCS#11 TC.  Tony had discussed this with Valerie and that TC had suggested the dinner to be held on Wednesday night.  Tim H recommended that Thursday would be a better choice since at least one day of the KMIP meeting would have occured by then.  Tony expect the PKCS#11 TC would be fine with this given so much joint membership between the two TCs.  Tony said that we need to approach ID Trust to obtain funding for the dinner.
+
+===== Motion to hold the PKCS#11/KMIP TC dinner on Thursday, April 12,  2018 and to approach ID Trust for the funding for the dinner =====
+ * Tim H moves, Mark J. seconds,  No objections, abstentions, or comments. Motion approved
+
+ * Suggestions for dinner venues are welcome, please send them to Tony C
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * March 22, 2018
+
+== Call for late arrivals (Tony C.) ==
+ * Two Members (Alan B, Sue G.)
+
+===== Motion to Adjourn =====
+ * Tim H moves, Gerry S. seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:41 US-EST ==

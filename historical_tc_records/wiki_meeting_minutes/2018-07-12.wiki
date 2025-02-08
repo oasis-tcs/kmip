@@ -1,0 +1,103 @@
+## page was copied from MeetingMinutes/28Jun2018
+= Meeting Minutes 12 July 2018 =
+== Meeting commenced 17:02 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (June 28, 2018)
+ * LoA Approvals
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * PGP Key removal
+  * Key Format Type Spec Update - revisit
+  * Recent proposals (AdjustAttribute, ReEncrypt, DelegatedLogin, Login, MultipleIDPlaceholders, ClientProvisioning, HashedPassword)
+  * OTP spec updates review - Anthony B
+  * AWS Signature spec updates review - Anthony B
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action items discussion
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Jerry S seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from June 28, 2018 =====
+ * Tim H moves, Mark J seconds, No objections, abstentions, or comments. minutes for the June 28, 2018 meeting approved with change to record Jerry S attendance on roster.
+
+== LoA Approvals ==
+ * OASIS process for leave of absense has changed.  Restriction for only one LoA request per person per year has been removed.  But LoA request now requires seven (7) day notice and approval by the TC.
+ * Tony C and July F will bring up the concerns (e.g. not always possible to have 7 days of notice) about these new rules with TC Admin
+ * So this rule chance impacts to the LoA requests made by Bruce R and John L this week.
+ * Given the 7 days of notice requirement neither request can apply to today's meeting so they will just be marked as a normal absense for today's meeting.  Bruce R's request is through July 26th so we can vote to approve his request.
+
+===== Motion to grant leave of absense for for Bruce R through July 26, 2018 =====
+ * Tim H moves, Jerry S seconds, No objections, abstentions, or comments. LoA for Bruce Rich approved
+
+== RSA 2019 Interop ==
+ * All slots for the current 20x20 booth are filled.
+ * Participants are under review by RSA Conference
+ * JaneH is in negotiation to see if a 20x30 booth is possible and in which case 4 more slots would be available
+ * If you are still interested please contact Tony C and Jane H.
+
+== KMIP 2.0 ==
+=== Removal of PGP Keys ===
+ * See [[https://www.oasis-open.org/committees/document.php?document_id=63205|spec changes]]
+ * Tim H noted they Cryptsoft has had two customers come forward stating that they are using PGP keys in KMIP and asked that PGP keys not be removed in KMIP 2.0 since they don't want a non-KMIP compliant solution.
+ * Some TC discussion that perhaps we should not remove PGP keys and that we should look to improving handling of multi-party keys in KMIP 2.0
+ * We will revisit this topic and close on it at a future meeting (with John L in attendance).
+
+=== Key Format Type Spec Update - Revisit ===
+ * Bruce R sent an email to the reflector about an omission in the proposal he had previously submitted.   The TC should review Bruce's email and a discussion about the additional changes will be held at the next meeting where Bruce R is present.
+
+=== Recent Proposals ===
+ * Tim H posted to the OASIS site a set of proposals from the Cryptosoft team yesterday.   Two will be covered by Anthony at today's meeting and the rest will be scheduled for review at future TC meetings.
+ * Jerry S posted the spec updates for the Flow Control proposal to the OASIS site today.
+ * Please see the following links for the proposals that will be reviewed in upcoming meetings:
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63401|AdjustAttribute]]
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63400|ReEncrypt]]
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63399|DelegatedLogin]]
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63398|Login]]
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63397|MultipleIDPlaceholders]]
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63396|ClientProvisioning]]
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63395|HashedPassword]]
+
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63410|Flow Control]]
+
+=== OTP Spec Updates Review (Anthony B) ===
+ * Please see [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63393|OTP spec updates]]
+ * Anthony walked the TC through the changes to the spec to support a One Time Passphrase (OTP) credential type.
+
+===== Motion to approve the proposed specification changes for OTP and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Chuck W moves and Mark J seconds, No objections, abstentions, or comments.  OTP spec updates approved.
+
+=== AWS Signature Spec Updates Review (Anthony B) ===
+ * Please see [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63394|Amazon Key Derivation spec updates]]
+ * Anthony walked the TC through the changes to the spec to support the AWS specific key derivation method.
+ * Derivation Data (one of the Derivation Parameters) was originally a single value.  The AWS scheme requires three pieces of data, so Anthony changed this to be repeated value.  Jerry S asked if the AWS derivation values needed to be presented in a specific order.  Anthony B will ammend the proposal to include text sttating that derivation data should be kept in the order specified.
+ * Mark J noted that we would normally use a Structure for situations like this versus repeating a value.  Tony C, while agreeing with Mark's point, noted that simplier approach was taken since this is a vendor specific value which could change and we wanted to minimize the changes to the Spec.   Given that rationale, Mark withdrew his objection.
+ * TC will revist the updated verison of this proposal at a subsequent meeting.
+
+=== KMIP 2.0 Proposal Review ===
+ * See [[https://wiki.oasis-open.org/kmip/2.0|proposal status]]
+ * Working through these proposal at a reasonable pace.
+ * A few date adjustments have been made to the list.
+ * Tony C will update wiki to reflect submissions uploaded by Tim H and Jerry S
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * TC agreed to skip next week meeting (July 19, 2018) due to multiple members being on vacation.
+ * Next meeting: 26 July 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * Dexter (Kryptus)
+
+===== Motion to Adjourn =====
+ * Justin C moves, Gerry S seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:35 US-EST ==

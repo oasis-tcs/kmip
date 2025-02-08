@@ -1,0 +1,75 @@
+= Meeting Minutes April, 20, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (March 30, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * Interop
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from March 30, 2023'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the March 30, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S noted that the specification is in the same state as the prior meeting.  He will be incorporating feedback from Tim H's Profiles/Test Case work.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ 
+'''Ephemeral Handling'''
+ * Tim H reviewed the updates he made to the Ephemeral Question proposal based on the discussion at the last TC meeting. (See https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/70899)
+ * TC discussed the three options and weighed the pros and cons of each but did not come to a decision on which option to go with.   Tim H suggested moving on to his second proposal 
+
+'''ID Placeholder'''
+ * Tim H presented a proposal focused on cleaning up inconsistency related to ID Placeholder in the KMIP 3.0 Spec. (See https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/70941)
+ * TC discussed the five options for ID Placeholder in the proposal
+ 
+ * Expanded the discussion to cover both proposals and what criteria/philosophy did we want to use to select the go forward options.
+   * The 'explicit and easiest to implement' selections would be option 1 for Ephemeral Handling and option 5 of ID Placeholder
+   * The 'explicit and wordy ‘selections would be option 3 for Ephemeral Handling and option 5 of ID Placeholder
+
+  * Tim H noted that irrespective of selection Usage Guide text and Test Cases will be needed.
+
+  * Tim H's work on the Profiles/Test Cases is blocked until decisions on these proposals are made.
+
+  * TC decided to provide time to everyone to consider the proposals and the TC will make the decisions on the proposals at the next TC meeting.
+ 
+=== KMIP 3.0 Usage Guide ===
+ * Status on the KMIP 3.0 Usage Guide remains unchanged.
+
+== Interop ==
+ * September 2023 remains the target date. 
+ * Tim H still needs to provide the group with draft Interop rules to review
+ * Bruce R asked about the scope of the Interop.  Tim H noted that he was assuming a 3.0 focus since we need to vet the 3.0 Spec and Profiles and look to SOUs for 3.0.
+   * The TC agreed that the scope should be 3.0
+
+== New Business ==
+
+ * Tim C asked about how to provide editorial changes on the KMIP 3.0 Spec.   Greg S said he will think about the best option and get back to Tim C.  Tony C offered to sync with Greg S offline on the approach he has taken in the past on incorporating Spec changes.
+
+== Next Meeting ==
+ * Next TC Meeting: May 4, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:37 US-EST ==

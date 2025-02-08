@@ -1,0 +1,49 @@
+= Meeting Minutes Aug 25 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (July 28, 2022)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from July 28, 2022'''
+
+ * Jerry moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the July 28, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg is working on the next working draft.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is working on updates to the profiles and test cases. 
+
+=== KMIP 3.0 Usage Guide ===
+ * Tim H is working on updates for the usage guide.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: September 8, 2022
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:06 US-EST ==

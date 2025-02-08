@@ -1,0 +1,124 @@
+1:00PM PDT Call Started
+ 
+Attendance Taken - Subhash
+Quoram - Achieved
+ 
+= Agenda =
+
+ 1. Review of 1.2 items sent out to reflector by Subhash
+ 1. Various 1.3 information
+ 1. Changes to the Wiki
+ 
+Tim Hudson Moves to accept Agenda
+Sue Gleeson Seconds
+ 
+'''Prior minutes approval'''
+
+Subhash: Previous three meetings Minutes posted by Saikat.  Any additions or changes?
+Saikat: References between profile and specification sent from Tim.
+Tim H: List of Profiles in the Specification versus on the Web Page needs changed in Notes based on recollection for last weeks meeting (10/17/2013).  Subhash had same recollection
+ 
+Tim H: Motion to accept minutes with update
+Bruce Rich seconds
+No Objections and Abstentions - minutes are approved.
+
+= 1.2 progress =
+ 
+Subhash: Moving 1.2 documents to next stage.  Need to review draft motion to the list to approve CSD's and modify cross references and document names as needed to move to 30 day public review.  Any concerns?
+ 
+Tim H.: Just need to motion to update documents as needed either via online vote or motion during meeting
+Judy: There were changes made to the usage guide - so that needs to be corrected from what was sent to the reflector
+ 
+Tim Moves to accept documents as per Subhash' draft motion (below)
+Kiran Seconds
+No Objections
+No Abstensions
+ 
+Subhash's Draft Motion: (https://lists.oasis-open.org/archives/kmip/201310/msg00031.html) Inlined as well
+-------------------------
+
+__________ moves that the KMIP TC
+ 
+1) Approve the following working drafts as Committee Specification
+   Drafts (All of them have minor editorial edits from the time they
+   were approved as CDSs)
+    1.  KMIP 1.2 Specification - Committee Specification Draft 01
+    2.  kmip-tape-lib-profile-v1 0-wd04a.doc
+    3.  kmip-sym-key-profile-v1.0-wd03a.doc
+    4.  kmip-sym-foundry-profile-v1.0-wd03a.doc
+    5.  kmip-suite-b-profile-v1.0-wd03a.doc
+    6.  kmip-sa-sed-profile-v1.0-wd04a.doc
+    7.  kmip-opaque-obj-profile-v1.0-wd03a.doc
+    8.  kmip-cs-profile-v1.0-wd05a.doc
+    9.  kmip-asym-key-profile-v1.0-wd03a.doc
+ 
+2) Approve the following working drafts as Committee Note Drafts
+    1.  kmip-testcases-v1.2-wd02a.docx
+    2.  KMIP 1.2 Usage Guide - Committee Note Draft 01 
+ 
+-------------------
+ 
+Tim H: We will need to provide link to meeting minutes of meeting with motion for OASIS admin
+ 
+Tim H: Changes to document names done by OASIS admin not TC editors
+ 
+Kiran: Some of the documents are .docx and some are .doc. (AI)
+
+Tim H: OASIS Admin will pickup and put in proper format as part of name change
+Judy F: Find out from OASIS admin what format is preferred if any
+Tim H: Some people on older versions of applications that may not support .docx format
+Kiran: OASIS provided .docx for this version of template
+ 
+= 1.3 =
+Subhash: From standpoint of 1.3 need call for editors.  Tim submits most information so he would be good as editor of specification.
+Kiran: I can continue to help as needed
+Tim: If no one else steps forward then I can but I prefer a mix of vendors for input.
+Subhash: We don't have to do it today but it is something we need to think about and we would like to solidify the editors by next meeting.  Will send out a query to Indra F. to see if she is willing to assist.  Subhash' plate is fairly full so not going to be able to help much.  If you can assist send email to Sub, Saik, Bob
+Judy: Are the existing editors willing to stay involved.
+Tim: Willing to continue with Profiles and Test Cases
+Subhash: Faisal needs to attend and accept to continue work on test cases.
+
+= wiki? =
+ 
+Subhash: Anyone looked at the Wiki?
+Tim: Yes looked at it
+Subhash: Streaming operations furthest into process.  Kiran & Saikat need to look at and edit information on
+Saikat: Track input of old KMIP TC work by contributing companies on Wiki?
+Subhash: suggesting collaboration use on Wiki for initial contributions versus email as easier to track changes.
+Subhash: Whichever is easier email or wiki
+ 
+Subhash: Meeting minutes review via wiki
+Bruce: Changes up to last minute might cause issues
+Kiran: Can sign up for tracking changes
+Tim: Changes are tracked and there is a watch page
+Subhash: Bob or Subhash/Saikat will finalize prior to meeting
+ 
+== Streaming ==
+Subhash: If you can start with Streaming proposal in one to two weeks would be a good start
+Tim:  Did you look at the current version of Wiki?
+Subhash: Yes can I put you in for proposal
+Tim:  Streaming low priority and would wait if higher priority comes in.
+Subhash: Will follow up with owners for other works.
+ 
+= Interop update from Tony =
+ 
+Tony:   Interop Sub-committee has been formed.  Membership is required in TC to attend.  Look at subcommittee page
+        under KMIP TC.  Looking to start meetings after enough folks to join call.  Will use formal interop rules
+        used in last round starting in Mid-January will be required to participate in interop at RSA.
+Bob L.: Will people not planning on attending interop be able to participate in tests?
+Tony:   I believe yes.  That is a feature of recent OASIS changes for statements of use.  Must participate to be
+        part of booth.
+ 
+Subhash: Check with Chet where Interop Sub-committee is listed.  It is not on the TC main page.
+Tim:     It is currently in the complete list of OASIS committees
+Subhash: Chair has to edit to add to main page.  Will check with Chet on specifics.  Tony if you can send a note out to the TC it would be helpful.
+ 
+Subhash: Anything else?
+ 
+ 
+Motion to close meeting: Tim H.
+Second: Tony C.
+No Objections
+No Abstensions
+ 
+1:36PM PDT Meeting Adjourned

@@ -1,0 +1,83 @@
+= Meeting Minutes March 26, 2015 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Saikat Saha 
+ * Quorum Achieved
+ 
+== Proposed agenda ==
+ * Motion to approve March 19th, 2015 Meeting Minutes
+ * Review KMIP v1.2 COS status (Saikat)
+ * Review KMIP v1.3 documents status updates
+  * Spec (Tony)
+  * Profiles (Tim H/BobL)
+  * Test Cases (Tim H/Mark J)
+  * Usage Guide (Judy F)
+ * Use case chain-saw (Charles)
+ * Face to face ballots and logistics
+ * Face to face planning
+ * RSA Interop update (Tony)
+ * New business
+ * Motion to adjourn
+
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve March 19, 2015 meeting minutes ===
+ * Tim Hudson Moves
+ * Chuck White Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== KMIP v1.2 CoS Status ==
+ * No comments up to this point
+ * Two weeks remaining for comments to be posted
+ 
+== KMIP 1.3 Status ==
+ * Specification
+  * No updates at this time.  Small number of edits remaining
+ * Profiles
+  * Tim working on update based on comments from previous meeting
+  * A lot of work remains, hard to commit to time frame
+ * Judy posted usage guide earlier today
+  * Version has updates from first version comments
+  * Incorporated all new material for 1.3
+  * Ready to move to committee draft
+ * Test Cases
+  * Still missing one test case in plugfest
+
+== Use Case Chain-Saw (Chuck White) ==
+ * [[https://www.oasis-open.org/committees/document.php?document_id=55347&wg_abbrev=kmip | Chain-saw presentation public link]]
+ * Proposed changes to the Use Cases document to more align with the:
+  * Usage Guide
+  * Specification
+  * Profiles
+
+== Face to Face Ballots and Logistics ==
+ * Currently Open ballots for attendance to F2F are posted
+ * Close on April 1
+
+== Face to Face Planning ==
+ * 
+
+== RSA Interop Update ==
+ * 
+ 
+== New Business ==
+ * No new business
+ 
+== Call for late arrivals - Saikat Saha ==
+ * No late arrivals
+
+== Motion to Adjourned ==
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:50PM GMT =

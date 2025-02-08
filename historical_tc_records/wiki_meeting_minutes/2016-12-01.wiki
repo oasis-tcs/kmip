@@ -1,0 +1,77 @@
+= Meeting Minutes December 1, 2016 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (November 17, 2016)
+ * KMIP 1.3 update (Tony C.)
+  * Specification and Profiles
+  * Response to Comments
+ * KMIP 1.4 update (Tony C.)
+  * XTS Proposal (Tim H.)
+  * Test Cases (Tim H.)
+  * Profiles (Tim H.)
+ * KMIP 2.0 update (Tony C.)
+ * RSA 2017 Interop planning (Tony C.)
+ * Call for Additional Attendees
+ * Adjourn Meeting
+ 
+=== Motion to approve Agenda ===
+ * Tim H. Moves
+ * Tim C. Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve November 17, 2016 Meeting Minutes ===
+ * Tim H. Moves
+ * Tim C. Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== KMIP 1.3 update (Tony C.) ==
+ * No new comments from the current 60 day review period
+ * Review period is almost over (two weeks to go)
+ 
+== KMIP 1.4 update (Tony C.) ==
+ * XTS Handling Proposal (Tim H.)
+   * Test cases will be included
+   * John L - is x-Link custom attributes going to be acceptable for later version? Tim H - not what we normally do.
+   * Tim C / Judy - profile status? Tim H - working on it - will get that out as soon as possible; will include full life-cycle
+   * Tim H - RSA 2017 interop will include the AESXTS test cases (agreement between the participants)
+   * Usage Guide Text - Tim H / Judy will work on this for AES-XTS
+ * Test Cases uploaded for version 1.4 interop including draft Test Cases documentation
+ * Profile document is uploaded
+  * No updates
+ * Spec uploaded
+  * Some updates pending
+ * Usage Guide updates
+  * Might require some additional usage guide text for new proposals; Judy will get a version out with a note as to what is missing as per last call discussion.
+ * Tim H - next step is committee specification drafts - Tony C - aim to get work completed for upload for next weeks call - full majority decision - can be done on call or via ballot.
+
+== KMIP 2.0 (Tony C.) ==
+ * Looking for F2F agenda items
+
+== Face to Face Meeting ==
+ * Straw Poll for KMIP meeting days finished 25 votes for Thu+Fri
+ * Tony will post details of location once we have that.
+
+== RSA Interop planning (Tony C.) ==
+ * Been busy week. AESXTS testing will be included. Participants ready to commence testing on Monday.
+ * Hancom Secure and Kryptus are new participants which is great to see.
+ * Booth layouts being discussed between participants.
+ 
+== Call for Late Attendees ==
+ * One additional attendee
+
+== Motion to Adjourn ==
+ * Tim H. Moves
+ * Tim C. seconds
+ * No objections
+ * No abstentions
+ * Motion is approved
+ 
+= Meeting Adjourned at 08:22PM GMT =

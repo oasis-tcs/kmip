@@ -1,0 +1,72 @@
+= Meeting Minutes October 20, 2016 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call 
+ * Approve Agenda 
+ * Approve Previous Meeting Minutes (October 13th) 
+ * KMIP 1.3 update (Tony C.) 
+  * Specification and Profiles 
+ * KMIP 1.4 update (Tony C.) 
+ * KMIP 2.0 (Tony C.) 
+ * RSA Interop planning (Tony C.) 
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) Moves
+ * Chuck White Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve October 13, 2016 Meeting Minutes ===
+ * Tim H. Moves
+ * Gerald Stueve (Gerald S.) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== KMIP 1.3 update (Tony C.) ==
+ * No new comments from the current 60 day review period
+ 
+== KMIP 1.4 update (Tony C.) ==
+ * Looking to close off 1.4 content in November
+ * Additional proposals need to be in no later than first week of November
+ * Tim has a couple of pending items that should be able to get them in 
+ 
+== KMIP 2.0 (Tony C.) ==
+ * Document editors are currently unchanged
+ * We are still looking for co-editors for Usage Guide and Specification
+
+=== Motion to approve Indra Fitzgerald as co-editor of KMIP 2.0 Usage Guide and Chuck White as co-editor for KMIP 2.0 Specification ===
+ * Tim H. Moves
+ * Mark Joseph (Mark J.) Seconds
+ * No Objections
+ * No Abstensions
+ * Motion Approved
+ 
+== RSA Interop planning (Tony C.) ==
+ * Call for a motion to approve the KMIP Interop Guidelines version 1.4a as the formal process for RSA 2017 interop testing
+ * Jane Harnad is looking to organize a call for the interop group next week
+ 
+=== Motion to approve use of KMIP Interop Guidelines version 1.4a as the formal process ===
+ * Mark J. Moves
+ * Jeff Bartell (Jeff B.) Seconds
+ * No Objections
+ * No Abstensions
+ * Motion Approved
+ 
+=== Call for Late Attendees ===
+ * Two additional attendees
+
+== Motion to Adjourned ==
+ * Tim H. Moves
+ * Gerald S. seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:15PM GMT =

@@ -1,0 +1,74 @@
+= Meeting Minutes 19 September 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (September 5, 2019)
+ * KMIP 2.0 (Status)
+ * KMIP 2.1
+  * Name Domain Definition (Tony C)
+  * Review wiki
+ * KMIP Interop 2020
+ * Interop Process (Tony C)
+ * New Business
+  * Response to Comment (Chuck W)
+  * Response to Conrado Gouvêa
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from September 5, 2019'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the September 5, 2019 meeting approved.
+
+== KMIP 2.0 Status (Tony C) ==
+ * 60 day public review of the KMIP 2.0 Spec and Profiles as Candidate OASIS Standards has commenced.  It will end on 15 October 2019.
+  . See https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201908/msg00008.html
+ * No comments have been received so far.
+
+== KMIP 2.1 ==
+=== Name Domain Definition (Tony C) ===
+ * Tony noted that he is still working on the Name Domain Definition document and should have something out to the TC soon.
+
+=== Review wiki ===
+ * KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1)
+ * Tim H noted that Anthony B, who is now on a six week vacation, had looked into his outstanding Name Space proposal and determined it was a much deeper and more complex topic than he initially thought.  He recommended that this topic be deferred from KMIP 2.1 and can be revisited for a future KMIP release.  No one of the TC objected to the deferral.  So Tim H updated the wiki to reflect this change.
+ * Tony C requested that the leads for all the KMIP 2.1 proposals review the wiki and see what additional contributions for the KMIP Usage Guide, Test Cases or Profiles documents.  This will be reviewed at next week's meeting.
+ * Many of the proposals belong to either Tim H or Bruce R.  They both would welcome help developing the additional contributions.
+
+=== KMIP 2.1 Specification ===
+ * Tony C thanked everyone who posted errors and issues on the KMIP 2.1 Spec WD3 to the reflector.  He will address these in the next revision.
+
+== KMIP Interop 2020 ==
+ * The OASIS booth is a 20x20 booth located in the South Hall
+ * There are still a few openings if anyone is interested please contact Tony C or Jane H.
+ * Tony C asked if anyone had comments on the KMIP Interop Process document that he recently posted.  None were raised.
+ * Bruce R provided the TC with an update on the OASIS Interop Policy discussion at the OASIS board level
+  * The KMIP Interop process extends the 'default' OASIS Interop policy
+  * Bruce R recently reminded the board that this was still an open work item.
+  * Bruce R did secure agreement from the OASIS board that the KMIP TC can proceed with the Interop RSA 2020 event using the extended KMIP Interop process
+
+== New Business ==
+ * Response to Conrado Gouvêa
+  * Tony C still needs to draft the follow-up response to Conrado Gouvêa
+ * Response to Comment from Prof. René Pawlitzek (Chuck W)
+  * Tony C sent the response to Prof. René Pawlitzek earlier today so this action is now closed.
+
+== Next Meeting ==
+ * Next TC Meeting:  26 September 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry S (Fornetix)
+ * Kenli C (Quintessence Labs)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:17 US-EST ==

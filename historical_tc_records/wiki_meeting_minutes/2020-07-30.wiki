@@ -1,0 +1,70 @@
+= Meeting Minutes July 30 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from July 23, 2020'''
+
+ * Greg moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the July 23, 2020 meeting approved.
+
+== KMIP 2.1 ==
+=== Status ===
+ * Ballot has closed and it is in the 60 day review.
+
+== KMIP 3.0 ==
+=== Batching (Anthony B) ===
+ * Anthony B reviewed the proposed spec delta for Batching.
+ * There were no questions or comments about the proposal. 
+ 
+ '''Motion to accept the spec delta as proposed by Anthony B for Batching for inclusion in version 3.0 of the Spec'''
+
+ * Tim C moves, Judy seconds. No objections, abstentions, or comments. Motion approved.
+ 
+=== Split Key Polynomial (Chuck W) ===
+ * Chuck W reviewed the proposed spec delta for Split Key Polynomial.
+ * Tim H commented that Link should be added to the end of Split Key Base. There were no objections to it being added.
+ * Bruce and Judy noted a couple of needed editorial updates.
+ * There were no other questions or comments about the proposal. 
+ 
+ '''Motion to accept the spec delta as proposed by Chuck W for Split Key Polynomial for inclusion in version 3.0 of the Spec'''
+
+ * Bruce moves, Tim C seconds.  No objections, abstentions, or comments. Motion approved.
+
+=== Automation Architecture (Tim H) ===
+ * Tim H reviewed the proposed spec delta for Automation Architecture.
+ * Chuck asked a question about adding a system object identifier (and leaving one out if it a user object). Discussion on the merits of this approach followed noting that there omitting an identifier for one object class would impact locate operations.
+ * Agreed spec has chosen to be explicit about identifiers so proposal to remain as posted.
+ * There were no other questions or comments about the proposal. 
+ 
+ '''Motion to accept the spec delta as proposed by Tim H for Automation Architecture for inclusion in version 3.0 of the Spec'''
+
+ * Tim C moves, Greg seconds. No objections, abstentions, or comments. Motion approved.
+
+=== Status update (wiki review) ===
+ * Tony C will update the wiki to reflect today's meeting.
+ * Refer to the wiki for the latest schedule for the topics.
+
+=== Spec changes in WD02 ===
+ * Tim H posted a comment about the document structure.
+ * After a discussion it was decided to take the approach recommended by Tim in his email to TC mailing list (include as a subsection of 4.31).
+ * Tony C and Chuck will put out an updated version with the changes.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: August 6, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:47 US-EST ==

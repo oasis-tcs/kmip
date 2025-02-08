@@ -1,0 +1,77 @@
+= Meeting Minutes 23 March, 2017 - Draft =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (March 9, 2017)
+ * KMIP 1.4 update (Tony C.) 
+  * Specification - PR Comments
+  * Profiles - Tim H
+  * Test Cases - Tim H
+  * Usage Guide - Judy F
+  * AI Update - [[1.4]]
+ * KMIP 2.0 update (Tony C.) 
+  * Update from authors
+  * AI Update - [[2.0]]
+ * September plugfest
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve March 9, 2017 meeting minutes =====
+ * [[MeetingMinutes/Mar092017|March 9, 2017]]
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes approved
+ 
+=== KMIP 1.4 Spec update (Tony C.) ===
+ * Comment resolution log
+ * Gerry S noted an error in the Section 1.1 Table (Tony to add to comment register)
+ * Anthony B noted an item he will post the list (Tony to add to comment register)
+
+=== KMIP 1.4 Profiles update (Tim H.) ===
+ * Update posted with deltas shown. 
+ * Request all members to review with a view to making a motion to take document to Committee Specication Draft and PR at next meeting
+
+=== KMIP 1.4 Usage Guide update (Judy F.) ===
+ * Complete - will update a few items for review next week and then we can move towards Committee Note Draft (CND) in a subsequent meeting.
+
+=== KMIP 1.4 Test Cases update (Tim H.) ===
+ * Provided update. Document shows delta to previous version. 
+ * Request all members to review with a view to moving towards CND at next meeting
+
+==== Reviewed KMIP v1.4 AIs ====
+ * Reviewed AIs at [[1.4]]
+
+=== KMIP 2.0 update (Tony C.) ===
+
+==== Reviewed KMIP v2.0 AIs ====
+ * Deferred review of 2.0s AIs at [[2.0]] until next week.
+
+==== Update from Authors ====
+ * All authors waiting until 1.4 docs get to CSD/CND before commencing further
+
+== September plugfest (Tony C.) ==
+ * Tony outlined the plugfest details
+  * Held as part of the SNIA Storage Developer Conference in September 2017 in Santa Clara
+  * SNIA would welcome a KMIP plugfest.
+  * Costs would be approx. $2.5k per company - that covers setup, operational & promotional costs plus food & beverages for 2 people. Extra people from an organisation will be an additional cost ($TBA)
+  * Participation 
+  * Seeking 2 underwriters (sponsors). Cost is yet to be determined but at previous events underwriter fees were approx $4k-5k and include naming rights for the event.\
+  * Event is more technically focused and less formal than the RSA event. It is also open to non-OASIS members.
+ * Tony to raise a straw poll for participation as a starting point.
+
+== Additional Items ==
+ * None
+
+== Call for late arrivals (Tony C) ==
+ * 2 noted
+ 
+===== Motion to Adjourn =====
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Meeting adjourned
+
+ 
+= Meeting Adjourned at 14:20 US-PST =

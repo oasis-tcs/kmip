@@ -1,0 +1,71 @@
+= Meeting Minutes May 11, 2017 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (April 27, 2017) 
+ * KMIP 1.4 update (Tony C.) 
+  * Specification - PR Comments 
+  * Additional Algorithm enumerations 
+  * Profiles - Tim H 
+  * Test Cases - Tim H 
+  * Usage Guide - Judy Furlong (Judy F.) 
+  * AI Update - https://wiki.oasis-open.org/kmip/1.4 
+ * KMIP 2.0 update (Tony C.) 
+  * PQC Profile (Tony C) 
+  * AI Update - https://wiki.oasis-open.org/kmip/2.0 
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) Moves
+ * Jeff Bartel Seconds
+ * objections
+ * abstentions
+ * Agenda approved/not approved 
+
+== Motion to approve April 27, 2017 meeting minutes ==
+ * Tim C. Moves
+ * Greg Scott Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== KMIP 1.4 Update (Tony C.) ==
+ * Still adding the comments to the Specification
+ * Additional Algorithms uploaded by Tim Hudson - https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60703/Additional%20Enumeration%20Values%20for%20Algorithms.pdf
+  * Adding well known algorithms in use added to KMIP (e.g. SHA3, HMAC-SHA3, etc.)
+=== Motion to add additional algorithm enumerations to KMIP 1.4 specification ===
+  * Sue Gleeson Moves
+  * Judy F. Seconds
+  * No objections
+  * No abstentions
+  * Motion approved
+ * No updates for Profiles, Test Cases or Usage Guide to date
+
+== KMIP 2.0 Update (Tony C.) ==
+ * Update to documents based on new template
+ * PQC Profile uploaded recently for review (Tony C.) - https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60705/kmip-post-quantum-crypto-profile-wd02b-clean.pdf
+  * A special thanks goes to Prof. Dr. Tanja Lange from Eindhoven University of Technology for input to the profile
+  * Appears to be a general consensus for review and general discussion
+ * AI for 2.0 need to be revisited
+  * People with responsibility for AIs need to review and revise dates as some of expired
+  * Tim working on P11 hook
+ 
+== Next meeting ==
+ * Next meeting is scheduled for May 25th at the regular time (9:00PM GMT)
+
+== Call for late arrivals (Tony C.) ==
+ * Two new attendees
+ 
+== Motion to Adjourned ==
+ * Tim H. Moves
+ * Mark J. seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:27PM GMT =

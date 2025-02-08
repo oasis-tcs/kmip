@@ -1,0 +1,46 @@
+## page was copied from MeetingMinutes/31Aug2017
+= Meeting Minutes 14 September 2017 =
+== Meeting commenced 2:05 PM US-PST ==
+ * Roll call Judy Furlong (Judy F.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (August 31, 2017)
+ * KMIP 1.4 update (Judy F.)
+  * Pre-OASIS Standard Vote Public Review (Spec and Profiles)
+  * Usage Guide and Test Cases published as CNs
+ * KMIP 2.0 update (Judy F.)
+ * Key Value for Wrapped Objects Query (Judy F.)
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+=== Motion to approve Agenda ===
+ * Tim C moves, Bruce R. seconds, No objections, abstentions, or comments. Agenda approved
+
+=== Motion to approve August 31, 2017 meeting minutes ===
+ * [[MeetingMinutes/31Aug2017|August 31, 2017]]
+ * Gerry S. moves, Greg S. seconds. No objections, abstentions, or comments. Minutes approved
+
+== KMIP 1.4 Update - Judy F. ==
+ * TC admin has started the [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201709/msg00004.html|60-day public review]] for the KMIP 1.4 Specification and KMIP 1.4 Profiles document that is required prior to bringing them to vote as OASIS standards.  This 60-day public review will conclude on November 7, 2017.
+ * TC admin has published the [[http://docs.oasis-open.org/kmip/ug/v1.4/cn01/kmip-ug-v1.4-cn01.docx|KMIP 1.4 Usage Guide]] and the [[http://docs.oasis-open.org/kmip/testcases/v1.4/cn01/kmip-testcases-v1.4-cn01.docx|KMIP 1.4 Test Case]] documents as Committee Notes
+
+== KMIP 2.0 Update - Judy F. ==
+ * Judy F. reminded the TC to bring forward any proposed changes for KMIP 2.0 consideration.
+
+== Key Value for Wrapped Objects - Judy F. ==
+ * Judy pointed out that was an email query regarding [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201709/msg00000.html|Key Value for Wrapped Objects]] sent to the reflector that needs a response.
+ * There was an [[https://lists.oasis-open.org/archives/kmip-comment/201709/msg00000.html|earlier version]] sent to the kmip-comment list which indicated a missing flag in the TC-WRAP-1-14 test case.  If the test case authors (Mark J. & Tim H) could take a look that would appreciated.
+
+=== Next Meeting ===
+ * September 28, 2017
+
+== Call for late arrivals (Judy F.) ==
+ * 0 members
+
+=== Motion to Adjourn ===
+ * Tim C moves, Gerry seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 2:17 US-PST ==

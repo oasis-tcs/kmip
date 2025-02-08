@@ -1,0 +1,67 @@
+= Meeting Minutes November 13, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Saikat Saha (Saikat)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Formal recognition of Subhash as departing KMIP TC co-chair
+ * KMIP 1.2 Specification status
+ * KMIP 1.3 Work Items
+ * SNIA SSIF conformance testing
+ * KMIP PR activities
+ * KMIP face to face
+
+=== Motion to approve agenda ===
+ * Tim Hudson moves, Steve Seconds, no objections or abstentions.
+ * Agenda approved
+
+=== Motion to approve Minutes from November 6, 2014 ===
+ * Tim Hudson moves, Jerry seconds, no objections or abstentions.
+ 
+=== Motion to recognize Subhash ===
+ * Motion for the KMIP Technical Committee to formally recognize Subhash Sankuratripati (NetAPP) for his years of service as co-chair and formally thank Subhash on behalf of the TC with that recognition to be posted to the main TC page.
+ * Saikat moves, Tony seconds, no objections or abstentions.
+
+=== KMIP 1.2 Update ===
+ * TC-admin have now posted links for the approved draft documents to be referenced in the SoUs 
+ * There are a range of organisations who participated in the RSA Conference Interop event in February 2014 that specifically tested all the KMIP 1.2 functionality so I'm sure some or all of those folks can forward with a SoU for KMIP 1.2
+ * Tim H has posted the Cryptsoft SoU to the list for review. If any folks are unsure about how to construct one, feel free to use the Cryptsoft SoU as a template.
+
+=== KMIP 1.3 Update ===
+ * KMIP 1.3 plugfest was held to test the KMIP 1.3 additions.
+ * The results has been posted to the list along with a list of recommendations made by the KMIP Interop Subcommittee to the TC on items that need to be adjusted as a result of the testing.
+ * Tim walked through the KMIP Interop Subcommittee recommendations in the document (KMIP v1_3 Plugfest Discussion Topics V1.0) 
+  * Locate with Offset recommendation: "Make the specification text clearer that the server is permitted to return LocatedItems under whichever context it desires and that it can be present in the output even if OffsetItems is not present. There may be performance implications in calculating the result set size so returning it should not be mandatory." - Tim to update relevant KMIP 1.3 documents, Judy to update Usage Guide to reflect rationale.
+  * Data in Streaming Operations: "Make the Data element optional in a Request if FinalIndicator is true for all streaming operations."  - Tim to update relevant KMIP 1.3 documents
+  * Query Validations: "Note that the empty list returned is expected (so there is no confusion) if a server does not want to return any list of validations. Make this clearer for all items where the information can be entirely not present in the output." -  Tim to update relevant KMIP 1.3 documents
+  * TLS Protocol Version: "Consider adding this in KMIP 1.4 after further TC discussion." 
+ * Motion made to uphold and action the recommendations as made by the KMIP Interop Subcommittee - Tim moves, Steve seconds, no objections or abstentions.
+
+=== SNIA SSIF KMIP Conformance testing ===
+ * 1st two implementations have been tested and are now noted as conformant with results posted to the KMIP TC "Known KMIP Implementations" page
+ * Other implementations are still undergoing testing. 
+ * SNIA SSIF is actively looking for more implementations to enter the program.
+
+=== KMIP PR activities ===
+ *  Tony to reach out to the SNIA SSIF and OASIS folks to see if there is an opportunity for a joint press release.
+
+
+=== KMIP Face to Face Meeting ===
+ *  General consensus that the next face to face meeting should be held around the RSA USA Conference in April 2015
+
+=== Thanksgiving ===
+ * Motion to cancel KMIP call for Thanksgiving (November 27)
+ * Kiran moves, Tim seconds.
+
+
+== Call for late arrivals - Saikat ==
+ * Sue G.
+ 
+== Motion to Adjourn ==
+ * Tim Moves
+ * Kiran seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+
+Meeting adjourned at 8:15PM GMT

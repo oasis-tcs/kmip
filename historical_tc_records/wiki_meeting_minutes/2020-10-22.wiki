@@ -1,0 +1,66 @@
+= Meeting Minutes October 22 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from October 15, 2020'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the October 15, 2020 meeting approved.
+
+== KMIP 2.1 ==
+=== Status ===
+ * It is still out for public review. No comments have been received other than the ones from TC Admin.
+   
+== KMIP 3.0 ==
+=== Client Authentication (Tim C) ===
+ * Tim C reviewed the proposed spec delta for Client Authentication.
+ * There were no questions or comments about the proposal. 
+ 
+ '''Motion to accept the spec delta as proposed by Tim C for Client Authentication for inclusion in version 3.0 of the Spec'''
+
+ * Bruce moves, Tim C seconds. No objections, abstentions, or comments. Motion approved.
+  
+=== User Credential Update (Tim H) ===
+ * Tim H forgot to add the operations to create credentials and users to his original proposal. 
+ * There were no questions or comments about the proposed updates. 
+ 
+  '''Motion to accept the updates to the previous spec delta as proposed by Tim H for User Credential for inclusion in version 3.0 of the Spec'''
+
+ * Tim C moves, Greg seconds. No objections, abstentions, or comments. Motion approved.
+ 
+=== Status update (wiki review) ===
+ * Refer to the wiki for the latest schedule for the topics.
+ * Tony C put out a request for profiles and test cases to demonstrate new functionality.
+ 
+== New Business ==
+=== Revoke operation (Tony C) ===
+ * Tony C reviewed his presentation on including a deactivate operation.
+ * There was general agreement on adding the deactivate operation. Bruce brought up an option of using a revoke without a reason code.
+ 
+ '''Motion that Tony C continues work on the deactivate operation'''
+
+ * Tony C moves, Greg and Judy seconds. No objections, abstentions, or comments. Motion approved.
+ 
+=== TCG Liaison ===
+ * TCG is looking to use KMIP for the keys for their drives and they are interested in working with the TC. There are conversations happening between TCG and OASIS TC Admin and Legal to address how contributions would be handled. 
+ 
+ '''Motion that the the TC is still interested in contributions from TCG'''
+  
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Motion approved.
+ 
+== Next Meeting ==
+ * Next TC Meeting: October 29, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Jason, Ed
+
+== Motion to Adjourn ==
+ * Tim H moves and Greg seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:40 US-EST ==

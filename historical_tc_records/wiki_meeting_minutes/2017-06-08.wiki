@@ -1,0 +1,71 @@
+= Meeting Minutes 8 June, 2017 - Draft =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (June 1, 2017)
+ * KMIP Co-Chair
+ * KMIP 1.4 update (Tony C.) 
+  * Specification - Next steps
+  * Profiles - Next steps
+ * Patterns proposal - Nitin
+ * Next Meeting
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+== Motion to approve Agenda ==
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+== Motion to approve June 1, 2017 meeting minutes ==
+ * [[MeetingMinutes/01Jun2017|June 1, 2017]]
+ * Gerry moves, Tim C seconds. No objections, abstentions, or comments. Minutes approved
+
+
+== KMIP TC Co-Chair ==
+ * Saikat stated that at this stage, he wishes to resign as KMIP TC Co-Chair effective immediately
+===== Motion to recognise Saikat's Service as Co-Chair =====
+ * Motion to recognise and thank Saikat for his service as KMIP TC Co-Chair since 2013
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Motion approved
+
+
+=== New Co-Chair ===
+ * Tony has spoken to a range of folks who have volunteered in some way for the role of Co-Chair and thanked all of those folks fopr their offers. Preference would be for someone who can take on the role actively.
+ * Tony nominated Judy F as candidate for the role of KMIP TC Co-Chair. Judy F Seconded the nomination.
+ * Tony called for further nominations - none were made.
+
+===== Motion to elect Judy F as new KMIP TC Co-Chair =====
+ * Greg moved, Gerry S seconds. No objections, abstentions, or comments.
+ * Judy F announced as KMIP TC Co-Chair by unanimous voice vote.
+
+== KMIP 1.4 Update - Tony C ==
+=== KMIP 1.4 Spec- Next steps ===
+ * SMV ballot should be raised in the next few days.
+ * Tony requested all members to vote promptly.
+
+=== KMIP 1.4 Profiles - Next steps ===
+ * SMV ballot should be raised in the next few days.
+ * Tony requested all members to vote promptly.
+
+=== Patterns Proposl - Nitin J ===
+ * Nitin walked through the proposal regarding wildcard searches.
+ * Nitin and Anthony answered questions regarding the proposal.
+ * Agreed that a Specification change redline is the next step. 
+ * Requested Nitin and Anthony to provided the changes once KMIP V2.0 draft is available
+ * Judy F requested that usage guide be provided as it will be important for a feature like this.
+
+=== New Item ===
+ * Requested members to review prior to a scheduled discussion next week.
+
+=== Next Meeting ===
+ * June 15, 2017
+
+== Call for late arrivals (Tony C) ==
+ * 2 members
+
+===== Motion to Adjourn =====
+ * Tim C moves, Gerry S seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+== Meeting Adjourned at 2:26 US-PST ==

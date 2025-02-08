@@ -1,0 +1,72 @@
+## page was copied from MeetingMinutes/June052014
+## page was copied from MeetingMinutes/June052014
+= Meeting Minutes June 12, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Subhash Sankuratripati (Subhash)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Review status of KMIP 1.2  
+ * Review status of KMIP 1.3 items 
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) Moves
+ * Kiran Thota (Kiran) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve Minutes for May 29 and June 5 ===
+ * Tim Hudson (Tim H.) Moves with the editorial changes "per spreadsheet" for the changes in 1.2 documents
+ * Charles White (Chuck) Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved 
+
+== Review status of KMIP 1.2 ==
+ * Tim H. provided status update. Tim has created a detailed wiki page with current status of KMIP 1.2 documents. 
+ * Subhash to check with Chet regarding the front page of documents, if co-chair needs to be updated and some co-editors are not current members of the TC. We will follow directives from the TC administration regarding the front page before we go for next public review.
+ * Tim and updated all profiles document according to the spreadsheet
+ * Kiran: Do we mark documents as CSD01 or CSD02? We do not need to mark, TC admin will mark them accordingly, they will be CSD02
+ * Specification document has been updated, Judy will send comments about references to Kiran and Kiran will update. Updates as recommended by David Featherstone (David) are also pending.
+ * Usage Guide: Judy will reword based on the comment from David, update references.
+ * Tim: Since we have decided to not move use case document in 1.2 thru public review in June 5th call, all 1.2 documents should remove references to the use case document. Tim has already updated profiles document accordingly.
+ * Voice vote next TC call to move all the KMIP 1.2 documents for 15 days public review. Following which we will go thru the mandatory OASIS 60 days public review for a candidate specification document.
+ * Voice vote is contingent upon updates to usage guide by Judy and specification document by Kiran.
+ * All updated documents should be sent for TC review 48 hours prior to the TC call to allow adequate time for review by members.
+ * John brought up a discussion about splitting the documents or combining them for public review request.
+ * John also brought up a discussion to find reasoning behind deprecation of templates and operational policies. Sue Gleeson also brought up apprehensions about deprecation of 
+templates. Subhash will dig if we have documents submitted by Bruce or Tim in this regard, other TC members are also encouraged to send to the reflector if they find references to details about deprecation. 
+
+== Status on KMIP 1.3 Items ==
+ * Client Registration:  Judy/Tim H. Proposal by July time frame
+ * Query Mechanism: Tim, Query capability and server to client capability pending, Proposal in July time frame
+ * Streaming Proposal: Tim, document sent out last week. Tim moves a motion for ballot to include streaming proposal in the 1.3 specification, Mark seconds, John Leiseboer objects, 
+
+Peter abstains, motion carries.
+ * Attribute: Chuck, proposal by 1st week of July
+ * Key Shredding: Judy proposal by end of June, early July
+ * Locate: Ballot almost closed
+ * Deprecation: If Bob Lockhart does not update, create a ballot for deprecation
+ * Maybe items: Groups and provisioning: Kiran will work with Bob L.  
+ * Volunteers for co-editors for 1.3 documents - need to sort out in July
+ * Subhash will reach out to Chet for the all templates required for KMIP 1.3 documents
+
+
+
+ 
+== Miscellaneous ==
+ * We should cancel TC weekly call on July 3rd due to Independence day holiday in the US
+ * Subhash will be out during the last week of June and 1st week of July, we will see how activities progress over next few weeks to determine cancellation of June 26th TC call, Saikat is available to host the call 
+
+
+== Call for late arrivals - Subhash ==
+ * Anthony Berglas, Crypsoft
+ 
+== Motion to Adjourn ==
+ * Tim H. Moves
+ * Mark Joseph seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+= Meeting Adjourned at 8:55 PM GMT =

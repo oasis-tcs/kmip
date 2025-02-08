@@ -1,0 +1,53 @@
+= Meeting Minutes Jan 30 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from Jan 23, 2020'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the Jan 23, 2020 meeting approved.
+
+== KMIP Interop 2020 ==
+=== Status update (Tony C) ===
+ * Tony C is working on the results and should have them posted in the next week or two.
+ * Booth layout and signage has been figured out.
+ * Jane will be sending out an email going over logistics.
+ * Booth # is 1249 in the South Hall.
+
+== KMIP 2.1 ==
+=== Status ===
+ * Tony C uploaded WD6 of the Spec.
+ * Tim H uploaded WD2 of the Profile, only a change to the version number was made.
+ * No general comments on Tim H's previous updates to the Test Cases, comments were received during Interop.
+ * Tony C will call for a motion on the next call to move the Spec and Profile to committee spec draft and put out for public review.
+ * Tony C will email the motions prior to next week's call.
+ * Bruce asked about the types of changes that were made to the Spec. Tony C replied that most were clarification/editorial changes and addressing some result reason codes that were missed.
+ 
+== KMIP F2F 2020 ==
+ * Some proposals have been received. More are still needed.
+ * Tim H will provide Cryptsoft's proposals before the next call.
+ * Attendance ballot is still open.
+ * Coronavirus was brought up and it and its potential impact on the F2F will be discussed on the next call.
+ 
+=== Joint TC Dinner with PKCS#11 ===
+ * Tony C is working on the venue for the joint dinner and will put out an attendance poll once selected.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: Feb 6, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry, Oscar
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:15 US-EST ==

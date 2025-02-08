@@ -1,0 +1,64 @@
+## page was copied from MeetingMinutes/11Jan2018
+= Meeting Minutes 18 January 2018 =
+== Meeting commenced 2:02 PM US-PST ==
+ * Roll call (Tony C)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (January 11, 2018)
+ * Interop Status
+ * KMIP 2.0
+  * New KMIP 2.0 Specification WD available (Tony C)
+  * Wrapping Operations Proposal (Bob L)
+  * Usage Mask Discussion (Nitin J/Tim H)
+  * Review KMIP v2.0 wiki (https://wiki.oasis-open.org/kmip/2.0) (Tony C.)
+ * List comment (Gaurav Garg)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+===== Motion to approve Agenda =====
+ * Bruce R moves, Mark J seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve January 11, 2018 meeting minutes =====
+ * [[https://wiki.oasis-open.org/kmip/MeetingMinutes/11Jan2018|January 11, 2018]]
+ * Matt O moves, Kevin M seconds. No objections, abstentions, or comments. Minutes approved
+
+== Interop Status ==
+ * Interop Letter approved at last week's meeting has been sent to the OASIS
+ * 2018 RSA Interop Participants should have received an email from Jane Harnad to confirm participation, obtain company information/logos, etc.  If you are participating in RSA and have not recieved this please reach out to Jane H and/or Tony C.
+
+== KMIP 2.0 ==
+=== New KMIP 2.0 Specification WD ===
+ * Mark has begun a KMIP 2.0 implementation following the published specification and generally things look good.  Mark did indicate that Notify is still broken.  Tony C is aware but hasn't had chance to do the additional edits to the Spec but plans to do this soon.
+ * Tim H has started drafting sample profiles for 2.0 and they should be published soon.
+
+=== Wrapping Operations Proposal ===
+ * Deferred
+
+=== Usage Masks Discussion ===
+ * Deferred
+
+=== Review KMIP v2.0 wiki ===
+ * Tony C, Tim H, Judy F, Anthony B,  Mark J, Gerry S, Sun-ho L, Gary G, Nitan J, and Jeff B please review the [[KMIP 2.0|KMIP v2.0]] wiki for your actions.  We will revisit these next week.  We want to close on whether there are any outstanding proposals for KMIP 2.0 soon.
+
+=== List Comment (Gaurav Garg) ===
+ * Gaurav Garg posted a query to the KMIP TC mailing looking for open source KMIP implementations.  To the TC member knowledg there are no known current, supported open source KMIP implementations.  The few that are available have been abandoned at KMIP 1.0 or 1.1 version.
+ * Tony C will send a response to Gaurav with this information and refer him to the KMIP TC wiki for known [[kmip implementations|KMIP Implementations]].
+
+== New Business ==
+ * None
+
+=== Next Meeting ===
+ * January 25, 2018
+
+== Call for late arrivals (Tony C.) ==
+ * 2 Members (Joe B, Indra F)
+
+===== Motion to Adjourn =====
+ * Bruce R moves, Joe B seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 15:18 US-PST ==

@@ -1,0 +1,140 @@
+## page was copied from MeetingMinutes/Jan0512016
+## page was copied from MeetingMinutes/Dec0812016
+= Meeting Minutes January 5, 2017 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (December 1, 2016)
+ * Approve Previous Meeting Minutes (December 8, 2016)
+ * KMIP 1.3 update (Tony C.)
+  * Specification
+  * Profiles
+ * KMIP 1.4 update (Tony C.)
+  * Update from Authors
+ * KMIP 2.0 update (Tony C.)
+ * RSA 2017 Interop planning (Tony C.)
+  * Testing
+ * Face to Face meeting planning (US-Bay Area 9-10 Feb 2017)
+  * Venue
+  * Attendance
+  * Agenda
+ * Meeting time review (future meetings)
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+=== Motion to approve Agenda ===
+ * Judy F: What about inclusion of Anthony's two proposals in the agenda.
+ * Tony C.: Plan to include the proposals as part of KMIP 1.4 discussion
+ * Tim Hudson (Tim H.) Moves
+ * Gerry S. Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+=== Motion to approve December 1st and December 8th Meeting Minutes ===
+ * Tim H. Moves
+ * Tim Chevalier (Tim C.) - Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== KMIP 1.3 update (Tony C.) ==
+ * KMIP 1.3 Specification document passed approval
+ * KMIP 1.3 Profiles document received conditional approval because of two negative votes (without comments)
+ * KMIP 1.3 received highest number of votes from OASIS voting members for which chairs and KMIP TC are proud and thankful
+ * Gerry: How many positive votes
+ * Tony: 62 yes votes, 1 abstained for specification and 2 negative votes for the profiles document
+ * TC has three choices according to OASIS policy
+ * (a) request that TC Administration approve the specification as submitted despite the negative votes; <<BR>>(b) withdraw the submission entirely; or <<BR>>(c) prepare an amended Candidate OASIS Standard to address the issues leading to the negative votes. This amended specification will be submitted to the membership for an OS vote. This process is explained in section 3.4.4.
+
+=== Motion to request TC admin for a special majority ballot to approve KMIP 1.3 profile document as is ===
+ * Tim: Happy to move a motion to request TC admin for a special majority ballot to approve KMIP 1.3 profile document as is
+ * Mark Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ * Tony will request TC admin to initiate a special majority ballot in this regard
+
+== KMIP 1.4 update (Tony C.) ==
+ * Tony: Hand it over to Anthony to go over the Export/Import proposal
+ * Anthony: Submitted the proposal for export/import on the reflector
+ * Mark: How are the attributes handled during export/import because different server implementations may handle them differently or may not understand all the attributes. Clearly state and add error code.
+ * Bob L. :This should be included in the usage guide
+ * Tim H. : Server vendors do not support mandatory attributes during registration
+ * Bruce: We can leverage query, query attributes before export to ensure that import will go through smoothly
+ * Tony: Let us table this in KMIP 2.0, include fine-grained response and error codes and clarify registration operation
+ * Anthony: Inclusion of template in the export is still planned as some server vendors may still require them
+ * Tony: Will send the list of all deprecated items to Judy for the Usage Guide
+ * Anthony: Sensitive and extractable attributes in line with PKCS, keys that never leave the server
+ * Put a flag extractable - false means keys stay in the server and never leaves the server, sensitive can leave in wrapped format
+ * Saikat: Keys are replicated between server nodes in servers in high availability mode, is it considered extractable?
+ * Anthony: Servers should be treated as a logical unit, so all server nodes are part of that logical unit, hence high availability key replication of extractable key should be fine
+ * Tony: Yes, this is how PKCS also behaves
+ * Judy: This is outside the scope but a clarification note may be helpful
+ * Saikat: Let us add some clarification note to make it clear
+ * Mark: Agreed, let us add clarification
+
+=== Motion to include a clarification in KMIP 1.4 working draft regarding th scope of extractable and sensitive attributes ===
+ * Mark moves a motion
+ * Jim seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ * Tony will update the working draft and get it uploaded shortly. Judy will make updates to the Usage guide as well
+
+=== Motion to freeze functionality for KMIP 1.4 documents ===
+ * Tim H. moves a motion
+ * Mark seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ * No new features in KMIP 1.4, however improvements in the working drafts will be carried
+
+== KMIP 2.0 (Tony C.) ==
+ * Tony: Compiling a lit of candidate items for KMIP 2.0
+ * Wide and diverse list
+ * Put it in the agenda for KMIP F2F in February
+
+== KMIP 1.3 Votes (Hal L.) ==
+ * Hal: Would like to re-visit the voting issue for KMIP 1.3
+ * Hal: Two negative voting companies and one abstained company were mis-represented, Quintessance Lab and SafeNet are the two companies who had negative votes which are KMIP implementors of KMIP spec. Two important TC members. Is it possible to ask for feedback or reason for the negative votes or why they did not object earlier because it is is supposed to be a consensus of the community.
+ * Jamie Clark: OASIS General Counsel, wearing the OASIS hat, anyone can vote 'NO' and they are not obligated to disclose any reasons for a negative vote. This is part of OASIS policy. Moreover, both of these parties are part of OASIS interoperability sub-committee which has an NDA in place for confidentiality
+ * Tony: Mis-representation was not at all intended. Will anyone like to re-visit the earlier motion for a special majority ballot.
+ * No comments, earlier motion for special majority ballot carries
+
+== RSA Interop planning (Tony C.) ==
+ * Extended it twice
+ * Wrap up the result by 5 PM PST 1/6/2017
+ * Share the results from the interoperability at the F2F meeting
+
+== Face to Face meeting planning (US-Bay Area 9-10 Feb 2017) ==
+ * Meeting dates have been set
+ * Bob has confirmed that Thales will host the face to face at Thales San Jose office, nice convenient location with lots of parking
+ * Anyone with special dietary requirements, email Bob one-two weeks prior
+
+== Meeting Time ==
+ * Some folks have requested to have the meeting time back by 2.5 hours to make it convenient for India timezone
+ * Current time of the meeting is in place for last several years and was selected to suit most geographies and time zones covered by the TC members
+ * 2.5 hours will pose challenges for both US Eastern time and more inconveinence for EMEA region
+ * Let us re-visit this request
+ * Put up a straw poll with various times
+ * Valerie: Can we rotate the time to make it convenient for everyone? Is that an option?
+ * Mark: Not a good option
+ * Tony: Will put up a poll
+
+
+
+== Call for late attendees ==
+ * One additional attendee marked
+
+== Motion to Adjourn ==
+ * Tim H. Moves
+ * Tim C. seconds
+ * No objections
+ * No abstentions
+ * Motion is approved
+
+= Meeting Adjourned at 8:54 PM GMT =

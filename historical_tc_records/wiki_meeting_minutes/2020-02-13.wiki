@@ -1,0 +1,58 @@
+= Meeting Minutes Feb 13 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Justin seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from Feb 06, 2020'''
+
+ * Tim C moves, Jerry seconds. No objections, abstentions, or comments. Minutes for the Feb 06, 2020 meeting approved.
+
+== KMIP Interop 2020 ==
+=== Status update (Tony C) ===
+ * Server vendor dropped out due to logistics issues. At six participants.
+ * Tony C is working on publishing the results, should be out in the next couple of days.
+ 
+=== RSA Conference Expo ===
+ * With the Coronavirus, plan is to push ahead. RSA expects a sub 5% attendance hit.
+ * From an OASIS perspective we are looking at a good booth. Should have a very different look and feel this year.
+ * For free expo pass contact Tony C or Jane. 
+ 
+== KMIP 2.1 ==
+=== Status - Spec & Profiles ===
+ * Spec and Profile documents have been pushed out for public review. Review closed March 13.
+
+=== Test Cases & Usage Guide ===
+ * Tim H has uploaded the test cases with feedback from the Interop.
+ * Judy has uploaded 1st draft of the Usage Guide in the new template.
+ * Plan is to make motions on both to move them to committee note draft at the F2F.
+ * Tim H asked if any changes are needed to the test cases document. Per Tony C unless there is a change in content an update is not needed.
+ * Judy mentioned at some point references to the test cases document will need to be updated.
+ 
+== KMIP F2F 2020 ==
+ * Tony C has enough topics to build an agenda.
+ * There is still room for more topics - let Tony C or Judy know.
+  
+=== Joint TC Dinner with PKCS#11 ===
+ * Venue (DishDash) booked in Sunnyvale at 5:30. Tony C is trying to get it moved back to accommodate the ending time of the PKCS#11 meeting, people flying in late, and travel times.
+ * Attendance ballot closes on Monday Feb 17.
+ 
+== New Business ==
+ * Tim H asked if we are going to skip public reviews for committee notes as they are optional. This will be discussed further at the F2F. Jerry commented that if we get comments on the spec they should be opened up for review.
+ * F2F will be ran as two separate meetings.
+ 
+== Next Meeting ==
+ * Next TC Meetings: Feb 20, 2020 from 9 am PST to 5 PM PST and Feb 21, 2020 from 9 am PST to 5 PM PST 
+
+== Call for Additional Attendees (Tony C) ==
+ * Kenli, Justin
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:17 US-EST ==

@@ -1,0 +1,78 @@
+= Meeting Minutes 10 January 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (December 20, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Spec, Profiles & Test Cases (Tony C)
+  * Usage Guide (Judy F)
+ * List comment from Conrado Gouvêa
+ * List discussion from Alexis Abell
+ * Face to Face TC meeting in Feb 2019 (Bay Area, CA)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from December 20, 2018'''
+
+ * Tim H moves, Sue G seconds, No objections, abstentions, or comments. Minutes for the December 20, 2018 meeting approved.
+
+== Interop for RSA 2019 ==
+ * Six members companies have been involved in Interop, but one may be pulling out.
+ * Kickoff meeting for Interop participants is on Monday January 14, 2019.
+
+== KMIP 2.0 ==
+=== Spec, Profiles & Test Cases (Tony C) ===
+ * Requests to formally move the KMIP 2.0 Spec and Profiles documents to the Committee Specification Draft state and KMIP 2.0 Test Case document to the Committee Note Draft state have been submitted to TC Admin.
+ * Tony C has a list of some changes to the Spec which will need to be added prior to the public review.
+ * Tim H has posted new zip files for Test Cases (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64504) and Profiles (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=64505) in preparation of the Interop event.
+ * Tim H thanked Mark J for all his feedback to the Test Cases & Profiles over the past few weeks
+ * Tim H noted that the Profiles and Test Case documents will also need modifications prior to public review.  He also noted that there is normally other changes that come to light during the Interop events which will also need to be captured.
+
+=== KMIP v2.0 Usage Guide (Judy F) ===
+ * Judy F is still awaiting Usage Guide content -- Please see KMIP TC Wiki for outstanding UG actions.
+ * Tim H reiterated the suggestion that if Judy F doesn't receive significant contributions to the UG prior to the F2F in February that the TC should set aside a portion of the F2F to this activity so that we can close out KMIP 2.0.
+
+== List comment from Conrado Gouvêa ==
+ * Still no response to Tim H's response has been received.  TC agreed to remove this topic from the agenda.  Tony C will add the changes Tim H had suggested in the response to the list that the TC will consider prior to closing on KMIP 2.0.
+
+== List discussion from Alexis Abell ==
+ * Tim H summarized the discussion for the TC.  There are some errors in KMIP 1.4 (and earlier) Specification within the lists of applies to Objects.  For example, Opaque Object is missing in some operations such as Revoke.
+ * TC discussed whether they though State applied to an Opaque Object (which might contain cryptographic materials, but may not) and how to address the errors in the Specification.
+ * The TC came to consensus that we should correct this in KMIP 2.0 and write and execute the appropriate test cases.
+ * The TC also thought an errata for KMIP 1.4 (and earlier) versions was warranted.  Tony C took an action to speak with Chet E. regarding how to do an errata across multiple versions.  Based on the approach the TC can determine the extent of the change from there.
+
+== Face to Face TC Meeting in Feb 2019 ==
+ * TC agreed to hold the KMIP TC F2F meeting the week prior to the RSA Conference on Wednesday and Thursday (Feb 27 & Feb 28, 2019).
+
+'''Motion to hold the KMIP TC Face-to-Face Meeting on Wednesday February 27, 2019 and Thursday February 28, 2019 at the Thales facility in San Jose, California'''
+
+ * Mark J moves, Tim H seconds, No objections, abstentions, or comments. Motion to hold the KMIP TC F2F meeting on February 27 & 28, 2019 approved.
+
+ * Tony C took action to check with the Thales folks to determine what information they needed from attendees.
+ * Tony C will open a straw polls to determine in-person and remote attendance for the F2F.
+ * Tony C will also open a straw poll for attendance at the join KMIP, PKCS#11 TC dinner (Likely be hold on Thursday February 28, 2019 - to be confirmed).
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting:  January 17, 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:23 US-EST ==

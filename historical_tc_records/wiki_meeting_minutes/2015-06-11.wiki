@@ -1,0 +1,46 @@
+= Meeting Minutes June 11, 2015 =
+== Meeting commenced 1:00PM PDT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved/not achieved
+
+== Proposed agenda ==
+ * Update on 1.3 status
+ * Walk through face-to-face meeting action list
+ * Chet's email regarding Specification documentation errors
+ * Any new business
+
+=== Motion to approve Agenda ===
+ * Bruce R Moves, Tim C Seconds, no objections, no abstentions - Agenda approved
+
+== Motion to approve May 21, 2015 meeting minutes ==
+  * Tim H Moves, Tim C Seconds, no objections, no abstentions - Minutes approved
+ 
+== Item KMIP 1.3 Status  ==
+ * No updates to report on 1.3 documents
+ * TimH: Profiles - I still have some outstanding work to do on those
+ * Judy: Usage guide - only editorial changes 
+ * Tony: Specification - nothing outstanding
+ * Chuck/Tim C: Use Cases - Working on it
+ * Tony: ETA for 1.3 is being requested by folks who are monitoring it's status (vendors and consumers)
+
+ 
+== Face to Face Action items ==
+ * Tony walked through the action item list - requested responsible members to work through the items.
+ * Chuck: Working on content with a focus to communicate with NIST, including the formatting that would work for NIST
+ * Chuck: Also looking at PKCS12 from a registration perspective.
+ * Hal: commented that there is a significant volume of work defining "Purpose' as it relates to certificates, particularly as it relates to HL7 and XACML
+
+== Email from Chet - reference errors ==
+ * Chet emailed a list of reference errors.
+ * Tim: Simply a notification as the errors are simply part of the process changing the documents into the spec - it is really only for reference/checking.
+ 
+== Next meeting ==
+ * June 18, 2015
+
+== Call for late arrivals - Tony ==
+ * No new attendees
+ 
+== Motion to Adjourned ==
+ * Tim H Moves, Chuck seconds, no abstentions, no objections, Motion Approved
+ 
+= Meeting Adjourned at 1:33PM PDT =

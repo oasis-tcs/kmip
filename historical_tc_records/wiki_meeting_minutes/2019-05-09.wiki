@@ -1,0 +1,75 @@
+= Meeting Minutes 9 May 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+
+ * Approve Agenda
+
+ * Approve Previous Meeting Minutes (May 2, 2019)
+
+ * KMIP 2.0
+  * Spec & Profiles Status (Tony C)
+
+  * Test Cases & Usage Guide Status (Tony C)
+
+ * KMIP 2.1
+  * Status (Tony C)
+
+ * KMIP v1.4 Errata (Tony C)
+
+ * New Business
+
+ * Next Meeting
+
+ * Call for Additional Attendees
+
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Bruce R moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from May 2, 2019'''
+
+ * Gerry S moves, Bruce R seconds, No objections, abstentions, or comments. Minutes for the May 2, 2019 meeting approved.
+
+== KMIP 2.0 (Tony C) ==
+ * Public review of KMIP Specification and Profiles documents ongoing.  So far, no comments from the public review have been received.
+
+ * TC Admin has completed and posted the Committee Note version of the Test Cases document.
+
+ * The Committee Note version of the Usage Guide is still being worked on by TC Admin
+
+== KMIP 2.1 (Tony C) ==
+ * TC Admin has provided the starter documents for the KMIP 2.1 documents (https://www.oasis-open.org/apps/org/workgroup/kmip/message.php/201905/msg00006.html)
+
+ * If KMIP document editors did not receive the email from Paul Knight and/or can't access it on the reflector please let Judy F know and she will forward on the email.
+
+ * Tony C asked the TC members responsible for KMIP 2.1 proposals to start putting them together.  The TC will start reviewing these at our next meeting.
+
+== KMIP 1.4 Errata (Tony C) ==
+ * Tony C posted a draft copy of the KMIP 1.4 Errata to the OASIS site (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65252)
+
+ * The Errata is now with TC Admin to prepare it for publication
+
+ * Tony C still needs to prepare and send the TC response to Alexis Abel
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * ICMC is being held next week and multiple TC members will be attending, so the TC agreed to cancel next week's (16 May 2019) meeting
+
+ * Next TC Meeting:  23 May 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Jeff B (Individual), Petko S (McAfee)
+
+== Motion to Adjourn ==
+ * Bruce R moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:11 US-EST ==

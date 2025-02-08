@@ -1,0 +1,48 @@
+## page was copied from MeetingMinutes/June052014
+## page was copied from MeetingMinutes/June052014
+= Meeting Minutes June 05, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Subhash Sankuratripati (Subhash)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Review status of KMIP 1.2  
+ * Review status of KMIP 1.3 items 
+ 
+=== Motion to approve Agenda ===
+ * Kiran Thota (Kiran) Moves
+ * Charles White (Chuck) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Review status of KMIP 1.2 ==
+ * Saikat Saha (Saikat) provided an update on status of KMIP 1.2 documents. KMIP use case document was missed in the request for public review, there are no committee draft of use case document as well in TC repository. Since this is informative document and including this for the public review will delay KMIP 1.2 further, TC agreed to not include use case document in the KMIP 1.2 public review at this point, this will be included in the KMIP 1.3 time frame. All references to use case document will be removed from the other KMIP documents specially normative documents.
+ * Kiran sent out updated KMIP 1.2 specification document based on public review and Tony has reviewed. TC members are requested to review the updated specification document.
+ * Tony & Tim will update Profiles document based on the review comments as per spreadsheet and send notifications to the TC.
+ * Judy will update Usage Guide document based on the review comments as per spreadsheet and notify TC. Judy is out this week.
+ * David Featherstone has suggested changes regarding servers synchronous and asynchronous behavior. Bruce and Saikat agree that servers synchronous behavior is not optional. Kiran will update the text to reflect this change. Changes to usage guide is also required. Tim: Currently it is hard to follow, what is mandatory and what is not so it makes sense to make this clearer. Updates to specification, profiles and usage guide will be according to the spreadhseet with collated public review comments.
+A/I update the 1.2 specification to make it clear that sync is required and async. is optional for server. Review UG if it aligns properly with this message.
+
+== Status on KMIP 1.3 Items ==
+ * Subhash or Saikat to initiate the pending ballots. Three from May 15th and one from May 29th.
+ * Streaming proposal submitted by Tim. Mark has reviewed. TC members are requested to review the document. Tim will make a motion in next TC call.
+ * KMIP TC members will perform a KMIP 1.3 plug fest tentatively in August time frame with interested server and client vendors.
+
+ 
+== Next weeks proposed agenda ==
+ * Status on KMIP 1.2 documents
+ * Status on pending 4 ballots 
+ * Status on KMIP 1.3 action items
+
+
+== Call for late arrivals - Subhash ==
+ * Sue Gleeson, Warren, David
+ 
+== Motion to Adjourn ==
+ * Tim H. Moves
+ * Kiran seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+= Meeting Adjourned at 8:32PM GMT =

@@ -1,0 +1,52 @@
+= Meeting Minutes July 09 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Tim H seconds.  No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from June 25, 2020'''
+
+ * Tim C moves, Chuck W seconds. No objections, abstentions, or comments. Minutes for the June 25, 2020 meeting approved.
+
+== KMIP Interop - RSA 2021 ==
+ * There is no new news at this time. Tony C has reached out to Jane Harnad for an update.
+ 
+== KMIP 2.1 ==
+ 
+=== SoUs ===
+ * We have three SoUs turned in. There were no questions or objections to them.
+
+'''Motion to accept 3 statements of use made by Cryptsoft, Utimaco and PrimeKey for KMIP v2.1 Specification and KMIP v2.1 Profiles.'''
+ 
+ * Tim H moves, Tim C and Judy seconds.  No objections, abstentions, or comments. Motion approved.
+
+=== Approve Spec & Profiles ===
+
+'''Motion to approve the Co-Chairs making a non-material change to update the acknowledgement list within the KMIP v2.1 Specification and Profiles Committee Specifications and requesting that TC Administration hold a Special Majority Vote to approve submitting Key Management Interoperability Protocol Specification v2.1 Committee Specification at https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/67433/kmip-spec-v2.1-cs01a.docx and Key Management Interoperability Protocol Profiles v2.1 Committee Specification at https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/67435/kmip-profiles-v2.1-cs01a.docx as Candidate OASIS Standards.'''
+
+ * Tim H moves, Chuck seconds.  No objections, abstentions, or comments. Motion approved.
+  
+== KMIP 3.0 ==
+=== Status update (wiki review) ===
+ * Topics due last week and this week have been pushed back. Refer to the wiki for the updated dates.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * The Zoom meeting ID will need to change to accommodate using a meeting password. Tony C will be sending out the updated meeting info directly to the regular members.
+ 
+ Next TC Meeting: July 16, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Oscar
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:12 US-EST ==

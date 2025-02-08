@@ -1,0 +1,58 @@
+= Meeting Minutes January 8, 2015 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Saikat Saha
+ * Quorum Achieved
+
+== Proposed agenda ==
+ *
+ * KMIP 1.2 Status
+ * KMIP 1.3 Status
+ * KMIP 1.4 Planning
+ * New Business
+
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve December 18, 2014 meeting minutes ===
+ * Tim Hudson Moves
+ * Gerald Stueve Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== KMIP 1.2 Status (Tony Cox) ==
+ * Chet put up ballots for 8 of 11 documents
+ * Three profiles didn't have three SoU's supporting them as required (with current SoU providers for each)
+  1. [[http://docs.oasis-open.org/kmip/kmip-cs-profile/v1.0/kmip-cs-profile-v1.0.html|KMIP Cryptographic Services Profile version 1.0]] (Cryptsoft, P6R)
+  1. [[http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/kmip-suite-b-profile-v1.0.html|KMIP Suite B Profile version 1.0]] (Cryptsoft)
+  1. [[http://docs.oasis-open.org/kmip/kmip-opaque-obj-profile/v1.0/kmip-opaque-obj-profile-v1.0.html|KMIP Opaque Object Store Profile version 1.0]] (Cryptsoft, P6R)
+ * Bob L. - Thales will provide a SoU for all currently supported use cases, including above 3
+
+== KMIP 1.3 Status ==
+ * Documents are progressing
+ * Wiki contains remaining and pending items
+ * Tim Hudson to document suggested changes based on interop testing
+
+== KMIP 1.4 Planning ==
+ * Still putting together document
+ * Looking to put something on Wiki by next meeting
+
+== New Business ==
+ * No new business
+
+== Call for late arrivals - Saikat Saha ==
+ * Three additional attendees
+
+== Motion to Adjourned ==
+ * Tim Hudson Moves
+ * Tim Chevalier seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+
+= Meeting Adjourned at 9:13PM GMT =

@@ -1,0 +1,74 @@
+## page was copied from MeetingMinutes/June022016
+= Meeting Minutes June 23, 2016 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (June 2nd)
+ * KMIP 1.3 update (Tony Cox) - Profile Comments and Next steps
+ * KMIP 1.4 update (Tony Cox) - Comment/Description attributes, Suite B profile, PCI DSS v3.2 impact
+ * Summer/Spring Face to Face (Tony Cox)
+ * Summer/Spring PlugFest (Tony Cox)
+ * Summer Schedule for TC weekly call
+ * Call for Additional Agenda Items
+ * Call for Additional Attendees
+ * Adjourn Meeting
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Bruce Rich Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve June 2, 2016 meeting minutes ==
+ * Tim Chevalier Moves
+ * Tim Hudson Seconds
+ * No objections
+ * No abstentions
+ * Meeting Minutes for June 2nd, 2016 approved
+
+== KMIP 1.3 update (Tony Cox) ==
+ * Received comments on the KMIP 1.3
+ * Tim H. has uploaded updated Profiles document to address the comments
+ * Test case document also has been uploaded to address the TC-admin comments about url
+ * Comments are non-material and do not seem to require to go through public review again
+ * Next step: TC members are encouraged to take a look at the comments and updated documents. We will have a majority vote to promote the four normative documents as committee specification
+ 
+== KMIP 1.4 update (Tony Cox) ==
+ * Administrator Attributes (Gerald Stueve) - Defer it to next weeks call
+ * Suite B profile - Tim H.: CNSA - Government is creating a new standard for quantum resistant algorithm. Chuck White: Propose to create a new profile for CNSA to address this. Saikat: Agree with the approach
+ * Tim H. and Chuck W. to collaborate on the draft proposal for a new CNSA profile
+ * Defer the PCI-DSS 3.2 discussion to next week - Kevin Driver
+ 
+== Summer/Spring Face to Face (Tony Cox) ==
+ * September time frame
+ * SDC 19 to 22 September (West Coast)
+ * Looking for volunteer to host
+
+== Summer/Spring Plugfest (Tony Cox) ==
+ * September time frame
+ * Working out the details
+
+== Summer/Spring Weekly meeting schedule (Tony Cox) ==
+ * Judy brought up th bi-weekly schedule in place of weekly call
+ * Tim: Let us finish KMIP 1.3 action items and defer this until we finalize KMIP 1.3
+ * Tony: July 7th TC weekly meeting is cancelled due to US Independence day holiday that week
+ 
+== Callf for Additional Agenda Items ==
+ * None
+
+== Call for late arrivals - Tony C ==
+ * Two new attendees
+ 
+== Motion to Adjourned ==
+ * Tim Hudson Moves
+ * Tim Chevalier seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:25PM GMT =

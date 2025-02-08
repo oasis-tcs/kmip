@@ -1,0 +1,159 @@
+= February 20, 2014 OASIS KMIP Meeting =
+ * Meeting Start 9:03AM Pacific Standard Time (PST)
+ * Roll Call taken Subhash Sankuratripati (Subhash)
+ * Quoram Achieved
+
+== Agenda ==
+=== February 20, 2014 ===
+ *  9:00am - 10:00am: Client registration Judith Furlong (Judy) 1/2
+ * 10:00am - 11:00am: Query enhancements Tim Hudson (Tim H.), Mark Joseph (Mark J.) 
+ * 11:00am - 11:15am: Break
+ * 11:15am - 12:15pm: Provisioning VS use of keys Kiran Kumar Thota (Kiran)
+ * 12:15pm -  1:00pm: Lunch
+ *  1:00pm -  1:30pm: Streaming operations Tim H.
+ *  1:30pm -  2:00pm: Interop update Tony Cox (Tony C.)
+ *  2:30pm -  3:00pm: Key wrapping Tim H.
+ *  3:00pm -  3:15pm: break
+ *  3:15pm -  3:45pm: Group proposal Kiran & Saikat Saha (Saikat) 
+ *  3:45pm -  4:00pm: Key escrow Saikat
+ *  4:00pm -  4:30pm: List of things that need to be deprecated in 1.3 Bob Lockhart (Bob L.)
+ *  4:30pm -  5:00pm: Procedural stuff - call for editors, et.al Subhash
+ *  5:00pm -  5:15pm: Recap of action items Bob L.
+
+=== February 21, 2014 ===
+ *  9:00am -  9:30am: Key shredding, revocation, server -> client notification, et.al (Judy)
+ *  9:30am - 10:45am: NIST Key lifecycle
+ * 10:45am - 11:00am: Recap of action items Bob L.
+ * 11:00am - 11:15am: break
+ * 11:15pm - 12:15pm: PKCS#12 Tim H. & Judy - Working Lunch
+ * 12:15pm -  1:00pm: Interoperability Discussion Bruce Rich (Bruce R.) & Tim H.
+ *  1:00pm	    : Adjourn
+
+== Automating Client Registration ==
+ * Presentation of three options for client registration
+=== Action Items ===
+ * AI: Tim H./Judy: Drop user name/password into parenthesis as an optional credential type potentially based on existing credential types defined in KMIP 1.1/1.2
+ * AI: Tim H./Bruce R.: Defining profile to allow use of client registration for 1.0 through 1.2 versions of KMIP specification
+ * AI: Tim H./Judy to lead brainstorming on P12 tomorrow
+
+== Provisioning VS use of keys - Kiran ==
+=== Action Items ===
+ * AI: Bob L. & Kiran volunteer to co-author a profile for defining generic, administrative and standard users either as a single or two proposals
+
+==== Break ====
+
+== KMIP Query Enhancements - Tim H./Mark J. ==
+=== RNG Query Proposal - Tim H. ===
+ * Added prediction resistance attribute (boolean) as optional
+ * Unspecified is a valid RNG type attribute
+
+=== FIPS140 Query Proposal - Tim H. ===
+ * Additional validation authorities (e.g. Korea, Japan & PCI)
+=== Action Items ===
+ * AI: All to provide validation authorities to Tim for inclusion in proposals
+
+=== Profile Query Proposal - Mark J. ===
+ * Client pushes or states what it supports
+
+=== Additional Query considerations for 1.3 or later - Tim H. ===
+ * Crypto Streaming Query
+ * Key Wrapping Query
+
+== Streaming Proposal - Tim H. ==
+ * Do we need to add/modify asynchronous functions
+ * Update Chuck W. presentation tomorrow to 1 hour from 30 minutes.
+=== Motion ===
+ * Bruce R. forwards motion to have Tim H. to bring forward proposal with parameters rather than operations
+ * Seconded by Mark J.
+ * No Objections
+ * No Abstensions
+ * Motion Carries
+=== Action Items ===
+AI: Tim to forward proposal using parameters instead of operations for streaming
+
+== Interoperability Overview - Tony C. ==
+=== Action Items ===
+AI: Tony to propose process as permanent methodology to be approved by entire TC for future events
+
+== Key Wrapping - Tim H. ==
+ * Leave as is, Extend query for client query, extend for client to set how, handle in profiles
+ * Come up with use cases for wrapping and verify against mac requirements to see if common threads appear.  
+=== Action Items ===
+AI: Bruce R., Matthias Bjorkvist (Matthias), Chuck White (Chuck W.), Tim H. to provide various use cases for key wrapping
+AI: Larry Hines (Larry H.), Bob L. and Bob Burns. to provide potential TR31 use cases
+
+== Motion ==
+ * Tim Hudson moves that the KMIP TC
+ 1. Approve the KMIP Use Cases Version 1.2 working draft as Committee Draft as found at [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/52225/kmip-ug-v1.2-cnprd01.html | Use Case v1.2 working draft 11]]
+ 1. Provide the editor(s) the approval to change doc names to CDS and modify any cross references
+ 1. Authorize the co-chairs to request that all the documents be submitted for a 30 day public review
+ 1. Designate the WORD version of each document as the authoritative version
+ * Chuck White seconds
+ * No Objections
+ * No Abstensions
+ * Motion passes
+=== Action Items ===
+* AI: Subhash to update Use Cases version 1.2 to Committee Draft
+* AI: Subhash, Saikat or Bob L. to submit Committee Draft for public review after modification
+
+==== Break ====
+
+== Group proposal Kiran & Saikat ==
+ * Background of cloud use case & problems
+=== Action Items ===
+ * AI: Kiran & Saikat to provide a list of use cases for Group Policy support and look at it potentially as a 2.0 function instead of a 1.3 function.  Further discussion is required no matter which way we go (1.3 or 2.0).
+ * AI: Kiran to present updated groups proposal in 3 weeks
+ * AI: Bob L. to provide link for IBM paper on use of XACML and KMIP as example of key management & policy options  * Link: [[http://www.zurich.ibm.com/~cca/papers/kmsxacml.pdf | IBM Key Management & XACML white paper]]
+
+== Key Escrow - Saikat ==
+=== Action Items ===
+AI: None - Currently not seen as an addressable issue for OASIS KMIP.
+
+== Deprecation - Bob L. ==
+=== Action Items ===
+AI: Finalize presentation, upload for discussion and final proposal at next weekly meeting (3 weeks)
+
+== Call for Editors - Subhash ==
+ * KMIP 1.3 Specification - Kiran
+ * KMIP 1.3 Usage Guide - Judy and one other TBD
+ * KMIP 1.3 Base Profiles - Bob L.
+ * KMIP 1.3 Use Cases - Saikat
+ * KMIP 1.3 Test Cases - Tim H.
+
+== Motion ==
+ * Tim moves to suspend meeting until tomorrow
+ * Chuck Seconds
+ * No Objections
+ * No Abstain
+ * Motion passes
+= Meeting Suspended at 17:05PM PST =
+= Meeting resumed February 21, 2014 9:00am PST =
+== Key shredding, revocation, server -> client notification, et.al (Judy) ==
+ * Query for shredding techniques used in key destruction
+=== Action Items ===
+ * AI: Tim & Judy to provide potential to change Notify and add server to client function for destroy/shredding
+ * AI: Judy to define/clarify Destroy versus shredding of keys for server behavior
+
+== NIST Key lifecycle - Chuck White, Joseph Brand ==
+=== Action Items ===
+ * AI: Tim to upload notes and alternatives on lifecycle and attribute wrapping
+
+== PKCS#12 Key Wrapping for Enrollment Tim H. & Judy ==
+ * Need to create proposals to use PKCS#12 as wrapping method, opaque object, managed object, key format type or do nothing
+=== Action Items ===
+ * AI: Bob L. to create proposal for PKCS#12 format for client registration only
+
+== Interoperability Discussion (Bruce R./Tim H.) ==
+ * What should be returned when exceeding the maximum response size requested by a client when max response size is too small to even return associated error code
+=== Action Items ===
+ * AI: Tim H./Bruce R.: Clarify the specification on use of maximum response size in additoinal messaging formats
+ * AI: Mike Yoder/Tim H.: Create proposal for adding offset value in specification to locate function for returning range of values based on a starting point other than first value found.
+
+== Motion to Adjourn ==
+ * Tony C. makes a motion to adjourn meeting
+ * Tim H. seconds
+ * No Objections
+ * No Abstensions
+ * Motion Passes
+
+= Meeting Adjourned at 1:08PM PST =

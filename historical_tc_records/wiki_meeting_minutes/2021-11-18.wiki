@@ -1,0 +1,46 @@
+= Meeting Minutes November 18 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from October 21, 2021'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the October 21, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== KMIP wiki review (required profiles and test cases) ===
+ * No comments on the latest working draft.
+ * Tim H is making progress on the test cases.
+ * Judy has no new updates on the usage guide.
+
+== Interop Test ==
+ * The Interop is still waiting on the profiles and test cases.
+
+== New Business ==
+ * Tony C is stepping down as KMIP TC co-chair as of November 18, 2021.
+ * Judy is continuing as the other KMIP TC co-chair.
+
+'''Motion to nominate Greg Scott from Cryptsoft for role of KMIP TC co-chair'''
+
+ * Tony C moves, Tim C seconds. No objections, abstentions, or comments. Motion approved.
+
+'''Motion to commend Tony C for all of his excellent work over the years'''
+
+ * Tim C moves, Greg, Chuck and Judy seconds. No objections, abstentions, or comments. Motion approved.
+
+== Next Meeting ==
+ * Next TC Meeting: December 2, 2021
+
+== Call for Additional Attendees (Judy) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim C moves and Jerry seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:10 US-EST ==

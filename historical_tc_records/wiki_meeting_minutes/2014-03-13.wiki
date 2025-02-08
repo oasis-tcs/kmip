@@ -1,0 +1,67 @@
+= March 13, 2014 KMIP TC Conference Call =
+== Meeting started at 1:00PM Pacific Daylight Time ==
+== Agenda ==
+=== Motion to approve agenda ===
+ * Tim Hudson moves to approve today's agenda
+ * Chuck White seconds
+ * No Objections
+ * No abstentions
+ * Motion approved
+== Meeting Minutes and Action Item Review - Subhash ==
+=== Motion to approve Meeting Minutes ===
+ * Tim Hudson Moves to approve face to face meeting minutes (revision 7 dated 2014-03-13 20:16:24)
+ * Mark Joseph Seconds
+ * No objections
+ * No abstentions
+ * Meeting minutes approved
+== 1.3 Update ==
+ * NEED INFO ON MOTION AND RULES.  I HAD AN UNEXPECTED INTERRUPTION SO PLEASE FILL IN THE BLANK HERE!
+ * Discussion on a proposed standing rule to cover off on requiring text for usage guide and use cases and also test cases prior to acceptance of proposals.
+=== Motion to make STANDING RULE ===
+ * Mark Joseph so moves
+ * Joe seconds the motion
+ * No objects
+ * No abstentions
+ * Motion approved
+ * Tim pointed out that standing rules require a full majority ballot of the TC and has to be listed on the TC web site and becomes binding on the TC in the same way as the OASIS TC process rules. 
+ * Tim suggested that perhaps wording it as a guideline rather than as an official standing rule would be appropriate to achieve the non-binding objective.
+ * Motion withdrawn on that basis.
+=== Motion to make STANDING GUIDELINES ===
+ * Mark Joseph so moves
+ * Joe seconds the motion
+ * No objects
+ * No abstentions
+ * Motion approved
+== Interop Update - Tony C. ==
+ * OASIS looking to move similar method of interoperability testing for other TC's
+=== Motion to nominate Tony C. as KMIP Interop Lead ===
+ * Mark Joseph moves to nominate Tony Cox as the KMIP Interop Lead lead for the next year including the RSA 2015 interop event in April 2015
+ * Saikat seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+== Run through on 1.2 items ==
+=== Motion to move Base Profile Document Forward ===
+ * Tim Hudson moves that the TC approve Key Management Interoperability Protocol Profiles Version 1.2 WD02 and all associated artifacts packaged together in https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/49689/kmip-profiles-v1.2-wd02.doc as a Committee Specification Draft, designate the editable source version of the document as authoritative and publish it for a 30 day public review.
+ * Bruce Rich Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+== Group Proposal - Kiran & Saikat ==
+ * [[https://www.oasis-open.org/committees/download.php/52503/GroupProposal.pptx | Group Proposal]]
+ * Discuss options offline and see if this is a 1.3 function or later
+== Proposals for 1.3 timeline ==
+ * No feedback so remains as currently stands.  Additional updates are required if items are to be included in 1.3 going forward.
+== Motion to cancel next weeks meeting and meet in two weeks ==
+ * Tim Hudson moves to cancel next weeks meeting and meet instead on March 27, 2014
+ * Bruce Rich seconds
+ * Discussion on KMIP interop notification by Jane to be performed via reflector
+ * No objections
+ * No abstentions
+ * Motion passes
+== Motion to Adjourn ==
+ * Tim Hudson moves to adjourn meeting
+ * Chuck White seconds
+ * no objections
+ * no abstentions
+== Meeting Adjourned at 1:59PM Pacific Daylight Time ==

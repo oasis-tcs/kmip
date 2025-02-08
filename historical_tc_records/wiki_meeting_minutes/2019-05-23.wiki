@@ -1,0 +1,57 @@
+= Meeting Minutes 23 May 2019 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (May 9, 2019)
+ * KMIP 2.0
+  * Spec & Profiles Status (Tony C)
+ * KMIP 2.1
+  * Status (Tony C)
+ * KMIP v1.4 Errata (Tony C)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from May 9, 2019'''
+
+ * Gerry S moves, Greg S seconds, No objections, abstentions, or comments. Minutes for the May 9, 2019 meeting approved.
+
+== KMIP 2.0 (Tony C) ==
+ * Committee Note Draft versions of the Test Cases and Usage Guide documents have been published by TC Admin.
+  * Key Management Interoperability Protocol Test Cases Version 2.0, Committee Note Draft 02, 25 April 2019 (https://docs.oasis-open.org/kmip/kmip-testcases/v2.0/cnd02/kmip-testcases-v2.0-cnd02.docx)
+  * Key Management Interoperability Protocol Usage Guide Version 2.0, Committee Note Draft 01, 25 April 2019 (https://docs.oasis-open.org/kmip/kmip-ug/v2.0/cnd01/kmip-ug-v2.0-cnd01.docx)
+
+ * Public review of KMIP Specification and Profiles documents ongoing.  Review closes this weekend (May 25, 2019).  So far, no comments from the public review have been received.
+
+== KMIP 2.1 (Tony C) ==
+ * KMIP 2.1 document editors should use the starter documents (https://www.oasis-open.org/apps/org/workgroup/kmip/message.php/201905/msg00006.html) provided by TC Admin to create the KMIP 2.1 version of their documents.
+ * Tony C asked the TC members responsible for KMIP 2.1 proposals to start putting together the spec deltas and supporting materials so that we can start reviewing these proposals at upcoming TC meetings.
+
+== KMIP 1.4 Errata (Tony C) ==
+ * Tony posted two updates to the KMIP 1.4 Errata this week.  WD02 (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65359) includes some minor updates to WD01 including a summary list of changes and corrected links.  WD03 (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65366) with addressed another typo.
+ * TC briefly discussed the errata and the changes in these two WDs.
+ * TC decided to give members time to review the errata and deferred a vote to move the Errata forward until next week's TC meeting.
+ * Tony C still needs to prepare and send the TC response to Alexis Abel
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting:  30 May 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Indra (Utimaco)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:14 US-EST ==

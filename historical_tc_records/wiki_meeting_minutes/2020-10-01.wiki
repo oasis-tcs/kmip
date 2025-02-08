@@ -1,0 +1,47 @@
+= Meeting Minutes October 1, 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Greg seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from September 10, 2020'''
+
+ * Greg moves, Tony C seconds. No objections, abstentions, or comments. Minutes for the September 10, 2020 meeting approved.
+
+== KMIP 2.1 ==
+=== Status ===
+ * It is still out for public review. There have been no comments other than the comments from TC Admin about references.
+ * Once the public review closes, the comments from TC Admin will be addressed with a republication of the committee draft which will go straight to committee spec.
+  
+== KMIP 3.0 ==
+=== User Credential (Tim H) ===
+ * Tim H reviewed the proposed spec delta for User Credential.
+ * There were no questions or comments about the proposal. 
+ 
+ '''Motion to accept the spec delta as proposed by Tim H for User Credential for inclusion in version 3.0 of the Spec'''
+
+ * Greg moves, Judy seconds. No objections, abstentions, or comments. Motion approved.
+ 
+=== Status update (wiki review) ===
+ * Refer to the wiki for the latest schedule for the topics.
+ 
+== New Business ==
+ * Bruce noted that there has been activity with the NIST publications related to authentication. 
+ * It should be looked at further to see if there is anything there that could affect 3.0.
+ * Tony will add to this to next week's agenda.
+ 
+== Next Meeting ==
+ * Next TC Meeting: October 8, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Justin, Brett, Jerry, Chris, Ed
+
+== Motion to Adjourn ==
+ * Tim H moves and Justin seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:24 US-EST ==

@@ -1,0 +1,61 @@
+## page was copied from MeetingMinutes/June122014
+## page was copied from MeetingMinutes/June052014
+## page was copied from MeetingMinutes/June052014
+= Meeting Minutes July 10, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Subhash Sankuratripati (Subhash)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * House-keeping  
+ * Review status of KMIP 1.3 items
+ * David Featherstone's TTLV encoding updates 
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim) Moves
+ * Charles White (Chuck) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve Minutes for June 19 ===
+ * Subhash made a minor correction to the minutes
+ * Chuck Moves 
+ * Tim Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved 
+
+== 1.2  status ==
+
+ * Subhash will follow up with the TC-admin
+
+== Review status of KMIP 1.3 ==
+ * Judy: Registration proposal, submit before end of July
+ * Tim: Query enhancements proposal, waiting for any other update besides Mark Joseph's, planned for next 2 weeks, to include shredding, wrap/unwrap, server-client or client-server capabilities, all in a single proposal
+ * Chuck: NIST key life cycle changes, attributes proposal planned to be submitted by early next week. We will discuss the proposal in next tc call.
+ * Kiran: Group proposal in next two weeks, Kiran and Saikat to submit 
+
+
+== Agenda for next week's tc call ==
+ * NIST key lifecycle proposal by Chuck
+ * Review status of other proposal
+ * Tim: All proposals to be submitted before end of July
+
+== TTLV encoding discussion ==
+ * David Featherstone, like to propose changes to the encoding scheme for attributes to make it efficient for processing, comparison. Refer to reflector where it is discussed. Not sure about the process of making this change.
+This is forward compatible, can happen in 1.3 or in 2.0
+ * Tony: Concerned about backwards compability
+ * Hal: Modern computing power should not have any issue with string based comparison 
+ * Subhash: This is probably late for 1.3, submit a proposal for 2.0 at a later time and need minimum three approvals from tc member companies to bring forth any changes to the specifiation
+
+== Call for late arrivals - Subhash ==
+ * None
+ 
+== Motion to Adjourn ==
+ * Tim Moves
+ * Kiran seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+= Meeting Adjourned at 8:31 PM GMT =

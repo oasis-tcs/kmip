@@ -1,0 +1,70 @@
+= Meeting Minutes September 21, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (September 7, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Usage Guide
+ * Interop
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from September 7, 2023'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the September 7, 2023 meeting are approved.
+
+== KMIP 3.0 Status Updates ==
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is working on updates based on the all the feedback that were sent to the list. He hopes that he will have another version of the test cases ready prior to the Interop.
+
+ * A discussion was had about the Key Format Type attribute for Certificates. 
+ * The Spec is not clear about what Key Format Type attribute should be used for Certificates. 
+ * Tim H will work on a proposed change to the Spec and send it out to the list.
+ * For this interop, either Raw or X.509 will be accepted for the Key Format Type attribute . 
+
+=== KMIP 3.0 Specification ===
+ * No responses have been received about the updated Spec.
+
+ * Tim H sent an email, (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/202309/msg00017.html), proposing to add a set of cryptographic algorithm identifiers from FIPS-203, FIPS-204, and FIPS-205 into KMIP 3.0.
+
+'''Motion to accept new cryptographic algorithm identifiers as per Tim H's email to the list'''
+
+ * Tim H moves, Tony C and Tim C seconds. No objections, abstentions, or comments. Motion passed.
+
+ * Tim C asked about adding details for the LMS and XMSS algorithms to the Spec. XMSS (but not LMS) is listed in the Cryptographic Algorithm Enumeration table (Table 543, p 202). Neither LMS or XMSS parameter sets are listed in the “Digital Signature Algorithm Enumeration” table (Table 549, p 204).
+ * Tim C will send out the details of the information to be added for discussion at the next meeting.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy F is still waiting for additional new 3.0 content to incorporate into the Usage Guide.
+
+== Interop ==
+ * The Interop is still on target to happen in October 2023.
+ * Tim H will send an email to the list asking vendors to confirm their participation.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: October 5, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * Scott M (Cryptsoft)
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:19 US-EST ==

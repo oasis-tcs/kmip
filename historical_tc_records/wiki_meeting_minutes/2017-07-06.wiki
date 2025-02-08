@@ -1,0 +1,47 @@
+= Meeting Minutes July 6, 2017 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call 
+ * Approve Agenda 
+ * Approve Previous Meeting Minutes (June 29, 2017) 
+ * KMIP 1.4 update (Tony C.) 
+  * SOUs 
+ * KMIP 2.0 update (Tony C.) 
+ * Next meeting 
+ * Call for Additional Attendees 
+ * Adjourn Meeting
+
+=== Motion to approve Agenda ===
+ * Tim H. Moves, Jeff Seconds, no objections, no abstentions
+ * Agenda approved 
+
+== Motion to approve June 29, 2017 meeting minutes ==
+ * Tim H. Moves, Jeff Seconds, No objections, No abstentions
+ * Motion approved
+ 
+== KMIP 1.4 Update (Tony C.) ==
+ * Documents are in system
+ * Contacting Chet Ensign to move vote forward
+ * Erroneous error in Specification will be handled by editors upon approval
+ 
+== KMIP 2.0 Update (Tony C.) ==
+ * Should have specification out by next meeting
+ * Profiles should follow once specification is out
+ 
+== Additional Item ==
+ * Congratulations to Bruce Rich who has been elected to OASIS Board of Directors
+
+== Next meeting ==
+ * Next meeting will be July 20, 2017
+
+== Call for late arrivals (Tony C.) ==
+ * No new attendees
+ 
+== Motion to Adjourned ==
+ * Tim H. Moves, Jeff B. seconds, No objections, No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:11PM GMT =

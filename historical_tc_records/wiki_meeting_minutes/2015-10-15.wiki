@@ -1,0 +1,77 @@
+## page was copied from MeetingMinutes/October012015
+= Meeting Minutes October 15, 2015 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Approve Agenda
+ * Approve minutes
+ * KMIP 1.3 Status
+ * KMIP 1.4 Status
+ * NIST800-57 Update 
+ * Revoke discussion - David F
+ * ASI discussion - David F 
+ * New business
+ * Adjourn
+
+=== Motion to approve Agenda ===
+ * Tim H Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+=== Motion to approve October 1st meeting minutes ===
+ * https://wiki.oasis-open.org/kmip/MeetingMinutes/October012015
+ * Tim H Moves
+ * Gerry Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== KMIP 1.3 status ==
+ * Tim H - profiles - Document formatting according to OASIS guidelines progressing, yet to be completed
+ * Judy - No changes to the usage doc. It is already up to date
+
+== KMIP 1.4 status ==
+ * No updates
+
+
+== NIST 800-57 Update ==
+ * Chuck - Applying the state model based on a sliding time line impacts KMIP, state transition model cannot be based on time alone since time is relative and time differs between computer systems
+ * Chuck will focus on state transition model of 800-57 and how it impacts KMIP specification
+ * Tim: Introducing suspend will pose challenges to all the existing implementations as it changes fundamental architecture
+ * Chuck and Bob L. will continue the research and present to the TC. Tony will reach out to Bob for analysis
+
+== Application Specific Information ==
+ * This item is closed without further action item as the change from Yes to No as proposed in David's last email is sufficient.
+ * This could go in KMIP 1.3 or KMIP 1.4.
+
+== Revoke operation ==
+ * Discussion of Revoke and Compromise Occurrence Date in two areas - the reasons that mean "compromise" (extend) and optional/mandatory
+ * Judy indicated usage guide text doesn't clash with specification - David indicated he is okay with the clarification.
+ * Further discussion occurred around David's email, Judy's email and Tim's email on the topic
+ * Judy, Tim and David to work on a consolidated viewpoint for suggested clarifications/changes and send out another revision for all TC members
+ * Resolve by next meeting
+
+== RSA2016 Interop ==
+ * Tony C - update - both KMIP and PKCS#11; interop calls from OASIS will start this month
+ * PlugFest planned to start later this year, formal interop planned for RSA next year
+ * Tony will send out invite to Interop sub committee email alias
+
+
+== Call for late arrivals - Tony C. ==
+ * David F. joined the call
+ * Krishna Y. joined the call
+ * Mike P. joined the call
+
+== Motion to Adjourned ==
+ * Chuck Moves
+ * Tim H. seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+
+= Meeting Adjourned at 8:40 PM GMT =

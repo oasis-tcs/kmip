@@ -1,0 +1,56 @@
+= Meeting Minutes August 6 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from July 30, 2020'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the July 30, 2020 meeting approved.
+
+== KMIP 2.1 ==
+=== Status ===
+ * We are waiting for TC Admin to publish 2.1 as COS.
+ 
+== KMIP 3.0 ==
+=== Name Lifecycle (Tim H) ===
+ * Tim H reviewed the proposed spec delta for Name Lifecycle.
+ * Chuck asked if the link or name reference would take precedent. Discussion followed summarizing that a link can now be to a name instead of a uuid and as they were acting independently, there was no need to specify precedence.
+ * There were no other questions or comments about the proposal. 
+ 
+ '''Motion to accept the spec delta as proposed by Tim H for Name Lifecycle for inclusion in version 3.0 of the Spec'''
+
+ * Tim C moves, Greg seconds. No objections, abstentions, or comments. Motion approved.
+ 
+=== Grouping Objects (Tim H) ===
+ * Tim H reviewed the proposed spec delta for Grouping Objects.
+ * There were no questions or comments about the proposal. 
+ 
+ '''Motion to accept the spec delta as proposed by Tim H for Grouping Objects for inclusion in version 3.0 of the Spec'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Motion approved.
+
+=== Status update (wiki review) ===
+ * Tony C proposed cancelling the Aug 13 meeting to allow for additional time to work on the working draft. There were no objections.
+ * Tony C will update the wiki to reflect today's meeting and the Aug 13 meeting being cancelled.
+ * Refer to the wiki for the latest schedule for the topics.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Per discussion the meeting on Aug 13th is cancelled. 
+ * Next TC Meeting: August 20, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Bruce, Steve, Jerry
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:26 US-EST ==

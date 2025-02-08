@@ -1,0 +1,80 @@
+= Meeting Minutes 13 December 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (December 6, 2018)
+ * Interop for RSA 2019
+ * OASIS Call for 2019 Events
+ * KMIP 2.0
+  * WD06 (Tony C)
+  * Profiles/Test Cases (Tim H)
+  * Usage Guide (Judy F)
+ * List Comment from Conrado Gouvêa
+ * New Business
+ * Next Meetings
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from December 6, 2018'''
+
+ * Tim C moves, Bruce R seconds, No objections, abstentions, or comments. Minutes for the December 6, 2018 meeting approved.
+
+== Interop for RSA 2019 ==
+ * Six participants confirmed for booth
+ * Tony C asked if any of the interop participants had preferences on the booth layout which he distributed prior to last week's call.
+  * Mark J (P6R) voted for layout 6 which was used effectively in 2014
+  * Tim H (CryptSoft) voted for layout 5
+  * Indra (Utimaco) voted for layout 5
+  * Need input from the other three participating companies, so final decision will be deferred until the next TC meeting.
+
+ * Tomorrow (14 December 2018) is the print deadline for the list of vendors participating in the OASIS booth to be included in the print guide for the RSA Conference
+ * TC briefly discussed the booth branding options that Tony C has distributed prior to last week's call.  Will revisited topic in a future TC meeting.
+ * Tony C asked for input on the Interop Policy and the proposed Interop schedule included in the policy.
+  * Several TC members reiterated concerns that they posted to the KMIP mailing list that the published schedule is very tight and that there is not enough time between now and the proposes start of the interop to implement the new 2.0 functionality (added since last year) and associated test cases since neither the KMIP 2.0 Spec, Profiles and associated Test cases have been finalized and posted to the TC.
+ * Tony C asked for suggestions on how to modify the proposed schedule.  Several options were discussed by the TC.  Based on the discussion, Tony C will move the Interop schedule out by a week and the TC will make a call at next week's call (20 December 2018) regarding this schedule and the final scope of the Interop Test.
+ * Martin S asked for location of the KMIP 2.0 test cases.  Tony C will send Martin S the link to the published test cases (100+) which were used for last year's interop event.  Tim H will provide an update on the new (since last year) KMIP 2.0 test cases at the 20 December 2018 call.
+
+== OASIS Call for 2019 Events (Tony C) ==
+ * Tony C asked if anyone on the TC had other KMIP relevant events of which the OASIS folks should be aware.  No one raised any events.
+ * Judy C also noted that Dee S. from OASIS had sent an email to the TC chairs regarding any TC budget asks for IDTrust.  This includes TC related events such as the F2F dinner (see below) but also includes sponsorship of conferences where TC members may be presenting on KMIP, etc.
+
+== KMIP TC F2F (Tony C) ==
+ * Tony C noted that he raised idea of the joint KMIP/PKCS#11 F2F Dinner as this week's PKCS#11 TC call and that TC agrees we should to this dinner again.  Tony C will send the budget request to fund this dinner to Dee S.
+ * Thales will be hosting the KMIP TC F2F event, logistics and agenda to follow once Interop is sorted out.
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Spec WD06 (Tony C) ===
+ * Tony C and Chuck W are still working on WD7 of the KMIP 2.0 Spec.  Result reason code changes are going slower than hoped.  Targeting next week to post WD07.  Tony C did note that he feels W06 content is stable for anyone who wants to start preparing for the Interop event.
+
+=== KMIP v2.0 Profiles & Test Cases  (Tim H) ===
+ * No changes since previous update.  Tim H hopes to provide status on these documents at next week's call.
+
+=== KMIP v2.0 Usage Guide (Judy F) ===
+ * Judy F is still awaiting Usage Guide content for a number of the new KMIP 2.0 profiles.
+ * Tim H noted that the TC should spend some time at the upcoming F2F to discuss the Usage Guide, its value to implementing KMIP and getting this implemented sooner in a KMIP release cycle.
+
+== List comment from Conrado Gouvêa ==
+ * TC discussed the response Conrado provided  [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201812/msg00002.html|response]] to the list last week.  Currently the KMIP specification does not support importing of DSA parameters to the Create KeyPair.  A change to the specification would be required to support what Conrado is proposing.  Tim H responded to Conrado's email and asked him to bring forward a Spec change proposal.  TC will revisit this next week assuming Conrado responds.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next Meeting: 20 December 2018
+ * TC also discussed the schedule for TC meetings over the holidays.  The TC agreed to cancel the meeting on 27 December 2018 and 3 January 2019 since folks didn't think quorum could be achieve for those dates.  Meetings in 2019 will resume on 10 January 2019.
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:37 US-EST ==

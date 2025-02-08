@@ -1,0 +1,61 @@
+= Meeting Minutes November 30, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Judy)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (November 16, 2023)
+ * Interop Summary
+ * New Business
+   * OASIS Kavi Platform Migration
+ * Next Meeting
+   * Kavi Platform Migration impact on December 14 Meeting
+   * Meeting Schedule/Break over Holidays
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from November 16, 2023'''
+
+ * Tim C moves, Greg S seconds. No objections, abstentions, or comments. [[https://wiki.oasis-open.org/kmip/MeetingMinutes/Nov162023|Minutes for the November 16, 2023 meeting]] are approved.
+
+== Interop Summary ==
+ * Tim H gave a presentation on the Interop results and uploaded a series of documents prior to the Meeting:
+   * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/71550/TC2023%20Interop%20Testing%20Report-v1a.pdf|TC 2023 Interop Testing Presentation]]
+   * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/71549/TC2023%20Interop%20Summary%20Items.pdf|TC 2023 Interop Summary Items]]
+   * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/71548/kmip-profiles-v3.0-wd06.zip|kmip-profiles-v3.0-wd06.zip]]
+   * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/71547/kmip-testcases-v3.0-wd06.zip|kmip-testcases-v3.0-wd06.zip]]
+   * Interop was generally well received by the participants who worked together, however a general observation was that we may need more time for the first rounds of testing to allow vendors to get their systems working.
+   * It seems that the most time consuming task of the Interop is the checking of results which is still largely manual. A suggestion for future Interops may be to vector all testing through a proxy which records all of the results with a common logging format which we can run automation against.  This should substantially reduce the load on the server vendors for verification and speed up the process.
+
+== New Business ==
+ * Kavi Update
+   * OASIS has decided to move away from the Kavi Platform
+   * Scheduled shutdown of the existing Kavi Platform for migration is planned for December 14, 2023 - Conflicts with our next Meeting
+   * Planned to shutdown for several days
+   * Access to mailing lists, meeting schedules, document register expected to be unavailable for a period.
+   * OASIS plans to hold training for new platform (Details not yet released)
+
+ * Plan for December 14, 2023 TC Meeting
+   * TC discuss Kavi Update impact on next TC meeting.
+   * TC decided to hold the meeting as planned but TC co-chairs will take some steps prior to the meeting to ensure we can run the meeting without access to the Kavi (or its replacement) platform.
+     * Judy F to set up TC Meeting Schedule for 2024 (commencing on 11 January) in hopes that the meeting series will be migrated to the new platform
+     * Greg S to complete and circulate the minutes in both link and PDF form to ensure a copy is available for the next meeting
+     * Agenda for next meeting to be circulated early in the week commencing Monday 11-Dec-2023
+     * Greg S and Judy F will export TC Roster so that Roll Call/Attendance can be recorded offline
+
+== Next Meeting ==
+ * Next TC Meeting: December 14, 2023
+
+== Call for Additional Attendees ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim C moves and Tim H seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:29 US-EST ==

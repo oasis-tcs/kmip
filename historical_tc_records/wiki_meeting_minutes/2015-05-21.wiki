@@ -1,0 +1,66 @@
+= Meeting Minutes May 21, 2015 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Saikat Saha (Saikat)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * KMIP 1.2 Status
+ * KMIP 1.3 Status
+ * PKCS#12key export
+ 
+=== Motion to approve Agenda ===
+ * Tim H Moves
+ * Jerry Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Motion to approve May 14, 2015 meeting minutes ==
+ * [[MeetingMinutes/May142015 | May 14, 2015]]
+ * Tim H Moves
+ * Steve E Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== KMIP 1.2 Status (Saikat) ==
+ * Saikat stated that all 11 spec documents had passed with the highest number of votes so far on an OASIS vote
+ * Saikat congratulated and thanked TC members on this big accomplishment
+ * Tim H thanked co-chairs for the behind-the-scenes work that was done to get the votes across the line
+ * Tony thanked the TC members for voting for the spec docs. Noted that only one active member failed to vote on any of the spec documents.
+ 
+== KMIP 1.3 Status (Saikat) ==
+ * None
+
+== PKCS#12 export (Anthony B) ==
+ * Anthony walked through the presentation [[PKCS12 Key Format Type | https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/55707/PKCS12%20Key%20Format%20Type.html?referring_url=%2Fkws]]
+ * Mark: queried GET and secret data
+ * Anthony: Separate GET request - batch requests
+ * Sakiat: asked about password protection for the p#12 file
+ * Anthony: confirmed the approach using secret data link
+ * Bruce: queried key import (REGISTER)
+ * Anthony: confirmed it was export only
+ * Judy: questioned if this is 1.3 or 1.4
+ * Tim H: stated that it was slated for 1.3 but perhaps folks should have a chance to read it and come up with some test cases for next week's call.
+ * Judy: stated that content ion the Usage Guide would be good.
+ * John: Should we state that you can't register a P12 and get an error?
+ * Tim H: As you can't register a key format type - it should not be needed.
+ 
+== Next meeting proposed agenda ==
+ * Nothing noted
+ 
+
+=== Action Items ===
+ * None noted
+
+== Call for late arrivals - Saikat ==
+ * Bruce
+ 
+== Motion to Adjourned ==
+ * Bruce Moves
+ * Tim H seconds
+ * No abstentions
+ * No  objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:22PM GMT =

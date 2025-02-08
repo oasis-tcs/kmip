@@ -1,0 +1,70 @@
+= Meeting Minutes December 17, 2020 - Draft =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ 
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (December 10, 2020)
+ * KMIP v2.1 
+   * Status update
+ * KMIP V3.0 
+   * Deactivate Spec Delta
+ * KMIP TC Summit 2021 Planning
+ * KMIP Interop 2021
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Jerry S seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from December 10, 2020'''
+
+ * Greg S moves, Jerry S seconds. No objections, abstentions, or comments. Minutes for the December 10, 2020 meeting approved.
+
+== KMIP 2.1 ==
+
+ * Vote for consent with OASIS members has closed for KMIP 2.1.  Seventeen positive votes, no negative votes or comments.
+ * Per OASIS rules, TCAdmin has 5-20 days to publish the KMIP 2.1 Specification and Profiles documents as OASIS Specifications.  TCAdmin has indicated that they should have this published by the end of the year.
+ * The TC will plan a webinar to introduce KMIP 2.1 in the new year.
+
+== KMIP 3.0 ==
+
+=== Deactivate Spec Delta ===
+
+ * Tony C walked the TC though the Spec Delta for Deactivate.  (See https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=68070)
+ * No comments or concerns were raised by the TC on this proposal.
+
+'''Motion to include the Deactivate Spec Delta in the next KMIP 3.0 working draft.'''
+
+ * Tim C moves, Greg S seconds. No objections, abstentions, or comments motion approved.
+
+== KMIP Summit 2021 Planning ==
+
+ * Tony C presented the options for the KMIP Summit format that Judy F and he put together based on all the suggestions provided. (See https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=68104
+ * Some discussion about whether on how much content and thus time is planned.  Tony C noted that we have not made a call for Summit presentations yet so we actually don't know how much content will be provided.   We want to decide on the format and the dates for the Summit and use that as a deadline for soliciting proposals.
+ * Tony C asked if the TC wanted to vote today on the summit options or put it to a ballot. The ballot option was the preference.  Tony C will get the ballot posted this week, but will run it through the first week of January to avoid folks missing it over the holidays.
+
+== KMIP Interop 2021 ==
+
+ * No discussion on this topic
+
+== New Business ==
+ * Chandra N (Dell) introduced himself and noted that he is the liaison from the TCG working group that is working on standardizing the NVMe Key Per IO (KPIO) and who wishes to consult with the OASIS KMIP TC on this effort.  Tony C and Judy F welcomed Chandra and Tony C invited him to bring forward proposals at the upcoming KMIP Summit.
+
+== Next Meeting ==
+ * Next TC Meeting: January 7, 2021
+ * Note:  If there is not sufficient agenda for this meeting, the TC co-chairs will cancel and the next meeting will be January 14, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Nadia A (CryptSoft), Steve E (Semper Fortis)
+
+== Motion to Adjourn ==
+ * Tim C moves, and Justin C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:26 US-EST ==

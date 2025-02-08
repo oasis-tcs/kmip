@@ -1,0 +1,64 @@
+= Meeting Minutes December 2 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Judy)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Greg moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from November 18, 2021'''
+
+ * Tim H moves, Judy seconds. No objections, abstentions, or comments. Minutes for the November 18, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== KMIP wiki review (required profiles and test cases) ===
+ * Tim H is working on the test cases. He found bugs in the existing test cases and found the need to add new test cases in various areas. He is looking to finish next year.
+
+=== KMIP Profiles, Test Cases and Usage Guide Status ===
+ * Judy has no new updates on the usage guide.
+ * Tim H noted that once the SAM TC spec for Split Key is released that portion of the KMIP spec should be replaced with the SAM spec. The KMIP wiki will be updated with a new item to track this. 
+
+=== Call for KMIP Specification co-editor Nominations ===
+ * A replacement co-editor is needed. It is a good idea to have 2 editors.
+ * Greg Scott volunteers.
+
+'''Motion to nominate Greg Scott from Cryptsoft for role of KMIP Spec co-editor'''
+
+ * Tim H moves, Jerry seconds. No objections, abstentions, or comments. Motion approved.
+
+== Interop ==
+=== Call for Interop Lead Nominations ===
+ * Tim H volunteers.
+
+'''Motion to nominate Tim H from Cryptsoft for role of KMIP Interop Lead'''
+
+ * Greg moves, Tim C seconds. No objections, abstentions, or comments. Motion approved.
+
+== 2022 Planning ==
+=== IDTrust Funding Requests (F2F, Interop) ===
+ * There is no plan to have a physical face-to-face in 2022.
+ * Judy will tell IDTrust that there is not going to be a funding request for 2022.
+
+=== International Cryptographic Module Conference (ICMC22) (May 11-13, 2022 Washington DC) ===
+ * ICMC is being planned for May 11-13 in Washington DC.
+ * Jane from OASIS asked if we were interested in holding a demo or interop event.
+ * Tim H is not anticipating international travel for Australians by May. 
+ * Greg noted that a lot of technical work goes into holding an interop event and that a new interop lead would need time to get ready.
+ * Judy said that the last time a demo was done but that work would have to start by the beginning of January which is unrealistic. 
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: January 13, 2022
+
+== Call for Additional Attendees (Judy) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:21 US-EST ==

@@ -1,0 +1,84 @@
+= Meeting Minutes 12 December 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Nov 21, 2019)
+ * KMIP 2.1
+  * Status & Wiki review
+ * KMIP Interop 2020
+  * Status update (Tony C)
+ * KMIP F2F 2020
+  * Joint TC Dinner with PKCS#11
+ * New Business
+  * Regular meeting timeslot
+  * Holiday season meeting schedule
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from November 21, 2019'''
+
+ * Tim H moves, Jerry seconds. No objections, abstentions, or comments. Minutes for the November 21, 2019 meeting approved.
+
+== KMIP 2.1 ==
+=== Status & Wiki review ===
+ * There has been a closeout on a range of items to move the spec and profile to committee spec draft.
+ * Tim H has outstanding usage guide and profile edits for key rotation and will update as to when to put it on the agenda.
+
+==  KMIP Interop 2020 ==
+=== Status update (Tony C) ===
+ * Interop testing is currently underway.
+ * There are now 7 members - a special majority ballot was ran by TC Admin to admit Fornetix.
+ * There are now 7 servers and 7 clients.
+ * Testing is due to wrap up next Friday (December 20, 2019).
+
+== KMIP F2F 2020 ==
+ * Tony and Judy are putting together the agenda and are looking for topics and proposals. 
+
+===  Joint TC Dinner with PKCS#11 ===
+ * Dinner is normally held between the PKCS#11 and KMIP meetings.
+ * Application for funding by IDTrust is in and update is expected next week.
+ * Tony C is looking for someone to organize/book a venue for the dinner.
+
+== New Business ==
+=== Regular meeting timeslot ===
+ * A poll was done to collect member's time zones. Tony and Judy discussed the results and given the locations and the need for both co-chairs the options are to keep the same time or to push back 1-2 hours.
+ * Tim H commented that leaving it is the least worse choice. There were no further comments.
+ * Pending additional comments the time will stay as is. It can be revisited as membership changes.
+
+=== Holiday season meeting schedule ===
+ * TC discussed the schedule for meetings over the holidays. TC agreed to cancel the meetings on December 19, December 26, and January 2. The next meeting is January 9, 2020.
+ * Given the long holiday break it was proposed to move 2.1 forward now instead of waiting until the next meeting.
+ * Tim H's preference is to be in a more official state prior to RSA and is willing to make a motion to move it forward.
+ * Bruce has not received feedback on his latest work and owes Judy the text for it.   
+ * Since the usage guide is non-normative it does not need the same lead time as the spec and profiles.
+ * Nothing has come up from Interop that would affect the spec or profile, just a few issues with the test cases.
+
+'''Motion that the TC approve:
+- KMIP Specification V2.1 WD05 and all associated artifacts packaged together in https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/66207/kmip-spec-v2.1-wd05.docx; and
+- KMIP Profiles V2.1 WD01 and all associated artifacts packaged together in https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65676/kmip-profiles-v2.1-wd01.docx and https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/66328/kmip-profiles-v2.1-wd01b.zip 
+as Committee Specification Drafts and designate the .doc version of the specifications as authoritative.'''
+
+ * Tim H moves, Chuck seconds. No objections, abstentions, or comments. Motion approved.
+
+ * Tony and Judy will coordinate to put the request through.
+
+== Next Meeting ==
+ * Next TC Meeting: January 9, 2020
+ * Judy will send out calendar invites for 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Chris from HPE
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:21 US-EST ==

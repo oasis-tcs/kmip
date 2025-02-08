@@ -1,0 +1,65 @@
+= Meeting Minutes January 14, 2016 =
+== Meeting commenced 21:00 GMT ==
+ * Roll called by Saikat Saha (Saikat)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve minutes for January 7th
+ * KMIP 1.3 Review
+	* Profiles document for review until next meeting
+        * Motion next week to approve profiles document to committee specifcation draft
+        * Public review specification and profiles document as normative and usage guide and informative. No use case document in 1.3 like 1.2
+ * KMIP 1.4 Review
+ * Face to Face Meeting
+ * RSA2016 Interop Update (Tony C.)
+
+
+=== Motion to approve Agenda ===
+ * Tim H Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve January 7th, 2015 meeting minutes ==
+ * Tim H. Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+ 
+== KMIP 1.3 Review (Saikat) ==
+ * No feedback received on 1.3 Profiles and test case documents - going well under interop testing.
+
+== Motion to promote KMIP v1.3 Profiles  and Test cases document to CSD & CND with public Review ==
+ * Motion to approve KMIP v1.3 Profiles as a Committee Specification Draft and request TC Admin to go to a public review. [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57215/kmip-profiles-v1.3-wd02-clean.doc|kmip-profiles-v1.3-wd02-clean.doc]]
+ * Motion to approve KMIP v1.3 Test Cases as a Committee Note Draft and request TC Admin to go to a public review. [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57253/kmip-testcases-v1.3-wd03.doc|kmip-testcases-v1.3-wd03.doc]]
+ * Tim H. Moves
+ * Jerry S Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+ 
+== KMIP 1.4 Status (Saikat) ==
+ * Saikat: 1.4 Starter documents are available - still need to get the profiles document requested - Saikat to follow up.
+
+== Face to Face Meeting 2016 ==
+ * Saikat: Straw poll to be organised for FG2f for attendance and dietary requests
+ * Tony: Still working on proposals and agenda
+
+== RSA2016 Interop Update (Tony C.) ==
+ * A few teething issues - going well.
+ 
+== Call for late arrivals (Saikat) ==
+ * No attendees late.
+ 
+== Motion to Adjourn ==
+ * Tim H. Moves
+ * Jerry S seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 21:18 GMT =

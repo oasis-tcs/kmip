@@ -1,0 +1,40 @@
+= Meeting Minutes June 3 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from May 20, 2021'''
+
+ * Tim H moves, Greg seconds. No objections, abstentions, or comments. Minutes for the May 20, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== KMIP wiki review ===
+ * Working our way through the content for the Profiles, Test Cases and Usage Guide content as noted for the KMIP 3.0 proposal on the wiki (https://wiki.oasis-open.org/kmip/3.0)
+ * Tony C encouraged the proposal authors to provide the assigned content.
+
+== Interop Test ==
+ * Tony C is continuing to speak to TC members about participating. There are three firm yeses and a couple of maybes.
+ * Other TC members interested in participating in the Interop Test should contact Tony C.
+
+== TCG KPIO discussion ==
+ * Chandra said that there are no updates since the May 20 meeting and if there is a profile that needs to be done it will be brought up.
+ 
+== New Business ==
+ * None
+ 
+== Next Meeting ==
+ * Next TC Meeting: June 24, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Chandra
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:09 US-EST ==

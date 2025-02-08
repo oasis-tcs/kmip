@@ -1,0 +1,59 @@
+= Meeting Minutes May 6, 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ 
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (April 8, 2021)
+ * KMIP V3.0 
+   * KMIP wiki review (required profiles and test cases)
+ * Interop Test
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting 
+
+'''Motion to approve Agenda'''
+
+ * Greg S moves, Tim H seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from April 8, 2021'''
+
+ * Tim H moves, Greg S seconds. No objections, abstentions, or comments. Minutes for the April 8, 2021 meeting approved.
+
+== KMIP 3.0 ==
+
+=== Wiki Review ===
+ * Tony C updated the KMIP 3.0 wiki (https://wiki.oasis-open.org/kmip/3.0) based on the discussion at the previous TC meeting to show which KMIP 3.0 proposals required Profiles, Test Cases and Usage Guide content.
+ * TC reviewed the updates during this meeting to ensure there were no concerns
+   * Tim H raised a question on Split Key.  Presently there are only test cases for Split key and no profile but updates to both were indicated on the wiki.  Tony C will revise the wiki.
+
+== Interop Test ==
+
+ * Tony C posted an updated KMIP TC Interoperability Test Process to the OASIS site (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=68570)
+ * Tony C did a walkthrough of this new process with the TC, highlighting the changes given that this Interop Test would not be done in conjunction with the RSA Conference and the OASIS Booth. 
+
+'''Motion to approve the updated KMIP TC Interoperability Test Process for use during the 2021 KMIP TC Interop'''
+
+ * Greg S moves, Tim H seconds. No objections, abstentions, or comments.  KMIP TC Interoperability Test Process approved for use.
+
+
+ * Tony C will start working on a more detailed timeline for the Interop
+ * TC members interested in participating in the interop should let Tony C know.  Members who have not previously participated in an interop are encouraged to do so.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: May 20, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Steve E moves, and Greg S seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:20 US-EST ==

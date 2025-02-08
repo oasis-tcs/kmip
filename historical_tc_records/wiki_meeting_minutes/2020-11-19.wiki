@@ -1,0 +1,43 @@
+= Meeting Minutes November 19 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Greg moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from November 12, 2020'''
+
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Minutes for the November 12, 2020 meeting approved.
+
+== KMIP 2.1 ==
+=== Status ===
+ * Chet is behind with the website update and is looking to have it out later today or tomorrow.
+  
+== Next KMIP (Virtual?) F2F Meeting ==
+ * Tony C and Judy are working through the options from last week's meeting and will discuss it at the next meeting.
+ * Ballot has closed with Option 8 (16:00 - 21:00 UTC) getting 11 votes, Option 1 (19:00 - 24:00 UTC) getting 9 votes, and Option 3 (01:00 - 06:00 UTC) also getting 9 votes.
+ * The ballot results will be used as a guidance as the format still needs to be determined.
+ * Anthony brought up that we should get attendance commitments to help set the schedule.
+  
+== KMIP Interop 2021 ==
+ * Tony C talked with Dee and Jane and they understand that the TC doesn't want to run an Interop in association with the RSA event or be part of an expo.
+ * Tony C mentioned that we should review alternatives that we can do, like plugfest, in a December meeting.
+ 
+== New Business ==
+ * None
+ 
+== Next Meeting ==
+ * There is no meeting next week due to US Thanksgiving holiday.
+ * Next TC Meeting: December 3, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Jason
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:11 US-EST ==

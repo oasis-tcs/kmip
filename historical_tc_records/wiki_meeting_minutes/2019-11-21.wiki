@@ -1,0 +1,86 @@
+= Meeting Minutes 21 November 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Nov 14, 2019)
+ * KMIP 2.1
+  * Status & Wiki review
+ * KMIP Interop 2020
+  * Status update (Tony C)
+ * KMIP F2F 2020
+  * Joint TC Dinner with PKCS#11
+ * New Business
+  * Regular meeting timeslot
+  * KMIP TC Secretary
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from November 14, 2019'''
+
+ * Tim H moves, Jerry S seconds. No objections, abstentions, or comments. Minutes for the November 14, 2019 meeting approved.
+
+== KMIP 2.1 ==
+=== Status and Wiki Review ===
+ * In preparation for the upcoming KMIP Interop event, Tim H posted the test case zip files for both the KMIP 2.1 Test Cases (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=66274) and KMIP 2.1 Profiles (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=66275).  The KMIP 2.1 Test Cases and Profiles documents that correspond to these zip files will be published shortly.
+ * Tony C noted that the TC has reached the point where there is no new proposals are being brought forward for KMIP 2.1.  The focus is now preparing the test cases and profiles which will be vetted in the upcoming Interop event.  Given this state it seems like a reasonable point to close KMIP 2.1 and proceed to completing the remaining open tasks noted on the KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1) and start the process for moving KMIP 2.1 to standardization.
+ * The TC briefly discussed closure of KMIP 2.1.
+  * Tim H indicated that a key rotation profile needs to be added to the Profiles document, but generally agreed that KMIP 2.1 could be closed for new submissions and focus on completing the outstanding items on the wiki.
+
+'''Motion to close KMIP 2.1 to new content, finalize all outstanding items on the wiki and progress KMIP 2.1 through the OASIS standardization process'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Motion approved
+
+ * During the meeting, Tim H updated the KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1) to mark all the outstanding KMIP 2.1 items in yellow and add due dates (the next TC meeting in early December 2019) for completion.
+
+== KMIP Interop 2020 ==
+ * The Interop events kicks off next Monday (November 25, 2019).
+ * Connectivity testing will start on the following Monday (December 2, 2019)
+
+== KMIP F2F 2020 ==
+ * The F2F will be held Thursday/Friday (2/20 & 2/21) prior to RSA and will be hosted by Utimaco (San Jose, CA)
+ * Agenda topics/proposals for the next KMIP release should be provided to Tony C and Judy F.
+
+=== Joint TC Dinner with PKCS#11 ===
+ * Traditionally the KMIP TC holds a joint dinner with the PKCS#11 TC during the F2F week.  The TC agreed that we should continue this tradition.
+
+'''Motion for the KMIP TC co-chairs to request funding from IDTrust for the joint KMIP/PKCS#11 dinner'''
+
+ * Greg S moves, Jerry S seconds. No objections, abstentions, or comments. Motion approved
+
+== New Business ==
+=== Regular Meeting Timeslot ===
+ * The current meeting time is 2:30/3:30 AM in India and there is a request to change the meeting time so that is no so onerous for folks.
+ * Given the geographic distribution of the TC is difficult to find a meeting time that will not inconvenience someone on the TC, but we will do what we can to not have folks up in the middle of the night.
+ * The TC co-chairs will raise a poll to gather member input on what time zone they are located and bring the results back to the TC and use that to arrive at a new meeting time.
+
+=== KMIP TC Secretary ===
+ * We have deferred filling the KMIP TC Secretary for some time and would like to revisit filling this position.
+ * Tony C called for volunteers for the KMIP TC Secretary position.
+ * Jeff Bartell volunteered
+
+'''Motion to nominate Jeff Bartell as the KMIP TC Secretary'''
+
+ * Tony C moves, Judy F, Bruce R and Jerry S (a tie) second. No objections, abstentions, or comments. Motion approved
+
+ * The KMIP TC landing page will be updated to reflect this nomination.
+
+== Next Meeting ==
+ * Next TC Meeting: 5 December 2019
+ * Meeting on 28 November 2019 has been canceled since it falls on the US Thanksgiving holiday.
+
+== Call for Additional Attendees (Tony C) ==
+ * Kenli C (Quintessence Labs)
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:19  US-EST ==

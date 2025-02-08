@@ -1,0 +1,61 @@
+= Meeting Minutes February 9, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (January 12, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * "Hash then Sign" Update
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from January 12, 2023'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the January 12, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S is working on updates to the KMIP 3.0 Spec.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is continuing to make progress on the KMIP 3.0 Profiles/Test Cases.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy is working on updates the KMIP 3.0 usage guide and is waiting for updates coming from specification and test cases.
+
+== New Business ==
+
+=== Hash then Sign  ===
+ * Judy sent out an email after the last meeting with ‘Hash then Sign’ discussions -  https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/202301/msg00005.html
+ * Greg S will forward it to the PKCS#11 TC.
+
+=== Interop/SOUs ===
+ * Planning has started for an Interop with KMIP 3.0 Spec. 
+ * Greg S will send an email to the TC to come up with the schedule. 
+
+== Next Meeting ==
+ * Next TC Meeting: February 23, 2023
+
+'''Motion that Bruce's Leave of absence for six weeks be accepted.'''
+
+ * Greg S moves, Tim H seconds. No objections, abstentions or comments. Motion passed.
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Judy moves and Tim H seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:19 US-EST ==

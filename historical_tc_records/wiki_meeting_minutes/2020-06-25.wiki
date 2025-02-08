@@ -1,0 +1,49 @@
+= Meeting Minutes June 25 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+  * Attendees- Anthony (Cryptsoft), Justin (Cryptsoft), Tony (Cryptsoft), Tim (Cryptsoft), Scott (Cryptsoft), Bruce (Cryptsoft), Greg (Cryptsoft), Jason (Cryptsoft), Judy (Dell), Deepak (Dell), Brett (Fornetix), Jerry (Fornetix), Chuck (Fornetix), Nishank (Fortanix), Chris (HPE), Jeff (Individual), Sue (Oracle), Tim C (NetApp), Mark (P6R), Kenli (QuintessenceLabs), Florian (QuintessenceLabs), Steve (Semper Fortis), Ed (Utimaco)
+ 
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve updated Agenda''' 
+
+ * Tim C moves, Tim H seconds.  No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from June 18, 2020'''
+
+ * Chuck moves, Greg moves. No objections, abstentions, or comments. Minutes for the June 18, 2020 meeting approved.
+
+== KMIP Interop - RSA 2021 ==
+ 
+ * June 30, 2020 is the deadline for participation in the OASIS Booth - KMIP Interop at RSAC 2021
+ * There are still spots available.
+ * Any TC member company interested in participating should contact either Jane Harnad or Tony C.
+ 
+== KMIP 2.1 ==
+ 
+=== SoUs ===
+ * One more SoU is needed from an interop participant to be able to move KMIP 2.1 forward for publishing.
+ 
+== KMIP 3.0 ==
+=== Status update (wiki review) ===
+ * Items scheduled for this week and next have been rescheduled.
+ * Refer to the wiki for upcoming topics.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * July 2 meeting is cancelled due to it being close to the holiday weekend. There were no objections.
+ * Plan is to stick with weekly meetings until there are quorum issues.
+ 
+ Next TC Meeting: July 09, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Mark, Chris
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:09 US-EST ==

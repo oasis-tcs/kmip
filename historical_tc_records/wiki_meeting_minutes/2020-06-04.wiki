@@ -1,0 +1,55 @@
+## page was copied from MeetingMinutes/04May2020
+= Meeting Minutes June 04 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve updated Agenda with Link Representation added''' 
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from May 28, 2020'''
+
+ * Tim H moves, Tim C moves. No objections, abstentions, or comments. Minutes for the May 28, 2020 meeting approved.
+
+== KMIP Interop - RSA 2021 ==
+ * There are still spots available. Revised deadline for signup is June 30.
+ * Contact Tony or Jane Harnad for more information.
+ 
+== KMIP 2.1 ==
+ 
+=== SoUs ===
+ * One has been posted, a couple are being worked on.
+ * Contact Tony with questions.
+ 
+== KMIP 3.0 ==
+=== Status update (wiki review) ===
+ * Tony has updated the wiki based on last week's call.
+
+=== Link Representation (Bruce R) ===
+ * Bruce reviewed the proposal that he uploaded May 29.
+ * There was a discussion about deleting items marked as depreciated. The editors will raise this in a future meeting.
+ * Anthony raised a question if this supersedes existing references/links. Further conversation on this is needed.
+ * There were no other questions or comments.
+ 
+'''Motion to accept the spec delta as proposed by Bruce for Link Representation for inclusion in version 3.0 of the Spec'''
+
+ * Tim C moves, Greg seconds.  No objections, abstentions, or comments. Motion approved.
+
+ * Tony will be posting WD2 that will include Name, Rotate Name, and Link Representation.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: June 11, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Steve
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:28 US-EST ==

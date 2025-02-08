@@ -1,0 +1,67 @@
+= KMIP TC Weekly Meeting =
+== January 30, 2014 ==
+Start 1:00pm
+
+== Roll Call ==
+ * Member Roll Call and call for observers - Subhash Sankuratripati (Subhash)
+ * Quoram Achieved
+
+== Agenda ==
+ 1. Observer status
+ 1. Previous Meeting Minutes
+ 1. Face to face status
+ 1. Interop Status update - Tony Cox (Tony C)
+ 1. Extending Query Operation - Mark Joseph (Mark J)
+ 1. Public Review status
+ 1. Ballot on F2F attendance
+
+=== Accept agenda motion ===
+ * Tim Hudson (Tim H) moves to accept agenda
+ * Judith Furlong seconds motion
+ * No Objections
+ * No Abstentions
+ * Agenda Approved
+
+== Observer status ==
+Indra Fitzgerald: HP still in progress
+Others TBD
+
+== Previous Meeting Minutes ==
+ * Subhash: Bob Lockhart (Bob L) needs to upload meeting minutes in PDF format into approved minutes
+ * Bob L: I need to fix OASIS to PDF print option to remove what appears to be HTML code from minutes when converting to PDF
+
+== Interop status ==
+ * Tony C: In the home stretch with code being updated based on interesting interpretations of specification
+ * Tony C: Booth placement and signage being finalized
+ * Tony C: A few issues showing up in interop including what Mark J looking to discuss today
+
+== Extending Querry Operation - Mark J ==
+ * Mark J: Want input from TC prior to creating a proposal such that a server returns the supported profiles including alternate service ports.
+ * Bob Lockhart (Bob L): Are you saying servers don't support standard port of 5696?
+ * Bruce Rich (Bruce): Are you suggesting using TTLV for query?
+ * Mark J: The idea being that querry to find other service ports would be done in TTLV on standard or configured port for JSON, XLM or HTTPS ports if supported by the server (even if still using 5696).  Also looking at including profiles supported with attributes.
+ * Saikat Saha (Saikat): could that have security implications as query doesn't have authentication requirements?
+ * Mark J: Certificate already in place would that be enough
+ * Bob L: there are clients that require specification optional 2nd authentication mechanism but shouldn't impact query.  We may want to consider or look at unauthenitcated query versus authenticated query.
+ * Several would like to see a proposal by F2F if possible
+
+== Version 1.2 house keeping ==
+ * Subhash: request for CSD created for alternate messaging
+ * Saikat and possibly Bob L to try to get requests finished by next week
+ * Bob L., Saikat & Tim H: Need to add base Profile v1.2 to CSD's, not there currently
+
+=== Motion to move Profiles to CSD ===
+ * Tim Moves to add base document for KMIP Profiles to CSD and subsequent public review
+ * Bruce Seconds
+ * No Objections
+ * No Abstentions
+ * Approved
+
+== Motion to Adjourn ==
+ * Tim Moves
+ * Bruce Seconds
+ * No Objections
+ * No Abstentions
+ * Approved
+
+== Meeting Adjoured 1:29pm ==

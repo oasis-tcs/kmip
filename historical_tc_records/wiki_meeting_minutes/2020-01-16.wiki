@@ -1,0 +1,50 @@
+= Meeting Minutes Jan 16 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Jerry seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from Jan 9, 2020'''
+
+ * Tony C moves, Sue seconds. No objections, abstentions, or comments. Minutes for the Jan 9, 2020 meeting approved.
+
+== KMIP 2.1 ==
+=== Status ===
+ * Tony C - 2.1 is basically wrapped up pending updates from Interop. There are probably a couple of small updates coming out of Interop but they are still being processed.
+ * Tim H - Sent out usage guide text for key rotation for review
+ 
+
+== KMIP Interop 2020 ==
+=== Status update (Tony C) ===
+ * Results are still being processed, latest batch of results expected later today.
+ * Hope to have full update at the next meeting.
+ 
+=== Booth Logistics (Tony C) ===
+ * Process for booth logistics is underway, more updates in the following meetings as decisions have been made.
+
+== KMIP F2F 2020 ==
+ * Tony C has put out a straw poll for attendance for either in person or remote for either day.
+ * Tony C and Judy sent out an email for a call of topics for the F2F.
+ 
+=== Joint TC Dinner with PKCS#11 ===
+ * Tony C will book a location for dinner on Wed night in Sunnyvale. No comments received.
+ * Tony C will put out a poll in the coming week or to to get attendance numbers.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: Jan 23, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Tim C, Jason, Greg
+
+== Motion to Adjourn ==
+ * TIm H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:13 US-EST ==

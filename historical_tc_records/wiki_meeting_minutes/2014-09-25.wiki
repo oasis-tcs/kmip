@@ -1,0 +1,73 @@
+= Meeting Minutes September 25, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Subhash Sankuratripati (Subhash)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * KMIP 1.3 Work Item Status Update (Tim Hudson)
+
+=== Motion to approve agenda ===
+ * Tim Hudson Moves
+ * Mark Joseph Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+ 
+== Motion to approve September 11, 2014 and September 18, 2014 meeting minutes ==
+ * Tim Hudson Moves
+ * Joe Brand Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+ 
+== KMIP v1.3 Work Item Status Update (Tim Hudson) ==
+ * Added TR-31 key type update to wiki as a minor revision owned by by Bob Lockhart
+ * [[https://wiki.oasis-open.org/kmip/1.3|Updated Committed Projects]]
+
+== Motion to move Specification 1.1 and Profiles 1.1 Errata to Ballot ==
+ * [[http://docs.oasis-open.org/kmip/spec/v1.1/errata01/|KMIP Specification v1.1 Errata]]
+ * [[http://docs.oasis-open.org/kmip/profiles/v1.1/errata01/|KMIP Profiles v1.1 Errata]]
+ * Tim Hudson Moves
+ * Chuck White Brand Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== Motion to Submit KMIP 1.2 publicly reviewed documents as Committee Standards / Notes ==
+ * Co-chairs to request TC admin create special majority ballot to promote the KMIP 1.2 standards and notes to committee specification / committee notes as per the full list from the second public review with any required cross reference changes between the documents:
+=== Committee Specifications ===
+||'''Document''' ||'''Url''||
+||Specification ||[[http://docs.oasis-open.org/kmip/spec/v1.2/csprd02/kmip-spec-v1.2-csprd02.doc]] ||
+||Profiles ||[[http://docs.oasis-open.org/kmip/profiles/v1.2/csprd02/kmip-profiles-v1.2-csprd02.doc]] ||
+||Profiles - Additional Message Encodings ||[[http://docs.oasis-open.org/kmip/kmip-addtl-msg-enc/v1.0/csprd02/kmip-addtl-msg-enc-v1.0-csprd02.doc]] ||
+||Profiles - Storage Array with Self Encrypting Drives ||[[http://docs.oasis-open.org/kmip/kmip-sa-sed-profile/v1.0/csprd02/kmip-sa-sed-profile-v1.0-csprd02.doc]] ||
+||Profiles - Symmetric Key Profile ||[[http://docs.oasis-open.org/kmip/kmip-sym-key-profile/v1.0/csprd02/kmip-sym-key-profile-v1.0-csprd02.doc]] ||
+||Profiles - Tape Library ||[[http://docs.oasis-open.org/kmip/kmip-tape-lib-profile/v1.0/csprd02/kmip-tape-lib-profile-v1.0-csprd02.doc]] ||
+||Profiles - Cryptographic ||[[http://docs.oasis-open.org/kmip/kmip-cs-profile/v1.0/csprd02/kmip-cs-profile-v1.0-csprd02.doc]] ||
+||Profiles - Asymmetric Key Profile ||[[http://docs.oasis-open.org/kmip/kmip-asym-key-profile/v1.0/csprd02/kmip-asym-key-profile-v1.0-csprd02.doc]] ||
+||Profiles - Symmetric Key Foundry ||[[http://docs.oasis-open.org/kmip/kmip-sym-foundry-profile/v1.0/csprd02/kmip-sym-foundry-profile-v1.0-csprd02.doc]] ||
+||Profiles - Opaque ||[[http://docs.oasis-open.org/kmip/kmip-opaque-obj-profile/v1.0/csprd02/kmip-opaque-obj-profile-v1.0-csprd02.doc]] ||
+||Profiles - SuiteB ||[[http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/csprd02/kmip-suite-b-profile-v1.0-csprd02.doc]] ||
+
+=== Committee Notes ===
+||'''Document''' ||'''Url''' ||
+||Test Cases ||[[http://docs.oasis-open.org/kmip/testcases/v1.2/cnprd02/kmip-testcases-v1.2-cnprd02.doc]]||
+||Usage Guide ||[[http://docs.oasis-open.org/kmip/ug/v1.2/cnprd02/kmip-ug-v1.2-cnprd02.doc]] ||
+
+ * Tim Hudson Moves 
+ * Joe Brand Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== Call for late arrivals - Subhash/Saikat ==
+ * No new attendees
+ 
+== Motion to Adjourned ==
+ * Tim Hudson Moves
+ * Chuck White seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:21PM GMT =

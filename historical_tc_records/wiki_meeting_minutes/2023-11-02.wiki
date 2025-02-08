@@ -1,0 +1,42 @@
+= Meeting Minutes November 2, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (October 19, 2023)
+ * Interop Summary
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from October 19, 2023'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the October 19, 2023 meeting are approved.
+
+== Interop Summary ==
+ * Tim H gave an update on the Interop. The Interop is progressing fairly well. 
+ * It was agreed to extend the testing for one more week.
+ * Coming out of the Interop will be some suggested changes to the specification, updates to the test cases, and topics that need to be discussed by the TC.
+ * Tim C agreed with the summary. There were no other comments.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: November 16, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:08 US-EST ==

@@ -1,0 +1,76 @@
+= Meeting Minutes November 10, 2016 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (October 20, 2016 & October 27, 2016)
+ * KMIP 1.3 update (Tony C.)
+  * Specification and Profiles
+  * Response to Comments
+ * KMIP 1.4 update (Tony C.)
+ * KMIP 2.0 update (Tony C.)
+ * RSA 2017 Interop planning (Tony C.)
+ * Call for Additional Attendees
+ * Adjourn Meeting
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) Moves
+ * Jerry Stueve (Jerry S.) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve Meeting Minutes for October 20, 2016 and October 27, 2016 ===
+ * Tim H. Moves
+ * Jerry S. Seconds
+ * No objections
+ * No abstentions
+ * Minutes for October 20, 2016 and October 27, 2016 Meetings are approved
+
+== KMIP 1.3 update (Tony C.) ==
+ * No updates currently
+ * No comments received at this point
+
+== KMIP 1.4 update (Tony C.) ==
+ * Need to start closing off 1.4 proposals entered into appropriate documents
+ * Deprecate 3.2 verbiage on uniqueness (Bob L.)
+  * Bob L. removing proposal to change Name Attribute verbiage
+ * Tim working on
+ * Jerry & Chuck looking to have proposals in next week
+ * Suspended State moved to 2.0 after reminder from team to Bob L.
+ * Last call date for updates for 1.4 due for November 17th meeting
+ * Kevin Garber looking for test cases that apply to interoperability testing
+  * Tim working on updates that are due by end of October 2016
+
+== KMIP 2.0 update (Tony C.) ==
+ * Continue name uniqueness discussion for multi-tenancy
+ 
+== RSA 2017 Interop Planning ==
+ * Meeting postponed hopefully happening next week
+ * Older version support was ruled out last year
+ * Goal was to show interoperability versus showcase vendor solutions
+
+== Next Face to Face ==
+ * Around RSA time frame
+  * In conjunction with PKCS11
+  * Valerie will setup a straw poll for PKCS11 to decide which day they want to do
+   * Wednesday or Friday for PKCS11
+ * Need to get a host for Face to Face meeting
+
+== Next Meeting ==
+ * Next meeting tentatively set for November 17th, 2016
+ * No meeting on November 24, 2016 due to U.S. holiday
+
+== Call for Additional Attendees ==
+ * No new attendees
+
+== Motion to Adjourned ==
+ * Tim H. Moves
+ * Jeff Bartell seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:46PM GMT =

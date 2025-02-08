@@ -1,0 +1,96 @@
+= Meeting Minutes 11 July 2019 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+
+ * Approve Agenda
+
+ * Approve Previous Meeting Minutes (June 20, 2019)
+
+ * KMIP 2.0
+
+ * Spec & Profiles Status (Tony C)
+
+ * KMIP v1.4 Errata (Tony C)
+
+ * KMIP 2.1
+  * Review proposals noted in wiki to confirm due dates
+
+ * New Business
+
+ * Next Meeting
+
+ * Call for Additional Attendees
+
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from June 20, 2019'''
+
+ * Bruce R moves, Tim C seconds, No objections, abstentions, or comments. Minutes for the June 20, 2019 meeting approved.
+
+== KMIP 2.0 (Tony C) ==
+ * Committee Specifications have been published by TCAdmin
+  * KMIP 2.0 Spec: https://docs.oasis-open.org/kmip/kmip-spec/v2.0/cs01/kmip-spec-v2.0-cs01.docx
+
+  * KMIP 2.0 Profiles: https://docs.oasis-open.org/kmip/kmip-profiles/v2.0/cs01/kmip-profiles-v2.0-cs01.docx
+
+ * To progress these KMIP 2.0 documents to the OASIS standard level, we need to have at least three Statements of Use (SOU) for KMIP 2.0 from companies that participated in the RSA 2019 Interop event.
+
+ * P6R (Mark J) and CryptSoft (Tim H) indicated that they will submit SoUs.
+
+ * Tony C will reach out to other RSA 2019 Interop participants who were not on today's call
+
+ * Tim H posted the CryptSoft SOU to the OASIS site (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65609)and this can be used as an example for other members interested in submitted one.
+
+== KMIP 1.4 Errata (Tony C) ==
+ * KMIP 1.4 Errata was published by TCAdmin (https://docs.oasis-open.org/kmip/spec/v1.4/errata01/csprd01/kmip-spec-v1.4-errata01-csprd01.docx) and a 14 day public review was announced.  This review ends on July 10, 2019.
+
+ * The TC will need to confirm that no comments were received during the public review and approve the errata with a full majority before the final version can be published.
+
+ * Tony C sent the response to Alexis Abel closing out this action item (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201907/msg00000.html)
+
+== KMIP 2.1 ==
+ * Bruce R posted the Spec deltas for four of the proposals he gave at the F2F.
+  * Rights for Object Groups (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65607/latest/kmip-spec-v2.0-wd09-QueryDefaultsObjectTypes.pdf)
+
+  * Query Defaults (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65607/latest/kmip-spec-v2.0-wd09-QueryDefaultsObjectTypes.pdf)
+
+  * Query Defaults - Object Groups (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65606/latest/kmip-spec-v2.0-wd09-QueryDefaultsObjectGroups.pdf)
+
+  * Set Defaults (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65608/latest/kmip-spec-v2.0-wd09-SetDefaults.pdf)
+
+ * Bruce R reviewed the Spec deltas with the TC.
+
+ * Short discussion that how to handle Unknown Object Type needs to be added.
+
+ * Mark J asked if operations such as the one to change defaults should be an 'authenticated' operation.  Tim H suggested that Mark J should write a new proposal to look at all operations/functions where special authentication should be required.  Mark J indicated that he was willing to work on such a proposal with someone and Chuck W volunteered to work on this with Mark J.  Tony C suggested that a profile be developed in parallel to the proposal so that it will be clear as to how these 'special authentication/admin-like' functionality would work.
+
+ * The TC was encouraged to review Bruce's proposals which we will take a motion to include in KMIP 2.1 at the next TC meeting.
+
+ * Tony C gave the TC an update on the KMIP 2.1 Spec.  He is still working on getting the content into the KMIP 2.1 starter document.
+
+== New Business ==
+ * Tony C is still working on the response to John Major's email.
+
+ * Chuck W is still working on the response to the email asking about why TTLV encodings are no longer included in the Test Cases.
+
+ * Judy F noted the email that the OASIS staff sent to the reflector (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201907/msg00001.html) requesting that the TC members submit presentation proposal for the Data Protection in Real Time workshop being held in Oxford, UK.
+
+ * Tony C noted that OASIS folks are starting to plan for the RSA 2020 Interop testing.  Please reach out to the OASIS staff if you are interested in participating in the Interop/booth next year (there are few open spaces).
+
+== Next Meeting ==
+ * Next TC Meeting:  18 July 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Jeff B
+
+== Motion to Adjourn ==
+ * Chuck W moves, Tim C second, No objections, abstentions, or comments.

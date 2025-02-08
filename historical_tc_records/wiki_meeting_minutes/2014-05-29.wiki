@@ -1,0 +1,62 @@
+## page was copied from MeetingMinutes/May292014
+= Meeting Minutes May 29, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Saikat Saha (Saikat)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Consolidated KMIP 1.2 Public Review Discussion - Tony Cox (Tony C.)
+ * Follow up on KMIP 1.3 status - Tim Hudson (Tim H.)
+ 
+=== Motion to approve Agenda ===
+ * Tim H. Moves
+ * Joe Brand (Joe B.) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve May 15 Minutes ===
+ * Tim H. Moves
+ * Steve Edwards (Steve E.) Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved 
+ 
+== Consolidated KMIP 1.2 Public Review comments - Tony C. ==
+ * [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=53150]]
+ * Tony collated all the feedback
+ * Kiran sent out updated KMIP 1.2 specification document to Tony for review, once reviewed, Kiran will upload to KMIP TC and notify TC
+ * Tony will update Profiles document based on the review comments
+ * Judy will update Usage Guide document based on the review comments
+ * Out of 160 public review comments, about 50-50 split between items with no changes to any committee produced documents and items with primarily editorial changes to the documents.
+ * Review comments regarding URL re-directs will not be incorporated in the documents. 
+
+=== Motion to initiate a ballot for Locate with offset proposal to be included in KMIP 1.3 specification ===
+ * Tim H. Moves
+ * Joe B. Seconds
+ * No objections
+ * Abstentions: John Lieseboer 
+ * Motion approved 
+
+== Status on KMIP 1.3 Items - Tim H. ==
+ * Tim updated the action item list in wiki
+ * Bob Lockhart to initiate the 4 pending ballots ( 3 from last TC call and 1 from this weeks call)
+ * Saikat to follow up with TC-admin on Usa case document 1.2 public review
+ * Judy: Send all documents together for public review to avoid any delay
+ 
+== Next weeks proposed agenda ==
+ * Review of public review updates - Tony C., Judy Furlong, Kiran Thota
+ * Status on pending 4 ballots 
+ * Status on KMIP 1.3 action items
+
+
+== Call for late arrivals - Saikat ==
+ * Robert Lockhart (Bob L.)
+ 
+== Motion to be Adjourned ==
+ * Tim H. Moves
+ * Joe B. seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+= Meeting Adjourned at 8:36PM GMT =

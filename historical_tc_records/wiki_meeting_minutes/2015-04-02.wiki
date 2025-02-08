@@ -1,0 +1,60 @@
+= Meeting Minutes April 02, 2015 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Tony Cox 
+ * Quorum Achieved
+ 
+== Proposed agenda ==
+ * Motion to approve March 26, 2015 Meeting Minutes
+ * Face to face logistics
+ * Face to face planning
+ * Vote to move Usage Guide to Committee Draft
+ * RSA Interop update
+
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve March 26, 2015 meeting minutes ===
+ * Bob Lockhart proposed tabling the minutes until required updates are completed
+ * Motion removed
+ 
+== Vote to move Usage Guide to Committee Draft ==
+ * Tim Hudson Moves
+ * Chuck White Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== Face to Face Logistics ==
+ * Ballot is closed
+ * Approximately 14 attendees on site
+
+== Face to Face Planning ==
+ * Agenda to be completed based on current proposals
+ * No new agenda items
+ * Please contact Tony & Saikat to propose any additional agenda items not on Wiki
+ * Dinner details still being ironed out with PKCS11
+ 
+== RSA Interop Update ==
+ * Testing is completed
+ * Results being correlated
+ * Booth layout still TBD from Dee & Jane 
+
+== New Business ==
+ * No new business
+ 
+== Call for late arrivals - Tony Cox ==
+ * No late arrivals
+
+== Motion to Adjourned ==
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:17PM GMT =

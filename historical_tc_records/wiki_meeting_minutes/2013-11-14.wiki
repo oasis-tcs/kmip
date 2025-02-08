@@ -1,0 +1,64 @@
+## page was copied from MeetingMinutes/Dec052013
+
+Roll Call done by Subhash. Quorum not achieved. Short of 1 member.
+Bob Lockhart joins, quorum achieved.
+
+= Agenda =
+
+ 1. Review of 1.2 items
+ 1. Status of 1.3 Items
+ 1. Interop
+
+
+Tim moves that we approve agenda, Kiran seconds.
+Hearing no objections/abstentions, agenda is approved.
+
+Prior meeting notes with updates posted by Saikat.
+Tim moves, Sue seconds. Meeting Minutes approved.
+
+Minutes of meeting in wiki better to manage centrally an update in a central location.
+Issue of preventing updates to approved minutes.
+Subhash: Let us see for next few months on how it goes and make a decision if we have any issues
+
+
+= Status 1.2 Documents =
+
+ 1. Document submitted to OASIS. 
+ 1. Documents are currently sitting in queue behind PKCS#TC documents for OASIS review.
+
+
+= Status of 1.3 Items =
+
+1. Add a new column on wiki project pipeline when the proposals can be presented for each item.
+
+= Discussion about query enhancements with RNG =
+1. Kiran: Query enhancement along with RNG work with Tim underway. Need two weeks to wrap up and present to TC. 
+1. Kiran: Assumption: Server has only one RNG implementation.
+1. John L: Is the returned RNG algorithm an enumeration of server's all RNG capability? Sometimes server may have a different RNG for certain operations.
+1. Bob L. what happens when the server does not know the RNG used during key creation specifically when a key was registered? What would server return? Sometimes clients may not be sophisticated to know which RNG was used to generate a key?
+1. John/Saikat: Server implementation may indeed have multiple RNG or combine them. Certain RNGs need to be used in certain situations.
+1. Bob L.: Each managed object may have an additional attribute to indicate which RNG was used to create it?
+1. Subhash: It seems there are two distinct tasks in Query enhancements. One client to request server capabilities. The other is which RNG per crypto managed object 
+1. ACTION: Subhash to create two independent tasks
+1. John: getRandom. Actually seeding is more important than algorithm. Subhash requests John to create a proposal to capture this.
+
+= Interop =
+
+1. Tony: Interop sub committee formed.
+1. Tony: Informal Interop test starts in mid December
+1. Tony: Formal Interop test starts in January with members
+1. Tony: Statement of use documents from participating members like prior Interop tests.
+1. Peter: EMC/RSA is not participating but I would be interested to know the interop status and updates.
+
+= Next KMIP TC call =
+
+1. Considering Thanksgiving holiday and no agenda for next week's call, TC call for next two weeks cancelled. Next KMIP weekly call on December 5th.
+
+
+= Review of pipeline =
+
+Tim to update the project pipeline. Query enhancement proposal after two weeks hiatus.
+
+
+Tim moves that we adjourn, Sue seconds.
+Hearing no objections/abstentions, we are adjourned.

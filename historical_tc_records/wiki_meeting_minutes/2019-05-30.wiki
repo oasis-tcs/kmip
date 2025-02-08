@@ -1,0 +1,62 @@
+= Meeting Minutes 30 May 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (May 23, 2019)
+ * KMIP 2.0
+  * Spec & Profiles Status (Tony C)
+ * KMIP v1.4 Errata (Tony C)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Bruce R moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from May 23, 2019'''
+
+ * Tim C moves, Greg S seconds, No objections, abstentions, or comments. Minutes for the May 23, 2019 meeting approved.
+
+== KMIP 2.0 (Tony C) ==
+ * Public review of the KMIP 2.0 Specification and Profiles documents has completed (May 25, 2019) and no comments have been received.  Email has been sent to reflector.
+ * Next steps is to make motions to open the ballots for moving these two documents to Committee Specifications
+ * Once the documents have reached the Committee Specification level then at least three TC members will need to submit Statements of Use (SOUs) in order for the documents to be progressed to OASIS standards.
+
+'''Motion to approve the Chairs requesting that TC Administration hold a Special Majority Ballot to approve KMIP Specification Version 2.0 contained in http://docs.oasis-open.org/kmip/kmip-spec/v2.0/csd01/kmip-spec-v2.0-csd01.docx as a Committee Specification.'''
+
+ * Bruce R moves, Jerry S seconds, No objections, abstentions, or comments. Motion approved
+
+'''Motion to approve the Chairs requesting that TC Administration hold a Special Majority Ballot to approve KMIP Profiles Version 2.0 contained in http://docs.oasis-open.org/kmip/kmip-profiles/v2.0/csd01/kmip-profiles-v2.0-csd01.docx and associated files in http://docs.oasis-open.org/kmip/kmip-profiles/v2.0/csd01/kmip-profiles-v2.0-csd01.zip as a Committee Specification.'''
+
+ * Bruce R moves, Jerry S seconds, No objections, abstentions, or comments. Motion approved
+
+== KMIP 1.4 Errata (Tony C) ==
+ * The TC was given the week to review the KMIP 1.4 errata that Tony C posted last week (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65366).
+ * Tony C asked if any TC member had comments on the errata.  No comments were raised.
+ * Since there are no comments, the Errata can now move into a public review stage.
+ * Tony C still needs to prepare and send the TC response to Alexis Abel
+
+'''Motion that the TC approves KMIP Specification V1.4 Errata 1 WD03 located at https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/65366/kmip-spec-v1.4-errata01-wd03.docx as an Errata Draft to the KMIP Specification V1.4 OASIS Standard approved on 22nd November 2017 and confirms that the errata corrections do not constitute Substantive Changes to the Standard. Further move that the TC approves submitting the noted errata for a 15 day public review.'''
+
+ * Tim C moves, Chuck W seconds, No objections, abstentions, or comments. Motion approved
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting:  6 June 2019
+ * Judy F noted that she will not be able to take the notes at next week's meeting.  Jeff B volunteered to take the notes.
+
+== Call for Additional Attendees (Tony C) ==
+ * Jason T (Cryptsoft)
+
+== Motion to Adjourn ==
+ * Chuck W moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:12 US-EST ==

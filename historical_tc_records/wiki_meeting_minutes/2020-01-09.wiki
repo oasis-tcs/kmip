@@ -1,0 +1,69 @@
+= Meeting Minutes 9 January 2020 - Draft =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Dec 12, 2019)
+ * KMIP 2.1
+   * Status & Wiki review
+ * KMIP Interop 2020
+   * Status update (Tony C)
+ * KMIP F2F 2020
+ * Joint TC Dinner with PKCS#11
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from December 12, 2019'''
+
+ * Justin C moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the December 12, 2019 meeting approved.
+
+== KMIP 2.1 ==
+=== Status and Wiki Review ===
+ * The KMIP 2.1 Specification and KMIP 2.1 Profiles documents were published as Committee Specifications in mid-December.  They may be accessed at the following links:
+   * KMIP 2.1 Specification:  https://docs.oasis-open.org/kmip/kmip-spec/v2.1/csd01/kmip-spec-v2.1-csd01.docx
+   * KMIP 2.1 Profiles:  https://docs.oasis-open.org/kmip/kmip-profiles/v2.1/csd01/kmip-profiles-v2.1-csd01.docx
+     * Test Cases:  https://docs.oasis-open.org/kmip/kmip-profiles/v2.1/csd01/test-cases/
+ * Tony C spoke to TCAdmin regarding the process that needs to be followed if the TC needs to amend these committee specifications based on the Interop testing results.  Essentially the document editors will need to issue new working draft versions (picking up at the next working draft number) and once the TC is fine with the documents a new ballot to move the documents (back) to Committee Specification level will be needed.
+ * The TC briefly reviewed the two remaining items for KMIP 2.1 on the wiki (https://wiki.oasis-open.org/kmip/2.1). 
+   * Given that the KMIP 2.1 interop testing has been completed, without including a new key rotation profile, the TC agreed to defer this profile to a future version.
+   * Tim H noted that he will be provide his outstanding Usage Guide text prior to the next TC meeting.
+ 
+== KMIP Interop 2020 ==
+
+ * The Interop testing event completed prior to the holiday break.
+ * Tony C is in the middle of compiling the test results.  These results will initially be shared with and assessed by the Interop test participants.
+ * Tony C expected that by mid to late January the Interop test participants will have an idea of any issues with the KMIP Spec, Profiles and Test Case and what changes will need to be made.
+ * At that point the Interop results and proposed changes will be presented to the entire KMIP TC for review.
+
+== KMIP F2F 2020 ==
+
+ * Logistics related polls (in-person vs remote attendance), meal preferences, etc. will be set up in a few weeks in preparation for the F2F that will be held Thursday/Friday (2/20 & 2/21) at Utimaco (Campbell, CA)
+ * Agenda topics/proposals for the F2F should be provided to Tony C and Judy F.  Also provide the expect time slot you need to present any proposed topic.
+
+=== Joint TC Dinner with PKCS#11 ===
+
+ * We have not received the confirmation of funding for the dinner from IDTrust, but expect it will be funded.
+ * Tony C made a call for volunteer(s) to help organize the joint dinner and for suggestions on a venue for the dinner either in the Campbell CA (KMIP TC) or Sunnyvale CA (PKCS#11) areas
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: 17 January 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:13  US-EST ==

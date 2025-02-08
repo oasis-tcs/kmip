@@ -1,0 +1,50 @@
+= Meeting Minutes January 13, 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Judy F)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (December 2, 2021)
+ * Welcome to Program for 2022
+ * KMIP 3.0 Status
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from December 2, 2021'''
+
+ * Tim H moves, Judy F seconds. No objections, abstentions, or comments. Minutes for the December 2, 2021 meeting approved.
+
+== Welcome to Program for 2022 ==
+ * Greg welcomed everyone the 2022 edition of the KMIP TC
+ * Short discussion on continued travel restrictions and in-person meeting requirements due to the pandemic
+ * In light of the continued uncertainty and restrictions, it is very likely that the KMIP TC will need to plan for a virtual Interop event this year
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Test Cases and Profile ===
+ * Status of these documents have not changed from last meeting
+ * Tim H mentioned that as he has been creating the test cases he has found a few situations(4-5 updates) where the details from the 3.0 proposals were not fully incorporated into the KMIP Specification.  Tim is keeping track of the missing items and will share this list with Greg S and Chuck W to incorporate into the KMIP Specification
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy F has incorporating the Deactivate content provided by Tony C and is presently in the process of reviewing the KMIP 3.0 Specification changes and identifying necessary updates to the UG to align it with this version of the Spec.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: January 27, 2022
+
+== Call for Additional Attendees (Greg S) ==
+ * Chuck W (Fornetix)
+
+== Motion to Adjourn ==
+ * Tim H and Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:14 US-EST ==

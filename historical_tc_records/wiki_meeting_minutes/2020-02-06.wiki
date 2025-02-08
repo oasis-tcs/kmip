@@ -1,0 +1,56 @@
+= Meeting Minutes Feb 06 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Justin moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from Jan 30, 2020'''
+
+ * Tim C moves, Chuck seconds. No objections, abstentions, or comments. Minutes for the Jan 30, 2020 meeting approved.
+
+== KMIP Interop 2020 ==
+=== Status update (Tony C) ===
+ * Tony C is still working on getting the results posted.
+ * Logistics for the show are being worked through.
+
+== KMIP 2.1 ==
+=== Status ===
+ * There was a good discussion on last week's call on the status of the spec and profile docs and moving them forward to committee spec drat and publishing them for public review.
+ * Tony C emailed out the motion language earlier this week. There were no comments on the motions.
+ 
+'''Motion that the TC approve KMIP Specification v2.1 WD06 published at https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/66629/kmip-spec-v2.1-WD06.docx as a Committee Specification Draft and designate the docx version of the specification as authoritative and that the resulting Committee Specification Draft be published for a 30 day public review.'''
+
+'''Motion that the TC approve KMIP Profiles v2.1 WD02 published at https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/66630/kmip-profiles-v2.1-WD02.docx and all associated artifacts packaged together in https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/66579/kmip-profiles-v2.1-wd02.zip as a Committee Specification Draft and designate the docx version of the specification as authoritative and that the resulting Committee Specification Draft be published for a 30 day public review.'''
+
+ * Justin moves, Tim C seconds. No objections, abstentions, or comments. Motion approved
+
+ * The profile and spec should be published by the RSA conference. 
+ * Next up is to wrap up the usage guide and test cases.
+
+== KMIP F2F 2020 ==
+ * There are still openings in the agenda for additional proposals. If anyone want to put a proposal through all that is needed at this time is the topic and the time required.
+ * Regarding coronavirus, at this stage there are no new updates from the RSA Conference/CDC/WHO that would impact travel to the Bay Area. The question was asked about moving the F2F to a teleconference or keeping it as is. There were no comments so we will move forward with the plan. We will revisit it next week.
+ * Attendance ballot closes on Feb 12.
+  
+=== Joint TC Dinner with PKCS#11 ===
+ * Attendance ballot for the dinner closes Feb 17.
+ * Tony C is working on securing a venue in the Sunnyvale area.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: Feb 13, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Chuck, Ed
+
+== Motion to Adjourn ==
+ * Tim C moves and Jerry seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:12 US-EST ==

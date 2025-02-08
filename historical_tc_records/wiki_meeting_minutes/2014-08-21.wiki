@@ -1,0 +1,45 @@
+## page was copied from MeetingMinutes/August072014
+## page was copied from MeetingMinutes/July312014
+= Meeting Minutes August 21, 2014 =
+ * Meeting commenced 1:11PM US-PDT
+=== Roll call ===
+ * Saikat performed roll call, we have quorum. This will be an official meeting.
+
+=== Agenda ===
+ * Status of KMIP 1.2 (Saikat)
+ * Status of KMIP 1.3 (Tim)
+
+
+=== Approve meeting agenda ===
+ * Tim moved, Bruce seconded. No objections or abstentions or discussions. Agenda approved
+
+=== Approve previous meeting minutes for August 7th ===
+ * Tim moved, Bruce seconded. No objections or discussions. Minutes approved
+
+
+
+=== KMIP 1.2 status (Saikat) ===
+ * Subhash submitted the request for all the 13 documents to OASIS admins. Chet approved the Committee Specification Drafts and the Committee Draft Notes.  Last set of approvals came on 8/20.
+ * Saikat submitted request for public review for specification and profile document yesterday. Rest of the documents will be submitted tonight.
+ * During public review submission process, Saikat discovered that we do not have the change bar for the specification document. Saikat and Kiran to work offline to create the change bar and update the public review request.
+
+=== KMIP 1.3 status (Tim) ===
+ * Tim went thru status of KMIP 1.3
+ * Client registration, Streaming, Query enhancement - Moving along
+ * Key Life cycle enhancement - Chuck is out of town, agenda for next week's call
+ * Key shredding - Judy owes details about attribute definition to Tim
+ * PKCS#11 Bob on vacation, agenda for next week's call
+ * Group Enhancement: Kiran and Saikat to present in next week's call
+ * Profiles: Bob and Kiran to discuss and bring a proposal
+
+
+=== Saikat calls for additional items to discuss ===
+ * John L. In the query enhancement proposal, server to client when client is behind a proxy is still outstanding which needs to be resolved.
+ * Saikat proposes John to send out details of thoughts to reflector. Discuss in reflector, Agenda for next weeks call if there is interest.
+
+=== Call for members dialing in after rollcall ===
+ * Mark Joseph
+ * Warren Robins
+  
+=== Motion to Adjourn ===
+ * Tim moves, Mark seconds. No objections or abstentions or discussions. Adjourned 1:29PM US-PDT.

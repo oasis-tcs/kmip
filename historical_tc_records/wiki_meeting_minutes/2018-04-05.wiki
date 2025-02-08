@@ -1,0 +1,82 @@
+## page was copied from MeetingMinutes/22Mar2018
+## page was copied from MeetingMinutes/15Mar2018
+## page was copied from MeetingMinutes/1Mar2018
+## page was copied from MeetingMinutes/22Feb2018
+## page was copied from MeetingMinutes/15Feb2018
+## page was copied from MeetingMinutes/8Feb2018
+= Meeting Minutes 5 April 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll call (Tony C)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (March 22, 2018)
+ * Interop Status (Tony C)
+ * Interop Booth & Presentations (Tony C)
+ * Interop for RSA 2019 (Tony C)
+ * KMIP 2.0
+  * KMIP 2.0 Specification WD03 Discussion (Tony C)
+ * KMIP TC F2F Meeting (April 2018)
+ * KMIP & PKCS#11 TCs Joint Dinner (April 2018)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Chuck W seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve March 22, 2018 meeting minutes =====
+ * Tim H moves, Gerry S seconds, No objections, abstentions, or comments. Minutes approved
+
+== Interop Status ==
+ * Interop testing is complete, final results are being compiled.
+ * Review call to discuss Interop issues that arose during testing has been held.  All issues were discussed and resolutions were agreed to all in one meeting - a first!
+ * After review by the interop participants the results will be shared with the entire TC.  A review of the results and a vote by the TC to accept the results, etc. will be done at next week's F2F meeting.
+ * The interop results have highlighted some things which will need to be changed in KMIP 2.0 and these will be discussed at next week's F2F meeting.
+ * Tony C (as Interop test lead) extended his thanks to all the Interop participants for their participation and willingness to work together to resolve issues, etc.  He noted it was a pleasure working with everyone and it was the smoothest TC interop event to date.
+
+== Interop Booth & Presentations ==
+ * Prior to the call Tony C posted an initial cut at [[https://www.oasis-open.org/committees/document.php?document_id=62818&wg_abbrev=kmip|slides]] for the vendor deck
+  * Tony C noted that he went with the new OASIS logo/color scheme even though the OASIS board has not formally approved them becuase the booth is using new logo/colors and the slides should be consistent with the booth -- the TC agreed with this logic.
+ * Tony C asked the TC if anyone had a chance to review and if there was any feedback
+  * Tim H and Judy F provided a few comments
+  * Greg P suggested that a 'What is KMIP?' slide be added
+  * Tony C indicated he will make the changes and add talking points (value of KMIP, value of Interop, etc.) into the deck and publish a new verison
+
+== RSA 2019 Interopability ==
+ * Revisited the discussion about the OASIS staff email soliciting participating in an OASIS booth for the RSA 2019 Conference.
+ * The committment timeframes are sooner than normal this year since the RSA confernece organizers are looking for OASIS to make an earlier committment (by the time this year's conference starts) for a booth and are imposing new review requirements on booth participants, etc.
+ * Tony C wanted to make sure that everyone on the TC was aware of the request and had time to consider whether they (their companies) wanted to participating in an OASIS booth next year.
+ * At the F2F meeting next week the TC will need to vote on whether the TC wants to participate in the OASIS booth next year, the nature of the Interop event, elect an interop lead, etc. in order to provide the TC decision to the OASIS staff.
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Specification ===
+ * Tony C asked if there were anything to discuss on the most recent WD3 --- no topics were raised
+
+== KMIP TC F2F Meeting (12-13 April 2018) ==
+ * Tony C and Alan B are working on the final logistics for the F2F at the Thales facility in San Jose, CA.
+  * Tony C made a final call for anyone is planning to attend the F2F in person and who did not participate in the straw poll to please contact him to be added to the in-person attendee list.
+ * Tony C made a final call for folks to send any F2F agenda topics to the co-chairs.  A short decription of the topic and an idea of how much time you would need is appreciated.
+  * The co-chairs have been compiling agenda topics and will sync up their lists to produce the final agenda
+  * Based on input so far, it will be a very packed agenda across the two days.
+
+== KMIP & PKCS#11 TCs Joint Dinner (April 2018) ==
+ * We have approval from IDTrust to pay for the dinner (exclusive of alcohol).
+ * Valerie, PKCS#11 co-chair) is looking for a venue for the dinner.
+ * Tony will create a straw poll and asked the TC members who planned to attend the dinner to participate in the poll so that Valerie has an accurate count for the reservation.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next meeting is the F2F April 12-13, 2018 at the Thales facility in San Jose, CA.
+
+== Call for late arrivals (Tony C.) ==
+ * One Member (Greg P)
+
+===== Motion to Adjourn =====
+ * Tim H moves, Gerry S seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:28 US-EST ==

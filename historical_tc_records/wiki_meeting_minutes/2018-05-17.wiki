@@ -1,0 +1,67 @@
+## page was copied from MeetingMinutes/3May2018
+= Meeting Minutes 17 May 2018 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll call (Tony C)
+ * Quorum achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (April 12, 2018 - F2F Day 1)
+ * Approve Previous Meeting Minutes (April 13, 2018 - F2F Day 2)
+ * Approve Previous Meeting Minutes (May 3, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * KMIP 2.0 Action items discussion
+
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Gerry S seconds, No objections, abstentions, or comments. Agenda approved
+
+== F2F Meeting Minutes ==
+ * Thanks to Tim H for reviewing the F2F minutes and updating the [[https://wiki.oasis-open.org/kmip/2.0|2.0 list]]on the Wiki to match the notes
+ * Judy F posted an [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/63122/latest/v2F2F%20Day%20One%20Minutes.docx|update to Day 1 minutes]] to correct the date and a misspelled name which Tim found during the review
+ * Judy requested folks that who presented at the F2F but who didn't post their slides to the reflector to post their presentations as soon as possible.  Links to available presentations are in the meeting minutes and the 2.0 list on the wiki so if don't see a link for you presentation please post it.  Tony C will also go through his laptop which was used to project during the F2F to see if he can fill in the gap for some of the presentations.
+
+===== Motion to approve April 12, 2018 F2F Day 1 meeting minutes =====
+ * Tim H moves, Gerry S seconds, No objections, abstentions, or comments. minutes for April 12, 2018 F2F Day 1 approved
+
+===== Motion to approve April 13, 2018 F2F Day 2 meeting minutes =====
+ * Tim H moves, Gerry S seconds, No objections, abstentions, or comments. minutes for April 13, 2018 F2F Day 2 approved
+
+===== Motion to approve previous meeting minutes from May 3, 2018 =====
+ * Tim H moves, Mark J seconds, No objections, abstentions, or comments. minutes for the May 3, 2018 meeting approved
+
+== RSA 2019 Interop ==
+ * Jane Hanard has send out email to the TC describing the sign-up process for the OASIS KMIP Interop booth at the US RSA 2019 Conference
+ * There will be a dedicated KMIP booth:  20x20 booth with a maximum number of 8 vendors being in the booth.
+ * Tony C encouraged those in the TC interested in participating to contact Jane to get you  name on the list since it is expected that the booth spots will fill up quickly.
+
+== KMIP 2.0 ==
+=== KMIP 2.0 ===
+ * Tony C has receieved no specification deltas for the proposal discussed at the F2F in April.
+ * Tony C walked through the [[https://wiki.oasis-open.org/kmip/2.0|2.0 list on the Wiki]]to remind folks what they need to provide.
+ * Judy F noted that while the specification changes are the highest priority the wiki list covers all four KMIP documents and that the editors of the documents would also appreciate the requested contributions to their documents as well.
+ * Tim H asked that we get a date for a date from each of the owners as to when they will provide the requested document changes.
+  * Tony C asked if any TC member wanted to provide a date today and no one responded.
+  * Tony C proposed that all proposal owners add a due date to the Wiki by next week's TC call
+
+== New Business ==
+ * The TC Chairs received a message from university student who is researching KMIP for his thesis.  Judy F provided a response to the students questions.
+ * Several TC members attended the International Cryptographic Conference held last week in Ottawa, Canada
+ * Tony C and Chuck W provided a presetnation on how to use KMIP for post quantum agility
+ * Tony said he was asked whether PKCS 11 or KMIP would win.  This question clearly indicates that both TCs need to do more education to explain the difference between KMIP and PKCS 11 and how they complement each other.
+
+== Next Meeting ==
+ * Next meeting: 24 May 2018
+
+== Call for late arrivals (Tony C.) ==
+ * None
+
+===== Motion to Adjourn =====
+ * Tim H moves, Mark J seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:16 US-EST ==

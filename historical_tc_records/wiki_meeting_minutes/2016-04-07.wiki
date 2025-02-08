@@ -1,0 +1,64 @@
+= Meeting Minutes April 7, 2016 =
+== Meeting commenced 20:00 GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Approve Agenda
+ * Approve Minutes
+ * PKCS#12 Import
+ * Discussion of Sensitive Attributes
+ * KMIP 1.3 Status Revised Motion
+ * New business
+ * Adjourn
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== PKCS#12 Import (Bruce Rich) ==
+ * Two files uploaded
+  * PDF with pertinent changes to specification
+  * Example test case
+ * Why only a single friendly name when a bag can contain a lot of private keys (Judy F.)
+  * Wanted to keep it simple for initial use case and can be updated if needed later
+  * Discussed at F2F and it was decided to keep simple construct for the specific use case
+ * Should we defer for another week for a decision
+
+== Motion to approve March 31 Meeting Minutes ==
+ * Bruce Rich Moves
+ * Tim Hudson Seconds
+ * No Objections
+ * No Abstentions
+ * Minutes Approved
+
+== Discussion of Sensitive Attributes (Chuck White) ==
+ * Move discussion to next weeks KMIP meeting
+ 
+== KMIP 1.3 Status (Tony Cox) ==
+ * Need to re-motion as we missed adding the documents
+
+=== Motion to Submit KMIP 1.3 Documents ===
+ * Jerry Moves to Restate the following motions: 
+  * Motion to approve KMIP v1.3 Profiles as a Committee Specification Draft and request TC Admin to go to a public review. [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57215/kmip-profiles-v1.3-wd02-clean.doc|kmip-profiles-v1.3-wd02-clean.doc]] & [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57216/kmip-profiles-v1.3-wd02-test-cases.zip|kmip-profiles-v1.3-wd02-test-cases.zip]]
+  * Motion to approve KMIP v1.3 Test Cases as a Committee Note Draft and request TC Admin to go to a public review. [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57253/kmip-testcases-v1.3-wd03.doc|kmip-testcases-v1.3-wd03.doc]] & [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57254/kmip-testcases-v1.3-wd03-test-cases.zip|kmip-testcases-v1.3-wd03-test-cases.zip]]
+ * Tim Seconds
+ * No Objections
+ * No Abstentions
+ * Motion Approved
+ 
+== Call for new attendees ==
+ * Two new attendees
+ 
+== Motion to Adjourned ==
+ * Chuck Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 20:33 GMT =

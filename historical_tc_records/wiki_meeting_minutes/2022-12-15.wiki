@@ -1,0 +1,58 @@
+= Meeting Minutes December 15, 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (December 1, 2022)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Mark J seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from December 1, 2022'''
+
+ * Tim H moves, Judy F seconds. No objections, abstentions, or comments. Minutes for the December 1, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S notes some progress on the next working draft of the KMIP 3.0 Specification document however this is currently dependent on the test cases. Work on the test cases has identified some items that need correction in the specification. He hopes to be in a better position in January.  
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is continuing to make progress on the KMIP 3.0 Profiles/Test Cases.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy advises that some changes are in the works but not yet sufficient progress and updates from test cases/specification are pending.
+
+== New Business ==
+
+=== Post-Quantum  ===
+ * Bruce R advises various organizations are discussing post-quantum impacts on signature in particular where the processes hash then sign.
+ * Tim H suggested that we would need to see more details to see which of the options would make sense.
+ * Bruce R suggested he would go through the material and see if there was anything relevant he could send to the list.
+ * Judy F advised that there is a paper currently being circulated in one of the NIST NCCoE PQC Migration project workstreams (both IBM and Dell are participating in workstream).   Group has discussed sharing the paper in standard bodies.  Judy will see when it will be available to share with the OASIS KMIP TC.
+
+=== Process for making changes ===
+ * Alexis A asked if there was a process for making changes, e.g., small typos, broken links or even broader suggestions/directions.
+ * Greg S advised a mail message to kmip@lists.oasis-open.org should get to the group.
+
+== Next Meeting ==
+ * Next TC Meeting: January 12, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * Bruce, Jerry
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:12 US-EST ==

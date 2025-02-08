@@ -1,0 +1,73 @@
+= Meeting Minutes December 1, 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (November 17, 2022)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from November 17, 2022'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the November 17, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S has made progress on the next working draft of KMIP 3.0 Specification document.  
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H has made steady progress on the KMIP 3.0 Profiles/Test Cases.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy still needs to roll in Bruce's updates to the references into WD2 of the KMIP 3.0 Usage Guide.
+
+== New Business ==
+
+=== Welcome to the TC ===
+ * Alex - welcome to the TC.
+
+=== Code of Conduct ===
+ * OASIS Board of Directors approved a Code of Conduct at its October meeting. 
+ * The Code of Conduct can be found here: [[https://www.oasis-open.org/policies-guidelines/oasis-participants-code-of-conduct/|Code of Conduct]]
+ * A copy of the announcement email can be found here: [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/202212/msg00001.html|Announcement of the Code of Conduct]]
+
+=== CSNA 2.0 ===
+ * Tim H brought up CNSA 2.0 and post quantum algorithms.
+  * CNSA 2.0 specifies both classic and post quantum algorithms.  The CNSA 2.0 document can be found here: https://media.defense.gov/2022/Sep/07/2003071834/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS_.PDF
+  * The four PQC algorithms announced as finalist by NIST are covered in the press release:  https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms
+  * Namely CRYSTALS-Kyber, CRYSTALS-Dilithium, FALCON and SPHINCS+. Kyber and Dilithium are what are specified in CSNA 2.0
+ * Judy brought up hashed based signatures.
+  * The hash-based signatures LMS (Leighton-Micali Signature) and XMSS (Xtended Merkle Signature Scheme) are specified in CNSA 2.0 for code signing.
+ * It was agreed that they should be included in KMIP 3.0.  
+ * Greg S will update the KMIP 3.0 wiki to track the work needed.
+
+=== Cryptographic Usage Mask Questions posted to KMIP-Comments ===
+ * Tim H is working on the proposal referenced in the October 20 meeting minutes.
+
+=== New OASIS Campaign ===
+ * OASIS is looking for stories for a new campaign celebrating achievements of the technical communities. They are looking for real-life stories of where work made a difference. 
+ * Contact Judy or Greg S for information on submitting a story.
+
+== Next Meeting ==
+ * Next TC Meeting: December 15, 2022
+
+== Call for Additional Attendees (Greg) ==
+ * Jerry
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:26 US-EST ==

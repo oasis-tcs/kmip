@@ -1,0 +1,39 @@
+= Meeting Minutes August 12 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from July 29, 2021'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the July 29, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== KMIP wiki review ===
+ * Tony C will post the next version of the working draft by the end of the week.
+ * Judy F confirmed that she is still waiting on Usage Guide materials associated with the KMIP 3.0 proposals as noted on the wiki (https://wiki.oasis-open.org/kmip/3.0).
+
+== Interop Test ==
+ * Interop is about a month away from starting. The start day may move depending on the availability of the test cases.
+ * There are four parties interested in participating.
+ * Please let Tony C know if you plan to participate in the Interop.
+ * If the participants need more time to complete the Interop, the start of the Summit (scheduled for late September / early October) may need to be pushed back.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: August 26, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry
+
+== Motion to Adjourn ==
+ * Tim H moves and Jerry seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:06 US-EST ==

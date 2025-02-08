@@ -1,0 +1,55 @@
+## page was copied from MeetingMinutes/February052015
+= Meeting Minutes February 05, 2014 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Tony Cox
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Approve January 22 Meeting Minutes
+ * KMIP v1.2 COS Status
+ * KMIP 1.3 Status
+ * New business
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Bruce Rich Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve January 22, 2014 meeting minutes ===
+ * Tim Hudson Moves
+ * Joe Brand Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== KMIP 1.2 COS Status (Tony Cox) ==
+ * All the remaining three ballots have closed. All of them have passed by majority votes. 
+ * Chet has sent out an email regarding this. "TC Admin will now publish these three COSs and then start the 60 public review period for all of the 11 published KMIP COSs. TC Admin JIRA tickets https://issues.oasis-open.org/browse/TCADMIN-2071, https://issues.oasis-open.org/browse/TCADMIN-2072 and https://issues.oasis-open.org/browse/TCADMIN-2073 have been opened to track this work." 
+ * Thank you to all the TC members for their contribution in moving KMIP 1.2 to this stage.
+ * 
+ 
+== KMIP 1.3 Status (Tim Hudson) ==
+ * Tim provided an update on the new additions in the KMIP 1.3 specification document in Kiran's absence.
+ * All TC members are requested to go thru the specification document and provide feedback to Tony and Kiran
+ * We would like to make a motion in next week or the following week to move this document as draft committee specification document
+ * We will also waiting for the updates to other documents by other editors.
+ * Plan is to move all the documents to committee draft specification by the end of this month
+
+== New Business ==
+ * Saikat: Since our weekly calls are very short, typically 10-15 minutes, does it make sense to move to a bi-weekly call?
+ * Tony: Since we have RSA coming up in 2 months and usually we have lot of activity around this time of the year, let us continue with weekly
+ 
+== Call for late arrivals - Tony Cox ==
+ * Bob Lockhart
+
+== Motion to Adjourned ==
+ * Tim Hudson Moves
+ * Bob Lockhart seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:10PM GMT =

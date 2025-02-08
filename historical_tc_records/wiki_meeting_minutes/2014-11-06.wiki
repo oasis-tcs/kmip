@@ -1,0 +1,50 @@
+## page was copied from MeetingMinutes/September252014
+= Meeting Minutes November 06, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Saikat Saha (Saikat)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Election of co-chair
+ * KMIP 1.2 Specification Documents Update
+ * KMIP 1.3 Work Item Status Update (Tim Hudson)
+
+=== Motion to approve agenda ===
+ * Tim Hudson Moves
+ * Chuck White Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+ 
+=== Motion to elect Tony Cox of Cryptsoft as co-chair of KMIP Technical Committee ===
+ * Hal Lockhart Moves
+ * Chuck White seconds
+ * No objections
+ * No Abstentions
+ * Tony is elected as the co-chair of KMIP TC. Congratulations Tony!
+ * Tony gave a brief introductory note to the committee
+ 
+=== KMIP 1.2 Update ===
+ * Saikat provided the update that requests for all 13 documents as well as 2 errata documents have been submitted for special majority ballot to TC-admin
+ * Chet/TC-Admin has already setup the 13 ballots which run thru 11/11/2014
+ * Currently all ballots have 18/19 voted as yes
+ * Saikat requests all TC members to cast their vote before November 11th
+
+=== KMIP 1.3 Update ===
+ * Tim and Tony provided an update from the interoperability plug fest
+ * Results along with test cases have been published to the reflector
+ * Tony has some recommendations based on the interoperability plug fest observation for 1.3 items
+ * Discussion of these recommendations which has impact on 1.3 documents will be part of the agenda for next weeks call   
+ 
+
+== Call for late arrivals - Saikat ==
+ * No new attendees
+ 
+== Motion to Adjourn ==
+ * Kiran Thota Moves
+ * Chuck White seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:15PM GMT =

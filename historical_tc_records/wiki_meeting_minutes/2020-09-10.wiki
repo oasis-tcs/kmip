@@ -1,0 +1,66 @@
+= Meeting Minutes September 10, 2020 - Draft =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (August 27, 2020)
+ * KMIP v2.1
+   * Status
+ * KMIP v3.0
+   * Hierarchy of Groups Spec Deltas (Bruce R) 
+   * Status update (wiki review)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Greg C moves, Jerry S seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from August 27, 2020'''
+
+ * Tim C moves, Jerry S second. No objections, abstentions, or comments. Minutes for the August 27, 2020 meeting approved.
+
+== KMIP 2.1 ==
+
+ * KMIP 2.1 Spec and Profile are now out for a 60-day Candidate OASIS Specification public review (link).  The review period ends on October 26, 2020.
+ * One comment received from TCAdmin regarding broken links in the KMIP Spec.  Tony C has created a comment resolution tracking log, populated it with the TCAdmin comment and has posted to the KMIP site.  See (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=67690).
+
+== KMIP 3.0 ==
+
+=== Hierarchy of Groups Spec Deltas ===
+
+ * Bruce R. presented the spec deltas associated with the Hierarchy of Groups proposal.  See (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=67698)
+ * Bruce R did note that given the current industry efforts to remove offensive terminology he is not sure that parent/child terms can continued to be used but for now he left this in the proposal for now until further guidance is provided by OASIS.
+
+'''Motion to approve the Hierarchy of Groups Spec Deltas in the KMIP 3.0 Specification.'''
+
+ * Tim C moves, Greg S seconds.  No objections, abstentions, or comments. Hierarchy of Groups updates approved.
+
+
+
+ * Tony C noted he is working on WD5 of the KMIP 3.0 Spec fixing a range of issues and will add the changes from this Hierarchy of Groups proposal.  He plans to post this WD this week and asked folks to use that version for any proposals still outstanding.
+
+=== Status Update ===
+
+ * Discussed and adjusted the due dates of the outstanding 3.0 proposals on the wiki (https://wiki.oasis-open.org/kmip/3.0) 
+
+== New Business ==
+ * TC Chair (Judy F) was contacted regarding establishing a liaison between the Trusted Computing Group (TCG) Storage WG and the KMIP TC.  Will address this in more detail in a future meeting.
+* Tony C mentioned that the International Cryptographic Module Conference (ICMC), which is a virtual event this year, will be held in two weeks (Sept 21-24, 2020).  See (https://icmconference.org/).  Tony C will be presented on OASIS KMIP vs. PKCS#11.
+
+== Next Meeting ==
+ * Next TC Meeting: September 17, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Steve E (Semper Fortis)
+
+== Motion to Adjourn ==
+ * Tim C moves and Chuck W seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:19 US-EST ==

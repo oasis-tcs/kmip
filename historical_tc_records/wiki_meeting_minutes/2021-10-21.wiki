@@ -1,0 +1,38 @@
+= Meeting Minutes October 21 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from September 23, 2021'''
+
+ * Jerry moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the September 23, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== KMIP wiki review (required profiles and test cases) ===
+ * No comments on the latest working draft.
+ * Tim H is making progress on the test cases and will provide an update at the next meeting.
+ * Judy has no new updates on the usage guide.
+
+== Interop Test ==
+ * The Interop is still waiting on the profiles and test cases.
+
+== New Business ==
+=== Daylights Savings ===
+ * Note that Daylight Savings for the US ends Nov 7.
+
+== Next Meeting ==
+ * Next TC Meeting: November 18, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:13 US-EST ==

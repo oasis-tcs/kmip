@@ -1,0 +1,53 @@
+= Meeting Minutes June 29, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (June 15, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from June 15, 2023'''
+
+ * Tim H moves,  Tim C seconds. No objections, abstentions, or comments. Minutes for the June 15, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S is beginning to work on the updates to the Spec coming from the updates to the Profiles and Test Cases.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H uploaded updates to the Profiles (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=71163) and Test Cases (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=71164) for review. 
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy is waiting for updates coming from the changes to the Spec, Profiles, and Test Cases.
+
+== Interop ==
+ * September 2023 remains the target date.	
+ * Greg S will send out an update to confirm the previously identified participants and to see if anyone else is interested in participating.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: July 13, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:09 US-EST ==

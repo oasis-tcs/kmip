@@ -1,0 +1,70 @@
+= Meeting Minutes November 5, 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ 
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (October 29, 2020)
+ * KMIP v2.1 
+   * Status update 
+ * KMIP v3.0 
+   * Status update (wiki review)
+ * Next KMIP (Virtual?) F2F Meeting 
+ * KMIP Interop 2021
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Greg S seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from October 29, 2020'''
+
+ * Tim H moves, Greg S seconds. No objections, abstentions, or comments. Minutes for the October 29, 2020 meeting approved.
+
+== KMIP 2.1 ==
+
+ * Now that the TC has approved last week's meeting minutes TCAdmin can go ahead and set up the required member consensus vote for making KMIP 2.1 Specification and Profiles documents OASIS Specifications.
+ * All going well, KMIP 2.1 would be published late November/early December 2020.
+
+== KMIP 3.0 ==
+
+ * Still have outstanding proposals for KMIP 3.0 and Tony C will move the dates for these proposals on the wiki (https://wiki.oasis-open.org/kmip/3.0) after this meeting.
+ 
+== Next KMIP (Virtual?) F2F Meeting ==
+
+ * Meeting will be virtual.
+ * Normally we hold the F2F around the RSA Conference (February to April)
+ * After a brief discussion, the TC targeted the week of 22 February 2021 for the event.  
+ * Straw poll will be set up to gather the best dates and times for this meeting from the TC members.
+
+== KMIP Interop 2021 ==
+
+ * TC discussed the KMIP Interop 2021 event.  
+   * TC needs 8-9 months to prepare for an Interop event 
+   * Normally this event is held in conjunction with the RSA Conference
+   * Given current travel restrictions it may not be possible for many of the TC members to attend
+   * The TC didn't meet the minimum number of participants required by OASIS for the RSA Conference booth where the Interop is showcased.  Deadline was the end of June 2020.
+   * OASIS has not confirmed whether the OASIS booth at the RSA Conference is going ahead.
+
+ * TC needs to consider alternative Interop event plans.  The TC will revisit this topic and take a vote on the KMIP Interop 2021 event at the next TC meeting.
+
+== New Business ==
+ * N/A
+
+== Next Meeting ==
+ * Next TC Meeting: November 12, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * N/A
+
+== Motion to Adjourn ==
+ * Tim H moves, and Greg S seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:28 US-EST ==

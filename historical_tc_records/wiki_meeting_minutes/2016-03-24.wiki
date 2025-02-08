@@ -1,0 +1,90 @@
+## page was copied from MeetingMinutes/March252016
+= Meeting Minutes March 24, 2016 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call 
+ * Approve Agenda 
+ * Approve minutes (24th & 25th Feb - Face to Face) 
+ * PKCS#12 import - create proposal and test cases (Bruce R.)  
+ * Link Handling - Bring forward a proposal (Tim H. & Mark J.) 
+ * SP800-57 update - create a proposal for enumerations and attributes (Chuck W) 
+ * PKCS#11 alignment - create proposal to add attributes - Sensitive and Extractable (Bob L.) 
+ * Administrator attributes - create a proposal for the attributes that can be added/modified/deleted by a key administrator or user (Gerald S.) 
+ * Multiple CA handling - expand upon query more and revisit for (Bruce R.) 
+ * Sensitive Attributes - Distribute a spreadsheet that contains attribute examples (Chuck W.) 
+ * Tape Library Profile - Create an Erratta addendum to clarify use of fewer query commands but not more query (Tim H.) 
+ * Plugfest - Approach SNIA to see about participation as part of event (Tony) 
+ * New business 
+ * Adjourn
+ 
+=== Motion to approve Agenda ===
+ * Tim H. Moves
+ * Tim C. Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve minutes for 24th 25th Feb ===
+ * Tim H Moves
+ * Mark J Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== PKCS#12 Import (Bruce R.) ==
+ * Bruce walked through material posted to list prior to meeting
+ * Alias/Friendly Name not handled in Get
+ * Case insensitive - folds to lowercase; so might want to define a new attribute for this
+ * Mark J thinks this makes sense. Tony agrees adding a new attribute makes sense.
+
+=== Motion to approve adding PKCS#12 Friendly Name  ===
+ * As a single value TextString 
+ * Jerry moves
+ * Mark seconds
+ * No objections
+ * No abstentions
+ * Motion approved 
+
+== Link Handling - Bring forward a proposal (Tim H. & Mark J.) ==
+ * Defer to next meeting
+
+== SP800-57 update - create a proposal for enumerations and attributes (Chuck W) ==
+ * Defer to next meeting - Chuck not on call.
+
+== PKCS#11 alignment - create proposal to add attributes - Sensitive and Extractable (Bob L.) ==
+ * Defer to next meeting - Bob not on call.
+
+== Administrator attributes - create a proposal for the attributes that can be added/modified/deleted by a key administrator or user (Gerald S.) ==
+ * Defer to next meeting - Bob not on call.
+
+== Multiple CA handling - expand upon query more and revisit for (Bruce R.) ==
+ * Defer to next meeting
+
+== Sensitive Attributes - Distribute a spreadsheet that contains attribute examples (Chuck W.) ==
+ * Defer to next meeting - Chuck not on call.
+
+== Tape Library Profile - Create an Erratta addendum to clarify use of fewer query commands but not more query (Tim H.)  ==
+ * Tim has reached out to co-editors of profile and is in progress.
+
+== Plugfest - Approach SNIA to see about participation as part of event (Tony) ==
+ * Tony has had multiple requests; has not yet talked with SNIA about it. Defer to next meeting.
+
+== New business ==
+ * Judy notes - public review completed with no comments on 1.3 Specification and Usage Guide.
+ * Tim noted that Profiles and Test Cases haven't been through - from Jan 14th meeting.
+
+== Late arrivals ===
+ * Joe B.
+ * Justin C.
+
+== Motion to Adjourn == 
+ * Tim C. Moves
+ * Tim H. seconds
+ * No objections
+ * No abstentions
+ * Motion Approved/not approved
+ 
+= Meeting Adjourned at 9:25PM GMT =

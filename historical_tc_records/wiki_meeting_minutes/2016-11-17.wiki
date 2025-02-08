@@ -1,0 +1,107 @@
+= Meeting Minutes November 17, 2016 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (November 10, 2016)
+ * KMIP 1.3 update (Tony C.)
+  * Specification and Profiles
+  * Response to Comments
+ * KMIP 1.4 update (Tony C.)
+  * Create Secret Data Proposal (Gerald S.)
+  * Import Export Operation (Anthony Berglas - Anthony B.)
+  * XTS Proposal (Tim H.)
+  * Test Cases (Tim H.)
+  * Profiles (Tim H.)
+ * KMIP 2.0 update (Tony C.)
+ * RSA 2017 Interop planning (Tony C.)
+ * Call for Additional Attendees
+ * Adjourn Meeting
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) Moves
+ * Tim Chevalier (Tim C.) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve November 10, 2016 Meeting Minutes ===
+ * Tim H. Moves
+ * Gerald Stueve (Gerald S.) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== KMIP 1.3 update (Tony C.) ==
+ * No new comments from the current 60 day review period
+ * Review period is almost over so far so good
+ 
+== KMIP 1.4 update (Tony C.) ==
+ * Proposal for client to be able to create secret data (Gerald S.)
+  * Specific use case is to have server generate password
+  * Jerry will create a test case
+ * Import/Export operation (Anthony B.)
+  * Ability migrate object, all attributes including state & UUID
+  * Highly priviledged operation
+  * Include both wrap/unwrap and plain text test cases to cover FIPS potential issues
+ * XTS Handling Proposal (Tim H.)
+  * Three options (Do nothing, break AES, Allow server to create 512 bits in two keys when XTS is create requested)
+  * Problem is that wrapped keys can be stored that are larger than 256 bits as an AES key object
+  * IEEE P1619 Std 2007 contains a specific recommendation for wrapping keys either individually or both as single object
+  * Bob Lockhart (Bob L.) stresses the need for Option 1 based on pre-existing standards from IEEE and NIST
+  * Judy is volunteering to create a profile with help from Tim H., Tim C. and review Bob L.
+  * Preferred Option is Option 1 with additional documentation in usage guide and an appropriate profile
+   * Test cases will be included
+ * Test Cases uploaded for version 1.4 interop including draft Test Cases documentation
+ * Profile document is uploaded and change to TLS to require TLS 1.2 removing 1.0 and 1.10
+  * Removed Triple-DES as algorithm
+  * Update of the base-line server requirements for specific attributes
+ * Spec and Usage Guide updates
+  * In progress
+  * Might require some additional usage guide text for new proposals
+
+=== Motion to include ability to create secret data type in KMIP 1.4 specification ===
+ * Tim H. Moves
+ * Tim C. Seconds
+ * No objections
+ * No abstentions
+ * Motion is approved 
+
+=== Motion to include import/export function in KMIP 1.4 specification with addition of wrap/unwrap ===
+ * Bob Lockart Moves
+ * Mark Joseph (Mark J.) Seconds
+ * No objections
+ * No abstentions
+ * Motion is approved 
+
+=== Motion to include Profile and Usage Guide in KMIP 1.4 specification ===
+ * Tim C.
+ * Mark J.
+ * No objections
+ * No abstentions
+ * Motion is approved 
+
+== KMIP 2.0 (Tony C.) ==
+ * Looking for F2F agenda items
+
+== RSA Interop planning (Tony C.) ==
+ * Call for a motion to approve the KMIP Interop Guidelines version 1.4a as the formal process for RSA 2017 interop testing
+ * Jane Harnad is looking to organize a call for the interop group next week
+
+== Face to Face Meeting ==
+ * Straw Poll for KMIP meeting days is up, please respond
+ * Currently 8 votes for days
+ 
+== Call for Late Attendees ==
+ * One additional attendee
+
+== Motion to Adjourned ==
+ * Tim H. Moves
+ * Tim C. seconds
+ * No objections
+ * No abstentions
+ * Motion is approved
+ 
+= Meeting Adjourned at 10:00PM GMT =

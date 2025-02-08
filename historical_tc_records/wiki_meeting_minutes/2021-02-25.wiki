@@ -1,0 +1,65 @@
+= Meeting Minutes February 25 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from February 11, 2021'''
+
+ * Tim C moves, Greg seconds. No objections, abstentions, or comments. Minutes for the February 11, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+ * There are two items outstanding: PKCS#11 and Locate Predicates. Both are moved to the next meeting. CBOR has been moved to 3.1.
+ * Tim H brought up a situation where in the PKCS#11 XML there would be a normative reference to PKCS#11 Profiles 3.1, which is not yet complete.
+ * Tony C suggested leaving it as normative and updating it later as an editorial change. 
+ * Tony C will confirm the opinion with Chet.
+
+=== Ephemeral return payload ===
+ * Tony C will upload a new working draft with the adjustment to ephemeral return payload included. 
+ 
+== KMIP Summit ==
+ * The target date is still mid to late April.
+ * The topic list needs to be finalized by the 3rd week of March.
+ * For those interested in presenting, please send your topic, topic description and time needed to Tony C and Judy. 
+
+== KMIP TC Co-Chair election ==
+ * Only nominations from Tony C and Judy were received during the nomination period.
+
+"Motion to approve Judith Furlong and Tony Cox to continue as Co-Chairs of the KMIP TC."
+
+ * Tim H moves, Jerry seconds. No objections, abstentions, or comments. Motion approved.
+ 
+== KMIP TC Meeting time review ==
+ * TC members in India have sent in a request for a new meeting time more suitable for them to be able to attend.
+ * Rinkesh suggested the following options
+  * Record these meetings so that people can go through them offline
+   * Tim C suggested that recordings be made available to TC members and deleted after a time period so they are not part of the permanent record.
+   * Tony C said that the Zoom recoding would be available to everyone who had the invitation to that meeting.
+   * Chuck suggested that people check with their companies about being recorded.
+  * Plan meetings in different time zones every alternate week to cover all the participants
+   * Tony C has participated in these types of TCs with little continuity of success.
+   * There were no other comments about this option.
+  * Start meetings couple of hours early or delay it by 3-4 hours
+   * Moving the start time either way impacts someone. 
+   * Roughly 40 percent of the TC is in the east coast time zone.
+ * There were no objections to further looking into recording meetings
+ * Tony C will discuss recording the meetings with Chet. The other two options will be put on hold for now.
+ 
+== New Business ==
+ * None
+ 
+== Next Meeting ==
+ * Next TC Meeting: March 11, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Sue, Deepak, Chanrda
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:25 US-EST ==

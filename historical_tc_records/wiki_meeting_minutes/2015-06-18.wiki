@@ -1,0 +1,46 @@
+= Meeting Minutes June 18, 2015 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Review face to face action items 
+ * New business
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved/not approved 
+
+== Review Face to Face Action Items ==
+ * Bob L. will get action items into Jira by next meeting
+ * NIST Security Attributes (Bruce R., Mark J. & Chuck W.)
+ * KMIP Multipart Streaming Messages (John L.) Completed and posted
+ * Streaming & Large Crypto Operations (Mark J. & Anthony)
+  * Proposal should be complete by July 23rd
+ * Attestation test cases (Tim H. & Mark J.) target of July 16
+ * ACL (Anthony to update slides)
+ * Error Handling (Bruce R. & Richard)
+  * Had initial discussion and get back to TC next week
+ * PKCS#12 Use Cases (Chuck W., Jerry & Steve W.)
+  
+== New Business ==
+ * Feedback on Tape Library profile
+  * Two items to be marked as optional
+  * Tim to provide update in next two to three weeks
+ * Version 1.3 needs to move on to OASIS
+  * Start next week to push forward
+ 
+== Call for late arrivals - Tony C. ==
+ * No new attendees
+ 
+== Motion to Adjourned ==
+ * Tim H. Moves
+ * Jeff Bartell seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:16PM GMT =

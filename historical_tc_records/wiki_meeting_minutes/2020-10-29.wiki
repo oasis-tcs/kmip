@@ -1,0 +1,54 @@
+= Meeting Minutes October 29 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Greg moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from October 22, 2020'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the October 22, 2020 meeting approved.
+
+== KMIP 2.1 ==
+=== Status ===
+ * Public review has closed. 
+ * There were no comments on the spec other than the ones from TC Admin. There were no comments on the profiles.
+ 
+ * There were no questions or comments about the comment resolution log.
+ 
+'''Motion to accept the published version of the KMIP Spec v2.1 CS01 PR Comment Resolution Log as posted on October 26 2020.'''
+
+ * Judy moves, Tony C seconds. No objections, abstentions, or comments. Motion approved.
+ 
+'''Motion to approve the Co-Chairs requesting that TC Administration hold a Special Majority Vote to approve KMIP Specification v2.1 Working Draft 07 as Candidate OASIS Standard and present this Candidate OASIS Standard to the membership for an OASIS Standard vote in accordance with the procedures documented in 3.4.2, Public Review of a Candidate OASIS Standard in the OASIS TC Process. By passing this motion, the TC affirms that (a) Working Draft 07 contains changes from Candidate OASIS Standard 01; (b) that the changes made are documented in https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/67887/KMIP-Spec-v2.1-CS-PR-Comments-TC%20Response-Final.pdf; (c) that these changes are Non-Material; and (d) that these changes are made ONLY to address the comments received during the public review period.'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Motion approved.
+
+'''Motion to approve the Co-Chairs requesting that TC Administration hold a Special Majority Vote to approve continuing with an OASIS Standard ballot for KMIP Profiles v2.1 Committee Specification 01 as a Candidate OASIS Standard.'''
+
+ * Tim H moves, Chuck seconds. No objections, abstentions, or comments. Motion approved.
+
+== KMIP 3.0 ==
+=== Status update (wiki review) ===
+ * Refer to the wiki for the latest schedule of the topics.
+ 
+== New Business ==
+ * Greg brought up Interop and RSA and how they would be handled given current circumstances. 
+ * Tony C has reached out to Jane to get further information and is waiting for a reply.
+ * Tony C will add them, along with the F2F, to the agenda next week to discuss.
+ * Tony C asked the organizations that have signed for the Interop next year to be ready to discuss their plans at next week's meeting.
+ 
+== Next Meeting ==
+ * Next TC Meeting: November 5, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Mark, Ed, Jessie
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:17 US-EST ==

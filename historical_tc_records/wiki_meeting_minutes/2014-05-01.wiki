@@ -1,0 +1,32 @@
+= Meeting Minutes May 1, 2014 =
+== Meeting commenced 1:00PM PDT ==
+ * Roll call Subhash
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Review of Public Review comments - Tony Cox
+ * Version 1.3 Status Update - Subhash 
+
+=== Motion to approve Agenda ===
+ * Tim H. motions to approve agenda
+ * Bob L. Seconds
+ * No Objections
+ * No Abstentions
+ * Motion Approved
+
+== Review of Public Review Comments - Tony Cox ==
+ * TC members should provide feedback via email
+
+== Status update for 1.3 proposals - Subhash Sankurapati ==
+ * Update for key shredding updates - Judith Furlong
+ * Lifecycle & key state model update - Chuck White & Bob Lockhart
+ * Modification of Locate function - Tim Hudson
+
+== Motion to Adjourn ==
+ * Tim Moves to Adjourn
+ * Bob L. Seconds
+ * No Objections
+ * No Abstentions
+ * Motion Approved
+
+= Meeting Adjourned at 1:17PM PDT =

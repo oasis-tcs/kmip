@@ -1,0 +1,78 @@
+= Meeting Minutes March 19, 2015 =
+== Meeting commenced 9:01PM GMT ==
+ * Roll call by Saikat
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Motion to approve Agenda
+ *  Motion to approve March 12th, 2015 Meeting Minutes
+ * Welcome HP's participation as TC members
+ * Review KMIP v1.2 COS status (Saikat)
+ * Review KMIP v1.3 documents status updates
+  * Spec (Tony)
+  * Profiles (Tim H/BobL)
+  * Test Cases (Tim H/Mark J)
+  * Usage Guide (Judy F)
+ * Face to face planning and logistics
+ * RSA Interop update (Tony)
+ * New business
+ * Motion to adjourn
+ 
+=== Motion to approve Agenda ===
+ * Tim H Moves
+ * Tim C seconds 
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve March 12, 2015 meeting minutes ===
+ * Chuck W Moves
+ * Tim H Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== Welcome HP's participation  ==
+ * Saikat welcomes HP's participation - from Stan, Steve and Indra. Looking forward to continued contributions.
+ * Notes that HP has submitted re-contribution of previous contributions. Saikat will update the list on the wiki.
+
+== KMIP v1.2 CoS Status ==
+ * No comments up to this point
+ * Saikat asked for test message to confirm it is operational - and it is - so still no comments - which is good.
+ 
+== KMIP 1.3 Status ==
+ * Specification - (deferred - Tony sick) 
+ * Profiles - Tim working on it based on last weeks decisions on approach - hoping to target next week
+ * Test Cases - Tim one test case is missing - will update for next week. Mark confirms. 
+ * Usage Guide - Judy - working on it - expecting to send review version to those who provided comments and then will upload after confirming comments have been addressed.
+
+== Face to Face (F2F) Planning and Logistics ==
+ * We will run the two days as two separate meetings (as per last weeks decision)
+ * Tony will put up a straw poll so we have numbers for Richard - that is still pending
+ * Tim has update (from Tony) for PKCS#11 f2f - PKCS#11meeting dinner on Wed night - Cryptsoft, P6R available, Fornetix won't make it, Saikat+RichF local. SteveW available. SteveH available.
+ * It makes sense to have a combined dinner - Tony/Saikat will coordinate. 
+ * Friday - Saikat not available that day. Full agenda. 
+ * Looked through the items at [[1.4]] and updated wiki 
+ * Two items allocated to Saikat discussed - Error handling - 30 minute slot; Groups - defer unless someone else wants to present on the topic.
+
+== RSA Interop ==
+ * Tim updated status - interop is next week; expecting results back before f2f; 
+ * Mark has only three server sheets - waiting on those. Tim suggested sending out email to the list.
+
+== New Business ==
+ * ChuckW/TimC - would like a 10-15 minute slot for next weeks meeting on update/rewrite/chainsawing use cases.
+ * Saikat will add to agenda for next week.
+ 
+== Call for late arrivals ==
+ * Joshua
+
+== Motion to Adjourned ==
+ * Tim H Moves
+ * Jerry seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+==== Meeting Adjourned at 9:20PM GMT ====

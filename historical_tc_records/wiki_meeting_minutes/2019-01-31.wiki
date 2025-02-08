@@ -1,0 +1,65 @@
+= Meeting Minutes 31 January 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (January 24, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Spec, Profiles & Test Cases (Tony C)
+  * Usage Guide (Judy F)
+ * List discussion from Alexis Abell
+ * Face to face TC meeting in Feb 2019 (Bay Area, CA)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from January 24, 2019'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Minutes for the January 24, 2019 meeting approved.
+
+== Interop for RSA 2019 ==
+ * Interop testing is ongoing.  This is the first week and the testing will conclude next week.
+ * Tony C noted that the testing has identified some items that will require adjustment in the Specification and Test Cases.
+ * Tony C is working the booth layout and signage with OASIS folks.
+
+== KMIP 2.0 ==
+=== Spec, Profiles & Test Cases (Tony C) ===
+ * Tony C is keeping a working list of items that needs to be cleaned up in the documents prior to their public review.  Expect more items to be added as Interop testing progresses.  List will be reviewed with the TC at the F2F.
+
+=== KMIP v2.0 Usage Guide (Judy F) ===
+ * Judy F confirmed that she had not received any of the outstanding KMIP 2.0 Usage Guide content.
+ * There are 17 proposals that still required UG test listed on the Wiki (https://wiki.oasis-open.org/kmip/2.0).  Tony C made an appeal to TC members to submit their outstanding UG text.
+
+== List discussion from Alexis Abell (aka Opaque Objects Have State) ==
+ * Due to the Interop testing activities, neither Tony C or Tim H have been able to complete the actions discussed at last week's meeting.  Namely:
+  * Tony C will issue a KMIP 2.0 Spec delta which reflect the changes necessary to note that Opaque objects had State.  This same delta can form the basis of the KMIP 1.4 Errata if the TC decides to move forward with one.
+  * Tim H will develop KMIP 2.0 and KMIP 1.4 test cases that will be able to verify the statue of Opaque objects are properly set and transitioned.
+  * Tony C will work with Tim H to do a KMIP 2.0 Test Case document delta to reflect the new test cases.
+ * Both Tony C and Tim H plan to work on these actions, but they may not be able to completed them until the Interop testing is complete.
+
+== Face to Face TC Meeting in Feb 2019 ==
+ * Tony C noted that 14 TC members had voted so far on the ballot for the joint KMIP/PKCS#11 TC dinner on Thursday February 27, 2019.  Please vote if you plan to be in CA for the F2F.
+ * Tony C still needs to create the straw polls to determine in-person and remote attendance for the F2F.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: 7 February 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Bruce R (CryptSoft) John L (QLabs), Jason N (KeyNexus), Steve P (Thales)
+
+== Motion to Adjourn ==
+ * Tim H moves, Greg S seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:11 US-EST ==

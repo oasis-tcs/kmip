@@ -1,0 +1,108 @@
+= Meeting Minutes 14 December, 2017 - Draft =
+== Meeting commenced 10:00PM GMT ==
+ * Roll call Judith Furlong (Judy F.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (December 07, 2017)
+ * KMIP 1.4 Published to OASIS site (Judy F)
+ * KMIP 2.0
+ * New KMIP 2.0 Specification WD available (Tony C)
+ * KMIP v2.0 Profiles (Tim H)
+ * KMIP v2.0 Test Cases (Tim H)
+ * KMIP v2.0 Usage Guide (Judy F)
+ * Wrapping Operations Proposal (Bob L)
+ * Key Value for Wrapped Objects Query (Tim H)
+ * Usage Masks Discussion (Tim H)
+ * Review KMIP v2.0 wiki (https://wiki.oasis-open.org/kmip/2.0) (Tony C.)
+ * New Business
+ * Next Meeting (Holiday season planning)
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+=== Motion to approve Agenda ===
+ * Tim S. moves, Tim H. seconds
+ * No objections, no abstentions, and no comments.
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve December 7, 2017 meeting minutes ===
+ * [[MeetingMinutes/07Dec2017|December 7, 2017]]
+ * Bruce R. moves, Chuck W. seconds
+ * No objections, no abstentions, and no comments.
+ * Minutes approved
+
+== KMIP 1.4 Published to OASIS Web Site - Judy F. ==
+ * TC Admin has published the KMIP 1.4 Specification and Profiles documents
+
+=== Motion to acknowledge the work of the OASIS Admin ===
+ * Tony C. Moves, Tim C. Seconds
+ * No objections, no abstentions, and no comments.
+ * Minutes approved
+ 
+== KMIP 2.0 Updates ==
+ * Tony presented KMIP Specification v2.0 WD01 (presentation and document)
+ * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/62171/KMIP%20V2.0%20Change%20Summary.pdf|WD01 Presentation]]
+ * Covered changes to the Specification 2.0 document including editorial content, structure, cross references, etc.
+  * Removed cross references due to complexity of requirements for bookmark, cross reference, etc.
+ * Tony C. and Chuck W. working through document with input so far from Mark J. who has been picking up a some issues which will require discussion
+
+=== KMIP v2.0 Profiles (Tim H) ===
+ * Waiting for first version of Specification
+ * Update the profiles to match the new version of Specification
+ * Suggest we take some time to review the Specification before starting updates to Profiles and other supporting documentation
+ * There is a feedback loop that will occur, but some work needs to be started such as a single profile, test cases and usage set for XTS-AES as the most recent and fairly small compared to other profiles
+
+=== KMIP v2.0 Test Cases (Tim H) ===
+ * Waiting for first version of Specification
+ * Has hand rolled to see how they vary and seem to be better
+ 
+=== KMIP v2.0 Usage Guide (Judy F) ===
+ * Has the new template and work will begin with Specification WD01 release
+ * Appendix has been updated in 1.4 and is it actually being used since there is overhead in maintaining it
+
+== Server Wrapping Operation Proposal ==
+ * Bob L. preliminary proposal for server side wrapping operations
+ * Put together a list of interested parties
+  * Bob L., Judy F., Sue G., Bruce R., Antony, Jerry, Tim C., Chuck W.
+ * Don't mix with re-encrypt request just yet
+
+== Key Value for Wrapped Objects Query ==
+ * Tim H. to provide reviewed response
+ * Defer to next meeting
+ 
+== Usage Masks Discussion ==
+ * Tim H. provided new wording
+ * Defer to next meeting
+ 
+== Review KMIP v2.0 wiki ==
+ * Trapping information to add to wiki
+ * Defer to next meeting
+
+== New Business ==
+ * SNIA is shutting down SSIF officially as no longer necessary 
+  * Interoperability lab outside of SSIF will need to be revisited
+
+=== Motion that the TC shows support and approval to our co-chairs in the enforcement of our interop processes and that the view was from multiple companies and not a single vendor (e.g. the Interop Process and Standing Rules Document) ===
+ * Chuck W. Moves, Mark J. Seconds
+ * Jane Melia wants to understand if it is better to wait for discussion with OASIS Administration
+  * This has no effect on outcome of OASIS BoD and Administration and final decision
+  * The discussion will be picked up in the new year between the TC and OASIS
+ * No objections, no abstentions, or no comments
+ * Motion passes
+
+== Next Meeting ==
+ * Holiday season schedule
+ * January 11, 2018
+
+== Call for late arrivals (Judy F.) ==
+ * 0 additional members
+
+== Motion to Adjourn ==
+ * Tim H. moves, Tim C. seconds
+ * No objections, abstentions, or comments
+ * Meeting adjourned
+ 
+= Meeting Adjourned at 11:06PM GMT =

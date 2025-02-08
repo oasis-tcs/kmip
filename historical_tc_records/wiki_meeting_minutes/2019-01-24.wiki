@@ -1,0 +1,71 @@
+= Meeting Minutes 24 January 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (January 10, 2019)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Spec, Profiles & Test Cases (Tony C)
+  * Usage Guide (Judy F)
+ * List discussion from Alexis Abell
+ * Face to face TC meeting in Feb 2019 (Bay Area, CA)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from January 10, 2019'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Minutes for the January 10, 2019 meeting approved.
+
+== Interop for RSA 2019 ==
+ * Interop testing is in full swing.  Connectivity testing phase on-going.
+ * Detailed discussion on interop activities is being covered in separate meeting series.
+
+== KMIP 2.0 ==
+=== Spec, Profiles & Test Cases (Tony C) ===
+ * Tony C spoke with Chet E regarding status of KMIP 2.0 documents and the Errata process.
+ * The KMIP 2.0 Specification and KMIP 2.0 Profiles have been published as Committee Specification Drafts
+ * KMIP 2.0 Test Case document as a Committee Note Draft is still being prepared for publication
+
+=== KMIP v2.0 Usage Guide (Judy F) ===
+ * Judy F confirmed that she had not received any of the outstanding KMIP 2.0 Usage Guide content.
+
+== List discussion from Alexis Abell (aka Opaque Objects Have State) ==
+ * Continued the discussion from the last TC Meeting regarding the ambiguity in the current KMIP 1.4 (and earlier) Spec where portions of the spec note that Opaque objects have state while other portions of the spec imply they do not.  This has led to interoperability concerns (issued raised by Alexis Abell) with fielded implementations in which some treat Opaque objects as having state and others which do not.  Given the ambiguity of the specification one can make an argument for either implementation being correct.
+ * At the January 10, 2019 meeting, the TC agreed that the ambiguity had to be corrected in the Spec and clearly state that Opaque Objects have state.  The TC agreed to correct in the KMIP 2.0 Specification and appropriate test cases would also be written and executed.  The TC deferred a decision on an Errata for KMIP 1.4 until Tony C had a chance to speak with Chet E regarding the errata process.
+ * Tony C has spoken with Chet E.  The Errata process for a published standard is much shorter than it had been.  Erratas can be issued for non-material changes to the published documents.  Changes are considered material if an existing implementation would need to be changed in order to be compliant.  In the case of material changes a new specification is required.
+ * A lengthy discussion ensued as various TC membered discussed whether clarifying the ambiguity to note that Opaque objects had State was non-material or material in nature.
+ * The discussion concluded with the following plan:
+  * Tony C will issue a KMIP 2.0 Spec delta which reflect the changes necessary to note that Opaque objects had State.  This same delta can form the basis of the KMIP 1.4 Errata if the TC decides to move forward with one.
+  * Tim H will develop KMIP 2.0 and KMIP 1.4 test cases that will be able to verify the statue of Opaque objects are properly set and transitioned.
+  * Tony C will work with Tim H to do a KMIP 2.0 Test Case document delta to reflect the new test cases.
+  * All will be reviewed in a future TC meeting where the TC can decide whether to move forward with a KMIP 1.4 Errata or not.
+
+== Face to Face TC Meeting in Feb 2019 ==
+ * Tony C has posted the ballot for dinner on Thursday February 27, 2019.  Please vote if you plan to be in CA for the F2F.
+ * Tony C is collecting topics for the F2F agenda.  If you have any suggested topics please forward them to Tony C.
+ * Tony C still needs to create the straw polls to determine in-person and remote attendance for the F2F
+ * Alan B confirmed that the TC meeting will be in the Milky Way Conference room at the Thales San Jose CA office.  The maximum capacity for this room is 30 people.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: 31 January 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Alan B (Thales)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:30 US-EST ==

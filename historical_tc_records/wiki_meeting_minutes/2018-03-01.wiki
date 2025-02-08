@@ -1,0 +1,86 @@
+## page was copied from MeetingMinutes/22Feb2018
+## page was copied from MeetingMinutes/15Feb2018
+## page was copied from MeetingMinutes/8Feb2018
+= Meeting Minutes 1 March 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll call (Tony C)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (February 22, 2018)
+ * Interop Status (Tony C)
+ * Interop Booth & Presentations (Tony C)
+ * KMIP 2.0
+  * KMIP 2.0 Specification WD03 Discussion (Tony C)
+  * KMIP 2.0 (& 1.4) Test Cases and Profiles
+  * Wrapping Operations Proposal (Tim, Mark)
+  * Usage Masks Discussion (Nitin J/Tim H)
+ * KMIP 1.4 Erata
+ * KMIP TC F2F Meeting (April 2018)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Justin C. seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve February 22, 2018 meeting minutes =====
+ * Tim H moves, Gerry S seconds, No objections, abstentions, or comments. Minutes approved
+
+== Interop Status ==
+ * First technical interop meeting held yesterday with all participating companies in attendance.
+ * Getting ramped up for connectivity testing the week of March 12th and interop testing week of March 19th
+ * Ten clients and nine servers will be represented during this  interop testing event which should give the TC excellent data for validating KMIP 2.0
+
+== Interop Booth & Presentations ==
+==== Booth ====
+ * Still waiting on the booth layout to be distributed by Jane H, but do know that booth will be in the horseshoe shape with presentation area as was discussed during the meeting a few weeks ago.
+
+==== Presentations ====
+ * Tony C reported that he did no have a chance to work on the presentations.  He also indicated that he need to go through the materials that Judy F had sent him.
+ * Tony C repeated his request for volunteers to help pull the the decks together and/or to contribute content.
+ * Bruce R asked if there was a deadline for when the presentations needed to be completed.  Tony C indicated he has not set a deadline yet, but does realize that the presentations should be pulled together in the next few weeks to give time for the required review cycle by the TC
+ * Alan B asked for clarification on what kind of presentation content was needed and whether there would be template slides for the vendors or if they would free form.  Tony C indicated these were good questions that needed to be answered.
+ * It was suggested that we get the OASIS PowerPoint template to use for the presentation decks.  Bruce R suggested talking to OASIS staff to make sure that we get tempaltes that reflect the new OASIS logo and color scheme
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Specification ===
+ * Tony C asked if there were anything to discuss on the most recent WD3 --- no one raised any issues
+
+=== KMIP 2.0 (& KMIP 1.4) Test Cases/Profile Test Cases ===
+ * In support of the Interop, Tim H posted updated versions of the [[https://www.oasis-open.org/committees/document.php?document_id=62627&wg_abbrev=kmip|KMIP 2.0 Test Cases]], [[http://%20%20%20%20%20%20%20https://www.oasis-open.org/committees/document.php?document_id=62626&wg_abbrev=kmip|KMIP 2.0 Profiles]], [[http://%20%20%20%20%20%20https://www.oasis-open.org/committees/document.php?document_id=62629&wg_abbrev=kmip|KMIP 1.4 Test Cases]] and [[http://%20https://www.oasis-open.org/committees/document.php?document_id=62628&wg_abbrev=kmip|KMIP 1.4 Profiles]]
+ * Tony C asked Tim H whether these versions included a fix for the [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201802/msg00040.html|issue]] raised by Subhrojoy Roy of IBM,  Tim H said no and that an additional update to the documents will need to be done.  He will do this in the next few days.
+
+=== Wrapping Operations Proposal ===
+ * Deferred until the F2F
+
+=== Usage Masks Discussion ===
+ * Deferred until the F2F
+
+== KMIP 1.4 Errata ==
+ * Tim H stated  that the changes found through interop testing which affect the KMIP 1.4 Test Cases and Profiles documents are significant enough that the TC should formally issue an Errata for KMIP 1.4.
+ * Tim H also suggested that as part of this Errata the TC should issue a revised KMIP 1.4 Specification in the new format that has been used for the KMIP 2.0 Specification, which Tim H finds easier to read/navigate.  Mark J. noted that he liked the older KMIP 1.4 Specification format.
+ * Tony C as editior of the Specfication considered the ramifications of Tim's suggestion and the amount of effort that would be required to do this format change.
+ * Mark J raised a concern about the additional time and effort required of the TC to verify a reformatted KMIP 1.4 specification to ensure that nothing was broken.
+ * After the shock of the proposal started to wear off, Tony C raised the point that the TC had made a desision to take KMIP 1.4 through the ISO process.  The ISO process allows the TC to either hand over a KMIP version as is with no planned changes or we can tell ISO that the TC will take on maintainance of the standard.  This later option fits the existing TC process.  So ISO standardization might be a reason in favor of reformatting the KMIP 1.4 Specification into the KMIP 2.0 format to minimize the transition from 1.4 to 2.0 at the ISO level.
+ * TC decided to let folks consider the proposal and raise any questions/concerns on the reflector.  We will revisit the issue at next week's meeting and make a decision on whether to proceed with the reformatting proposal.
+
+== KMIP TC F2F Meeting (April 2018) ==
+ * F2F has been scheduled for April 12-13 2018 and is being held at the Thales facility in San Jose, CA
+ * A Straw Poll is running now for attendance at the F2F (twelve have responded so 10 in person, 2 remote) and will close on March 9, 2018.  Tony C asked anyone who has not responded to the poll to please do so as soon as possible
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * March 8, 2018
+
+== Call for late arrivals (Tony C.) ==
+ * Three Members (Chris H, Jim S. & James C.)
+
+===== Motion to Adjourn =====
+ * Tim H moves, Kevin M. seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:25 US-EST ==

@@ -1,0 +1,80 @@
+= Meeting Minutes November 12, 2015 =
+== Meeting commenced 21:01 GMT ==
+ * Roll called by Saikat Saha (Saikat)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve minutes
+ * KMIP 1.3 Status, discussion about the formatting of profiles document, specification document
+ * KMIP 1.4 Status
+ * NIST800-57 Update
+ * NIST800-131 Update (Bruce Rich)
+ * NIST 800-152 Update (Bob L.)
+ * RSA2016 Interop Update (Tony C)
+ * New business
+ * Adjourn
+
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) Moves
+ * Gerry Stueve (Gerry) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Motion to approve Nov 5, 2015 meeting minutes ==
+ * Tim H.  Moves
+ * Gerry Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== KMIP 1.3 Status ==
+ * Profiles - Reformat of the Profiles 1.3 document (Tim H.) - minor update loaded for style and cross reference issue
+ * Profiles - Tim Will proceed with adding in the remainder of the items.
+ * Specification - Server Port Textstring to Integer change noted by David F - Tony said this included.
+ * Specification - Out for comments with a couple of folks and will be uploaded in the next couple of days (Tony Cox)
+
+== KMIP 1.4 Status ==
+ * Anthony Berglas has done more work - not ready for presentation this week - do want to get it done for next weeks call
+
+== NIST SP800-57 Comments ==
+ * Chuck - NIST thanked for insights and said they will get back to him if they have any questions
+
+== NIST800-131 Update ==
+ * Bruce Rich noted that SKIPJACK is now out of vogue for encryption now and two key 3des will be disapproved for encryption by the end of this year.
+ * Both will still be okay for decryption but not for new encryption.
+ * SKFF has optional test cases which show usage for encryption, creating keys
+ * Is the suggestion to drop the encryption part or drop them entirely? Tim
+ * Tim and Bruce would like to just drop the optional test cases from the profile
+ * TC motion on this for next week. TC members are encouraged to review for next week
+ * Bruce notes there are other items in the document and it is relatively short; appendix C page 24 is summary with highlights and recommended TC member review for impact and further discussion
+
+== NIST 800-152 Update ==
+ * No BobL on call so deferred for next week.
+
+== Interop Status (Tony C.) ==
+ * Had first call this week. Logistics focused.
+ * Interop test calls are due to start - waiting on OASIS admin setting up separate technical mailing list.
+ * Once that is in place the technical interop calls will start. Will be in contact in the coming week or so.
+ * Anticipation aimed for interop testing around Jan - depending on the participants agreement and being able to get organised in time.
+ * Saikat - how many vendors - Tony - full 12 pods - probably 16 or so demos split between PKCS11 and KMIP.
+ * David F - question on can someone just do anything like KMIP 1.0 and have to make it work - Tony - objective is to make sure everything works - around defined test cases - must be test cases. Focus is always on newer versions of the spec otherwise we are not offering OASIS and booth visitors anything. Need to demonstrate active, vibrant interaction and development aimed  at meeting current industry requirements.
+ * Bruce R - it should be noted that we are always demonstrating a version of the protocol that is not yet standard - good development of a standard that is open - in one sense proving that the spec is good enough - and number two showing that we are actually working together. Exact terms of interop are one of the first things that the interop team will hash out.
+
+== Meeting 26th Nov cancelled ==
+ * Tim C moves
+ * Tim H & Bruce R seconds
+
+== Call for late arrivals - Saikat ==
+ * N/A
+
+== Motion to Adjourn ==
+ * Tim C. Moves
+ * Tim H. seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+
+= Meeting Adjourned at 21:25 GMT =

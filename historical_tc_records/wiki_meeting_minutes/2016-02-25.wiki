@@ -1,0 +1,150 @@
+= Meeting Minutes February 25, 2015 =
+== Meeting commenced 9:09AM PST ==
+ * Roll call Tony Cox (Tony C.)/Saikat Saha (Saikat S.)
+ * Quorum achieved (Trust me-TC)
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Multiple Certificate Authorities (Bruce B.)
+ * Import/Export (Anthony B.)
+ * Multi-instance attribute index (John L.)
+ * Sensitive Attributes (Chuck W.)
+ * Attestation (David F. / Tim H.)
+ * Recap on Error Code (Anthony B.)
+ * Profiles and Interop (Tim H. / Mark J.)
+ * Addition of CRLs (Tim H.)
+ * KMIP 1.4/1.5/2.0 (Saikat S. / All)
+ * Summer Plugfest (Tony C.)
+ * Wrap Up (Tony C.)
+ * Adjourn
+ 
+=== Motion to approve Agenda ===
+ * Chuck W. Moves
+ * Tim C. Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Multiple Certificate Authorities (Bruce B.) ==
+ * https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57628/Choose%20A%20CA%20v3.pptx
+ * Q: Is Issuer name informative enough? Perhaps "purpose" of CA would be better (Judy F.)
+ * Could do more, is name adequate?
+
+=== Action Items ===
+ * Bruce R. to expand upon query more and revisit.
+ 
+== Import/Export (Anthony B.) ==
+ * https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57629/2016-02-24-F2F-Import-Export-Operation.pdf
+ * Q: Export of wrapped objects? (Gerry S.)
+ * Q: Purpose of this compared to backup/restore functions? (Steve W.)
+ * Q: Import of already used UUIDs? (Bruce R.)
+ * Q: Destroy function needs some definition (Chuck W.)
+ * Item held for future discussion
+
+== Multi-instance attribute index (John L.) ==
+ * https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57611/Multi-instance%20Attribute%20Precedence.pdf
+ * Q: IS this this just a first in last out  or some variant? (Tim C)
+ * Presentation supplied by Tim H. re where this causes impacts.
+ * https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57630/2016-02-24-F2F-CryptographicParameters.pdf
+ * Discussion re order of precedence for cryptographic operations (John L. Tim H. Chuck W. Bruce R.)
+ * Least astonishment principle - order specified by client (Chuck W.)
+ * Statement: Open to interpretation, up to current release, both interpretations should be correct (John L.)
+ * Statement: If we accept both then the implication is that unacceptable outcomes for cryptographic implementations. There can be only one acceptable interpretation. Allowing two simply is non-interoperable. Only one vendor is suggesting that the specification should be able to be interpreted in an alternate non-interoperable manner and that interpretation requires accepting that non-interoperable outcomes are intended which is the opposite of the purpose of the specification. (Tim H.)
+ * Statement: What form of words could be used to clarify in standard? 1.3/1.4? (Tony C.)
+ * Statement: Does anyone agree that we need to put clarifying text in the standard? (All agreed)
+ * Statement: Servers must respect the attribute order specified by the client when allocating attribute index numbers. (Tim H.)
+ * Statement: Makes it clear how it should be implemented in future. (John L.)
+ * Statement: Any statement being added is not intended to support an alternate interpretation in current implementations. (Tim H.)
+ 
+=== To include the text requested by Tim above in the specification re servers (Servers must respect the attribute order specified by the client when allocating attribute index numbers.) ===
+ * Tim H. Moves
+ * Chuck W. Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+=== Action Item ===
+ * Revisit the requirements or options for providing guidance for KMIP 1.2 and 1.3 (All)
+ 
+== Sensitive Attributes (Chuck W.) ==
+ * States to consider include pre-active, active, compromised and destroyed
+ * Are there additional requirements
+ * Potential use of new Enumeration text string type for 2.0 (Tim H.)
+ * Chuck W. - this item may need to move to 2.0 - to discuss further
+
+=== Action Item ===
+ * Distribute a spreadsheet that contains attribute examples (Chuck W.)
+
+== Recap on Error Code (Anthony B.) ==
+ * Defer to post face to face
+  
+== Profiles and Interop (Tim H. / Mark J.) ==
+ * Verification process matching
+ * Anthony's Client/Server Correlation would alleviate the server side vendor burden
+  * General consensus is it would be a good thing when server vendors polled
+ * Automation of spreadsheet fill in would be a benefit for client to server communications
+ * Cleanup recommended on responses are required, optional, etc... (Steve W.)
+ * Four 1.4 test cases with only three tests implemented due to time
+  
+=== Motion to respond to SSIF with the following: If the client is performing operations outside of the existing test cases, then it is outside of profile conformance as defined in Section 4 and thus not a conforming client. ===
+ * Bob L. Moves
+ * John L. Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+=== Motion to draft an Errata document with co-authors of Tape Library profile document ===
+ * Bob L. Moves
+ * Chuck W. Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+=== Action Items ===
+ * Create an Erratta addendum to clarify use of fewer query commands but not more query (Tim H.)
+
+== KMIP 1.4/1.5/2.0 (Saikat S. / All) ==
+ * Wiki list for [[https://wiki.oasis-open.org/kmip/1.4|1.4]] is the current target with owners and interested parties assigned
+ * Should we do a 1.5?
+ * Items such as deprecation of items 
+
+=== Motion To have release following 1.4 to move directly to 2.0 ===
+ * Tim H. Moves
+ * Bob L. Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== Summer Plugfest (Tony C.) ==
+ * Put it next to something such as a trade show or face to face
+ * Goal to complete the specification and test cases
+ * Align a face to face with the plugfest
+ * Events that we could put it beside such as NIST workshop or SNIA event
+ * Looking for date in August or September for F2F & plugfest
+
+=== Action Items ===
+ * Approach SNIA to see about participation as part of event
+
+== New business ==
+ * Schedule next meeting for third week of March (Saikat S.)
+ * What are people hearing about KMIP in general? (Saikat S.)
+ 
+== Call for late arrivals - Tony C. ==
+ * No new attendees
+ 
+== Motion to Officially thank NetApp for Hosting the face to face meeting ==
+ * Tim H. Moves
+ * Chuck W. seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+== Motion to Adjourn ==
+ * Tim H. Moves
+ * Tim C seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 15:36PM PST =

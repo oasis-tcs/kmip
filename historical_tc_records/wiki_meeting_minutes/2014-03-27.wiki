@@ -1,0 +1,60 @@
+= Meeting Minutes March 27, 2014 =
+== Meeting commenced 1:00PM PDT ==
+ * Roll call Subhash
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Proposal from Bob for Cloud clients
+ * 1.2 public review status, re-chartering
+ * RSA 2015 Interoperability
+ * 1.3 Housekeeping
+ * 1.3 Status updates
+
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) motions to approve agenda
+ * Kiran Kumar Thota (Kiran) Seconds
+
+== Overview of Enhancement to Profiles - Bob Lockhart (Bob L.) & Kiran ==
+ * Anyone who wants can provide feedback to Bob L. & Kiran via the email reflector
+
+== Review of feedback for 1.2 documents from public review - Tim H. ==
+ * Editors need to review the comments associated with their documents by next week
+ * Tim H. to look at his 11 documents
+ * Bob L. to consolidate into single spreadsheet for check off of resolutions
+
+== Submission of Base Profiles document for public review - Saikat Saha (Saikat) ==
+
+== Update of call for IP and joining versus observing ==
+ * Indra Fitzgerald - No update for HP
+ * Follow up with Warren at Dell (who was assigned?)
+ * Bob L. to call Cryptomathic and Voltage
+ * Axway needs contact to see if there was any input
+
+== RSA 2015 Interop registration - Tony Cox ==
+ * Need to contact Jane Harnad by end of month to participate
+
+== Status of 1.3 proposals – Subhash ==
+ * Responsible parties need to update status, changes and additions to wiki
+ 
+== Call for items to include for Next Meeting agenda ==
+ * Review of 1.2 comments spreadsheets - Editors of each document
+ * Proposal for Deprecation - Bob L.
+ * Proposal presentation for new state model and associated transitions - Bob L.
+
+== Call for additional items: ==
+ * NIST Key management workshop review
+
+== NIST Key Management Workshop recap Chuck White ==
+ * Security requirements for federal as well as interoperability
+ * Time to put KMIP in NIST SP800-57 documents
+ * Interoperability was the input from not just OASIS
+ * Key state updates for destroyed and shredded
+
+== Call for late attendees ==
+ 
+== Motion to Adjourn ==
+ * Tim Moves to Adjourn
+ * Bruce Seconds
+ * Motion Approved
+
+= Meeting Adjourned at 1:47PM PDT =

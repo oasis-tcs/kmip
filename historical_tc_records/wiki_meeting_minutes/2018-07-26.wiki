@@ -1,0 +1,77 @@
+## page was copied from MeetingMinutes/12July2018
+## page was copied from MeetingMinutes/28Jun2018
+= Meeting Minutes 26 July 2018 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (July 12, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Key Format Type Spec Update - revisit - Bruce
+  * AWS Signature Spec Update - revisit
+  * Client Provisioning Spec Update - Anthony B
+ * KMIP v2.0 Content Items Review
+ * KMIP v2.0 Action Items Discussion
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from July 12, 2018 =====
+ * Jerry S moves, Greg S seconds, No objections, abstentions, or comments. minutes for the July 12, 2018 meeting approved.
+
+== RSA 2019 Interop ==
+ * All slots for the current 20x20 booth are filled.
+ * Participants are under review by RSA Conference
+ * Jane H is in negotiation to see if a 20x30 booth is possible and in which case 4 more slots would be available
+ * If you are still interested please contact Tony C and Jane H.
+
+== KMIP 2.0 ==
+=== Key Format Type Spec Update - Revisit (Bruce R) ===
+ * Bruce R posted an [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63490|update]] to the spec changes for Key Format to the reflector today.
+ * Bruce R walked the TC through the changes to the spec.  The TC didn't have additonal questions or concerns with the updated proposal.
+
+===== Motion to approve the proposed specification changes for Key Format Type and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Chuck W moves and Jerry S seconds, No objections, abstentions, or comments. Key Format Type spec updates approved.
+
+=== AWS Signature Spec Updates Review (Anthony B) ===
+ * Anthony has made the TC request changes (discussed at the July 12, 2018 meeting) to the spec update and [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/63436/kmip-spec-v2.0-wd03-AmazonKeyDerivation-2nd.pdf|reposted]] it to the OASIS.
+
+===== Motion to approve the proposed specification changes for AWS Signature and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Jerry S moves, Chuck W seconds, No objections, abstentions, or comments. AWS Signature spec updates approved.
+
+=== Client Provisioning Updates Review (Anthony B) ===
+ * Please see [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63396|ClientProvisioning]]
+ * Anthony walked the TC through the spec updates for client provisioning based on on the presentation that he gave at the April 2018 F2F Meeting.  The TC didn't raise any concerns with the proposal.
+
+===== Motion to approve the proposed specification changes for Client Provisioning and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Tim C moves, Jerry S seconds, No objections, abstentions, or comments.  Client Provisioning spec updates approved.
+
+=== KMIP 2.0 Proposal Review ===
+ * See [[https://wiki.oasis-open.org/kmip/2.0|proposal status]]
+ * Tony C has made edits to the wiki to track progress on proposals and to indicate the status of incorporation of the proposal into the latest Spec revision.
+ * Tony C noted that most of the approved spec updates still have Usage Guide updates pending and reminded the proposal authors to provided those changes.
+ * Tim H indicated that he will coordinate with with the proposal authors when updating the Profiles and Test Cases
+ * Tony C noted that there are still five drafts outstanding, all have July 31st due dates.
+  * Tony C and Chuck W are close to publishing the ''Cryptographic Usage Mask ''proposal and expect to cover this at the next TC meeting.
+  * Chuck W noted that he has sent a draft of the ''Client Reprovisioning'' update to John L for review.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next Meeting:  2 August 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * None
+
+===== Motion to Adjourn =====
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:27 US-EST ==

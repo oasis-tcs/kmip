@@ -1,0 +1,64 @@
+= Meeting Minutes May 4, 2023 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (April 20, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * Interop
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim C moves, Tony C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from April 20, 2023'''
+
+ * Tim C moves, Greg S seconds. No objections, abstentions, or comments. Minutes for the April 20, 2023 meeting are approved.
+
+== KMIP 3.0 ==
+
+* KMIP 3.0 discussion focused on approval of the Ephemeral Handling (See https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/70899) and ID Placeholder proposals (See https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/70941)that were presented and discussed in previous TC meetings.
+
+=== Ephemeral Handling ===
+ 
+'''Motion to approve option 3 (aka explicit & wordy) of the Ephemeral Handling proposal (See https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/70899).  Option 3 changes Ephemeral to an enumeration with three options.'''
+
+ * Greg S moves, Bruce R seconds. No objections, abstentions, or comments.   Motion approved, KMIP 3.0 Specification, Profiles and Test Cases will be updated to reflect this approved proposal.
+
+=== ID Placeholder ===
+
+'''Motion to approve option 5 of the ID Placeholder proposal (See https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/70941).  Option 5 removes all special handling text for ID Placeholder, makes Unique UID mandatory and ID Placeholder use explicit.'''
+
+ * Tim C moves, Bruce R seconds. No objections, abstentions, or comments.   Motion approved, KMIP 3.0 Specification, Profiles and Test Cases will be updated to reflect this approved proposal.
+
+* With the approval of these two proposals progress on the KMIP 3.0 Profiles/Test Cases and Spec can move forward.
+
+== Interop ==
+ * September 2023 remains the target date. 
+ * Scope of interop is 3.0 to vet the 3.0 Spec and Profiles and support SOUs for 3.0.
+ * Tim H and Greg S have started working on draft Interop rules.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: May 18, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim C moves and Tony C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:15 US-EST ==

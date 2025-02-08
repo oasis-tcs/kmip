@@ -1,0 +1,183 @@
+= Meeting Minutes February 24, 2015 =
+== Meeting commenced 9:20AM PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Minutes
+ * Interop Overview (Tony C.)
+ * Action Item Review (Saikat S.)
+
+ * Adjourn Meeting
+ 
+=== Motion to approve Agenda ===
+ * Tim H. Moves
+ * Tim C. Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve February 18, 2016 meeting minutes ==
+ * Tim C. Moves
+ * Tim H. Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== Interop Overview (Tony C.) ==
+ * Reviewed current status of Interop and results of testing
+ 
+== Action Item Review (Tony C.) ==
+ * 0034 Closed. Maintained in the Wiki until work moves forward
+ * 0038 Being presented today by Chuck W.
+ * 0040 Closed. Added to Wiki.
+ * 0041 Still in progress
+ * 0042 Still in progress and has reliance on 0041
+ * 0043 Presenting 4.
+ * 0044 ??? (Bob L. Missed what we did here)
+ * 0046 Close as export is completed 
+ * 0047 Reassign to Bruce R. and proposal being presented tomorrow
+ 
+=== Motion to move non current Action Items to the Wiki and have the Secretary put action items in JIRA ===
+ * Tim C. Moves
+ * Mark J. Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== Review 1.4 Specification Updates (Tony C.) ==
+ * Wiki Item Lists for [[https://wiki.oasis-open.org/kmip/1.4|1.4]] and [[https://wiki.oasis-open.org/kmip/2.0|2.0]] live-edited as below to reflect discussion and reviewed.
+ * PKCS#12 removed (what was there has been completed)
+ * TR31 Test Cases to be created.  Proposal posted and approved after last Face to Face
+ * Group Proposal.  Work needs to be done for S2S.  Moved to 2.0
+ * Attestation use cases. On the agenda for tomorrow.  David Featherstone added as interested party for discussion.
+ * Alternate message formats.  Moved to 2.00
+ * Server to Server moved to 2.0
+ * Key Wrapping action items pending for Mark J. & Anthony B. after RSA conference
+ * Sensitive Attribute handling on agenda for 1.4
+ * Error Handling on agenda for F2F presentation but sans review of existing error codes
+  * Picked up by Anthony, Bruce and Bob added as interested parties
+  * Split into two action items with potential to move to 2.0
+ * non-TLS based transports moved to 2.0
+ * Protocol optimizations moved to 2.00
+ * Import/Export of managed objects
+ * Import/Export of PKCS12 objects.
+ * ACLs moved to 2.00
+ * Test cases for multi-CA support in Certify/Recert/etc... on F2F agenda
+ * Provisioning vs. Use of keys moved to 2.0
+ * Profiles approach been updated by Tim H.
+ * additional three items with no owners or interested parties moved to 2.0 
+ * Add CRL as object type to include to 1.4.  Work after RSA conference. Owners of Tim H. & Chuck W.
+ * Add Querry updates to 1.4.  Mark J. and Chuck W. interested.
+  * List of groups and access rights
+  * Key Access discussion
+
+== PKCS#12 import (Bruce R.) ==
+ * Register PKCS#12 will result in multiple managed objects
+ * Cannot return this via Register operations without breaking the existing API
+  * Could add in a new option to locate to follow links (Tim/Mark)
+  * Locate would get large for rekey operations (Bob L.)
+  * Possible to limit to linkType and depth (Anthony/Tim H.)
+  * Could keep register separate for private key, public key and certificate, or return multiple UUIDs, or do as proposal recommends, which is PrivateKey UUID with KMIP Links to other managed objects
+ * Needs to be a lot of clarification in the Usage Guide (Judy F.)
+ * Issues with following links is not in the specification (John L. & Tim H.)
+  * Specific case of private key & certificate, intermediate CA & root CA with destroyed intermediate CA certificate
+ * Add discussion topic on UUID requirements (John L., Tim H., Bob L.)
+ * Need to create test cases (Bruce R.)
+ * Ensure error handling for links covered (John L.)
+
+=== Motion to have Bruce Rich proceed with recommended design and test cases ===
+ * Tim H. Moves
+ * Chuck W. Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+=== Action Items ===
+ * Bruce R. to create proposal and test cases for PKCS#12 import
+ * Bring forward a proposal for link handling (Tim H. & Mark J.) == 
+ 
+== Error Reporting (Anthony B.) ==
+ * Paranoid vs. Ultra-paranoid mode for authentication failure and results
+ * Add unspecified error to Paranoid mode
+ * Need to make Result Type profile defined not specification defined
+ * Revisit tomorrow time permitting
+
+== Unmanaged Objects (Tim H.) ==
+ * Differences in user classes is a concern such as human administrator vs. KMIP consumer (Steve W.)
+  * Do we want to differentiate the user classes
+ * User as an object for propagation
+  * define an LDAP schema?
+  * Server to server requirements versus client to server
+ * Continue discussion tomorrow time permitting
+ 
+== NIST SP800-57 Update (Chuck W.) ==
+ * NIST explicitly provided feedback to note that the document isn't gospel - it is examples - and it is not intended to be interpreted rigidly - something NIST has said previously on multiple occasions. (Tim H.)
+ * State model updates with shown model as an example only - 
+ * It's documented thus it is gospel to most organizations
+ * Tracking a suspended to active back to suspended back to active, etc... on and on and on
+ * Need to document the transition states in the specification or usage guide with existing transition descriptions
+
+=== Motion to add a suspended state enumeration, a suspend operation enumeration, a suspended date attribute that is multi-instance and update activated date attribute to multi-instance to address new NIST SP800-57 Part 1 Rev 4 example model ===
+ * Chuck W. Moves
+ * Tim H. Seconds
+ * No abstentions
+ * No objections
+ * Steve W. & Bob L. have an issue with the multi-instance attributes for activation and suspended dates
+ * Motion is approved
+
+=== Action Items ===
+ * Chuck W. to create a proposal for enumerations and attributes
+
+== PKCS11 Alignment to KMIP attributes (Bob L.) ==
+ * Addition of Sensitive and Extractable attributes to align with PKCS11
+
+=== Action Item ===
+ * Bob L. to create proposal to add attributes
+
+== Certificate Attributes (Tim H.) ==
+ * Change the distinguished name attribute to use the short name instead of the long name
+ 
+=== Motion to Motion to change certificate distinguished name attribute to use the short name instead of the long name ===
+ * Jim Moves
+ * Gerald S. Seconds
+ * No abstensions
+ * No objections
+ * Motion is approved
+
+== Descriptions and Comment attributes (Gerald S.) ==
+ *  Addition of fields that can be added/modified/deleted by a key administrator or user
+ 
+=== Action Item ===
+ * Gerald S. to create a proposal for the attribute addition
+
+== Request/Response Correlation (Anthony B.) ==
+ * Reflect the server correlation back from the client for transaction tracking
+ 
+=== Motion to reflect client or server correlation back in response message ===
+ * Gerald S. moves
+ * Tim C. seconds
+ * No abstensions
+ * No objections
+ * Motion is approved
+
+== Increment Attribute (Anthony B.) ==
+ * Add overflow error message
+ * Applies to all numerical values (byte, integer, big integer, etc...)
+ 
+== Call for late arrivals - Tony C. ==
+ * No new attendees
+
+== New business ==
+ * No new business
+ 
+== Motion to Adjourned ==
+ * Steve W. Moves
+ * Mark J. seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 16:10PM PDT =

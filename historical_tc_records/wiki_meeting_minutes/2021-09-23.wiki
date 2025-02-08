@@ -1,0 +1,47 @@
+= Meeting Minutes September 23 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (August 26, 2021)
+ * KMIP V3.0
+  * KMIP wiki review (required profiles and test cases)
+ * Interop Test
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from August 26, 2021'''
+ * Minutes posted for [[https://wiki.oasis-open.org/kmip/MeetingMinutes/26Aug2021|August 26, 2021]]
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the August 26, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== KMIP wiki review ===
+ * Tony C has posted working draft 13 along with the markups.
+
+== Interop Test ==
+ * The Interop won't be able at its originally scheduled date as the test cases won't be completed by then.
+ * The new start date will be reviewed at the next meeting.
+
+== New Business ==
+ * Chandra noted that TCG workgroup had raised a ballot to use KMIP for KPIO.
+
+== Next Meeting ==
+ * Next TC Meeting: October 21 , 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * 1 member noted (Oscar)
+
+== Motion to Adjourn ==
+ * Tim H moves and Greg S seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:07 US-EST ==

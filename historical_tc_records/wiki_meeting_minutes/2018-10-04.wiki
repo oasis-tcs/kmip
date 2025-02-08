@@ -1,0 +1,99 @@
+= Meeting Minutes 4 October 2018 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting      Minutes (September 20, 2018)
+ * Leave of Absence Requests      (Bruce R, Sue G)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * TLS1.3 (TimH)
+  * Client Reprovisioning -       Revisit Proposal (Chuck W & John L)
+  * Full Async - Spec Delta (Gerry       S)
+  * Flow Control (Chuck W)
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action items       discussion
+
+ * List comment from Conrado Gouvêa
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Greg S seconds, No      objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from September 20, 2018'''
+
+ * Tim H moves, Greg S seconds, No      objections, abstentions, or comments. minutes for the September 20, 2018      meeting approved.
+
+== Leave of Absence Requests ==
+ * Bruce R requested a __[[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201809/msg00008.html|leave of absence]]__ from Thursday 4 October through Friday 12 October 2018
+ * Sue G requested a __[[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201809/msg00009.html|leave of absence]]__ from Thursday 18 October through Friday 26 October      2018
+
+'''Motion to approve the leave of absences for Bruce R and Sue G'''
+
+ * Tim H moves, Jerry S seconds,      No objections, abstentions, or comments. Leaves of absence are approved.
+
+== RSA 2019 Interop ==
+ * One interop spot is still open      in the booth for RSA 2019. Please contact Jane, Dee or Tony if you are interested      in participating in the OASIS booth.
+
+== KMIP 2.0 ==
+=== TLS 1.3 (Tim H) ===
+ * Discussion opened with a review of the timeframe in which KMIP 2.0 will be approved as an OASIS standard.  With the current schedule it is estimated this would be around February 2019.  Actually date will depend upon whether the TC can keep to current schedule and the number of comments received during the public review.
+ * Based on this schedule, Tim H noted that there would be wide availability of TLS 1.3.  Open SSL and Oracle Java have already released support.  Non-Windows browsers plan to release support this month.
+ * Given this situation, Tim H recommended that TLS 1.3 support should be mandated and TLS 1.2 allowed in KMIP 2.0.
+  * Tony C noted this was a change from the April F2F discussion where TLS 1.2 was mandated and TLS 1.3 was allowed.
+
+ * The TC discussed FIPS 140-2 and TLS 1.3, profile impacts and that the TLS 1.2 Authentication suite is not used.
+ * Judy F noted that if the authentication suite is not used, KMIP 2.0 would be a good opportunity to remove it.  Tim H agreed and noted that the Suite B authentication suite could also be removed and made part of the profile.
+ * Tim H also noted that with TLS 1.3 the supported cipher suite specified in KMIP could be trimmed.
+
+'''Motion to change the KMIP 2.0 Profiles document to indicate that TLS 1.3 SHALL be supported and TLS 1.2 MAY be supported.'''
+
+ * Tim H moves, Greg S seconds, No      objections, abstentions, or comments.  Motion approved.
+
+ * Tim H will create a working draft of the KMIP2.0 Profiles document that removes the TLS 1.2 and Suite B Authentication Suites and trims the TLS cipher suites changes to be reviewed in a future TC meeting.
+
+=== Client Reprovisioning - Revisit Proposal (Chuck W & John L) ===
+ * Deferred since Chuck W and John L were not in attendance
+
+=== Full Async - Spec Delta (Jerry S) ===
+ * Jerry posted an updated [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201810/msg00003.html|paragraph]] to the reflector and plans to post Spec changes shortly.  Deeper discussion will be deferred to next week’s TC meeting.
+
+=== Flow Control (Chuck W) ===
+ * Deferred since Chuck W was not in attendance
+
+=== KMIP 2.0 Proposal Review ===
+ * Tony C asked TC to review      remaining KMIP 2.0 actions in the wiki
+ * Objective is to get all new      KMIP 2.0 work closed by the end of October 2018
+ * Any outstanding items will be      reviewed to either defer to include in KMIP 2.0.
+
+== List comment from Conrado Gouvêa ==
+ * Co-Chairs will request more      information from Conrado (Use Case, Operations used, etc.)
+
+== New Business ==
+=== New Algorithms (Tony C) ===
+ * Tony C posted an [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201810/msg00000.html|email]]to the reflector with a set of new algorithms the TC has been asked to add to the KMIP 2.0 Spec.  Most are country specific (e.g. China, Russia and Korea) algorithms.
+ * The TC discussed availability of implementations of these algorithms along with publically accessible references.
+ * Tony C asked if anyone had objections to including these new algorithms.  No objections were raised.
+ * Judy F asked if there were other algorithms related to TLS 1.3 that needed be added.  Tim H thought there may be some EC curves that need to be added.  He will check and get back to the TC.
+
+'''Motion to include the new algorithms in Tony C’s email in the next revision of the KMIP v2.0 Spec'''
+
+ * Tony C moves, Mark J seconds,      No objections, abstentions, or comments. New algorithms will be added to      KMIP 2.0 Spec.
+
+== Next Meeting ==
+ * Next Meeting: 11 October 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * Mark J (P6R)
+
+'''Motion to Adjourn'''
+
+ * Tim H move, Gerry S seconds. No      objections, abstentions, or comments. Meeting adjourned
+
+'''Meeting Adjourned at 17:34 US-EST'''

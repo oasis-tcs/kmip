@@ -1,0 +1,59 @@
+= Meeting Minutes July 29 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from July 15, 2021'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the July 15, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== Status + changes ===
+ *  No comments on Tony's spec delta that he uploaded before the July 15 meeting.
+
+=== Register ===
+ * Tim C reviewed his presentation on Register.
+ * Judy asked why application specific identifier not appropriate for this already. Tim H said application specific identifier was originally put in place to have a compatible identification scheme between vendors and that there is no guarantee of uniqueness. This simplifies the workaround that everyone was using as application specific identifier didn’t meet the need.
+
+'''Motion to accept the changes for Client Registration of UUID into the next working draft of the KMIP 3.0 Spec'''
+
+ * Mark moves, Tim H seconds. No objections, abstentions, or comments. Motion approved.
+ 
+ * Tim C will provide the spec delta to Tony C.
+
+=== Counters ===
+ * Tony C reviewed the revised spec delta for Counters.
+ * Bruce brought up a use case where encrypt/decrypt is used as proof of possession and asked which object the counter applies to. Tony replied that the counter applies to the object that is being used to do an encrypt/decrypt and is not limited to an object type. 
+
+'''Motion to accept the changes for Counters into the next working draft of the KMIP 3.0 Spec'''
+
+ * Tim C moves, Mark seconds. No objections, abstentions, or comments. Motion approved.
+
+=== KMIP wiki review ===
+ * Judy F confirmed that she is still waiting on Usage Guide materials associated with the KMIP 3.0 proposals as noted on the wiki (https://wiki.oasis-open.org/kmip/3.0).
+
+== Interop Test ==
+ * Interop is scheduled for September.
+ * There are four parties interested in participating.
+ * Please let Tony C know if you plan to participate in the Interop.
+ * Tim C asked if it needs to be pushed out given the new additions. Tony C replied that it depends on the test cases that comes in and that he is monitoring it.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: August 12, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Mark, Steve
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:24 US-EST ==

@@ -1,0 +1,74 @@
+= Meeting Minutes 25 July 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (July 18, 2019)
+ * KMIP 2.0 (Status)
+ * KMIP v1.4 Errata (Status)
+ * KMIP 2.1
+  * Review proposals (2x Tim H)
+  * Review wiki
+ * New Business
+  * Response to John Major (Tony C)
+  * Response to comment (Chuck W)
+  * Response to Conrado Gouvêa
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Jerry S seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from July 18, 2019'''
+
+ * Tim C moves, Jerry S seconds. No objections, abstentions, or comments. Minutes for the July 18, 2019 meeting approved.
+
+== KMIP 2.0 Status (Tony C) ==
+ * Tony C has submitted the forms to TCAdmin for the KMIP 2.0 Spec and Profiles to initiate the final OASIS Standard process.
+
+== KMIP v1.4 Errata Status (Tony C) ==
+ * Tony C has also submitted the request to TC Admin to publish the KMIP 1.4 Errata document.
+
+== KMIP 2.1 ==
+=== KMIP 2.1 Profiles (Tim C) ===
+ * Tim C has posted the first working draft of the KMIP 2.1 Profiles to the OASIS site (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65676).  This WD moves the existing content (KMIP 2.0 vintage) into the KMIP 2.1 starter guide.
+
+=== KMIP 2.1 Set Constraints and Rotate Proposals (Tim H) ===
+ * Tim H posted the KMIP Spec deltas for two of his proposals this week.  He walked the TC through both documents.
+  * The first proposal was Set Constraints ([[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65674&referring_url=/kws|https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65674&referring_url=%2Fkws]])
+   * Tim C asked why tags 66/67 were skipped -- Tim H noted this was done to accommodate for Bruce's proposals which had specified tags with these numbers.
+  * The second proposal is Rotate (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=65675).  The proposal defines a set of attributes that help track the automatic rotation of a key at the server.
+   * Tim H did not include error codes in the update since all the work is done on the server and is not initiated by a client request.
+   * Tony C asked if an auto rotation could run into a constraint that would result in an error.  Tim H didn't think that case would occur but noted it was possible for an error to occur during rotation such as the server running out of space.  But KMIP does not presently have an out of bands way to provide error information to a client -- only via a response to a client request.  Perhaps this could be another KMIP 2.1 proposal some TC member could bring forward?
+
+'''Motion to approve the Set Constraints and Rotate KMIP Spec deltas and include these changes in the KMIP 2.1 Specification.'''
+
+ * Tim C moves, Sue G seconds.  No objections, abstentions, or comments. Set Constraints and Rotate updates approved.
+
+=== KMIP 2.1 Proposal List (Tony C) ===
+ * Tony C reviewed the KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1).  Proposals from Tony C, Anthony B and Bruce R are still outstanding.  Each will adjust the due dates on the wiki to reflect when they will be able to present these proposals to the TC.
+
+== New Business ==
+ * Tony C discussed the response to John Major's email query.  Tony C and Tim H provided context for why a weaker AES cipher suite remains while stronger ones were removed.  When this change happened the TC was working with SNIA.  The TC removed many deprecated cipher suites but a few (four cipher suites) were left in for backward compatibility since there were existing implementations (e.g. storage arrays).  John M was satisfied with the explanation
+ * The TC agreed that for KMIP 2.1 we should revisit all the ciphers/cipher suites and make sure that we follow the current deprecation plans from NIST and other bodies.  Tony C will put this on a future TC meeting agenda.
+
+ * Chuck W is still working on the response to the email asking about why TTLV encodings are no longer included in the Test Cases.
+
+ * Conrado Gouvêa (Kryptus) sent a new query on KMIP 1.4 related to the MAC/sign key wrapping option.  Judy F responding providing link to KMIP 1.4 Usage Guide section which covers key wrapping use cases.  Conrado was not satisfied with this response.  Tony C will craft a subsequent response.
+
+== Next Meeting ==
+ * Next TC Meeting:  8 August 2019
+ * Meeting on 1 August 2019 is canceled due to multiple team members being unavailable.
+
+== Call for Additional Attendees (Tony C) ==
+ * Deepak G (Dell)
+
+== Motion to Adjourn ==
+ * Tim C moves, Tim H second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:36 US-EST ==

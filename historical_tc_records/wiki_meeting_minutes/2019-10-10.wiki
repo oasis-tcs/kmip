@@ -1,0 +1,84 @@
+= Meeting Minutes 10 October 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Oct 3, 2019)
+ * KMIP 2.0 (Status)
+ * KMIP 2.1
+  * Name Domain Definition (Tony C)
+  * Review wiki
+ * KMIP Interop 2020
+  * Interop Process (Tony C)
+ * KMIP F2F 2020
+ * New Business
+  * Response to Conrado Gouvêa
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from October 3, 2019'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the October 3, 2019 meeting approved.
+
+== KMIP 2.0 Status (Tony C) ==
+ * 60 day public review of the KMIP 2.0 Spec and Profiles as Candidate OASIS Standards has commenced.  It will end on 15 October 2019.
+  . See https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201908/msg00008.html
+ * No comments have been received so far.
+
+== KMIP 2.1 ==
+=== Name Domain Definition (Tony C) ===
+ * Tony posted a spec delta showing the Name Domain Definition changes to the reflector last week. (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201910/msg00002.html)
+ * TC picked up discussion from last week.  Tony C's proposal attempted to address the points raised from the discussion at the last F2F where there was a desire to make sure we addressed naming in multiple logical domains.
+ * Chuck W raised a point that definitions vary based on whether one takes a client or a server view.  Clients for example, connect with a server and expect unique names from that server, but the client is unaware if the server consists of logical domains.
+ * Folks will mull over the proposal and what needs to be defined/clarified around naming in the KMIP Spec and revisit this at a future TC meeting.
+ * Chuck W will send the definition he provided during the discussion to the reflector.
+
+=== KMIP 2.1 Spec ===
+ * Tony C posted WD4 of the KMIP 2.1 Spec to the OASIS site - (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=66030)
+ * This working draft incorporates the comments that have been raised on the previous KMIP 2.1 working draft on the reflector and via other communication methods.
+
+=== Review wiki ===
+ * KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1)
+ * Tim H has updated wiki to add status columns for all four KMIP documents.
+ * Tony C asked all that provided proposals to review and determine if they need to supply additional content beyond the Spec deltas.
+
+== KMIP Interop 2020 ==
+ * There are still a few openings for the OASIS booth
+ * A few applications for Interop participation have been submitted this week.
+ * Deadline for closing on Interop participation is tomorrow, Friday, October 11, 2019 5 PM PT
+ * If anyone is interested please contact Tony C or Jane H.
+
+== KMIP F2F 2020 ==
+ * Traditionally the TC holds the F2F the meeting the week prior to the RSA Conference
+ * TC agreed that we should continue this tradition in 2020
+ * TC Chairs will set up a straw poll to determine which days of the week (Wed/Thurs or Thus/Fri) prior to RSA Conference are best for the meeting.
+ * Tony C also asked for any TC member, with Bay Area facilities, that is willing to host the TC meeting to get in touch with either Tony C or Judy F
+
+== New Business ==
+ * Response to Conrado Gouvêa
+  * Tony C posted a draft of the follow-up response to Conrado Gouvêa to the reflector (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201910/msg00006.html)
+
+'''Motion for the TC to approve sending the response Tony C provided to Conrado Gouvêa'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Response approved.
+
+ * Tony C will send the response to Conrado Gouvêa
+
+== Next Meeting ==
+ * Next TC Meeting:  17 October 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Sue G (Oracle)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:20 US-EST ==

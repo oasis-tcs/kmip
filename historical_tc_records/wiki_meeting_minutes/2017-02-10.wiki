@@ -1,0 +1,221 @@
+'''Meeting Minutes Face-to-Face February 10, 2017'''
+
+Meeting commenced 9:03 AM PST
+
+Roll call Tony Cox (Tony C)
+Quorum achieved
+
+'''Proposed Agenda'''
+•	Welcome, Housekeeping & Roll call
+•	Motion to approve agenda
+•	Regular Meeting time
+•	Interop Results Review
+•	Interop Profiles Updates
+•	Interop Test Case Updates
+•	ReEncrypt
+•	Tokenization
+•	SP800-57
+•	Canonical Attributes
+•	Custom Attributes
+•	Error Handling
+•	List object Access
+•	Development timeline
+•	Future Interop Process
+•	Other topics
+•	Action Item review and Adjourn
+
+'''Welcome, Housekeeping & Roll call'''
+•	Presented by Tony C
+
+__Motion to approve Agenda__
+•	Mark Moved, Tim C Seconds, No objections, No abstentions, Agenda approved
+
+'''Regular Meeting time'''
+•	Presented by Tony C
+•	Presentation
+o	Request to move the meeting time
+o	Straw pool with four options
+•	UTC 2100 Thursday
+•	UTC 030 Friday
+•	UTC 0230 Friday
+•	UTC 1030 Thursday
+o	option 2 received the most votes
+o	potentially more interested in attending from India with option 2 but it will potentially impact participation from east coast
+o	Tim H proposes moving back 1 hour for a 5 pm EST start so we don’t lose the USA east coast participation as we have a lot more east coast participation
+o	Mark would like it to stay as-is
+__Motion – Move start back 1 hour to 5 pm EST starting Feb 23__
+•	Tim H Moved , Judy Seconds, Comments
+o	Kevin – most participants going forward from IBM will be from India
+o	Nitin – would like to do option 2
+•	No objections, No abstentions, Motion approved
+•	Action Item: Tony C to cancel Feb 16 meeting
+
+'''Interop Results Review'''
+•	Presented by Tony C
+•	Presentation
+o	Yesterday special majority ballot closed which finally allowed the interop results to be presented to the KMIP TC
+o	Process
+•	Issues came up regarding not following the time frames and some participants did not follow the process
+•	Caused testing to be pushed out into the new year, test time was tripled compared to last year
+o	Results checking was poor leading to excessive review times
+o	Enforcement of interop rules is now in OASIS admin hands.  OASIS admin has a challenge as their system and rules do not directly match with the system and rules that the interop group has adopted.
+o	Try to run plugfest to get more products involved separate from the RSA interop
+o	Change requests
+•	Additional graphs requested to include profile and version coverage
+•	Judy would like to see profile view
+•	Tony C would like to see who supported which profiles
+•	Consider test case coverage separate from profiles as well
+•	Requests to withhold publication of results
+•	2 participants voted to withhold the results from publication
+•	first time that this has ever happened during an interop or a plugfest
+•	note: that under the process withholding the results would technically preclude the RSA show participation
+•	Additional graphs:
+•	Tim – list of test cases only one vendor implements would be useful to provide back to the TC
+•	Comments
+o	Steve W – would like to scale up with more products and vendors but concerned with the time it took
+•	Tony C
+•	1 or 2 vendors caused the majority of the delays
+•	1 vendor should not have been in the booth based on the interop rules which is why process enforcement is being moved to OASIS admin and further adjustments will be made for next year
+•	OASIS admin was not able to act with the speed needed during an interop (understandable given this was their first year of direct involvement)
+•	There was a wait list of vendors wanting to participate
+o	Steve W – long wait for initial results for some implementations and a lot of retesting was needed
+•	Tony C – resource constraints lead to the delays
+o	Steve W – reviewing logs and transcribing to excel a barrier, would like an automated way to review logs
+•	Tim H – log review should be automated but there are some challenges to doing that
+•	Tim H – we also hit issues with new vendors participating that led to a lot of rework and retesting
+__Motion: KMIP TC to approve the Interop results__
+•	Bruce Moved, Steve W Seconds, No objections, No abstentions, Motion approved
+•	Action item: Tony C to produce additional graphs for interop group to approve
+
+'''Interop Profiles Updates'''
+•	Presented by Tim H
+•	Presentation
+o	Range of items noticed during Interop for the first time due to more detailed focus, more testing, more vendors
+o	What you learn by doing interop should be shared
+o	Barrier for new participants, new employees
+o	Variable Behaviour – refer to presentation deck
+o	Adjustments – refer to presentation deck
+•	Action Item: Tim H to document updates and bring back to the TC (potentially for errata)
+
+'''Interop Test Case Updates'''
+•	Presented by Tim H
+•	Presentation
+o	Adjustments – refer to presentation deck
+o	Other Items – refer to presentation deck
+•	Split Key – new enumeration on the split operation will probably need to be added.  At least one implementation uses the one already in the spec
+•	Comments
+o	John – should more official testing be done before spec approval
+o	Tim H – already happens, plug fest doesn’t have the rigor of interop, people are not signing up for plugfest, we have tested 1.4 (and all previous versions) multiple times prior to the specification finalisation
+•	Anthony notes the hard work Tony put in on Interop
+•	Action Items:
+o	Tim H to upload test case adjustments
+o	Tony C to create straw poll for interest in participation at SNIA
+o	Tony C to create straw poll for interest in plugfest if SNIA doesn’t happen
+o	Tony C to send to the list details about being at RSA in 2018
+
+'''ReEncrypt'''
+•	Presented by Sun-ho Lee
+•	Comments
+o	Tim H – option 1 for flexibility, supports streaming
+o	John – option 2 as it is atomic and doesn’t allow only half of the operation to be done
+o	Tim C – raises security concerns with option 1
+o	Steve W – server needs to make sure that it doesn’t retain the decrypted material or cipher text
+o	Tim H – notes that none of the items being raised are anything new – these items exist for anything that maintains state (async, streaming)
+__Motion – motion for the TC to move forward with option 1__
+•	Tim H Moved, Mark Seconds, John with a no vote, would like to pursue option 2, No abstentions, Motion approved
+•	Action Item: Sun-ho and Tim H to produce a proposal
+
+'''Tokenization'''
+•	Presented by Gerry S
+•	Comments
+o	Tokens would not be interoperable between servers
+o	Parameters to handle variable length and mask
+o	Further refinement needed
+o	Steve W – noted that there are many vendors in an established market with no standard approach
+__Motion – motion for the TC to proceed with work for inclusion in 2.0__
+•	Tim H Moved, Gary Seconds, Comment from Steve W – good luck, No objections, No abstentions, Motion approved
+•	Action Item: Jerry and Anthony to refine proposal
+
+'''SP800-57'''
+•	Presented by Bruce
+•	Presentation
+o	r4 update was Jan 2016
+o	NIST identifies 19 key types, need to add these as optional attributes
+o	Facilitates compliance with NIST
+•	Comments
+o	NIST Key Type as the probable attribute name
+o	Steve W – should server enforce key types?
+•	Tony C – start with adding key types and look to do more later
+__Motion to add additional attribute to support NIST Key Types with multiple enumerations__
+•	Anthony Moved, Mark Seconds, No objections, No abstentions, Motion approved
+•	Action Item: Bruce to draft proposed spec changes
+
+'''Canonical Attributes'''
+•	Presented by Anthony
+•	Comments
+o	Matches proposal from David Featherstone
+__Motion to accept Anthony’s proposal for attributes that are not custom to be represented in canonical form__
+•	Mark Moved, John Seconds, No objections, No abstentions, Motion approved
+•	Action Item: Anthony to draft proposed spec changes
+
+'''Custom Attributes'''
+•	Presented by Tim H
+•	Comments
+o	Jim – how would it be enforced?
+•	Identifier would be required
+o	Tim C – keep x- for backwords compatibility
+o	Sue – leaving x- and y- to differentiate between client and server
+•	Still can be included in the name
+o	Tim H – there is no point in keeping x- and y- with a special meaning given that the encoding has also changed
+o	Update to usage guide on generation of the identifier
+__Motion to accept Tim’s proposal to add vendor identifier to custom attribute __
+•	Jim Moved, Tim H Seconds, No objections, No abstentions, Motion approved
+•	Action Item: Tim H to provide proposed spec changes
+
+'''Error Handling'''
+•	Presented by Mark
+•	Tim H – noted that Mark did mean this is a strict sub-set of xpath – not a full xpath expression and that the path will be with all the elements listed from the root.
+__Motion to accept Mark’s proposal to add error path to the response with strict xpath __
+•	Tim H Moved, Tim C Seconds, No objections, No abstentions, Motion approved
+•	Action Item: Mark to refine and provide proposed spec changes
+
+List object Access
+•	Presented by Gary
+•	Comments
+o	Empty list if object has no access
+o	Error not found when object doesn’t exist
+__Motion to add ListObjectAccess operation__
+•	Mark Moved, Anthony Seconds, No objections, No abstentions, Motion approved
+•	Action Item: Gary to provide proposed spec changes
+
+'''Locate Wildcard'''
+•	Presented by Nitin
+•	Presentation
+o	There is a mention in the spec for using wildcards but it is not well defined
+o	There are currently no reserved characters
+__Motion to remove wild-card sentence from version 2 from the spec__
+•	Mark Moved, Tim H Seconds,  No objections, No abstentions, Motion approved
+•	Action Items:
+o	Tony amends the spec to remove wildcard sentence
+o	Nitin and Anthony to find a suitable wildcard for locate
+
+'''Additional Items – Nitin '''
+•	Nitin would like to have test case examples included in the spec
+•	General discussion on why there are test cases in a separate document and test cases in the profiles.
+•	Action Items
+o	Tony C and Jeff to draft beginners guide section;
+o	Nitin to review
+o	Judy to add to usage guide
+
+'''Additional Items – Sun-ho '''
+•	Passphrase phrase for decryption of private key prior to signing?
+•	Action Item: Tim H and Sun-ho to work on a proposal
+
+'''Thank you to Thales'''
+__Motion to thank Thales for hosting__
+•	Tim H Moved, Jeff Seconds, No Objections, No abstentions, Motion approved
+
+'''Adjourn'''
+__Motion to adjourn__
+•	Jeff Moved, Tim Seconds, No objections, No abstentions, Motion approved
+•	Meeting adjourned at 255pm PST

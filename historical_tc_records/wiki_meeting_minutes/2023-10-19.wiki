@@ -1,0 +1,40 @@
+= Meeting Minutes October 19, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (October 5, 2023)
+ * Interop Summary
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from October 5, 2023'''
+
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Minutes for the October 5, 2023 meeting are approved.
+
+== Interop Summary ==
+ * The Interop is progressing well. It is unsure if the complete testing will be done by the end of next week.
+ * Issues with the test cases have been found. Some test cases are not working, others haven't been changed over from KMIP 2.1, and one test dealt with functionality that was removed from KMIP 3.0. The test case issues will be addressed after the Interop.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: November 2, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:07 US-EST ==

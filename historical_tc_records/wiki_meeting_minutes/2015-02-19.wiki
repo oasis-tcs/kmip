@@ -1,0 +1,66 @@
+## page was copied from MeetingMinutes/February122015
+## page was copied from MeetingMinutes/February052015
+= Meeting Minutes February 19, 2015 =
+== Meeting commenced 9:01PM GMT ==
+ * Roll call by Tony Cox
+ * Quorum Achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Motion to approve Agenda
+ * Motion to approve February 12, 2015 Meeting Minutes
+ * Review KMIP v1.2 status (Tony C)
+ * Review KMIP v1.3 status updates
+ * Review KMIP 1.4 Status
+ * New business
+ * Motion to adjourn
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves, Chuck White seconds, no objections, no abstentions, agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve February 05, 2014 meeting minutes ===
+ * Chuck moves, Tim H. seconds, no objections, no abstentions, motion approved
+ 
+== KMIP 1.2 Status (Tony Cox) ==
+ * Chet has sent out the 1.2 documents for 60 days public review. If we receive any public comments, TC will need to respond to the review comments.
+   Congratulations to TC members on this accomplishments.
+ 
+== KMIP 1.3 Status (Tony) ==
+=== Specification ===
+ * 1.3 specification is now committee specification draft
+=== Profiles (Tim H) ===
+ * Tim H - no progress yet - week behind
+=== Usage Guide (Judy F) ===
+ * Following though on updates from Kiran 
+ * Plan to update by next week
+ * target 26-Feb 
+
+=== Test Cases (Tim H/Mark J) ===
+ * Document published
+ * Make a motion to move Test case document as Committee Note Draft
+ * Mark Joseph makes the motion, Joe Brand seconds, no abstentions, no objections, motion passes
+ * Test case document for KMIP 1.3 is now Committee Note Draft.
+
+== Review KMIP 1.4 Status (Tony) ==
+ * Client Capability- Mark, we implemented all the feedback already in 1.3
+ * Server to server - waiting on Bob, discuss next week
+ * Model Clarity, stateless vs. stateful, Tim + Judy, most feedback covered, perhaps needs another review
+ * ISO and other standards - Tim H. table for next week
+ * Key Escrow - Saikat - No interest from server vendors, table for KMIP 2.0
+ * Group proposal - Saikat - Presented 3 times including last face to face, not much interest amongst server vendors although almost all servers have some form of group implementations. Tim is interested.
+ * Key Wrapping - Mark - proposal for two new operations, work on presentation and present in two weeks. Tim, Bruce, Judy, Tim C, Joe would be interested
+ * Error Handling - Saikat proposal in two weeks, Tim is interested, review error codes and reasons, candidate for face to face
+ * Sensitive Security Attributes - Chuck Two approaches, conservative and detailed approaches, will put together ideas and present. Excellent candidate for face to face. Mark, Tim, Tim C. John L interested
+ * Administrative Use case - Kiran + Tim, Tim-defer till next week for discussion
+
+== New Business ==
+ * None
+ 
+== Call for late arrivals - Tony Cox ==
+ * Steve Edwards Fornetix
+
+== Motion to Adjourned ==
+ * Tim Hudson moves, Joe Brand seconds, no objections, no abstentions, motion approved
+ 
+= Meeting Adjourned at 9:33PM GMT =

@@ -1,0 +1,68 @@
+= Meeting Minutes 28 March 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (February 27,28 & March 21, 2019)
+ * Review RSA 2019 Interop
+ * KMIP 2.0
+  * Review Spec Status (Tony H)
+  * Review Profiles & Test Cases Status (Tim H)
+  * Usage Guide Status (Judy F)
+ * List comment - Alex Abell
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+== Minutes from KMIP F2F (February 27 & 28 2019) ==
+'''Motion to approve Minutes from KMIP F2F (February 27 & 28 2019)'''
+
+ * Tim H moves, Jerry seconds, No objections, abstentions, or comments. Minutes from KMIP F2F (February 27 & 28 2019) approved
+
+== Minutes from March 21, 2019) ==
+'''Motion to approve Minutes from March 21, 2019'''
+
+ * TIm H moves, Jerry seconds, No objections, abstentions, or comments. Minutes from March 21, 2019 approved
+
+== RSA 2020 Interop ==
+ * Tony C - Jane was notified that we did not want to cancel participation in RSA 2020
+
+== KMIP 2.0 ==
+=== Review Spec Status (Tony C) ===
+ * Working to complete the latest update
+ * Comments are still coming in
+ * Plans to have it completed by the next meeting.
+
+=== Review Profiles & Test Cases Status (Tim H) ===
+ * Tim H
+  * updated test cases and profiles with updates discussed at the F2F
+  * updated profile doc based on feedback received
+  * test case document not updated as no changes were needed but will release a new version with the updated version number
+ * Tony C
+  * plan is for the specification and profiles to go to public review next week
+
+=== Usage Guide Status (Judy F) ===
+ * Judy is still working on it and plans to upload it on Monday
+
+== List comment - Alex Abell ==
+ * Tim H thinks that this is addressed in the specification
+ * Tony C will review the comment before the next meeting
+
+== Next Meeting ==
+ * Next TC Meeting: 4 April 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Alan, Kenli
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:11 US-EST ==

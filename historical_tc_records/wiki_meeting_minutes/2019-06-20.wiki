@@ -1,0 +1,61 @@
+= Meeting Minutes 20 June 2019 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (June 13, 2019)
+ * KMIP 2.0
+  * Spec & Profiles Status (Tony C)
+ * KMIP v1.4 Errata (Tony C)
+  * Response for Alexis Abell
+ * KMIP 2.1
+  * Review proposals noted in wiki to confirm due dates
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from June 13, 2019'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Minutes for the June 13, 2019 meeting approved.
+
+== KMIP 2.0 (Tony C) ==
+ * TC Admin is still working to get these documents formally published, which will then allow them to be referenced in Statements of Use (SoUs).
+
+== KMIP 1.4 Errata (Tony C) ==
+ * The Errata is still in TCAdmin's queue which is presently quite full.  Hopefully this will get published soon.
+
+ * Tony C prepared a draft response to Alexis Abel and posted it to the reflector.  Chuck W posted some additional text to provide context.
+ * These responses and other feedback were discussed by the TC.
+ * Tony C raised a concern that he didn't want to include too much detail in the message which might cause interpretation concerns.  He would rather just direct Alexis Abel to the official documentation.
+ * Tim H suggested that we keep the official email from the TC to Alexis Abel following Tony C's wording and let Chuck W send a separate private email to Alexis Abel with the additional detail.
+ * Tony C will add links to the most recent publicly available versions of the KMIP 2.0 Specification and draft KMIP 1.4 Errata to the message.
+
+== KMIP 2.1 (Tony C) ==
+ * Tony C thanked the few folks that added dates to the proposal list for KMIP 2.1 on the OASIS KMIP TC Wiki (https://wiki.oasis-open.org/kmip/2.1) since the last meeting.
+ * The TC then walked through the KMIP 2.1 proposal list and the other proposal leads provided dates for when they would have the proposals ready to review with the TC.
+ * Tony C noted that folks could do Spec deltas against the KMIP 2.0 specification until he has the time to publish the initial draft KMIP 2.1 Specification.
+ * Tony C noted he is about part way through getting the KMIP 2.0 Specification content into the KMIP 2.1 starter document.  He assumes that the other documentation editors have or will be starting to get their content into the KMIP 2.1 starter documents.
+
+== New Business ==
+ * Tony C is still working on the response to John Major's email.
+ * Chuck W is still working on the response to the email asking about why TTLV encodings are no longer included in the Test Cases.
+
+== Next Meeting ==
+ * Next TC Meeting:  27 June 2019
+ * Meeting on 4 July 2019 will be canceled since it is a U.S. holiday
+
+== Call for Additional Attendees (Tony C) ==
+ * Jerry S (Fornetix)
+
+== Motion to Adjourn ==
+ * Chuck W moves, Tim C and Tim H (tie) second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:24 US-EST ==

@@ -1,0 +1,94 @@
+= Meeting Minutes May 8, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Subhash Sankuratripati (Subhash)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Review of key shredding - Judy Furlong (Judy)
+ * Discuss query enhancements - Judy
+ * Review of key state model - Bob Lockhart (Bob L)
+ * Review of deprecation proposals - Bob L
+ 
+== Query updates - Judy Furlong ==
+ * Still need to update use case
+ * Feed back to integrate
+ * Update enumerations based on additional non-US centric documents
+ * Additional update to potentially add Server to Client query operation for capability
+ * Use notification for destruction/shredding operation
+ * Mark volunteered to write up the Server to Client query
+
+=== Motion to approve Agenda ===
+ * Judy moves
+ * Tim seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve Meeting Minutes from 5/17
+ * Tim moves minutes 5/17
+ * Mark seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+
+== Key state model proposal - Bob Lockhart ==
+ * [[https://www.oasis-open.org/committees/download.php/52962/Proposal-to-Update-KMIP-State-Model.pptx|Key state model initial presentation]]
+ * Judy F. - Shredded means no way to get to it even via forensic methods
+ * Multiple - Unique number cannot be reused
+ * Tim H. - Section 3.1 needs to be updated to disallow re-use of unique identifier.
+ * Consensus is that once a UUID is used, it should remain unique even after complete destruction/shredding
+ * Bob L. - Shredded means completely gone including meta-data 
+ * Tim H. - That is not what Judy is proposing per her proposal
+ * Deleted vs destroyed vs shredded – need clarity
+ 
+== Deprecation proposal - Bob Lockhart ==
+ * [[https://www.oasis-open.org/committees/download.php/52961/Deprecation_v03.ppt|Deprecation Proposal version 3]]
+ * Templates (all of 2.2.6 and all references)
+ * Operation Policy Name (all of section 3.18)
+ * Transparent EC key formats (the algorithm specific ones are identical)
+ * Tim H./Bob L. to create the single structure to replace existing structures before ballot is posted
+ * Locate function returns 0 values returned successfully
+ * This is a valid response and may need modification or clarification on response sizes and error handling
+ * Further discussion is needed before any action taken if any
+ * What does deprecated mean - Peter Robinson
+ * Simply the section or language is marked as to be removed or replaced in the next major version - Tim H. / Bob L.
+ * Suggestion of creating 10 day ballot - Bob L.
+
+=== Action Item ===
+ * Tim H. and Bob L. to post updates to specification and profiles prior to posting ballot for EC key formats
+ 
+=== Deprecation Ballot Proposal #1 ===
+ * Bob L. makes motion that we create a ballot to deprecate templates in version 1.3
+ * Tim H. seconds
+ * John L. objects
+ * No abstentions
+ * Motion carries
+ 
+=== Deprecation Ballot Proposal #2 ===
+ * Bob L. makes a motion to deprecate operational policy name defined in OASIS KMIP Specification section 3.18
+ * Tim H. seconds
+ * No objections
+ * No abstentions
+ * Motion carries
+
+=== Deprecation Ballot #3 & Action Items ===
+ * Tim H. moves to deprecate existing EC key formats with proviso of proposed changes are attached to the ballot
+ * Bob L. seconds.
+ * No objections
+ * No abstentions
+ * Motion carries
+
+== Next weeks proposed agenda ==
+ * Chuck white and Jeff Bartell – attribute security: next week
+ * KMIP 1.2 public review feedback items - Tony Cox
+ 
+== Call for late arrivals - Subhash ==
+* No additions
+
+== Motion to Adjourned ==
+ * Tim Moves
+ * Chuck seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+= Meeting Adjourned at 8:57PM GMT =

@@ -1,0 +1,85 @@
+= Meeting Minutes June 19, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Subhash Sankuratripati (Subhash)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Update on status of 1.2 documents, updates and public review - Subhash
+ * Update of document format for KMIP version 1.3 specifications and committee specifications - Subhash
+ * Enhancement of Standing Rules after re-charter - Judith Furlong (Judy F.)
+ * Review Server to Client Query proposal - Mark Joseph(Mark J.)
+
+=== Motion to approve Agenda ===
+ * David Featherstone Moves
+ * Sue Gleeson Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Update on status of 1.2 documents, updates and public review (Subhash) ==
+ * [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201406/msg00052.html|Email with proposal verbiage]]
+ * Updated status of documents
+ * Looking First and Second to motion for second public review of updated documents
+
+=== Motion to move all documents to second public review ===
+ * Chuck White moves that the KMIP TC:;
+  1. Approve the following working drafts as Committee Specification Drafts, Committee Specification Public Review Draft
+   ||'''Document''' ||<:>'''Modified by''' ||<:>'''Status''' ||'''Updated Document''' ||'''Change Bar''' ||
+   ||Specification ||<:>Kiran ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53362&wg_abbrev=kmip|review-update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53928&wg_abbrev=kmip|change bar]] ||
+   ||Profiles ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53318&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53319&wg_abbrev=kmip|change bar]] ||
+   ||Profiles - Additional Message Encodings ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53278&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53279&wg_abbrev=kmip|change bar]] ||
+   ||Profiles - Storage Array with Self Encrypting Drives ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53280&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53281&wg_abbrev=kmip|change bar]] ||
+   ||Profiles - Symmetric Key Profile ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53317&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53283&wg_abbrev=kmip|change bar]] ||
+   ||Profiles - Tape Library ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53316&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53285&wg_abbrev=kmip|change bar]] ||
+   ||Profiles - Cryptographic ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53313&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53315&wg_abbrev=kmip|change bar]] ||
+   ||Profiles - Asymmetric Key Profile ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53314&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53287&wg_abbrev=kmip|change bar]] ||
+   ||Profiles - Symmetric Key Foundry ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53311&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53312&wg_abbrev=kmip|change bar]] ||
+   ||Profiles - Opaque ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53290&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53291&wg_abbrev=kmip|change bar]] ||
+   ||Profiles - SuiteB ||<:>Tim ||review draft loaded ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53288&wg_abbrev=kmip|review update]] ||<:>[[https://www.oasis-open.org/committees/document.php?document_id=53289&wg_abbrev=kmip|change bar]] ||
+
+
+  1. Approve the following as Committee Note Drafts, Committee Note Public Review Draft
+   ||'''Document''' ||'''Owner''' ||'''Status''' ||'''Notes''' ||
+   ||Test Cases ||Tim ||non-material changes only draft loaded ||[[https://www.oasis-open.org/committees/document.php?document_id=53320&wg_abbrev=kmip|review update]] (Only references corrected) ||
+   ||Usage Guide ||Judy ||review draft loaded ||[[https://www.oasis-open.org/committees/document.php?document_id=53348&wg_abbrev=kmip|review update]] ||
+
+
+  1. Provide the editors the approval to:
+   A. Change doc names to C(D|N)S and modify any cross references
+   A. Change front page to modify editor and co-chair names as deemed necessary<<BR>>
+  1. Authorize the co-chairs to request that all the documents be submitted for a 15 day public review<<BR>>
+  1. Designate the WORD version of each document as the authoritative version <<BR>>
+ * Mark J. seconds motion
+ * No Objections
+ * One Abstention (John Leiseboer)
+ * Motion Approved
+
+ * AI1: Subhash to submit TC admin requests after meeting minutes are uploaded
+
+== Update of document format for KMIP version 1.3 specifications and committee specifications - Subhash ==
+ * Specification and Profile documents need to be dropped into new format
+ * AI2: Subhash to validate if committee specifications require same format
+
+== Enhancement of Standing Rules after re-charter - Judith Furlong (Judy F.) ==
+ * Do rules need to be re-balloted?
+ * Not required (Hal Lockhart)
+ * Do we need to modify to fit new charter based on name change of use cases to test cases?
+ * AI3: To be researched (Judy?)
+
+== Review Server to Client Query proposal - Mark J. ==
+ * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/53038/kmip-server-to-client-operations.odt|Server to Client Operations]]
+ * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/53094/KMIP1.3-server-to-client-tests.odt|Server to Client Test Cases]]
+ * John L. Asked about proxy clients that sat in front of more than one end point
+ * Bob Lockhart agreed thought needs to be given to it but that it may be something for later to update as required via Profiles or in the specifications
+ * Mark J. suggested that in cases where more than one end point was serviced by a proxy an error be returned
+ * Further discussion to be detailed in email follow up 
+
+== Upcoming Meeting Cancellations ==
+ * June 26, 2014 meeting cancelled as no agenda items
+ * July 3, 2014 meeting cancelled due to U.S. holiday July 4th
+
+== Motion to Adjourn Meeting ==
+ * Chuck White moves to adjourn
+ * Mark Joseph seconds
+
+= Meeting Adjourned 8:43PM GMT =

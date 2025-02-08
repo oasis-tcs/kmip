@@ -1,0 +1,73 @@
+= Meeting Minutes April 23, 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve F2F Day 1 Minutes (Feb 20, 2020)
+ * Review/Approve F2F Day 2 Minutes (Feb 21, 2020)
+ * Review/Approve Minutes (Apr 16, 2020)
+ * KMIP Interop - RSA 2021
+ * KMIP v2.1
+  * Status - Spec & Profiles
+  * SoUs
+  * Status - Test Cases & Usage Guide
+ * KMIP v3.0
+  * Status update
+ * OASIS proposed document template changes
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve the F2F Day 1 (Feb 20, 2020) and F2F Day 2 (Feb 21, 2020) meeting minutes'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the F2F Day 1 (Feb 20, 2020) and F2F Day 2 (Feb 21, 2020) meetings approved.
+
+'''Motion to approve previous meeting minutes from April 16, 2020'''
+
+ * Judy F moves, Tony C seconds. No objections, abstentions, or comments. Minutes for the April 16, 2020 meeting approved.
+
+== KMIP Interop - RSA 2021 ==
+ * The window for organizations to indicate their participation in the KMIP Interop at RSAC 2021 closed tomorrow, April 25, 2020.  OASIS will only commit to the RSAC booth if they have a set number of participants and there are still openings.  If any member is interested in participating and/or have questions please contact either Jane H or Tony C.
+
+== KMIP 2.1 ==
+=== Status - Spec & Profiles ===
+ * Requests to set up the Special Majority Votes to approve the KMIP 2.1 Specification and Profiles documents as Committee Specifications have been submitted to TCAdmin.
+
+=== SoUs ===
+ * We will now need to have Statement of Uses for KMIP 2.1 to be submitted from at least three TC member companies.  The TC standing rules require that companies submitting SoUs must have participated in the KMIP TC Interop event.
+
+=== Status - Test Cases & Usage Guide ===
+ * Next week the TC will vote on moving the KMIP 2.1 Usage Guide and Test Cases forward as Committee Notes.  Tony will send out the wording of the motions prior to next week's TC meeting.
+
+== KMIP 3.0 ==
+ * Tony has all the proposals and actions from the F2F posted to the Wiki (https://wiki.oasis-open.org/kmip/3.0).
+ * He asked that folks review the Wiki page and let him know if changes are needed or feel free to edit the page directly.
+ * Editors of the KMIP 3.0 documents are free to start putting the KMIP 2.1 content into the KMIP 3.0 starter documents.
+ * Those writing KMIP 3.0 proposals/spec delta should start with the KMIP 2.1 document.
+
+== OASIS proposed document template changes ==
+ * Tony C commented on the proposed template changes.  For those who have been writing OASIS spec for a while there are not significant content changes.  Other changes to formatting etc. will help in making the publication process easier.  The new template and other proposed changes do not force the TC to change our process.
+ * Tony C was comfortable with the changes and other members have also concurred with this assessment
+ * Tony C will send an email to Chet E to indicate the TCs approval of these changes.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: April 30, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Brett S (Fornetix), Chris H (HPE)
+
+== Motion to Adjourn ==
+ * Tim C moves and Chuck seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:14 US-EST ==

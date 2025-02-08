@@ -1,0 +1,83 @@
+= Meeting Minutes 23 August 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (August 16, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Cryptographic Usage Mask Spec Delta - Chuck W & Tony C
+  * Adjust Attribute - Anthony B
+  * Multiple ID Placeholders  - Tim H
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action items discussion
+
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from August 16, 2018 =====
+ * Tim H moves, Jerry S seconds, No objections, abstentions, or comments. minutes for the August 16, 2018 meeting approved.
+
+== RSA 2019 Interop ==
+ * Tony C announced that it looks like one or two slots may be opening up in the booth.  If you are interested in participating, now is the time! Please contact Tony C and Jane H.
+
+== KMIP 2.0 ==
+=== Cryptographic Usage Mask Spec Delta (Tony C) ===
+ * Tony and Chuck have not had a chance to work though this changes which were discussed at last week's meeting.  So this will be revisited in a future meeting.
+ * Thanks to Joe B for posting the relevant NIST specifications to the list.
+
+=== Adjust Attribute (Anthony B) ===
+ * Anthony posted an updated [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63748|Adjust Attribute C]] proposal to the reflecter to address the comments provided at last weeks meeting.
+ * This revision included all but one of the changes discussed, Anthony missed one change the Invalid Data Type error code.  Anthony will made this change and repost the proposal to the reflector.
+
+===== Motion to approve the Adjust Attribute proposal (with the noted modification that Anthony will be adding) and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Tim H moves and Bruce R seconds, No objections, abstentions, or comments. Adjust Attribute updates approved.
+
+=== Set Attribute (Anthony B) ===
+ * Anthony also posted an updated [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63749|Set Attribute B]] proposal to the reflector.
+ * This modified the proposal which was approved in a motion made in last week's meeting.  This new revision changes Result Reason to be consistent with the revised Adjust Attribute proposal (discussed above).
+
+===== Motion to approve this revised (B) Set Attribute proposal and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Set Attribute B updates approved.
+
+=== Multiple ID Placeholders  (Tim H) ===
+ * Tim H posted the [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=63397|Multiple ID Placeholder]] proposal to the reflector a few weeks ago.
+ * This week there was a discussion the reflector regarding the fact that the encoding of Unique Identifer is no longer just Text String but instead could be Test String or Enumeration or Integer and approaches for handling this in the Specification.
+ * Discussion came round to the TC conceptually agreeing to this new Unique Identifier encoding.
+ * It will be left to the Spec editors (Tony C and Chuck W) to determine how best to incorporate this change into the KMIP 2.0 Spec.
+ * Tim H will ensure that there are test cases to cover all three encoding options to ensure that implementors will be able to handle each situation.
+
+===== Motion to approve Multiple ID Placeholder proposal and include these changes in the next revision of the KMIP 2.0 Spec =====
+ * Chuck W moves and Tim C seconds, No objections or abstentions.  One comment from Chuck W -- the Spec editors (Tony C and Chuck W) will bring the revisions for this udpate back to the TC in two weeks (or as soon as feasible based on both editor's schedule.)  Set Multiple ID Placeholder updates approved.
+
+=== KMIP 2.0 Proposal Review ===
+ * See [[https://wiki.oasis-open.org/kmip/2.0|proposal status]]
+
+ * Chuck W indicated that he has the Client Re-provisioning propsal ready and will post it to the reflector by tomorrow.  Tim H adjusted the due date in the wiki to Aug 24th
+
+ * This leaves one proposal (Production Security Security) outstanding with a due date of next Friday (Aug 31st)
+
+ * Tony C noted that there is a backlog of submitted proposals that still need to be presented to the TC and there are other proposals that need to be revisited.  Tony C will go through the list and prepare the agenda for subsequent TC meetings to work through this backlog.
+
+ * After completing the Spec changes the next focus will be on new Profile submissions.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next Meeting:  30 August 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * None
+
+===== Motion to Adjourn =====
+ * Tim H move, Tim C seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:22 US-EST ==

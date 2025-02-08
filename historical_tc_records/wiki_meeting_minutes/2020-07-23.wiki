@@ -1,0 +1,56 @@
+= Meeting Minutes July 23, 2020 - Draft =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (July 9, 2020)
+ * KMIP v2.1
+   * Status
+ * KMIP v3.0
+   * Status update (wiki review)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Jerry S seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from July 9, 2020'''
+
+ * Steve E moves, Greg S & Tim C second. No objections, abstentions, or comments. Minutes for the July 9, 2020 meeting approved.
+
+== KMIP 2.1 ==
+
+ * Special majority ballot to move the KMIP 2.1 Specification and Profiles documents to Candidate OASIS Standards has been opened and will close on July 27, 2020.  See: https://www.oasis-open.org/apps/org/workgroup/kmip/ballot.php?id=3516
+ * Please vote if you have not already done so.
+
+== KMIP 3.0 ==
+
+=== Status Update ===
+
+ * Tony C noted that a number of the 3.0 proposals on the wiki (https://wiki.oasis-open.org/kmip/3.0) are reaching their due date (July 30th/31st) and asked if anyone of the owners on the call were fine with the planned date or if they wished the dates to be moved.  
+  * Anthony B has one proposal that will be ready by the existing due date.
+  * Bruce C was fine leaving his proposal at August 6th.
+  * Tim C asked that his client authentication proposal be moved to August 20th.
+  * Tony will check with Tim H and Chuck W who were not on the call regarding the due dates of their proposals.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: July 30, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Chris H (HPE)
+
+== Motion to Adjourn ==
+ * Greg S moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:09 US-EST ==

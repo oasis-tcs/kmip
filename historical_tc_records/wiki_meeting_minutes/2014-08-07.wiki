@@ -1,0 +1,44 @@
+## page was copied from MeetingMinutes/July312014
+= Meeting Minutes August 07, 2014 =
+ * Meeting commenced 1:00PM US-PDT
+=== Roll call ===
+ * Saikat performed roll call, we have quorum. This will be an official meeting.
+
+=== Agenda ===
+ * Client Registration Proposal (Tim)
+ * Interop Subcommittee status (Tony)
+ * KMIP 1.2 Status (Subhash)
+
+=== Approve meeting agenda ===
+ * Chuck moved, Tim seconded. No objections or abstentions or discussions. Agenda approved
+
+=== Approve previous meeting minutes ===
+ * Chuck moved, Tim seconded. No objections or discussions. Minutes approved
+
+=== Client Registration Proposal ===
+ * Tim went thru the proposal as submitted to the tc [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/53769/KMIP-Client-Registration-V2A-with-test-case.pdf]]
+ * Questions: Are all four options in slide #4 desired. Saikat: All four are desired to suit a broad spectrum of vendor implementation, Mark: Option #4 does not make much sense Saikat: Makes sense if client and server both have a common trust point such as a root trust point. Chuck: Agreed. Hal: Option #4 is not uncommon in PKI world. No objections to including returning which options are supported as part of Query Capabilities. Tim will update based on that.
+ * Saikat: Automatic client registration - what is the bootstrap authentication mechanism, Tim: Username/password, device credential or any other KMIP supported authentication mechanism
+ * Tim: Slide 6 - no additional suggestions from tc but requested to send anything to add to the usage guide to Judy, Tim, and/or TC or will just use the list from this slide. No objections.
+ * Client registration proposal could incorporate Bob Lockhart's PKCS#12 proposal if it was included but works entirely without it as it as Bob hasn't yet provided his proposal.
+
+  
+=== Interop status ===
+ * Tony mentioned that today was the first interop plug fest call. There are three confirmed, 2 may be vendors for the plug fest
+ * Subhash: Do we have well-defined rules since we had some contentions during last round of interop. 
+ * Tony: Well defined rules, will work-out finer details and scope between the participants
+ * Subhash: It will be great to have at least 5 vendors participate in the plug-fest following our standard committee acceptance criteria
+ * John: Can you clarify if plug-fest is limited to only 1.3 functionality, Tony: Confirmed as current scope.
+
+=== Motion ===
+ * Motion to approve the KMIP 1.2 errata document and if required for the co-chairs to submit request for formal ballot to tc admin. 
+ * Tim moves the motion
+ * Chuck seconds, no abstentions, no objections
+ * Motion carries
+
+=== KMIP 1.2 status ===
+ * Subhash submitted the request for all the 13 documents to OASIS admins. Subhash will check status of the requests.
+
+
+=== Motion to Adjourn ===
+ * Chuck moves, Tim seconds. No objections or abstentions or discussions. Adjourned 1:34PM US-PDT.

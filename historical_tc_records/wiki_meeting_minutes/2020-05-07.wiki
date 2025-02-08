@@ -1,0 +1,60 @@
+= Meeting Minutes May 07 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from April 30, 2020'''
+
+ * Tim H moves, Greg moves. No objections, abstentions, or comments. Minutes for the April 30, 2020 meeting approved.
+
+== KMIP Interop - RSA 2021 ==
+ * RSA has extended the signup deadline to the end of May.
+ * There are still a couple of spots available. Contact Tony C or Jane Harnad for more information.
+ 
+== KMIP 2.1 ==
+=== Status - Spec & Profiles ===
+ * Ballot is currently running and closes later today. The minimum number of votes for passage has been met.
+ 
+=== SoUs ===
+ * Tony is working on SoU for Cryptsoft. 
+ * Anyone who has participated in interop testing for KMIP 2.1 is eligible to provide a SoU.
+ 
+=== Status - Test Cases & Usage Guide ===
+ * Usage Guide hasn't changed in some time and is ready to move forward.
+ * Test Cases have been well tested and the word document containing the list of Test Cases and references has been posted.
+ * There were no comments or concerns with moving the Usage Guide and Test Cases forward.
+  
+'''Motion to approve the Key Management Interoperability Protocol Test Cases Version 2.1 Working Draft 02 (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/67127/kmip-testcases-v2.1-wd02.docx) and all associated artifacts packaged together at https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/66580/kmip-testcases-v2.1-wd02.zip as a Committee Note and designate the docx version of the note as authoritative.'''
+	
+ * Tim H moves, Chuck seconds.  No objections, abstentions, or comments. Motion approved.
+
+'''Motion to approve the Key Management Interoperability Protocol Usage Guide Version 2.1 Working Draft 01 (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/66666/kmip-ug-v2.1-wd01.docx) as a Committee Note and designate the docx version of the note as authoritative.'''
+	
+ * Chuck moves, Tim C seconds.  No objections, abstentions, or comments. Motion approved.
+
+== KMIP 3.0 ==
+=== Status update ===
+ * Due dates were provided by the owners of the action items and will be posted to the wiki.
+ * Chuck volunteered to be the owner for Split Key.
+ * Chuck may have some feedback on Obliterate to provide on next week's call.
+ * The first working draft of the 3.0 spec has been posted.
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: May 14, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Kenli
+
+== Motion to Adjourn ==
+ * Tim H moves and Chuck seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:16 US-EST ==

@@ -1,0 +1,60 @@
+= Meeting Minutes July 27, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (June 29, 2023)
+ * KMIP 3.0 Status Updates
+  * KMIP 3.0 Profiles/Test Cases
+  * KMIP 3.0 Specification
+  * KMIP 3.0 Usage Guide
+ * Interop
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from June 29, 2023'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the June 29, 2023 meeting are approved.
+
+== KMIP 3.0 Status Updates ==
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Mark J has submitted several errata on the recently published WD3 to the reflector.  Tim H has corrected these issues in his current working copy and responded to Mark J's emails.
+ * Tim H is continue to work on additional 3.0 test cases.
+ * Additional feedback on the Profiles/Test Cases is welcome
+
+=== KMIP 3.0 Specification ===
+ * Greg S noted that he was unable to make progress on the KMIP 3.0 Specification due to personal issues.
+ * Greg S is also waiting on Tim H to provide review feedback on the KMIP 3.0 Specification working copy
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy F notes that she has not made any updates to the Usage Guide and is still awaiting for new 3.0 content to incorporate
+
+== Interop ==
+ * Greg S sent a reminder about the Interop event to the KMIP mailing list to confirm the interest of CryptSoft, IBM, NetApp and P6R to participate and to solicit additional interested organizations.
+ * Sun Ho from MDS (and affiliate of Hanscom) which recently (re)joined the TC also expressed interest in participating in the Interop event.
+ * After a short discussion it was agreed that the Interop event should be moved into October after the ICMC conference.  October 9-20, 2023 is the proposed window for event.  Greg S will follow up with organizations who have expressed interest in participating to ensure this timeframe works for them.
+ * Scope of Interop is KMIP 3.0 to vet the 3.0 Spec and Profiles and support SOUs for 3.0.
+ * Tim H and Greg S have started working on draft Interop rules and will share at a future meeting
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: August 10, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:17 US-EST ==

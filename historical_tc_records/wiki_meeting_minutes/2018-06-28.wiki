@@ -1,0 +1,60 @@
+= Meeting Minutes 28 June 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (June 14, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * PGP Key Removal
+  * Cryptographic Usage Mask (Export Removal)
+  * Key Format Type spec updates
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action Items Discussion
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn
+
+===== Motion to approve Agenda =====
+ * JerryS moves, TimC seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from June 14, 2018 =====
+ * JerryS moves, TimC seconds, No objections, abstentions, or comments. minutes for the June 14, 2018 meeting approved
+
+== RSA 2019 Interop ==
+ * 20x20 booth - 8 slots
+ * JaneH indicated 3 slots still being confirmed with RSA
+ * JaneH is in negotiation to see if a 20x30 booth is possible and in which case 4 more slots would be available
+
+== KMIP 2.0 ==
+=== Removal of PGP Keys ===
+ * See [[https://www.oasis-open.org/committees/document.php?document_id=63205|spec changes]]
+ * Deferred to a subsequent meeting.
+
+=== Key Format Type spec updates ===
+ * Bruce walked through [[https://www.oasis-open.org/committees/document.php?document_id=63285|spec changes]]
+ * Spec Editors will roll these changes into the next draft. No objections.
+ * Test cases will need adjustment which impacts both test cases and profiles documents.
+ * Usage guide text pending.
+
+=== KMIP 2.0 Proposal Review ===
+ * See [[https://wiki.oasis-open.org/kmip/2.0|proposal status]]
+ * Any date adjustments? Greg - may have some given the range of proposals.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next meeting: 12 July 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * None
+
+===== Motion to Adjourn =====
+ * JudyF moves and TimC seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:21 US-EST ==

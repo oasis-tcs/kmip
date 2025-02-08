@@ -1,0 +1,42 @@
+= Meeting Minutes August 26 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from August 12, 2021'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the August 12, 2021 meeting are approved.
+
+== KMIP 3.0 ==
+=== KMIP wiki review ===
+ * Tony C has posted working draft 13 along with the markups.
+ * The enumeration for counters has been removed in working draft 14.
+ * Tony C will hold on to working draft 14 for now while waiting for updates coming from the profile and test cases.
+ * Tim H and Tim C are working on their test cases. 
+ * Judy has received from Tony C usage guide materials for deactivate and counter and has put it into the usage guide working draft.
+
+== Interop Test ==
+ * The Interop won't be able at its originally scheduled date as the test cases won't be completed by then.
+ * The new start date will be reviewed at the next meeting.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: September 23 , 2021
+ * Chris brought up TCG and KPIO and Tim C said that he has been monitoring their meetings and no hard requirements has come up yet.
+ * If something urgent comes up it can be raised by email to the mailing list.
+
+== Call for Additional Attendees (Tony C) ==
+ * Oscar
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:13 US-EST ==

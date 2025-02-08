@@ -1,0 +1,51 @@
+= Meeting Minutes May 07, 2015 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Saikat Saha
+ * Quorum achieved
+
+== Proposed agenda ==
+ * RSA Conference KMIP booth feedback from participants
+ * KMIP 1.2 status update
+ * Discuss items from face to face KMIP 1.3 items
+ * Discuss face to face KMIP 1.4 items
+
+ 
+=== Motion to approve Agenda ===
+ * Tim Chevalier Moves
+ * Tim Hudson Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== RSA Conference KMIP booth feedback from participants ==
+ * Good booth placement and layout
+ * Badge scanning not allowed by new scanner owner
+ * Looking at new demo for next year
+ * Pods on corners lay out may have blocked some exposure unlike previous last year
+  * Number of vendors made it harder to get the layout
+  * Late delivery of booth design
+
+== KMIP 1.2 status update (Responsible Party) ==
+ * Ballots are up
+ * Need to create a common email to send to voting members
+ * Need to ensure all ballots are voted on
+
+== Discuss items from face to face KMIP 1.3 items ==
+ * Tony posted initial very rough paste to wiki
+ * Action Items from 1.3 need to be distilled out based on title not version from notes
+
+== Discuss face to face KMIP 1.4 items ==
+ * Bob to go through meeting minutes and pull out action items and post on TC
+ * Action items to be posted in Jira in TC web site and linked in Wiki to action items
+
+== Call for late arrivals - Subhash/Saikat ==
+ * 4 late arrivals
+ 
+== Motion to Adjourned ==
+ * Tim Hudson Moves
+ * Tim Chevalier seconds
+ * No abstentions
+ * No objections
+ * Motion Approved/not approved
+ 
+= Meeting Adjourned at 8:31PM GMT =

@@ -1,0 +1,67 @@
+= Meeting Minutes 29 November 2018 =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (November 15, 2018)
+ * Interop for RSA 2019
+ * OASIS Call for 2019 Events
+ * KMIP 2.0
+  * WD06 (Tony C)
+  * Profiles (Tim H)
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action Items Discussion
+ * List comment from Conrado Gouvêa
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Justin C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from November 15, 2018'''
+
+ * Tim H moves, Sue G seconds, No objections, abstentions, or comments. Minutes for the November 15, 2018 meeting approved.
+
+== Interop for RSA 2019 (Tony C) ==
+ * The OASIS Board has approved the TC interop event at the RSA 2019 conference to operate under the OASIS KMIP TC Interop Policy that were used last year.
+ * Tony C is in the process of updating the policy from last year to reflect this year's participants and dates.  There are no plans for any material change to the interop policy itself.  Tony C expects to distribute this policy to the TC in the next day or two so that the TC and vote on it at next week's meeting.
+ * Interop testing will need to start mid-January give date of RSA 2019 conference and the current state of the 2.0 Spec and Profiles.
+ * Smaller booth than last year.  Limited to 8 vendors.  KMIP TC will be the only ones in the booth so we have more control/influence on how the booth will look etc.
+ * Tony C let a brief discussion on how the TC might want to brand the booth.  He felt it should be focused on providing information and demonstration of capabilities and suggested a tagline of Come ask a key management expert.
+ * Tony C asked the TC to post ideas to the reflector on the booth branding and any features that we should or should not have in booth.  The TC will revisit this topic next week.
+ * Printed materials regarding booth participants need to be provided to the RSA Conference folks by December 14th.
+ * Tony C will circulate other relevant dates related to the Interop event to the TC
+
+== OASIS Call for 2019 Events (Tony C) ==
+ * Tony C asked if anyone on the TC had other KMIP relevant events of which the OASIS folks should be aware.  No one raised any events.  The TC will revisit this topic at a future meeting.
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Spec WD06 (Tony C) ===
+ * Tony C is still working on WD7 of the KMIP 2.0 Spec.
+ * Chuck offered to provide help with getting this WD finalized and will work with Tony C offline.
+
+=== KMIP v2.0 Profiles (Tim H) ===
+ * Tim H noted that the status on the KMIP 2.0 Profiles document is unchanged since last meeting and will not likely to change over the next week due to his schedule.
+
+== List comment from Conrado Gouvêa ==
+ * Co-Chairs sent email to Conrado requesting additional information.  Still awaiting a response from Conrado.  Tony C will send a follow-up note to Conrado.  If we don't hear back from him in the next few weeks we will close out this action.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next Meeting: 6 December 2018
+
+== Call for Additional Attendees (Tony C) ==
+ * Alan B (Thales), Rinkesh B (IBM), Kenli C (Quintessence Labs)
+
+== Motion to Adjourn ==
+ * Tim H moves, Greg S seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:18 US-EST ==

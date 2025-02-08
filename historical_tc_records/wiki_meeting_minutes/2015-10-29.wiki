@@ -1,0 +1,66 @@
+## page was copied from MeetingMinutes/October222015
+## page was copied from MeetingMinutes/October152015
+## page was copied from MeetingMinutes/October012015
+= Meeting Minutes October 29, 2015 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Approve Agenda
+ * Approve Minutes
+ * KMIP 1.3 Status
+ * KMIP 1.4 Status
+ * NIST800-57 Comments (Chuck W)
+ * New business
+ * Adjourn
+
+=== Motion to approve Agenda ===
+ * Tim C Moves
+ * Tim H Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== Motion to approve October 22nd meeting minutes ==
+ * [[https://wiki.oasis-open.org/kmip/MeetingMinutes/October152015|https://wiki.oasis-open.org/kmip/MeetingMinutes/October222015]]
+ * Tim H Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== KMIP 1.3 status ==
+ * Tim H - Profiles - Still working on profiles document formatting and hopes to send an example of the updates before next week's call and then work on the rest
+ * Tony C - Specification -- Still needs to incoporate the updates that were approved during the October 22nd meeting and hopes to have updates completed prior to next week's call
+
+== KMIP 1.4 status ==
+ * No updates
+
+== NIST 800-57 Comments - Chuck W. ==
+ * Chuck walked through the [[https://lists.oasis-open.org/archives/kmip/201510/msg00023.html|draft comments]] that he posted to the reflector on Tuesday October 28th.
+ * Tony suggested two additions to the comments -- that NIST align the key management recommendations with those of the key state transitions and that a common key management protocol such as KMIP should be recommended.
+ * Action:  Tony will provide wording to Chuck for these additional comments.
+ * Judy pointed out that the Suspend state come from the PKI world so that it's inclusion in SP 800-57 while new is not completely unexpected.  The points in the (first bullet) comments about tying access decisions with this Suspsend state are an implementation reality versus anything that is explicitly noted in SP 800-57.
+ * Action:  Chuck will revise the wording of the first bullet to clarify these points.
+ * Comments need to be submitted to NIST by [[http://csrc.nist.gov/publications/PubsDrafts.html#SP-800-57-Part%201-Rev.%204|October 31, 2015]] (Trick or Treat!)
+ * Motion to have Chuck submit the comments on behalf of the OASIS KMIP TC -- Tim H moves, Bruce seconds -- No objections, No abstentions, Motion approved
+ * Tim H pointed out that NIST will publish all the comments so please make sure that the are written for public consumption.
+ * Chuck acknowledged this point.
+ * Tim H will review comments for Chuck prior to final submission.
+
+== Call for New Business - Tony C. ==
+ * No new business items.
+
+== Call for late arrivals - Tony C. ==
+ * No late arrivals
+
+== Motion to Adjourn ==
+ * Tim H. Moves
+ * Jerry seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+
+= Meeting Adjourned at 8:17 PM GMT =

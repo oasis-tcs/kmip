@@ -1,0 +1,71 @@
+## page was copied from MeetingMinutes/July102014
+## page was copied from MeetingMinutes/June122014
+## page was copied from MeetingMinutes/June052014
+## page was copied from MeetingMinutes/June052014
+= Meeting Minutes July 17, 2014 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tim Hudson (Tim)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Discuss NIST Lifecycle Secure Attributes - Charles White (Chuck)  
+ * Review status of KMIP 1.3 items
+ * Status of KMIP 1.2 second public review
+ 
+=== Motion to approve Agenda ===
+ * Tim Moves
+ * Chuck Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== Motion to approve Minutes for July 10 ===
+ * Tim Moves 
+ * Joe Brand (Joe) Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved 
+
+== NIST key lifecycle secure attributes discussion ==
+ * Chuck: Based on NIST SP 800-130, secure the metadata.
+ * Proposed a 2-phase approach, in the first phase, categorize attributes and mark them as secure attribute, server and/or client honors the security attribute to protect these attributes
+ * Protect attributes using existing wrap/unwrap mechanism, to make it relatively seamless for server and client vendors, classify, mark attributes with x-, y- existing mechanism and then wrap/unwrap them as appropriate.
+ * Joe: Concerned about deprecation and future interoperability, would prefer a more standardized way to deal with this. Using custom attribute x- format, different vendors will use different names which will cause interop issues
+ * Tim: Suggest to handle this thru Usage guide
+ * Chuck: Applicable to industry specific requirements as well, healthcare, DOD in public sector may have special attribute requirements
+ * David Featherstone: Binding customer attributes to actual data, how about the authentication scheme, who is authenticated?
+ * Chuck: This pertains to authorization scheme instead of authentication and might be too much to handle in the KMIP specification
+ * Joe: We need to find best way to handle this in 1.3
+ * Chuck: Also US classification guidelines will help to classify the secure or sensitive attributes
+ * Chuck: Three things to deal with, first existing sensitive attributes, second security attributes from NIST 800-130 and third custom attributes that may be specific to given customer, for example, satellite communication
+ * Saikat: Next step
+ * Chuck: Read classification guidelines and propose how to identify the secure or sensitive attribute, would be great to include how KMIP 1.3 supports these secure attributes
+
+== Review status of KMIP 1.3 ==
+ * Judy: Registration proposal, will not be ready next week
+ * Tim: Query enhancements proposal, next week
+ * Kiran: Group proposal in next two weeks, Kiran and Saikat to submit 
+ * Bob Lockhart (Bob) Provisioning proposal with Kiran, two weeks
+ * Bob to propose changes required in specification regarding X9 key type attributes in the enumeration table
+
+== 1.2  second public review status ==
+
+ * Subhash will follow up with the TC-admin, Saikat to follow up with Subhash
+
+
+== Agenda for next week's tc call ==
+ * Tim: Query enhancement proposal
+ * Status of KMIP 1.3 items 
+
+
+== Call for late arrivals - Saikat ==
+ * Bruce Rich
+ 
+== Motion to Adjourn ==
+ * Tim Moves
+ * Chuck seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+
+= Meeting Adjourned at 8:38 PM GMT =

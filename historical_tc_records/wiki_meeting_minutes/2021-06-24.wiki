@@ -1,0 +1,48 @@
+= Meeting Minutes June 24, 2021 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (June 3, 2021)
+ * KMIP V3.0
+  * KMIP wiki review (required profiles and test cases)
+ * Interop Test
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from June 3, 2021'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the June 3, 2021 meeting approved.
+
+== KMIP 3.0 ==
+ * Current published version of KMIP 3.0 Specification is WD11.  Tony C is working on WD12 incorporating minor tweaks and corrections which have been pointed out to him and through his own review.  He plans to have WD12 published prior to the next TC meeting where he will review the updates.
+ * Tim H and Tim C are still working on KMIP 3.0 Test Cases and Profiles documents.
+ * Judy F confirmed that she is still waiting on Usage Guide materials associated with the KMIP 3.0 proposals as noted on the wiki (https://wiki.oasis-open.org/kmip/3.0).
+
+== Interop Test ==
+ * Tony C noted that four parties have indicated to participate in the Interop which is currently planned for September 2021.
+ * The Interop event is dependent upon having published working drafts of the KMIP 3.0 Test Cases and Profiles documents.
+ * Please let Tony C know if you plan to participate in the Interop.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next meeting will be in three weeks to avoid the US holiday/vacations.
+ * Next TC Meeting: July 15, 2021
+
+== Call for Additional Attendees (Tony C) ==
+ * Bruce R (Cryptsoft)
+
+== Motion to Adjourn ==
+ * Bruce R moves, Tim H and Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:06 US-EST ==

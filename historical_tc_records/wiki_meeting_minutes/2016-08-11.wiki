@@ -1,0 +1,51 @@
+= Meeting Minutes 11 August, 2016 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (August 4th)
+ * KMIP 1.3 update (Tony Cox)
+  * Specification and Profiles
+ * KMIP 1.4 content review (Tony Cox)
+ * GitHub Repository
+ * Call for Additional Attendees
+ * Adjourn Meeting
+ 
+==== Motion to approve Agenda ====
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+==== Motion to approve August 4th, 2016 meeting minute ====
+ * Tim H moves, Mark J seconds. No objections, abstentions, or comments. [[MeetingMinutes/August042016|August 4th Minutes]] approved
+ 
+== KMIP 1.3 ==
+=== Specification and Profiles ===
+ * TC Admin are processing the documents now, they should be posted in the next few days.
+
+== KMIP 1.4 ==
+ * Tony still working on collated work item list and hopes to have it available next week
+ * Tony has notes of some additional items from some TC members - he has asked for proposals ASAP
+
+=== GCM Proposal and Profile ===
+ * Bruce briefly introduced his proposal for GCM
+ * Tony to get 1.4 documentation up to date for identifiers
+ * Bruce noted that the PKCS11 TC needs some identifiers
+ * Tony noted that Tim will need to comunicate the assigned block to the P11 TC once the 1.4 spec is updated
+ * Tim walked through his test cases - more work is required to include a more detailed test case
+
+== GitHub Repository ==
+ * Tony: OASIS have made an official GitHub Repository service available and each TC may apply for a repository.
+ * Tony: noted that a TC motion or ballot is required to apply for a KMIP GitHub Repository
+==== Motion to have the TC Co-Chairs request a KMIP TC GitHub Repository ====
+ * Tim H moves, Gerry S seconds, No objections, abstentions, or comments. 
+ * Tony to progress request noting the scope as Test Cases and Profile Test Cases and the account holders as Bob L, Tim H and Mark J (as relevant document editors) the Co-Chairs.
+ 
+== Call for late arrivals (Tony C) ==
+ * None
+ 
+== Motion to Adjourn ==
+* Tim H moves, Alex seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+= Meeting Adjourned at 8:19PM GMT =

@@ -1,0 +1,64 @@
+= Agenda =
+
+ 1. Review of 1.2 items
+ 1. Tracking re-contribution status
+ 1. Interop
+ 1. Next f2f
+ 1. External marketing
+ 1. 1.3 items
+
+Tim moves that we approve agenda, Mark seconds.
+Hearing no objections/abstentions, agenda is approved.
+
+
+'''Prior minutes'''
+Bob L/Saikat - have the AI to finish it by next weeks meeting
+
+= 1.2 =
+
+ 1. Document are being quality checked. 
+ 1. Need to create public review request tickets (Subhash/Saikat)
+
+= Re-contribution =
+
+Saikat to track it
+
+= Interop =
+
+1st KMIP Interop Subcommittee Meeting Held
+
+ * Did not have the full booth participants
+ * Passed a standing rule (unanimously)that each organisation only receives one vote
+ * Outlined some of the issues from previous interops that the group should focus on
+ * Received an update from Jane @ OASIS on booth logistics indicating that there were still some slots available and the invitation had been extended for those organisation not yet participating to contact Jane if they did want to participate (please contact Jane ASAP)
+ * Indicated that KMIP 1.3 Interop testing would be run in July 2014 (noting that KMIP 1.3 scope had yet to be agreed)
+
+= face-to-face =
+
+Tim makes a motion that the next face-to-face will be in the San Francisco Bay area on the 20th and 21st of February, Chuck seconds
+Hearing no objections/abstentions, face-to-face dates are locked.
+
+Two possible locations:
+ 1. NetApp in south bay
+ 1. Oracle in the peninsula
+
+Straw poll needs to be created.
+
+
+= Review of pipeline =
+
+Tim walked through the [[ProjectPipeline|pipeline]] and updated the page in real time - thanks
+
+
+= External Marketing =
+
+Webcast/Youtube video - start with youtube video @ f2f, then incorporate some of the interop into another video
+
+= Next week =
+
+ 1. RNG proposal walkthrough - Tim, Kiran & Bob L
+ 1. NIST Key lifecycle - Chuck and his colleagues @ Semper-Fortis
+ 1. Streaming proposal
+
+Tim moves that we adjourn, Judy seconds.
+Hearing no objections/abstentions, we are adjourned.

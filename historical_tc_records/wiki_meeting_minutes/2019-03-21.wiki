@@ -1,0 +1,76 @@
+= Meeting Minutes 21 March 2019 - Draft =
+== Meeting commenced 17:01 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (February 27 & 28, 2019)
+ * Review RSA 2019 Interop
+ * KMIP 2.0
+  * Review Spec Status (Tony C)
+  * Review Profiles & Test Cases Status (Tim H)
+  * Usage Guide Status (Judy F)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Chuck W moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+== Minutes from KMIP F2F ==
+ * Judy F has posted the meeting minutes from Day One (Feb 27, 2019) and will post the minutes from Day Two (Feb 28, 2019) later today.
+ * Approval of these meeting minutes will be deferred to the next meeting to give adequate time for folks to review the minutes prior to voting.
+
+== Review RSA 2019 Interop ==
+ * At F2F we made a decision to participate in an Interop event at RSA 2020, with a proviso to change our minds within 30 days after we had a chance to review this year's event.
+ * Jane H has been able to secure a 20 x 20 booth in the South Hall for next year's event which means a maximum of 8 vendors can participate.
+
+ * TC moved into a retrospect discussion for RSA 2019 event
+  * Tony C noted that this was the smoothest event that he has been involved with so far.  There were a few minor things that could be improved.
+  * Chuck W would like the TC to look at other events where we can do the Interop event.  He has concerns that RSAC is not always generating the right leads and may not be the right audience for a cryptography and key management protocol
+  * Tony C welcomed suggestions from the TC for other events venues.
+   * Chuck W suggested the BSides events which are held in multiple cities
+  * Tony C also note that given the 12 month lead time for RSAC the TC might need to double up on events within a year if we decide to move away from RSAC.
+  * Tim H noted based on experience within KMIP and other TCs like PKCS#11 that its often difficult for organizations to get funding for smaller events.  That is the one advantage for doing RSAC since it is the security industry leading event and hence easier to secure funding.
+
+ * Tony C asked the TC is anyone has objections to going ahead with the Interop event at RSAC 2020.  No objections were raised.
+ * Tony C will let Jane H to go ahead with the booth planning for next year.
+ * Bruce R noted that he knows of at least one new TC member who didn't participate in this year's even who is interested in participating next year.
+
+== KMIP 2.0 ==
+=== Review Spec Status (Tony C) ===
+ * Tony posted new committee spec draft (https://www.oasis-open.org/committees/document.php?document_id=64928&wg_abbrev=kmip) to the OASIS site.
+ * Tony C continues to receive additional edits to the Spec so he has one more round of edits to do.  He will try to get this out as soon as possible so that the TC can vote next week to move the Spec to public review.
+
+=== Review Profiles & Test Cases Status (Tim H) ===
+ * Tim H is working through the updates to both the Profiles and Test Cases and hopes to have these distributed prior to next week's TC meeting.
+
+=== Usage Guide Status (Judy F) ===
+ * Judy F has been working on the next draft of the UG incorporating the edits from here own review and the F2F.
+  * She still needs to complete the reorganization of the document and working in the new UG text developed during the F2F Meeting.
+  * She also needs to incorporate additional edits which she received from Tony C.
+ * Judy F is also planning to have the UG distributed prior to next week's TC meeting.
+
+== KMIP 2.1 ==
+ * Tony C will request the KMIP 2.1 documentation templates from TC Admin
+ * The TC will begin to review KMIP 2.1 proposals during the weekly TC meetings within the next few weeks.
+
+== New Business ==
+ * Judy F noted that she could not take the meeting minutes at next week's TC meeting, since she would be traveling.
+ * Jeff B volunteered to take the minutes.
+ * Tony C will send Jeff B the meeting minute template.
+
+== Next Meeting ==
+ * Next TC Meeting: 28 March 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:19 US-EST ==

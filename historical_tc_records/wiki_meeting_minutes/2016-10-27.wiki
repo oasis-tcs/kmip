@@ -1,0 +1,66 @@
+## page was copied from MeetingMinutes/Oct272016
+= Meeting Minutes October 27, 2016 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Valerie Fenwick, Oracle new member joins KMIP TC. Tony welcomes Valerie to the KMIP TC
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call 
+ * Approve Agenda 
+ * KMIP 1.3 update (Tony C.) 
+  * Specification and Profiles 
+ * KMIP 1.4 update (Tony C.) 
+ * KMIP 2.0 (Tony C.) 
+ * RSA Interop planning (Tony C.) 
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) Moves
+ * Tim Chevalier (Tim C.) Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== KMIP 1.3 update (Tony C.) ==
+ * One comment from Nitin Jain regarding AES GCM AAD (Additional Authenticated Data) Optional attribute
+ * No serious comment thus far
+ * Email discussions among Bob, Tim and Saikat regarding AES GCM AAD
+ * Consensus: Notify to see later versions of the specification where this has been addressed
+ * Tony to officially respond regarding this
+ 
+== KMIP 1.4 update (Tony C.) ==
+ * Looking to close off 1.4 content in November
+ * Bob to send out uniqueness of names proposal before next week's call
+ * Bob: Key management requirement in a multi-tenant environment needs to be address.
+ * Tim: Let us address this in the Usage guide
+ * Anthony: Uniqueness in domain/tenant creates an issue for re-key operation, unique identifier vs. unique name
+ * Tony: Let us take this offline and discuss amongst interested parties
+ * Bob: It seems like wider audience has interest in this. Let us discuss this in next week's call
+ 
+== KMIP 2.0 (Tony C.) ==
+ * Document editors are currently unchanged
+ * Profile document editors Tim and Bob
+ * Usage Guide: Indra  and Chuck KMIP 2.0 specification co-editors
+
+== RSA Interop planning (Tony C.) ==
+ * Jane sent out request for kick-off call with OASIS
+ * Kick-off call with OASIS will be set up shortly
+ * Interop process details and schedule will be published in next few days
+ * Valerie: Want to understand what is the minimum KMIP version required to participate in the interop
+ * Currently active standard is KMIP 1.2 as KMIP 1.3 is still in draft and KMIP 1.4 is under development
+ * Let us finalize this as part of the interop sub-committee
+
+ 
+=== Call for Late Attendees ===
+ * No additional attendees
+
+== Motion to Adjourned ==
+ * Tim C. Moves
+ * Greg Scott seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:31PM GMT =

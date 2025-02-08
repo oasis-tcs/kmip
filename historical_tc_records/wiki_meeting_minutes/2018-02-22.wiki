@@ -1,0 +1,86 @@
+## page was copied from MeetingMinutes/15Feb2018
+## page was copied from MeetingMinutes/8Feb2018
+= Meeting Minutes 22 February 2018 - Draft =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll call (Tony C)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (February 15, 2018)
+ * Interop Status (Tony C)
+ * Interop Booth & Presentations (Tony C)
+ * KMIP 2.0
+  * KMIP 2.0 Specification WD03 Discussion (Tony C)
+  * Wrapping Operations Proposal (Tim, Mark)
+  * Usage Masks Discussion (Nitin J/Tim H)
+ * KMIP TC F2F Meeting (April 2018)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Jeff B seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve February 15, 2018 meeting minutes =====
+ * Tim H moves, Jeff B seconds, No objections, abstentions, or comments. Minutes approved
+
+== Interop Status ==
+ * First interop meeting held earlier in the week.
+ * Official kick-off of Interop starts next Monday, Feb 26, 2018
+
+== Interop Booth & Presentation ==
+==== Booth ====
+ * Jane H is still waiting for the final booth layout
+ * Back to ten participants between KMIP and PKCS#11.  OASIS is looking for replacement companies, otherwise they will go with ten pods.
+ * Booth will be using new OASIS logo and colors which will be unveiled soon.
+
+==== Presentation Logistics ====
+ * Tony C went through the [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62572|presentation]] he posted to the OASIS site covering the schedule for Booth presentations and ideas for the content of the KMIP TC and KMIP Interop presentations
+ * John L asked what was the intended duration of the presentation - full 20 minutes or not?  Need time to allow folks to move in/out and change presenters   Maybe go with allowing a maximum time period and leave it to the vendor's preference.  Tim H figured 5 minutes between sessions.  Tony will adjust timeslots based on number of vendors that will be attending could be up to 30 minute slides (25 minute presentation time)
+ * How to pick vendor presentation order? -- alphabetical, OASIS selected order of sign-up for booth, names in a hat.  '''TC prefers the option of using the OASIS selected order of sign-up for booth.'''
+ * Jeff B asked about conflicts of presentations schedule and key notes?  Tony hasn't incorporated that yet, will ensure that there will be presentations during session breaks when there is a lot of traffic in the exhibit hall.
+
+==== KMIP TC Presentation/KMIP Interop Presentation Content ====
+ * Tony C looking for volunteers to get the decks together and/or contribute content.
+ * Judy F offered to help Tony will the KMIP TC presentation
+
+==== Vendor Presentation Content ====
+ * Last week we discussed options for the vendor presentation (common content with vendor additions or vendor developed).  TC revisited this discussion.
+ * Tim H indicated that he was less concerned about format, but want the TC to review so message is in line with with the TC and ensure that they are not too much of a marketing pitch.
+ * Mark J suggested that the presentation concentrate on which products work with other vendor's product.  Jeff B thought this was a good idea.  '''TC prefers this option of a basic set of slides that all vendors will use.  '''Details on ratio of this common set and vendor specific still needs to be worked out.''' ''' Tony C will start on an outline/template for this basic set but will appreciate any slide contributions or suggestions.
+
+
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Specification WD3 Discussion ===
+ * Tony C has posted [[https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=62527|WD3]] to the OASIS Site
+ * Tony did a quick review of the changes made in this working draft and asked folks to review since it relevant to the Interop
+ * We will spend a portion of the F2F covering KMIP 2.0.
+ * Will spend time at F2F
+
+=== Wrapping Operations Proposal ===
+ * Deferred
+
+=== Usage Masks Discussion ===
+ * Deferred.
+
+=== KMIP TC F2F Meeting (April 2018) ===
+ * F2F has been scheduled for April 12-13 2018
+ * Thales is hosting the F2F at their facility in San Jose, CA.
+ * Tony C will initiate a straw poll for who will attend in person or dial-in and for which days shortly
+
+== New Business ==
+ * None
+
+=== Next Meeting ===
+ * March 1, 2018
+
+== Call for late arrivals (Tony C.) ==
+ * None
+
+===== Motion to Adjourn =====
+ * Tim H moves, Jeff B seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:27 US-EST ==

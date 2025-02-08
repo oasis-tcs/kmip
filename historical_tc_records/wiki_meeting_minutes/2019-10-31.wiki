@@ -1,0 +1,71 @@
+= Meeting Minutes 31 October 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Oct 24, 2019)
+ * KMIP 2.0 (Status)
+  * Test Cases & Usage Guide
+ * KMIP 2.1
+  * Name Domain Definition (Tony C)
+  * Review wiki
+ * KMIP Interop 2020
+  * Interop Process (Tony C)
+ * KMIP F2F 2020
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim C moves, Jerry S seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from October 24, 2019'''
+
+ * Jerry S moves, Chuck W seconds. No objections, abstentions, or comments. Minutes for the October 24, 2019 meeting approved.
+
+== KMIP 2.0 Status (Tony C) ==
+=== Spec & Profiles ===
+ * Call for Consent for making the KMIP 2.0 Spec and Profiles OASIS Standards to the OASIS members is ongoing.  This call will close later this evening (October 31, 2019).  See https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201910/msg00010.html
+
+=== Test Cases & Usage Guide ===
+ * With the approval of the minutes from last week's meeting the chairs can now submit the request to TCAdmin to have the KMIP 2.0 Test Cases and Usage Guide moved to Committee Note status.
+
+== KMIP 2.1 ==
+=== Name Domain Definition (Tony C) ===
+ * Chuck W sent a definition to Tony C for review.  This definition will be forwarded to the TC mailing list for all members to review.  The TC will revisit this topic at the next TC meeting.
+
+=== Review wiki ===
+ * KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1)
+ * Tony C once again requested that anyone who provided KMIP 2.1 proposals to review and determine if they needed to supply additional content beyond the Spec deltas.  We really would like to close on the KMIP 2.1 content so that we can use the upcoming Interop event to fully test out the new KMIP 2.1 content and changes.
+
+== KMIP Interop 2020 ==
+ * The final list of participants in Interop is still being finalized awaiting all vendors having their paperwork sorted with OASIS.
+ * The final scope and dates for testing are pending based on when the participant list is finalized.  Tony C will post an updated Interop Proposal once these details are finalized.
+
+== KMIP F2F 2020 ==
+ * The F2F will be held Thursday/Friday (2/20 & 2/21) prior to RSAC.
+ * A host for the F2F meeting is still needed.  TC members, with Bay Area facilities, that are willing to host the TC meeting should get in touch with either Tony C or Judy F.
+ * Tony C proposed that the scope of the F2F follow the similar agenda as past meetings covering the following topics:
+  * Review results of Interop testing and determine if any adjustments are needed for KMIP 2.1
+  * Plan scope of the next KMIP version which includes new or changed content proposal
+  * Determine whether next version should be a minor revision (2.2) or a major revision (3.0)
+ * Anyone with agenda topics for the F2F should send them to Tony C and Judy F.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting:  7 November 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Bruce R moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:13 US-EST ==

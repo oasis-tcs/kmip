@@ -1,0 +1,68 @@
+= Meeting Minutes August 24, 2023 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (August 10, 2023)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Usage Guide
+ * Interop
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Judy seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from August 10, 2023'''
+
+ * Tim H moves,  Judy seconds. No objections, abstentions, or comments. Minutes for the August 10, 2023 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H has applied the changes for Ephemeral and ID Placeholder to his working copy of the Test Cases and is making a final review of all the updates made.
+
+=== KMIP 3.0 Specification ===
+ * Greg S is waiting on Tim H to provide review feedback on the KMIP 3.0 Specification working copy.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy F notes that she has not made any additional updates to the Usage Guide and is still awaiting for new 3.0 content to incorporate.
+
+== Interop ==
+ * Tim H has reached out to the proposed Interop participants for feedback on the draft process and did not receive any feedback.
+
+ * A walkthrough of the draft Interop process was done.
+  * Tony C asked about logging packages to meet the requirements for 2.1. Tim H said that tcpdump and Wirehark would meet the requirements. 
+  * Greg S asked about how disputes would be handled. Tim H said that if a disagreement cannot be resolved between the participants, it would go to back to the TC for handling and the TC would decide how to resolve it.
+  * A discussion was had about the types of graphs in section 2.1. Tony C and Judy commented that the list of graphs should be agreed upon prior to the start of the Interop. It was decided to include the list of graphs from the previous Interop as the baseline.
+
+ * Tim H posted an update to the draft process with the list of the graphs in Section 2.1 [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/71286/KMIP%20TC%20Interop%20Process-2023-draft2a.pdf|KMIP TC Interop Process-2023-draft2a.pdf]].
+
+'''Motion to accept Draft 2a of the 2023 KMIP TC Interop Process.'''
+
+ * Bruce moves, Tim H seconds. 
+ * Judy commented that Cryptsoft was the only proposed Interop participant on the call. However Tim H did attempt to reach out to them for feedback on the Interop Process document and that only two of the proposed Interop participants regularly attend the TC calls.
+ * No further objections, abstentions or comments. Motion passed.
+
+== New Business ==
+'''Motion that Jeff's Leave of absence for the next meeting on September 7 be accepted.'''
+
+ * Greg S moves, Tim H seconds. No objections, abstentions or comments. Motion passed.
+
+== Next Meeting ==
+ * Next TC Meeting: September 7, 2023
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Judy seconds, No objections, abstentions, or comments. Meeting adjourned.
+
+== Meeting Adjourned at 17:47 US-EST ==

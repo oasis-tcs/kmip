@@ -1,0 +1,79 @@
+## page was copied from MeetingMinutes/July232015
+= Meeting Minutes August 20, 2015 =
+== Meeting commenced 8:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll call
+ * Approve Agenda
+ * OASIS Outstanding TC award
+ * Approve minutes
+ * KMIP 1.3 Status - Profiles  by Tim H.
+ * Plugfest update
+ * New business
+ * Adjourn
+ 
+=== Motion to approve Agenda ===
+ * Tim H Moves
+ * Tim C Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+=== OASIS Awards ===
+
+ * KMIP TC has been awarded OASIS Outstanding TC award this year 
+ * Kudos to the KMIP technical committee members for all the hard work
+ * Special thanks to Subhash as well
+ * OASIS will be doing a press release soon, Saikat and Tony as co-chairs have provided quotes for the press release
+ * This is indeed a great recognition and an accomplishment for the committee
+
+=== Motion to approve July 23rd meeting minutes ===
+ * Joe Brand Moves
+ * Tim H Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+
+== KMIP 1.3 status Profiles by Tim Hudson ==
+ * Tim presented in details regarding how to approach profiles documents specifically about structure and formatting for the test cases
+ * Tim has posted the document/slides
+ * KMIP 1.3 Merge profiles into a single document vs. keep the workflows into separate files
+ * OASIS process requires XML document to be well formatted so we have to add a root element for each flow or separate files for each step
+ * Bruce: No document notification, Judy; No document notification received from OASIS
+ * Mark: Having them as individual files for each step does not make sense. 
+ * Tim: Combine common descriptions across the profile documents into a single section to avoid logical repetition
+ * Tim: Define root element and have a single document with all the work flows for each test
+ * We need to consider are the amount of work to be done by the editors, amount of work to be done by OASIS admins and the amount of work to be done by each vendor's testing team
+ * Mark, Bruce: Agree that a single file for each test flow makes sense rather than one for each step
+ * Tim: Will request SSIF chair to send the SSIF feedback to KMIP TC. These are mostly simple changes in the allowed variations area
+ * Tim: Also John L. has raised some questions/concerns regarding Tape Library profile which needs to be addressed
+ * Tim: Consensus is to have a root tag with KMIP element for the XMLs and wait for the file naming scheme by OASIS admins
+ * Discussion around Errata for KMIP 1.2 vs. KMIP 1.3 priority
+ * Tony: Getting inquiries regarding KMIP 1.3 especially automatic client registration seems to be interesting for the storage market and virtualization client industry. Priority for KMIP 1.3 is higher
+ * Process to publish Errata is tedious for 10 profiles document, quite a bit of legwork 
+ * David Featherstone: Can we capture the Errata related KMIP 1.2 changes in the KMIP 1.3 document. That may be one way to address this issue
+
+
+== Plugfest Update ==
+ * Tony: 2/3 TC members have shown interest for the plugfest and 2/3 vendors outside of TC have shown interest. Please let Tony know if you are interested. Tony will publish dates once confirmed
+ * Tony: Will be talking at SSIF SDC Santa Clara. Looking for participants interested in panel discussion. 
+ * Actual on-site participation is not feasible due to logistical issues, way too hard to arrange with multiple vendors
+
+
+== Discussion about next meeting ==
+ * Judy proposed that we go back to weekly meeting to expedite but cancel if we do not have enough agenda
+ * Next meeting is on September 3rd/4th and we go back to weekly meeting thereafter
+
+== Call for late arrivals - Tony C. ==
+ * Jeff Bartell - Fornetix
+ 
+== Motion to Adjourned ==
+ * Bruce Moves
+ * Tim H. seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 8:48PM GMT =

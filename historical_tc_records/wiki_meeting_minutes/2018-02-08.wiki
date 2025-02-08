@@ -1,0 +1,85 @@
+## page was copied from MeetingMinutes/25Jan2018
+## page was copied from MeetingMinutes/18Jan2018
+## page was copied from MeetingMinutes/11Jan2018
+= Meeting Minutes 8 February 2018 - Draft =
+== Meeting commenced 2:00 PM US-PST ==
+ * Roll call (Tony C)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (January 25, 2018)
+ * Bob Lockhart
+ * Interop Status (Tony C)
+ * Interop Process (Tony C)
+ * KMIP 2.0
+  * KMIP 2.0 Specification WD02 Discussion (Tony C)
+  * KMIP 2.0 Specification WD03 Status available (Tony C)
+  * Wrapping Operations Proposal
+  * Usage Mask Discussion (Nitin J/Tim H)
+
+ * KMIP TC F2FMeeting (April 2018)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Jeff B seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve January 25, 2018 meeting minutes =====
+ * [[https://wiki.oasis-open.org/kmip/MeetingMinutes/25Jan2018|January 25, 2018]]
+ * Tim H moves, Jeff B seconds, No objections, abstentions, or comments. Minutes approved
+
+== Bob Lockhart ==
+ * Bob L, this TC's Secretary, passed away this week -- Remembrances and condolences have been posted to the reflector.
+ * TC Co-Chairs brought forward the following motion to acknowledge Bob's contributions:
+  . ''"The KMIP TC Co-chairs move to recognize the contributions of Bob Lockhart as a founding member of the KMIP Technical Committee, a driving force in the global cryptography and key management industry, a contributor of great knowledge, experience and humor and a danger to coffee beans everywhere. The members of the KMIP Technical Committee honor his legacy by continuing the work he so passionately believed in."''
+
+ * Tony C/Judy F move, Tim H seconds, No objection, abstentions or comments, Motion passes
+ * Co-chairs will post motion to OASIS KMIP site
+
+== Interop Status ==
+ * Gershon Janssen, Chair of the OASIS Board of Directors, provided an initial response to the TC's letter via an [[https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201802/msg00000.html|email]] posted to the reflector on 7 February 2018
+ * Based on this response the TC move ahead with plans for Interop to be held during the RSA Conference and this Interop will follow the KMIP TC Interop Process
+
+== Interop Process ==
+ * Due to the shortened timeframe to prepare for the Interop at the RSA confernce Tony C proposed an abreviated interop process and reduced scope of testing.
+ * Tony C posted the [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/62471|Abreviated Interop Process]] to the OASIS Site
+ * Tony walked the TC through a brief [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/62472|presentation]] on the interop process, which he also posted to the OASIS site
+ * Tim H has posted KMIP 2.0 [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/62469|Test Cases]] and [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/62470|Profiles]] on which Interop will be based.
+ * Kick-off Interop call will be scheduled for next week
+ * Interop testing will start mid-March which gives folks about a month to get ready and go through the test case/profile test cases.
+ * The plan is to have the TC approve the Interop Process at Next week's TC call
+ * Tony C asked for all Interop participants to review the Abreviated Interop Process and to send any questions/comments/ammendments to Tony C prior to next week's TC meeting
+
+== KMIP 2.0 ==
+=== KMIP 2.0 Specification ===
+ * Tony C continues to receive feedback on WD2 which he is incorporating into the next revision (WD3) which he hopes to publish next week.
+ * Tim H noted that the KMIP 2.0 Test Cases and Profile Test Cases which he posted were written against WD2 of the KMIP 2.0 Spec and would not reflect any feedback that has been posted against WD2.
+
+=== Wrapping Operations Proposal ===
+ * This proposal was originally brought forward by Bob L.  Mark J stepped forward to take over this proposal and Tim H offered to work with Mark as a reviewer.
+
+=== Usage Masks Discussion ===
+ * Brief discussion about this proposal and comments on it.  This will be addressed more fully at a future meeting.  Tony C will take a quick look to see if any changes should go into WD3 of the KMIP 2.0 Spec or be held for a WD4.
+
+=== KMIP TC F2F Meeting (April 2018) ===
+ * F2F has been scheduled for April 12-13 2018
+ * Tony asked if any company was willing to host the meeting, no one came forward during the meeting.
+ * Tony C once again asked for companies with facilities in the San Francisco/Bay Area to consider hosting the F2F meeting (20-30 attendees).
+
+== New Business ==
+ * None
+
+=== Next Meeting ===
+ * February 15, 2018
+
+== Call for late arrivals (Tony C.) ==
+ * 2 Members (Mahesh Paradkar (IBM), John Mentzell (Fornetix))
+
+===== Motion to Adjourn =====
+ * Chuck W moves Tim H seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 15:29 US-PST ==

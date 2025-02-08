@@ -1,0 +1,50 @@
+= Meeting Minutes Jan 23 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Chuck seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from Jan 16, 2020'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the Jan 16, 2020 meeting approved.
+
+== KMIP Interop 2020 ==
+=== Status update (Tony C) ===
+ * All the test results have been collected and the Interop participants have voted to accept the test results.
+ * Tony C is working on turning the results into a presentable format.
+ * The Interop process has resulted in a changes to the specification, profile and test cases that need to be discussed. 
+ * Specification  - Tony C will post a delta of the changes, version will move to working draft 6
+ * Profile and Test Cases - Tim H sent out an email with a summary of the changes and a diff. Plan is to have people review them for discussion at next week's meeting.
+
+== KMIP 2.1 ==
+=== Status ===
+ * Chuck and Tony C are working on updating the specification.
+ * Tim H and Tim C are working on updating the profile.
+
+== KMIP F2F 2020 ==
+ * A few suggestions have been turned in.
+ * Tony C made another call out for more topics, especially for topics focused on where we are going next.
+ * Attendance poll will continue for a week.
+
+=== Joint TC Dinner with PKCS#11 ===
+ * IDTrust has approved request for funding.
+ * Tony C is working selecting a venue and asked for suggestions.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: Jan 30, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * Bruce
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:11 US-EST ==

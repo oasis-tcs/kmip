@@ -1,0 +1,53 @@
+= Meeting Minutes 3 August, 2017 =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (July 06, 2017)
+ * KMIP Co-Chair
+ * KMIP 1.4 update (Tony C.) 
+  * Spec & Profiles
+  * Usage Guide
+  * Test Cases
+ * Next Meeting
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Gerry S seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve July 6, 2017 meeting minutes =====
+ * [[MeetingMinutes/06Jul2017|July 06, 2017]]
+ * Tim H moves, Gerry S seconds. No objections, abstentions, or comments. Minutes approved
+
+
+== KMIP 1.4 Update - Tony C ==
+=== KMIP 1.4 Spec & Profiles ===
+ * Ballot is currently live - see [[https://www.oasis-open.org/apps/org/workgroup/kmip/ballot.php?id=3108]]
+ * Requested all eligibel voters to cast their votes (7 eligible members have not yet voted)
+
+=== Usage Guide ===
+===== Motion to approve Usage Guide v1.4 as Commitee Note via full majority vote =====
+ * Motion to approve Key Management Interoperability Protocol Usage Guide v1.4 at [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/61189/kmip-ug-v1.4-cnd02a.docx]] as a Committee Note and designate the .doc version of the note as authoritative. 
+ * Bruce R moves, Mark J seconds, No objections, abstentions, or comments. Motion carried
+
+=== Test Cases ===
+===== Motion to approve Test Cases v1.4 as Commitee Note via full majority vote =====
+ * Motion to approve Key Management Interoperability Protocol Test Cases v1.4  and all associated artifacts packaged together at [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60503/kmip-testcases-v1.4-cnprd01.html]] and [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60478/kmip-testcases-v1.4-wd04-rev3a.zip]] as a Committee Note and designate the html version of the note as authoritative. 
+ * Bruce R moves, Mark J seconds, No objections, abstentions, or comments. Motion carried
+
+=== New Item ===
+ * N/A
+=== Next Meeting ===
+ * August 17, 2017
+
+== Call for late arrivals (Tony C) ==
+ * 1 members
+
+===== Motion to Adjourn =====
+ * Chuck W moves, Tim H seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+== Meeting Adjourned at 2:12 US-PST ==

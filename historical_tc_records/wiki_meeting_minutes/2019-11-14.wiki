@@ -1,0 +1,65 @@
+= Meeting Minutes 14 November 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Nov 07, 2019)
+ * KMIP 2.1
+  * Spec WD05
+  * Review wiki
+ * KMIP Interop 2020
+  * Interop Process (Tony C)
+ * KMIP F2F 2020
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from November 07, 2019'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the November 07, 2019 meeting approved.
+
+== KMIP 2.1 ==
+=== Spec WD05 ===
+ * Tony updated spec with ping and changes form the key domain discussion
+
+=== Review wiki ===
+ * KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1)
+ * Bruce uploaded proposed usage content for Set/Get for Contstraints and Set for ObjectDefaults
+ * Judy will update usage doc with Bruce's content
+ * Tim H will have the 2.1 test cases done by the next meeting
+
+== KMIP Interop 2020 ==
+ * 6 participants - Cryptsoft, Fortanix, IBM, PrimeKey, QuintessenceLabs, Utimaco
+ * Tony made grammar changes to process doc
+ * Call for motion to approve the process document for the 2020 Interop. Tim H moves, Greg seconds. No objections, abstentions, or comments. Motion approved
+
+'''Motion to approve using the KMIP Formal Interop Process (Abbreviated)-V1.3 for the upcoming RSA2020 Interop event'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Motion approved
+
+== KMIP F2F 2020 ==
+ * The F2F will be held Thursday/Friday (2/20 & 2/21) prior to RSA.
+ * F2F will be hosted by Utimaco. Thank you Ed.
+ * Tony C solicited proposals for KMIP 2.2 and asked that folks provide Tony C and Judy F with agenda topics for the F2F.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: 21 November 2019
+
+== Call for Additional Attendees (Tony C) ==
+ *
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:17  US-EST ==

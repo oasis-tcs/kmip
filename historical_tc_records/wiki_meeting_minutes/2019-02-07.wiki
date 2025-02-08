@@ -1,0 +1,72 @@
+= Meeting Minutes 7 February 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (January 31, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Spec, Profiles & Test Cases (Tony C)
+  * Usage Guide (Judy F)
+ * List discussion from Alexis Abell
+ * Face to face TC meeting in Feb 2019 (Bay Area, CA)
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from January 31, 2019'''
+
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Minutes for the January 31, 2019 meeting approved.
+
+== Interop for RSA 2019 ==
+ * Interop testing is ongoing and is progressing well.  Testing will conclude tomorrow (Feb 8th) US time.
+ * A set of issues have been identified during the testing that will require adjustments in the KMIP 2.0 Spec and Test Cases.  These will be compiled and discussed at the upcoming F2F meeting.
+ * Tony C also plans to present the results from the Interop testing at the F2F Meeting.
+ * Tony C noted that the booth layout has been circulated to the participants.  The booth signage will be distributed shortly.
+
+== KMIP 2.0 ==
+=== Spec, Profiles & Test Cases (Tony C/Tim H) ===
+ * Tony C is keeping a working list of items (identified in reviews and during Interop testing) that needs amending in the KMIP 2.0 Spec prior to putting it out to public review.
+ * Tim H confirmed that he is compiling a similar list for the Test Cases and Profiles documents and their supporting test case zip files.
+ * All of these changes will be reviewed at the upcoming KMIP F2F meeting and the TC can take votes on progressing the documents to public review.
+
+=== KMIP v2.0 Usage Guide (Judy F) ===
+ * There are 17 proposals that still required UG text listed on the Wiki (https://wiki.oasis-open.org/kmip/2.0).
+ * Judy F confirmed that no one provided UG text submissions this week.
+
+== List discussion from Alexis Abell (aka Opaque Objects Have State) ==
+ * Tony C and Tim H will address their actions (listed below) for this topic after the Interop testing activities conclude.
+  * Tony C will issue a KMIP 2.0 Spec delta which reflect the changes necessary to note that Opaque objects had State.  This same delta can form the basis of the KMIP 1.4 Errata if the TC decides to move forward with one.
+  * Tim H will develop KMIP 2.0 and KMIP 1.4 test cases that will be able to verify the statue of Opaque objects are properly set and transitioned.
+  * Tony C will work with Tim H to do a KMIP 2.0 Test Case document delta to reflect the new test cases.
+
+== Face to Face TC Meeting in Feb 2019 ==
+ * Tony C created a straw poll (https://www.oasis-open.org/apps/org/workgroup/kmip/ballot.php?id=3303) to determine in-person/remote attendance for the F2F and requested that all TC members vote.
+ * Tony C also reminded folks who will be in CA for the F2F to vote on the ballot (https://www.oasis-open.org/apps/org/workgroup/kmip/ballot.php?id=3296) for the joint KMIP/PKCS#11 TC dinner on Thursday February 27, 2019.
+ * Tony C is collecting agenda topics for the F2F.  A default timeslot is 15 minutes, but longer sessions may be requested.
+ * Only a proposal presentation, not spec deltas is required for the F2F.  Please refer to the OASIS site for example presentations from last F2F meeting (April 2018).
+ * Tony C noted that the plan is for folks to gather each morning of the F2F at 8:30 AM with the meeting starting at 9:00 AM.  We will attempt to conclude the meeting on the second day by 4:30 PM
+ * Tony C noted that he will send his draft agenda to Judy F
+ * Bruce R asked what the quorum numbers would be for the F2F given the larger than normal participating in the TC meetings due to the on-going Interop testing.  Tony C said he will check and report back on this at the next meeting.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: 14 February 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Ladan N. (Thales)
+
+== Motion to Adjourn ==
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:14 US-EST ==

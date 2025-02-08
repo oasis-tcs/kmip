@@ -1,0 +1,59 @@
+= Meeting Minutes 3 May 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll call (Tony C)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (April 13, 2018 - F2F day 1 )
+ * Interop Booth & Presentations Review (Tony C)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * KMIP 2.0 Action items discussion
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Justin C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve April 11 & 12, 2018 (F2F) meeting minutes =====
+ * Given the volume of minutes and short review time, this is to be deferred until our next meeting.
+ * The TC recognises and thanks Judy F for preparing the F2F minutes - its a large undertaking.
+
+== Interop Booth & Presentations Reviews ==
+ * TonyC classed this year's interop as a success - we had 2 OASIS board members visit the booth (bruce and Gershon - OASIS Board Chair) so it was god to have that represantation at the booth
+ * Tim C: Nice, cooperative members
+ * Bruce: we still need to work with the OASIS staff to sort out the issues with the layout and other items
+ * Mark J: Didn't like the monitors
+ * TonyC: feedback on the monitors has been provided to the booth logistics folks
+ * Tony C: we had some folks not at their booths at open times and some connectivity issues, we need to sort that out for next time as it should not happen.
+
+== RSA 2019 Interop ==
+ * Tony C: 2019 will be ~40% bigger. The dedicated KMIP booth will be a 20x20 booth with a maximum number of 8 vendors on the booth. OASIS will notify folks when they can sign up such that no-one is disadvantaged by timezone.
+ * Tony C: OASIS are looking forward to having a cleaner event for 2019
+
+== KMIP 2.0 ==
+=== KMIP 2.0 ===
+ * Tony C: noted there were a few editorial items noted for WD03 and coupled with the proposal list means we will need at least a WD04
+ * Tony C: A large number of proposal are noted in the wiki for further work (mostly spec-deltas) so for those folks who made proposals, please proceed wth the spec-deltas ASAP so we can progress and finalise 2.0. We will walk through the items at the nexty meeting.
+ * Mark J: Noted a request for a plugfest for the new parts of KMIP 2.0 and indicated interest in participating
+ * Tim H: Should even just be the new parts (exclusing the current tests) and is interested in participating if folks get on with the new parts of the spec
+ * At least 4 parties indicated interest in a late summer (late August) plugfest/interop (Cryptsoft, Fornetix, P6R, Unbound)
+
+== New Business ==
+ * Tony C noted that he had met the individual who drafted the legislation requring anyone interacting with the Brazillian Goventment PKI to be using KMIP v1.4 and he was very much looking forward to KMIP 2.0. Tony committeed to passing on his comments.
+
+== Next Meeting ==
+ * Motion to skip next week's meeting - Greg S moves, Mark J seconds. No Objections, abstentions or comments
+ * Next meeting 17 May, 2018
+
+== Call for late arrivals (Tony C.) ==
+ * One Member
+
+===== Motion to Adjourn =====
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:22 US-EST ==

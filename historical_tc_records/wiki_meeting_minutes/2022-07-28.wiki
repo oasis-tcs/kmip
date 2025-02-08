@@ -1,0 +1,56 @@
+= Meeting Minutes July 28 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Judy F)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Review/Approve Minutes (July 14, 2022)
+ * KMIP 3.0 Status Updates
+   * KMIP 3.0 Specification
+   * KMIP 3.0 Profiles/Test Cases
+   * KMIP 3.0 Usage Guide
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from July 14, 2022'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the July 14, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+=== KMIP 3.0 Specification ===
+ * Greg S and Tim H are working on the next working draft. They are investigating apparent inconsistencies in the spec and hope to have an update at the next meeting.
+
+=== KMIP 3.0 Profiles/Test Cases ===
+ * Tim H is working on an update for the next meeting.
+
+=== KMIP 3.0 Usage Guide ===
+ * Judy F posted working draft 1 of the usage guide prior to the meeting containing updates to PKCS11, Split Key, and Obliterate
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/70225/kmip-ug-v3.0-wd01.docx|KMIP 3.0 Usage Guide WD1]]
+  * [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/70226/kmip-ug-v3.0-wd01(Markup).docx|KMIP 3.0 Usage Guide WD1 with marked changes]]
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+
+ * Next TC Meeting: August 11, 2022
+
+== Call for Additional Attendees (Greg) ==
+ * Jerry, Scott
+
+'''Motion that Jerry's Leave of absence for the next meeting on August 11 be accepted.'''
+
+ * Greg S moves, Tim H seconds. No objections, abstentions or comments. Motion passed.
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:08 US-EST ==

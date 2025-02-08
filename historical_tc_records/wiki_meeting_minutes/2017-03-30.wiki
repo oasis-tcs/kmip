@@ -1,0 +1,74 @@
+= Meeting Minutes 30 March, 2017 - Draft =
+== Meeting commenced 2PM US-PST ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved.
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (March 23, 2017)
+ * KMIP 1.4 update (Tony C.) 
+  * Specification - PR Comments
+  * Profiles - Tim H
+  * Test Cases - Tim H
+  * Usage Guide - Judy F
+  * AI Update - [[1.4]]
+ * KMIP 2.0 update (Tony C.) 
+  * Update from authors
+  * AI Update - [[2.0]]
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+===== Motion to approve Agenda =====
+ * Tim H moves, Tim C seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve March 9, 2017 meeting minutes =====
+ * [[MeetingMinutes/Mar232017|March 23, 2017]]
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes approved
+ 
+=== KMIP 1.4 Spec update (Tony C.) ===
+ * Tony C - has not received any new updates in the past week other than what Jerry mentioned on last week's call.
+
+=== KMIP 1.4 Profiles update (Tim H.) ===
+ * Tim H - updated attributes and missing test cases - incremental improvements from interop and as discussed at F2F
+===== Motion to progress KMIP Profiles v1.4 WD3-R3 =====
+ * Motion for the TC to approve KMIP Profiles v1.4 Working Draft 03, Revision 3 posted at [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60371/kmip-profiles-v1.4-wd03-rev3.docx]] , including the referenced machine readable content zip file at [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60397/kmip-profiles-v1.4-wd03-rev3.zip]] as a Committee Specification Draft and request TC admin to commence public review.
+ * Anthony Moves, Tim C Seconds. No Objections, No Comments, No Abstentions.
+
+=== KMIP 1.4 Usage Guide update (Judy F.) ===
+ * Judy - has received no additional comments
+===== Motion to progress KMIP Usage Guide WD3 =====
+ * Motion for the TC to approve KMIP Usage Guide Working Draft 03 posted at [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60398/kmip-testcases-v1.4-wd04-rev2.docx]] as a Committee Note Draft and request TC admin to commence a public review.
+ * Tim H Moves, Tim C Seconds. No Objections, No Comments, No Abstentions.
+
+=== KMIP 1.4 Test Cases update (Tim H.) ===
+ * Tim h - uploaded test cases
+===== Motion to progress KMIP Test Cases WD3-R2 =====
+ * Motion for the TC to approve KMIP Test Cases Working Draft 04, Revision 2 posted at [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60357/kmip-ug-v1.4-wd03.doc]] including the referenced machine readable content zip file at [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/60396/kmip-testcases-v1.4-wd04-rev3.zip]] as a Committee Note Draft and request TC admin to commence a public review.
+ * Tim C Moves, Judy Seconds. No Objections, No Comments, No Abstentions.
+
+==== Reviewed KMIP v1.4 AIs ====
+ * Reviewed AIs at [[1.4]]
+ * Tony C - interop graphs still need to be sent to interop group
+
+=== KMIP 2.0 update (Tony C.) ===
+ * Awaiting documents moving to CSD/CND
+
+==== Reviewed KMIP v2.0 AIs ====
+ * Not reviewed
+
+==== Update from Authors ====
+ * Tim H - requested that the spec with depricated items be removed as a starting point.  Tony C is going to look into that
+ * Judy - no updates at this time
+
+== Additional Items ==
+ * None
+
+== Call for late arrivals (Tony C) ==
+ * Jerry, Gary - Fornetix
+ * Chris - HPE
+ 
+===== Motion to Adjourn =====
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Meeting adjourned
+ 
+== Meeting Adjourned at 2:17 US-PST ==

@@ -1,0 +1,79 @@
+= Meeting Minutes December 18, 2014 =
+== Meeting commenced 9:00PM GMT ==
+ * Roll call by Tony Cox
+ * Quorum achieved
+
+== Motion to approve December 11, 2014 meeting minutes ==
+ * Tim Hudson Moves
+ * Tim Chevalier Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+== Proposed agenda ==
+ * KMIP 1.2 Update and Motions
+ * KMIP 1.3 Update (Tony Cox)
+ * KMIP 1.4 Update (Tony Cox)
+ 
+=== Motion to approve Agenda ===
+ * Tim Hudson Moves
+ * Chuck White Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved
+
+== KMIP 1.2 Update and Motions ==
+ * Ready to move to move SoU's as final and current documents to special majority vote
+
+=== Motion to approve KMIP 1.2 Statements of Use (SoU) ===
+ * Joe Brand moves to accept the Statements of Use for the OASIS Key Management Interoperability Protocol Specification v1.2 approved on Thursday December 18, 2014 provided by Cryptsoft, IBM and P6R per the following submissions:
+  1. Cryptsoft - https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/54564/KMIP-SOU-Cryptsoft-14-Nov-2014.pdf
+  1. IBM - https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201412/msg00007.html
+  1. P6R - https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201411/msg00008.html
+ * Bruce Rich seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+ 
+=== Motion to move KMIP 1.2 documents to Standards Vote ===
+ * Judy moves to approve the Chair requesting that TC Administration hold a Special Majority Vote to approve submitting the eleven (11) OASIS KMIP v1.2 Committee Specifications noted below as Candidate OASIS Standards:;
+  1. [[http://docs.oasis-open.org/kmip/spec/v1.2/kmip-spec-v1.2.html|Key Management Interoperability Protocol Specification Version 1.2 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/profiles/v1.2/kmip-profiles-v1.2.html|Key Management Interoperability Protocol Profiles Version 1.2 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/kmip-addtl-msg-enc/v1.0/cs01/kmip-addtl-msg-enc-v1.0-cs01.html|KMIP Additional Message Encodings Version 1.0 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/kmip-sa-sed-profile/v1.0/cs01/kmip-sa-sed-profile-v1.0-cs01.html|KMIP Storage Array with Self-Encrypting Drives Profile Version 1.0 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/kmip-sym-key-profile/v1.0/kmip-sym-key-profile-v1.0.html|KMIP Symmetric Key Lifecycle Profile Version 1.0 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/kmip-asym-key-profile/v1.0/kmip-asym-key-profile-v1.0.html|KMIP Asymmetric Key Lifecycle Profile Version 1.0 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/kmip-cs-profile/v1.0/kmip-cs-profile-v1.0.html|KMIP Cryptographic Services Profile Version 1.0 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/kmip-sym-foundry-profile/v1.0/kmip-sym-foundry-profile-v1.0.html|KMIP Symmetric Key Foundry for FIPS 140-2 Profile Version 1.0 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/kmip-tape-lib-profile/v1.0/kmip-tape-lib-profile-v1.0.html|KMIP Tape Library Profile Version 1.0 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/kmip-suite-b-profile/v1.0/kmip-suite-b-profile-v1.0.html|KMIP Suite B Profile Version 1.0 Committee Specification 01]]
+  1. [[http://docs.oasis-open.org/kmip/kmip-opaque-obj-profile/v1.0/kmip-opaque-obj-profile-v1.0.html|KMIP Opaque Managed Object Store Profile Version 1.0 Committee Specification 01]]
+ * Tim Seconds
+ * No objections
+ * No abstentions
+ * Motion approved
+
+== KMIP 1.3 Status Update (Tony Cox) ==
+ * Tony & Subhash still working through requirements
+ * Tim H. working on additional use cases
+ * Tim H. owes Judy F. text on usage guide
+ * Tim H. looking for new profiles which haven't been seen yet
+ * Judy F. pulled together list for updates and posted on Wiki
+ * Chuck & Tim still working on to update accordingly for new functionality
+ * John L. derive key function error needs updated
+ * John L. to document further for January 8, 2015 meeting agenda
+
+=== KMIP 1.4 Update (Tony Cox) ===
+ * Still gathering list of requirements and taking input
+ 
+== Call for late arrivals - Tony ==
+ * One additional attendee
+ 
+== Motion to Adjourned ==
+ * Chuck White Moves
+ * Tim Hudson seconds
+ * No objections
+ * No abstentions
+ * Motion Approved
+ 
+= Meeting Adjourned at 9:17PM GMT =

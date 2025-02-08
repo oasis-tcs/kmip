@@ -1,0 +1,80 @@
+= Meeting Minutes 20 September 2018 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (September 5, 2018)
+ * Interop for RSA 2019
+ * KMIP 2.0
+  * Re-Encrypt - Spec delta (Tim H)
+  * Additional Result Reason - Proposal (Anthony B )
+  * Client Provisioning - Proposal (Chuck W & John L)
+  * Flow Control (Chuck W)
+  * KMIP v2.0 Content Items Review
+  * KMIP v2.0 Action items discussion
+ * New Business
+  * List comment from Conrado Gouvêa
+ * Next Meeting
+ * Call for Additional Attendees
+
+===== Motion to approve Agenda =====
+ * Tim C moves, Gerry S seconds, No objections, abstentions, or comments. Agenda approved
+
+===== Motion to approve previous meeting minutes from September 5, 2018 =====
+ * Tim C moves, Gerry S seconds, No objections, abstentions, or comments. minutes for the September 5, 2018 meeting approved.
+
+== RSA 2019 Interop ==
+ * Tony reiterated that the OASIS folks were looking for another vendor to fill the last place on the booth. Please contact Jane, Dee or Tony if you are considering attending.
+
+== KMIP 2.0 ==
+=== Re-Encrypt - Spec delta (Tim H) ===
+ * Tim walked through the presentation (https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/63400/kmip-spec-v2.0-wd03-Reencrypt.pdf)
+ * Usage Guide content required
+ * Test Case changes required
+
+===== Motion to approve the Re-Encrypt Spec Delta and include these changes in the next revision of the KMIP v2.0 Spec =====
+ * Gerry S moves and Tim C seconds, No objections, abstentions, or comments. Re-Encrypt updates approved.
+
+=== Additional Result Reason - Proposal (Anthony B) ===
+ * Anthony walked through his proposal ([[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/63835/Additional%20Result%20Reasons.pptx|https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/63835/Additional%20Result%20Reasons.pptx]]).
+ * Tim H asked about the permission denied vs not authorised - answered - more  specific to authorisation as permission denied is attached top a variety of others - this it to replace "permission denied".
+ * Bruce R & Tim H discussed impact on profiles. (~30 profile test cases for v2.0 impacted)
+ * TC comfortable with inclusion in KMIP v2.0
+ * Anthony to proceed with Spec & Test Case deltas - TC will make a motion at that point.
+ * Anthony B to provide Usage Guide content
+
+=== Client Provisioning - Proposal (Chuck W & John L) ===
+ * Chuck walked through the high level proposal
+ * Wide ranging discussion followed
+ * TimH - Scope needs to handle all four client provisioning contexts
+ * Concept is to use standard KMIP for things - but how does this contrast with the current client provisioning
+ * Mixing up the credential usage seems unexpected - probably needs adjusting
+ * Discussion cut short as meeting was due to close.
+ * Proposal to be revisited in 2 weeks.
+
+=== Flow Control (Chuck W) ===
+ * Deferred
+
+=== KMIP 2.0 Proposal Review ===
+ * Deferred
+
+== New Business ==
+=== List comment from Conrado Gouvêa ===
+ * Co-Chairs to request more information from Conrado (Use Case, Operations used, etc)
+
+== Next Meeting ==
+ * Next Meeting:  27 September 2018
+
+== Call for Additional Attendees (Tony C.) ==
+ * None
+
+===== Motion to Adjourn =====
+ * Tim H move, Gerry S seconds. No objections, abstentions, or comments. Meeting adjourned
+
+== Meeting Adjourned at 17:58 US-EST ==
+=== Voting ===
+ * Gained: Steve W (Micro Focus)
+ * Lost: Andre B (Kryptus)

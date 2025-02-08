@@ -1,0 +1,36 @@
+Roll call taken by Subhash, Quorum achieved
+
+= Agenda =
+ 1. Link to available KMIP implementation on our wiki
+ 1. Status of public review comments
+
+= Links to KMIP implementations =
+
+Tony has received numerous inquiries about commercial and open source KMIP implementations. It might be a good idea to list what is available on our wiki; helps adoption.
+
+Tim moves that we create a link on our wiki page that lists commercial and open source KMIP implementations with the following caveats:
+ 1. A disclaimer that indicates that the TC has not validated conformance
+ 1. A mechanism by which non TC members can actually get themselves added to the list (via KMIP comments)
+Mark seconds.
+
+Hearing no objections/abstentions, motion carries.
+
+Since Bob L was late, it was unanimously decided that he would draft the disclaimer language.
+
+= Comments =
+
+Most comments are around 
+ 1. broken references
+ 1. Corrections to references
+ 1. Structure of profiles
+ 1. That the references don't go deep enough and stop @ just the document
+
+Next week, we will look @ Bob's consolidated comment list.
+
+= Next weeks agenda =
+
+ 1. Review consolidated spreadsheet (Bob L.)
+ 1. List of items that need to be deprecated (Bob L.)
+ 1. Proposal for new state model (Bob L.)
+
+If Bob is unable to complete them, and if no other new materials are sent a day before next weeks call, then, I shall cancel the mtg.

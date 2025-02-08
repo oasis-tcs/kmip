@@ -1,0 +1,38 @@
+= Meeting Minutes April 7, 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Greg)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from March 10, 2022'''
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Minutes for the March 10, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+ * Tim H working with this co-author to update the test cases to align with the 3.0 Spec changes. He hopes to publish a new working draft in time for the next TC meeting.
+ * Tim H will have updates to usage guide as he works through the test cases.
+ * Tim C has no new updates.
+
+== New Business ==
+ * Tim C asked if there are any plans to do a KMIP orientated presentation at ICMC in September. Tim C emphasized that he was not volunteering. Tim H said that he was not planning to but is willing to collaborate on one. 
+
+== Next Meeting ==
+
+'''Motion to skip the next meeting and have the next KMIP meeting on May 5''' 
+
+ * Tim H moves, Bruce seconds. No objections, abstentions, or comments. Motion approved.
+
+ * Next TC Meeting: May 5, 2022
+
+== Call for Additional Attendees (Greg) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Jerry seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:12 US-EST ==

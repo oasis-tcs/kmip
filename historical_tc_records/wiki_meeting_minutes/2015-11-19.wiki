@@ -1,0 +1,71 @@
+= KMIP TC Meeting minutes - 19-November-2015 =
+
+== Role Call ==
+ * Subhash performed roll call, we have quorum. This will be an official meeting.
+
+== Proposed Agenda ==
+
+ * Roll call
+ * Approve Agenda
+ * Approve minutes
+ * KMIP 1.3 Status, discussion about the formatting of profiles document, specification document (Tim and Tony)
+ * KMIP 1.4 Status (Anthony Berglas)
+ * NIST800-57 Update
+ * NIST800-131 Update (Bruce Rich)
+ * NIST 800-152 Update (Bob L.)
+ * Face to Face meeting
+ * RSA2016 Interop Update (Tony C)
+ * New business
+ * Adjourn
+
+== Opening Remarks ==
+ * None
+
+== Agenda Additions ==
+ * None
+ 
+=== Motion to accept agenda ===
+ * Tim C, Tim H Seconds. No objections or abstentions or discussions. Approved. 
+
+== Approve Previous Meeting Minutes ==
+ * Tim C, Tim H Seconds. No objections or abstentions or discussions. Approved. 
+
+== KMIP 1.3 status ==
+ * Tony has uploaded wd03 and wd03a (following quick feedback) [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/56963/kmip-spec-v1.3-wd03a.doc|kmip-spec-v1.3-wd03a]]
+ * David indicated his raised issues are resolved in wd03a
+ * Tim still working on profiles document and will also update test cases to follow same format = should be done for post Thanksgiving meeting
+
+== NIST800-57 Update ==
+ * No feedback from NIST - none expected for 6-12 months
+
+== NIST800-131 Update ==
+ * Deferred
+
+== NIST 800-152 Update ==
+ * Deferred
+
+== Face to Face meeting ==
+ * Straw poll to be run for the dates for the meeting aiming for Wed+Thu the week before RSA2016 (Tony & Saikat to organise)
+ * Still looking for a host (Oracle unable) with a few others checking to see if they can host
+
+== Interop ==
+ * Tony provided update - still waiting for private email lists to be arranged.
+
+== KMIP V1.4 status ==
+ * Anthony walked through [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/56946/latest/ImportExportP12-Nov15-1.pdf|PKCS#12 Export proposal]]
+ * Motion made by Anthony to accept the proposal and move to the formal specification update write up in more detail. Tim C Seconds. No objections or abstentions. Motion passes.
+ * Anthony walked through [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/56945/latest/LocateValueNov15-Ship-2.pdf|Locate Proposal]]
+ * Discussion from Tim, Gerry and John. Examples of use cases make sense. Query from David as to whether or not this should be a separate operation. Tim notes that if it was then it would have to have all of what Locate has as well.
+ * Further discussion in 2 weeks to decide which of the two alternative representations make sense and how to progress.
+
+== Action Items ==
+    * None
+
+== New items ==
+  * None
+
+== Last call for late attendees ==
+  * 2 late joiners.
+
+== Motion to Adjourn ==
+ * Tim moved, Tim C seconded. No objections or abstentions or discussions. Adjourned 1:45PM US-PDT. 

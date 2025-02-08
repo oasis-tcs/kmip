@@ -1,0 +1,36 @@
+= Meeting Minutes February 24, 2022 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Judy)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda''' 
+
+ * Tim H moves, Tim C seconds. No objections, abstentions, or comments. Agenda approved.
+
+'''Motion to approve previous meeting minutes from January 13, 2022'''
+
+ * Tim C moves, Tim H seconds. No objections, abstentions, or comments. Minutes for the January 13, 2022 meeting are approved.
+
+== KMIP 3.0 Status ==
+ * Tim H uploaded the initial update of the 2.1 test cases to the 3.0 format. The strategy was to apply the 3.0 structure changes against the 2.1 test cases. 
+ * Tim H is going through the wiki. He did not see any work that could be dropped.
+ * Tim H uploaded new test cases and proposed usage guide text for split keys. A corresponding update to the spec will need to be done.
+ * Tim C will work on the usage guide text for client mutual authentication.
+
+== New Business ==
+ * Greg received a question that came to Tony C from a contact working in Korea that is working on a key management system supporting KMIP and asked when the Interop will be held.
+ * Tim H and Judy believe that it will probably be six months before the test cases are ready and an Interop can be scheduled.
+ * Greg will respond with a rough timeline and the location of the current test cases.
+
+== Next Meeting ==
+ * Next TC Meeting: March 10, 2022
+
+== Call for Additional Attendees (Judy) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Tim C seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:16 US-EST ==

@@ -1,0 +1,95 @@
+= Meeting Minutes 07 December, 2017 - Approved =
+== Meeting commenced 10:00PM GMT ==
+ * Roll call Tony Cox (Tony C.)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (November 16, 2017)
+ * Take KMIP v1.4 to ISO
+ * Interop Process
+ * KMIP 1.4 update (Tony C.) 
+ * KMIP 2.0 update (Tony C.)
+  * new version available
+  * Review KMIP v2.0 wiki (https://wiki.oasis-open.org/kmip/2.0)
+ * Wrapping Operations Proposal - Bob Lockhart (Bob L.)
+ * Key Value for Wrapped Objects Query
+ * Destroy Operation Query
+ * Usage Masks Discussion
+ * Next Meeting (holiday season planning)
+ * Call for Additional Attendees 
+ * Adjourn Meeting 
+
+=== Motion to approve Agenda ===
+ * Greg moves, Tim C. seconds
+ * No objections, no abstentions, and no comments.
+ * Agenda approved
+
+== Previous Meeting Minutes ==
+=== Motion to approve November 16, 2017 meeting minutes ===
+ * [[MeetingMinutes/16Nov2017|November 16, 2017]]
+ * Tim H. moves, Tim C. seconds
+ * No objections, no abstentions, and no comments.
+ * Minutes approved
+
+== Take KMIP v1.4 to ISO ==
+ * Various standards bodies have different attitudes when it comes to not invented here standards
+ * Where the standard should be proposed such that TC makes a motion to send to another standard body
+ * Practical issues on where it is best can be recommended by OASIS based on history
+ * Six to eight month process and document may change during process such as new version so needs to be looked at as well
+ 
+== Interop Process ==
+ * KMIP TC Chair - Tony C./Judith Furlong (Judy F.)
+  * Letter discusses an issue that the TC needs assistance with to resolve due to factors outside of the TC's control
+  * It would be good to get OASIS staff view of the issue so that both sides can be heard prior to submission of the letter to the OASIS board
+  * Due to complexities in current interoperability of all versions of the standard, it has become burdonsome for participants that provide high end servers and clients have additional work required to show conformance and interoperability
+  * The TC is at a point where a solution for interop needs to be optimized and preferably blessed by the OASIS Board
+ * OASIS Admin - Jamie Clark (Jamie C.)
+  * OASIS Admin would like to defer any action for at least another week while they finalize their discussions on the topic to allow them to provide their view and proposed rules in the next week
+  * The real debate is about whether or not it is fair to remove people from the show floor due to non-interoperability
+
+=== Deferred Items ===
+==== Motion to Approve Co-Chairs sending Letter as drafted ====
+ 
+==== KMIP 1.4 Update - Tony C ====
+ * Tony stated that OASIS wide org vote passed sucessfully - TC Admin should be publishing the documents soon
+
+==== KMIP 2.0 Update - Tony C ====
+===== New version avilable =====
+ * Tony to present KMIP Specification v2.0 WD01 (presentation and document)
+
+===== Review KMIP v2.0 wiki =====
+ * Tony C reviewed items at [[https://wiki.oasis-open.org/kmip/2.0]]
+ * Agreed that members with proposals outstanding should provide an updated ETA with a view to have all proposals available by December 15, 2017
+
+==== Profile Name Update ====
+ * Tim H presented proposal
+ * TC to review proposal with a view to finalising at next meeting
+
+==== Server Wrapping Operation Proposal ====
+ * Bob L. preliminary proposal for server side wrapping operations
+
+==== Key Value for Wrapped Objects Query ====
+ * Tim to provide reviewed response
+
+==== Usage Masks Discussion ====
+ * Tim provided new wording
+
+== New Items ==
+ * None
+
+== Next Meeting ==
+ * December 14, 2017
+ * Holiday season schedule
+  * Discuss number of weeks until meeting after 14th (tentatively 3 week break) 
+
+== Call for late arrivals (Judy F.) ==
+ * 2 additional members
+
+== Motion to Adjourn ==
+ * Chuck W. moves, Bruce R. seconds
+ * No objections, no abstentions, and no comments
+ * Meeting adjourned
+ 
+= Meeting Adjourned at 11:04PM GMT =

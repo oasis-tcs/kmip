@@ -1,0 +1,81 @@
+= Meeting Minutes 7 November 2019 - Draft =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Oct 31, 2019)
+ * KMIP 2.0 (Status)
+  * Test Cases & Usage Guide
+ * KMIP 2.1
+  * Name Domain Definition (Tony C)
+  * Ping Proposal Spec Deltas (Tim C)
+  * Review wiki
+ * KMIP Interop 2020
+  * Interop Process (Tony C)
+ * KMIP F2F 2020
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from October 31, 2019'''
+
+ * Greg S moves, Steve E seconds. No objections, abstentions, or comments. Minutes for the October 31, 2019 meeting approved.
+
+== KMIP 2.0 Status (Tony C) ==
+=== Spec & Profiles ===
+ * The KMIP 2.0 Spec and KMIP 2.0 Profiles have been approved as OASIS standards.  The Call for Consent for making the KMIP 2.0 Spec and Profiles OASIS Standards completed with 15 affirmative consents and no objections.  TC Admin to send the final member notification email.  See the OASIS email (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201911/msg00003.html) for additional detail.
+
+ * '''NOTE''' the OASIS email announcement for the KMIP 2.0 Specification and KMIP 2.0 Profiles was sent to the reflector about a half-hour after the weekly TC call concluded.  Please see https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201911/msg00014.html
+
+=== Test Cases & Usage Guide ===
+ * The KMIP 2.0 Test Cases and KMIP 2.0 Usage Guide documents have been published as Committee Notes.  See the OASIS announcement email (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201911/msg00007.html) for the links to the published documents.
+
+== KMIP 2.1 ==
+=== Name Domain Definition (Tony C) ===
+ * Tony C sent an email to the reflector which contained both his and Chuck W definitions (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201911/msg00009.html)
+ * Tim H commented on the reflector and suggested an alternative approach where we would not include a new definition in the Spec and that any instances which refer to a key domain be changes to key server.  The Spec itself can remain silent on how multi-tenancy is implemented in KMIP servers (https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201911/msg00010.html)
+ * Tony C noted at that last F2F there was a desired to discuss some aspects of multi-tenancy in addition to clarifying the name domain.  Tim H suggested that this discussion may be better for the Usage Guide.  Judy F concurred.  The simple multi-tenancy definition in Tim H's email can be used as a start of the new Usage Guide content.
+ * Tony C will amend the Spec Delta to reflect Tim H's suggestion and will review the updates at a future TC meeting.
+
+=== Ping Proposal Spec Deltas (Tim C) ===
+ * Tim C walked the TC through the Spec Delta for the Ping proposal that he has posted to the reflector (https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=66191)
+ * No questions or concerns were raised by the TC.
+
+'''Motion to approve the Ping KMIP Spec deltas and include these changes in the KMIP 2.1 Specification.'''
+
+ * Tim H moves, Greg S seconds.  No objections, abstentions, or comments. Ping updates approved.
+
+=== Review wiki ===
+ * KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1)
+ * Tony C walked through the open items on the wiki and several TC members provided a status of their actions.
+
+== KMIP Interop 2020 ==
+ * Tony C is still working with the OASIS folks to finalize the participant list and some other logistical items for the Interop event.  This delay may impact the schedule currently published in the Interop Proposal.
+ * Tony C hopes to have information out to the Interop participants within the next week.
+
+== KMIP F2F 2020 ==
+ * The F2F will be held Thursday/Friday (2/20 & 2/21) prior to RSAC.
+ * Tony C noted that a host venue for the F2F may have been identified.  Additional details to follow.
+ * Tony C solicited proposals for KMIP 2.2 and asked that folks provide Tony C and Judy F with agenda topics for the F2F.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting:  14 November 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * Chris H (HPE), Rinkesh B (IBM), Prasant M (IBM)
+
+== Motion to Adjourn ==
+ * Tim C moves and Jeff B & Steve E second, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:25  US-EST ==

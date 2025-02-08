@@ -1,0 +1,92 @@
+= Meeting Minutes December 03, 2015 =
+== Meeting commenced 21:00 GMT ==
+ * Roll called by Tony Cox (Tony)
+ * Quorum achieved
+
+== Proposed agenda ==
+ * Roll Call
+ * Approve Agenda 
+ * Approve minutes 
+ * KMIP 1.3 Review
+ * KMIP 1.4 Review
+ * NIST800-131 Update (Bruce Rich)
+ * Face to Face Meeting
+ * RSA2016 Interop Update (Tony C.)
+
+=== Motion to approve Agenda ===
+ * Tim Hudson (Tim H.) Moves
+ * Jerry () Seconds
+ * No objections
+ * No abstentions
+ * Agenda approved 
+
+== Motion to approve November 19, 2015 meeting minutes ==
+ * Tim Chevalier (Tim C.) Moves
+ * Tim H. Seconds
+ * No objections
+ * No abstentions
+ * Minutes approved
+ 
+== KMIP 1.3 Review ==
+ * KMIP Specification 1.3 working draft status
+  * Chuck moves that
+   * The TC approve kmip-spec-v1.3-wd03c.doc (with editorial edits from Judy)
+   * The file contained in [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57030/kmip-spec-v1.3-wd03c.doc | KMIP Specification v1.3 Working Draft]], as a Committee Specification Draft
+   * Designate the word version of the Committee Specification Draft as authoritative
+   * The TC approve submitting this document for 15 days public review
+  * Indra Fitzgerald Seconds
+  * No objections
+  * No abstentions
+  * Motion approved
+ * Usage guide is ready to move to committee note with updates to match specification
+  * Judy Fulong moves that
+   * The TC approve kmip-ug-v1.3-wd03c.doc (with editorial edits from Judy)
+   * The file contained in [[https://www.oasis-open.org/apps/org/workgroup/kmip/download.php/57036/kmip-ug-v1.3-wd03awChanges.doc | KMIP Usage Guide v1.3 Working Draft]], as a Committee Note Draft
+   * Designate the word version of the Committee Note Draft as Informative
+   * The TC approve submitting this document for 15 days public review
+  * Tim H. Seconds
+  * No objections
+  * No abstentions
+  * Motion approved
+ * Profiles not complete but in process (Tim H.)
+ * Test cases in similar state as test cases need to be moved to external files (Tim H.)
+ * Use cases not progressing and may need to drop these for KMIP 1.3 (as we did for KMIP 1.2) (Chuck White)
+ 
+== KMIP 1.4 Status (Tony C.) ==
+ * Extend capability of Batch continuation (Tim H.)
+  * Presentation provided by Tim H.
+  * David Featherstone - Do clients exist that have ability to alter behavior based on server capability discovery? Tim H and Mark - yes.
+  * Tim C. moves to include the Batch Continuation edits as proposed in the KMIP Specification version 1.4
+  * Bob L. seconds
+  * No objections
+  * No abstentions
+  * Motion approved
+  * Tim H. will send specification change and usage guide change text to the list.
+ * Get Wrapped Key Proposal Review (Anthony B.)
+  * Bruce Rich (Bruce R.) brought up issues with wrapped keys when client requesting key doesn't have access to wrapping key
+  * Discussion on error codes returned and how servers respond
+  * Hal to provide link to WS Security specification wording on detailed error code return handling
+  * Anthony B. and Bruce R. to refine the error message problem
+  * Work to be reviewed at a later meeting
+
+== NIST SP800-131 Review (Bruce R.) ==
+ * Mostly about profile changes to remove depricated key types
+ 
+== Face to Face Meeting 2016 (Tony C.) ==
+ * Looking for host location
+  * Indra looking into NetApp hosting but no decision as yet
+
+== RSA2016 Interop Update (Tony C.) ==
+ * OASIS (Jane) Waiting final comments on booth layout that has been sent out to the participants
+ 
+== Call for late arrivals (Tony C.) ==
+ * Two additional attendees
+ 
+== Motion to Adjourn ==
+ * Bruce R. Moves
+ * Tim C. seconds
+ * No abstentions
+ * No objections
+ * Motion Approved
+ 
+= Meeting Adjourned at 21:57 GMT =

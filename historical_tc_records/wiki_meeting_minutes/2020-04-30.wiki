@@ -1,0 +1,55 @@
+= Meeting Minutes April 30 2020 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+
+'''Motion to approve Agenda'''
+
+ * Tim H moves, Tim C seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from April 23, 2020'''
+
+ * Tim C moves, Tony C moves. No objections, abstentions, or comments. Minutes for the April 23, 2020 meeting approved.
+
+== KMIP Interop - RSA 2021 ==
+ * Per Jane, RSA has extended the signup deadline to the end of May 2020. 
+ * As previously discussed at the F2F the intent is to be testing the next version of KMIP.
+ 
+== KMIP 2.1 ==
+=== Status - Spec & Profiles ===
+  
+ * The ballot for spec and profiles have been posted.
+ * Chet has confirmed that the voting rights for the ballot are up to date as of this call.
+ 
+=== SoUs ===
+ 
+ * Tony is working on SoU for Cryptsoft. 
+ * Anyone who has participated in interop testing for KMIP 2.1 is eligible to provide a SoU.
+ 
+=== Status - Test Cases & Usage Guide ===
+
+ * Tim H has posted the word doc listing all the test cases.
+ * Tony C will send out the motion language for the next call.
+
+== KMIP 3.0 ==
+=== Status update ===
+ * There are a number of open action items on the KMIP 3.0 page in the wiki.
+ * An owner for split key is needed.
+ * Due dates still need to be specified. Tony C will call for dates on the next call to start the work moving forward.
+ * For the document editors, the starter documents for 3.0 are available for use. 
+ 
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting: May 7, 2020
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim H moves and Greg seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:10 US-EST ==

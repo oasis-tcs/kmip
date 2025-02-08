@@ -1,0 +1,93 @@
+= Meeting Minutes 24 October 2019 =
+== Meeting commenced 17:00 PM US-EST ==
+ * Roll Call (Tony C)
+ * Quorum Achieved
+
+== Proposed Agenda ==
+ * Roll Call
+ * Approve Agenda
+ * Approve Previous Meeting Minutes (Oct 17, 2019)
+ * KMIP 2.0 (Status)
+  * Test Cases & Usage Guide
+ * KMIP 2.1
+  * Name Domain Definition (Tony C)
+  * Proposal: Ping
+  * Review wiki
+ * KMIP Interop 2020
+  * Interop Process (Tony C)
+ * KMIP F2F 2020
+ * New Business
+ * Next Meeting
+ * Call for Additional Attendees
+ * Adjourn Meeting
+
+'''Motion to approve Agenda'''
+
+ * Greg S moves, Tim H seconds.  No objections, abstentions, or comments. Agenda approved
+
+'''Motion to approve previous meeting minutes from October 17, 2019'''
+
+ * Jerry S moves, Tim H seconds. No objections, abstentions, or comments. Minutes for the October 17, 2019 meeting approved.
+
+== KMIP 2.0 Status (Tony C) ==
+=== Spec & Profiles ===
+ * Call for Consent for making the KMIP 2.0 Spec and Profiles OASIS Standards to the OASIS members is ongoing.  This call closes on October 31, 2019.  See https://www.oasis-open.org/apps/org/workgroup/kmip/email/archives/201910/msg00010.html
+
+=== Test Cases & Usage Guide ===
+ * The KMIP 2.0 version of Test Cases and Usage Guide were only taken to the Committee Note Draft level.  Given that we are close to having the KMIP 2.0 Spec and Profiles finalized, it is time to revisit these documents and moving them to their final level.
+ * Tony C called for comments on these documents -- no one raised comments.
+ * Tony C called for motions to move these two documents to the Committee Note status.
+
+'''Motion to approve Key Management Interoperability Protocol Test Cases Version 2.0 Committee Note Draft 02 and all associated artifacts packaged together at http://docs.oasis-open.org/kmip/kmip-testcases/v2.0/cnd02/ as a Committee Note and designate the docx version of the note as authoritative.'''
+
+ * Tim H moves, Mark J seconds. No objections, abstentions, or comments. Motion to move the KMIP 2.0 Test Cases to a Committee Note approved.
+
+'''Motion to approve Key Management Interoperability Protocol Usage Guide Version 2.0 Committee Note Draft 01 and all associated artifacts packaged together at http://docs.oasis-open.org/kmip/kmip-ug/v2.0/cnd01/ as a Committee Note and designate the docx version of the note as authoritative.'''
+
+ * Tim H moves, Mark J seconds. No objections, abstentions, or comments. Motion to move the KMIP 2.0 Usage Guide to a Committee Note approved.
+
+== KMIP 2.1 ==
+=== Name Domain Definition (Tony C) ===
+ * The additional proposal(s) discussed at a previous TC meeting still have not been provided yet.  TC agreed to defer this discussion until the next TC meeting.
+
+=== Proposal: Ping ===
+ * Tim C walked the TC through the proposal for new Ping KMIP operation that he posted to the OASIS site earlier today -- See https://www.oasis-open.org/apps/org/workgroup/kmip/document.php?document_id=66102
+ * Mark J felt that the Discover operation, which many vendors use for 'ping' purposes, could be enhanced and it’s up to the server as to whether to audit it or not.  Mark thinks introducing a new operation will make it more complex for clients.
+ * Tim H read the proposal and Mark J's comments on the reflector and felt this focused Ping operation did have merits, since Discover was not intended for this purpose.
+ * Jerry S said we could just cover this in the usage guide and not change the spec.
+ * Tony C noted he has received a number of queries about how to 'ping' servers and folks are surprise that KMIP didn't have a function like this.
+
+'''Motion to move Ping Proposal to a KMIP 2.1 Spec Delta'''
+
+ * Anthony B moves, Steve seconds. No objections, abstentions, or comments.
+
+ * Tim C will put together the Spec Delta and present it to the TC at a future meeting.
+
+=== Review wiki ===
+ * KMIP 2.1 wiki (https://wiki.oasis-open.org/kmip/2.1)
+ * Ping Proposal needs to be added to the wiki
+ * No KMIP 2.1 proposal related content for the Usage Guide, Test Cases or Profiles document have been submitted this week.
+ * Tony C once again requested that anyone who provided KMIP 2.1 proposals to review and determine if they needed to supply additional content beyond the Spec deltas.
+
+== KMIP Interop 2020 ==
+ * The final list of participants in Interop is still being finalized.  Tony C noted that they were down to a single open spot in the OASIS Booth.  Faiyaz S. from Fortanix noted that they are planning to participate.
+ * Tony C noted that interop testing scope/plans will need to be locked down in the next few weeks once the list of participants is finalized.  The assumption is that testing will cover KMIP 2.0 (current version) and KMIP 2.1 (in development).
+
+== KMIP F2F 2020 ==
+ * A straw poll ballot to determine which days will be best for the F2F meeting next February has closed and the general preference is to hold the F2F on the Thursday/Friday (2/20 & 2/21) prior to RSAC.
+ * Tony C noted that a host for the F2F meeting is still needed.  TC members, with Bay Area facilities, that are willing to host the TC meeting should get in touch with either Tony C or Judy F.
+ * If you have agenda topics for the F2F please send topics to Tony C and Judy F.
+
+== New Business ==
+ * None
+
+== Next Meeting ==
+ * Next TC Meeting:  31 October 2019
+
+== Call for Additional Attendees (Tony C) ==
+ * None
+
+== Motion to Adjourn ==
+ * Tim C moves, Tim H seconds, No objections, abstentions, or comments.
+
+== Meeting Adjourned at 17:27 US-EST ==
